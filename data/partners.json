@@ -1,0 +1,543 @@
+[
+  {
+    "id": "0f43f3b4-7d73-4264-9db6-102d870a445c",
+    "InstitutionId": "93109b38-8b3d-48b9-a5f5-1272c1068f21",
+    "no": 27,
+    "name": "Sekretariat Kadin Indonesia",
+    "chief": "Mercy Simorangkir",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+
+  {
+    "id": "00999633-4c9a-4629-a02b-a93bb0d42dd6",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 27,
+    "name": "Bidang Lingkungan Hidup dan Kehutanan",
+    "chief": "Silverius Oscar Unggul",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0590b9d1-e176-4ca2-a547-998af3cd096d",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 48,
+    "name": "Badan Pengembangan Ekosistem Perfilman dan Animasi",
+    "chief": "Ariful Yaqin Hidayat",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "069ae53e-a9fd-4f31-9fea-3a7ed045efd9",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 5,
+    "name": "Bidang Dana dan Sarana",
+    "chief": "Azis Armand",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0ab27471-54aa-4491-ab34-b134bf270ee2",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 18,
+    "name": "Bidang Perindustrian",
+    "chief": "Bobby Gafur Umar",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1ee28b74-df61-4938-a2df-cccb5ac964fe",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 9,
+    "name": "Bidang Wilayah Sumatera",
+    "chief": "Teuku Zulham",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "298b47a5-8063-494d-962e-39e2b3376b0a",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 11,
+    "name": "Bidang Wilayah Kalimantan",
+    "chief": "Feri Rizal",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "31d7e347-5592-41d3-8ebd-cda962214f2f",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 12,
+    "name": "Bidang Wilayah Sulawesi",
+    "chief": "Kukrit Suryo Wicaksono",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3a371ab6-17cc-4e3a-8179-88384454d9d8",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 37,
+    "name": "Bidang Industri Olahraga",
+    "chief": "Irawadi D. Hanafi",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3e8a2536-9fd2-4888-987f-60a378189bb5",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 43,
+    "name": "Badan Pengembangan Kawasan Properti Terpadu",
+    "chief": "Budiarsa Sastrawinata",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "407e7b96-f01d-44e4-86be-9358eec405d2",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 7,
+    "name": "Bidang Pembangunan Kawasan Perbatasan",
+    "chief": "Edy Suryadi",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "42c58859-cd3d-49ef-ab13-108f6adedb53",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 4,
+    "name": "Bidang Hukum dan Hak Asasi Manusia",
+    "chief": "Dhaniswara K. Hardjono",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4b445ed3-0c02-4016-a58a-3ff911299cc0",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 47,
+    "name": "Badan Kebijakan Moneter dan Jasa Keuangan",
+    "chief": "Tigor M. Siahaan",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4d001168-da94-43d4-bc69-876351e09340",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 24,
+    "name": "Bidang Pengembangan Ekonomi Daerah",
+    "chief": "Mulyadi Jayabaya",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "50120b51-9388-444a-9025-43e75d571617",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 22,
+    "name": "Bidang Perencanaan Pembangunan Nasional",
+    "chief": "Herman Heru Suprobo",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "556f545f-a022-4b2a-80f3-06e4651b7e4c",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 8,
+    "name": "Bidang Vokasi dan Sertifikasi",
+    "chief": "Adi Mahfudz Wuhadji",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6bdbd235-8fa0-4493-98ce-fc212e5d6bf3",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 19,
+    "name": "Bidang Perdagangan",
+    "chief": "Juan Permata Adoe",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6f8de4b5-f29b-45ea-8a39-84305eb96c96",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 44,
+    "name": "Badan Pemberdayaan Ekonomi Kerakyatan",
+    "chief": "Bambang P.S. Brodjonegoro",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "791889d3-6004-4808-af07-b48e6a1a5118",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 6,
+    "name": "Bidang Komunikasi dan Informatika",
+    "chief": "Firlie H. Ganinduto",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "79f8d92e-2196-4817-bed7-9abc349866c3",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 23,
+    "name": "Bidang Kewirausahaan",
+    "chief": "Aldi Haryopratomo",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7b3759e3-3346-470c-8266-3639b72cb0ef",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 20,
+    "name": "Bidang Pertanian",
+    "chief": "Arif Rachmat",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7c378943-99eb-47f5-b2e6-371e5bccdb08",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 35,
+    "name": "Bidang Sosial dan Penanggulangan Bencana",
+    "chief": "Suryani S. Motik",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8015611e-2a03-40e3-9177-fae58f39b68d",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 3,
+    "name": "Bidang Asosiasi dan Himpunan",
+    "chief": "Sarman Simanjorang",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "81be7151-faea-4d3b-b093-b39062d2afe1",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 21,
+    "name": "Bidang Agraria, Tata Ruang dan Kawasan",
+    "chief": "Sanny Iskandar",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8aa38d83-8133-4680-914c-08efcb4fe115",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 25,
+    "name": "Bidang Pekerjaan Umum, Perumahan Rakyat dan Infrastruktur",
+    "chief": "Insannul Kamil",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8bc67a77-d499-4c49-b25b-a1a8abcd121f",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 34,
+    "name": "Bidang Kesehatan",
+    "chief": "Charles Honoris",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8ca69da3-4f05-4768-8748-89a04a536aed",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 0,
+    "name": "Koordinator Bidang Kemaritiman, Investasi dan Luar Negeri",
+    "chief": "Shinta Widjaja Kamdani",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8e0fe588-e35b-48d1-8186-d299b94b1ac3",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 28,
+    "name": "Bidang Kelautan dan Perikanan",
+    "chief": "Joseph Pangalila",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "946936bd-726a-4d3c-a762-403dc66fe561",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 49,
+    "name": "Badan Riset dan Teknologi",
+    "chief": "Ilham Habibie",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9570b4e7-8d66-4f08-82e4-7f1bbc8136ef",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 40,
+    "name": "Badan Analisis Informasi dan Kebijakan",
+    "chief": "Ahmad Erani Yustika",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "99785764-4a06-4b0e-8c16-1c89cf140a65",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 13,
+    "name": "Bidang Wilayah NTB dan NTT",
+    "chief": "Ivan Iskandar Batubara",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9a3361dd-d938-44f5-8e52-08913b78d047",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 31,
+    "name": "Bidang Pendidikan dan Kebudayaan",
+    "chief": "Heru Dewanto",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9b31d32e-d2df-49f8-a569-edc4f2afa942",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 45,
+    "name": "Badan Pengembangan Keuangan Digital",
+    "chief": "Pandu Sjahrir",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9cb465b5-0233-43b0-b116-70a1ad0bc047",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 17,
+    "name": "Bidang Ketenagakerjaan",
+    "chief": "Hanif Dhakiri",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b83a354f-e38a-4efd-a99e-3f628ce0f5e6",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 14,
+    "name": "Bidang Wilayah Maluku, Maluku Utara, Papua Barat",
+    "chief": "Amir Hamzah",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b96241fd-faeb-48ad-bf6f-59e98ac43fb3",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 38,
+    "name": "Badan Hubungan Penegakan Hukum, Pertahanan dan Keamanan",
+    "chief": "Bambang Soesatyo",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b9c26288-737b-4aa3-8c0d-b544cdb9c442",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 30,
+    "name": "Bidang Investasi",
+    "chief": "Tony Wenas",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bce1988c-88a0-4d5f-84a4-4bef651e3ab7",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 29,
+    "name": "Bidang Pariwisata dan Ekonomi Kreatif",
+    "chief": "Triawan Munaf",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "be9a9800-5ba9-451e-af0e-03bf1c13d80c",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 0,
+    "name": "Koordinator Bidang Perekonomian",
+    "chief": "Franky O. Widjaja",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bff27ff9-0ba5-4190-a0fd-6396239fb67d",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 41,
+    "name": "Badan Logistik dan Rantai Pasok",
+    "chief": "Akbar Djohan",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c6f95b25-b3ce-45cc-926e-7597134a9e12",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 36,
+    "name": "Bidang Pemberdayaan Perempuan",
+    "chief": "Tri Hanurita S.",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c714de3a-e65f-4bc3-a3cc-fd822c74e80b",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 26,
+    "name": "Bidang Hubungan Internasional",
+    "chief": "Bernardino M. Vega",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "cce71a56-ce05-42fc-8cb2-13e2941c2da8",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 32,
+    "name": "Bidang Perhubungan",
+    "chief": "Denon Prawiraatmadja",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "cd54ade1-89b7-40ab-b275-ff0a65855c2e",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 1,
+    "name": "Bidang Organisasi",
+    "chief": "Eka Sastra",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d0799ac8-6662-44a1-8398-7456041f7f95",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 2,
+    "name": "Bidang Pengembangan Otonomi Daerah",
+    "chief": "Wisnu W. Pettalolo",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "de63b6c2-8f59-4427-8523-8eec517d779d",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 42,
+    "name": "Badan Ekonomi Syariah",
+    "chief": "Taufan E.N. Rotorasiko",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e071342b-4f9a-4bac-ab40-5d203bb483c6",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 46,
+    "name": "Badan Pengembangan Ekosistem Ekonomi Digital",
+    "chief": "Andre Soelistyo",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e6de06c0-b17a-45d5-b6b6-f857548aeb27",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 15,
+    "name": "Bidang BUMN",
+    "chief": "Kartika Wirjoatmodjo",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e7f4bd25-60c3-4c52-a9b7-d48daea9964e",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 10,
+    "name": "Bidang Wilayah Jawa dan Bali",
+    "chief": "Juni Ardianto Rachman",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "eb931667-c06f-4ecb-a9e0-d54ad360fbfe",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 16,
+    "name": "Bidang Kebijakan Fiskal dan Publik",
+    "chief": "Suryadi Sasmita",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f3a35cee-ae31-4b52-8b6f-e08f31186f33",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 39,
+    "name": "Badan Hubungan Legislatif",
+    "chief": "Adisatrya Sulisto",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f526e86f-75c7-4750-af1f-47becfbc76bf",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 33,
+    "name": "Bidang Energi dan Sumber Daya Mineral",
+    "chief": "Solihin J. Kalla",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f69782c2-6d27-4d03-ab86-c317906c0175",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 0,
+    "name": "Koordinator Bidang Peningkatan Kualitas Manusia, Ristek & Inovasi",
+    "chief": "Carmelita Hartoto",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f8318c6a-e1e9-473b-a54e-6a2dd8e0bf26",
+    "InstitutionId": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "no": 0,
+    "name": "Koordinator Bidang Organisasi, Hukum & Komunikasi",
+    "chief": "Yukki Nugrahawan Hanafi",
+    "createdAt": "2023-12-20T07:25:06.000Z",
+    "updatedAt": "2023-12-20T07:25:06.000Z",
+    "deletedAt": null
+  }
+]

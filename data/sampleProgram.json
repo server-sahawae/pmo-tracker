@@ -1,0 +1,121 @@
+[
+  {
+    "program": {
+      "id": "91c6e42c-6276-4035-9c99-ba8a599f1fab",
+      "name": "Halal Value Chain",
+      "PartnerId": "a9533d10-c437-4d47-8709-c45a32055590"
+    },
+    "vision": [
+      {
+        "description": "Mendorong peningkatan literasi ekonomi dan keuangan syariah nasional"
+      },
+      {
+        "description": "Meningkatkan penggunaan dan pasar keuangan syariah"
+      },
+      {
+        "description": "Inkubasi dan channeling berupa peningkatan kapabilitas akses permodalan, sertifikasi halal, teknologi, pelatihan dan standardisasi untuk UMKM"
+      }
+    ],
+    "driver": [
+      {
+        "description": "Pembentukan Badan Ekonomi Syariah (BES) Kadin Provinsi"
+      },
+      {
+        "description": "Tindak lanjut MoU  dengan kementerian dan lembaga (KNEKS, MES, BPJPH)"
+      },
+      {
+        "description": "Peningkatan kerjasama dengan institusi perbankan syariah & IKNB syariah, fintech syariah  (Rencana MoU dengan BSI, BWI,  Muamalat dll)"
+      },
+      {
+        "description": "Kerjasama dengan produsen Fast Moving Consumer Good (FMCG) halal untuk penggunaan bahan baku halal lokal"
+      },
+      {
+        "description": "Mendorong kementerian dan lembaga untuk mendukung high value customer (HVC) dan percepatan proses Mutual Recognition Agreement (MRA) dengan otoritas halal tujuan ekspor produk halal"
+      }
+    ],
+    "indicator": [
+      {
+        "description": "Indeks literasi ekonomi dan keuangan syariah"
+      },
+      {
+        "description": "Aktivitas kolaborasi dengan kementerian dan lembaga"
+      },
+      {
+        "description": "Kegiatan penunjang  program dan akselerasi"
+      }
+    ],
+    "phase": [
+      {
+        "description": "Rapat Kerja BES Kadin tahun 2024",
+        "quarter": 1
+      },
+      {
+        "description": "FGD dan implementasi kesepakatan kerjasama antar Lembaga / Kementerian terkait dengan Kadin Indonesia",
+        "quarter": 2
+      },
+      {
+        "description": "Sinkronisasi  kebijakan terkait HVC untuk mendukung terciptanya pengembangan industri halal dan infrastruktur industri produk halal, seperti lab halal, sertifikasi dan pelatihan halal, auditor halal, logistik halal dan lainnya",
+        "quarter": 2
+      },
+      {
+        "description": "Pelatihan & scale up  UMKM halal serta membuka akses pembiayaan  untuk meningkatkan kualitas dan daya saing produk",
+        "quarter": 3
+      },
+      {
+        "description": "Optimalisasi UMKM  halal untuk memenuhi sebagian kebutuhan industri dan bahan baku halal di Indonesia",
+        "quarter": 4
+      }
+    ],
+    "committee": [
+      {
+        "CommitteeId": "ea742caa-4f58-43ce-a6f5-c6e6a4ac366d"
+      }
+    ],
+    "partner": [
+      {
+        "PartnerId": "cd54ade1-89b7-40ab-b275-ff0a65855c2e"
+      },
+      {
+        "PartnerId": "c714de3a-e65f-4bc3-a3cc-fd822c74e80b"
+      },
+      {
+        "PartnerId": "6bdbd235-8fa0-4493-98ce-fc212e5d6bf3"
+      },
+      {
+        "PartnerId": "8015611e-2a03-40e3-9177-fae58f39b68d"
+      },
+      {
+        "PartnerId": "3a371ab6-17cc-4e3a-8179-88384454d9d8"
+      }
+    ],
+    "priority": [
+      {
+        "PriorityId": "7cf6f41c-1883-4813-814b-d53095567178"
+      },
+      {
+        "PriorityId": "d73d1286-eeb0-41ba-b6a4-a51758dce3b7"
+      },
+      {
+        "PriorityId": "8e85c625-01e4-48b9-8e2f-e61375730ee6"
+      },
+      {
+        "PriorityId": "689c18af-97d0-4f73-b491-725e19b3dfd8"
+      },
+      {
+        "PriorityId": "5f317de9-cc72-471c-ac57-6d871496821a"
+      },
+      {
+        "PriorityId": "743ba7ae-7cbb-4d10-848e-ecbe66af3039"
+      },
+      {
+        "PriorityId": "1a000d12-cc50-4bd8-ba74-1a906b55ff7b"
+      },
+      {
+        "PriorityId": "928f64e4-b060-4149-9837-7751404ee7a3"
+      },
+      {
+        "PriorityId": "99d3fc01-dc7b-4232-945d-b6576ebc9755"
+      }
+    ]
+  }
+]

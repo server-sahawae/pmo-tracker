@@ -1,0 +1,10 @@
+[
+  { "id": "a5c19eba-473d-4765-acaa-ee890449f0d7", "name": "Seminar" },
+  { "id": "7e816b1e-d6d2-4567-bfee-10525457063c", "name": "Training" },
+  { "id": "ef9f69ed-e18f-4c64-bc86-3bc35a211f50", "name": "Rapat" },
+  { "id": "ce700caa-8306-495b-bcda-05abc97fcca3", "name": "Forum" },
+  { "id": "310d41aa-c317-4a28-946c-e8e67f648555", "name": "Expo" },
+  { "id": "18b92251-39f2-457f-ae98-c52d07803a6a", "name": "Undangan" },
+  { "id": "3c57ffb5-7ed1-446f-b199-fd879a5f1edf", "name": "Festival" },
+  { "id": "02018f0d-56d1-4791-af50-c23bde0d6dc9", "name": "FGD" }
+]

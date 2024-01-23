@@ -1,0 +1,37 @@
+[
+  {
+    "id": "93109b38-8b3d-48b9-a5f5-1272c1068f21",
+    "name": "Sekretariat Kadin Indonesia",
+    "createdAt": "2023-12-19T08:01:34.000Z",
+    "updatedAt": "2023-12-19T08:01:34.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "14a870b2-6f40-4120-9c3f-2d7c2379442d",
+    "name": "Kadin Indonesia",
+    "createdAt": "2023-12-19T08:01:34.000Z",
+    "updatedAt": "2023-12-19T08:01:34.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5c253493-1e16-4d55-a5e6-afdba8cd3833",
+    "name": "Kadin Provinsi",
+    "createdAt": "2023-12-19T08:01:48.000Z",
+    "updatedAt": "2023-12-19T08:01:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5cbb8f45-67dd-4782-acf5-d3f810dc07c4",
+    "name": "Association",
+    "createdAt": "2023-12-19T08:06:38.000Z",
+    "updatedAt": "2023-12-19T08:06:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "97297442-5f79-440b-9773-4814850328e9",
+    "name": "Company",
+    "createdAt": "2023-12-19T08:07:11.000Z",
+    "updatedAt": "2023-12-19T08:07:11.000Z",
+    "deletedAt": null
+  }
+]
