@@ -1,0 +1,5132 @@
+[
+  {
+    "id": "00012341-8c6c-4cc2-b0af-44c5db6e002b",
+    "ProgramId": "503435df-7f8c-424e-826b-983485c6d504",
+    "description": "Pengumpulan masukan dari dunia usaha",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:53:46.000Z",
+    "updatedAt": "2024-01-24T06:53:46.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0021450e-0a16-4f2d-a416-8095dbedf61d",
+    "ProgramId": "11cc3f8c-3287-4b38-a106-564b2ef5e1d6",
+    "description": "Manajemen program dan dasbor",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:35:50.000Z",
+    "updatedAt": "2024-01-23T07:35:50.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0049b27c-c086-4161-b929-e1b21ba49563",
+    "ProgramId": "143695c4-ea83-4603-8146-5d5b653f03a0",
+    "description": "FGD riset implementasi ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:20:20.000Z",
+    "updatedAt": "2024-01-23T07:20:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "00adbd88-7645-4041-96c8-9b3f1796cd8c",
+    "ProgramId": "561103e0-1277-436d-929d-d9971e91a9d6",
+    "description": "Memberikan masukan terkait RUU EBET melalui Pemerintah ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T05:57:55.000Z",
+    "updatedAt": "2024-01-24T05:57:55.000Z",
+    "deletedAt": "2024-01-24T06:07:16.000Z"
+  },
+  {
+    "id": "021df566-50cb-47a1-bf3f-2e60ef45a8a0",
+    "ProgramId": "eda4eb6b-7379-4ff6-9417-4d05812251fa",
+    "description": "Identifikasi UMKM yang akan turut serta ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:05:29.000Z",
+    "updatedAt": "2024-01-24T07:05:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "027855fe-0f60-4458-87c3-685d2973268f",
+    "ProgramId": "fc66937c-dc0c-4de0-89b0-379c1c193ee7",
+    "description": "Penentuan konsep webinar",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:38:28.000Z",
+    "updatedAt": "2024-01-24T06:38:28.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "03856d07-3df9-45de-8a56-c7cb27680aa4",
+    "ProgramId": "5cbfae70-ed61-4b5b-aac2-2dae734835ef",
+    "description": "Menyusun Standar Norma & Pengaturan (SNP) tentang Bisnis & HAM",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:32:12.000Z",
+    "updatedAt": "2024-01-24T03:32:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "03b6a531-d8c0-40fe-87b8-d49d15832de6",
+    "ProgramId": "0f6d74eb-aab3-409b-8fe9-f98e46c75eb8",
+    "description": "Mulai mendalami konsep dari Indo Pacific agreement.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:29:20.000Z",
+    "updatedAt": "2024-01-24T07:29:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "03ff7d1e-7eed-4bbc-848b-2b058e59d7f5",
+    "ProgramId": "826d4023-d9e0-4ed2-8567-d9d3e1d66fcd",
+    "description": "Perluasan penyaluran pinjaman UMi ke nasabah ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:34:13.000Z",
+    "updatedAt": "2024-01-24T06:34:13.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "048ccd5a-1f06-49fa-a6ba-3b69337582c8",
+    "ProgramId": "25d17e88-b36f-4a7e-9290-c64e0d59aad5",
+    "description": "Diskusi internal antara Kadin SPB dengan SKI guna mendiskusikan tahapan awal pembangunan Yayasan terkait dengan nama serta kebutuhan finansial.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:47:03.000Z",
+    "updatedAt": "2024-01-24T06:47:03.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "04c51f19-b808-44f4-88df-48c47e80d6e2",
+    "ProgramId": "a8c20ca5-430e-44d4-bf41-c13af269c5bc",
+    "description": "Monitoring pelaksanaan Program Kadin Indonesia di Daerah ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:09:15.000Z",
+    "updatedAt": "2024-01-23T07:09:15.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "05f6be42-b757-4428-8f34-dedb366d5d09",
+    "ProgramId": "2e8d5d9c-7b4e-416d-8f03-256896239bc0",
+    "description": "Berdiri “pendidikan dan pelatihan vokasi”",
+    "quarter": 4,
+    "createdAt": "2024-01-23T06:35:15.000Z",
+    "updatedAt": "2024-01-23T06:35:15.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "06cc25be-464a-4126-83fa-a49eb7e8124a",
+    "ProgramId": "eda4eb6b-7379-4ff6-9417-4d05812251fa",
+    "description": "UMKM yang diusulkan mengikuti coaching series ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:05:29.000Z",
+    "updatedAt": "2024-01-24T07:05:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "084e1c4e-328b-4d56-9877-41b704b1a0ed",
+    "ProgramId": "eeaf7a2e-96d7-4ee8-ab16-0079e220705f",
+    "description": "MOU\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:26:25.000Z",
+    "updatedAt": "2024-01-24T07:26:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0915bd21-b349-4ce2-8522-f30e327d1221",
+    "ProgramId": "6a68d633-6d3f-4b2e-962e-aaaa2bb82ce2",
+    "description": "Melaksanakan kegiatan sesuai dengan kebutuhan \n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:13:11.000Z",
+    "updatedAt": "2024-01-24T06:13:11.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "097cf677-e5ec-4008-9051-e89d634405b0",
+    "ProgramId": "65dcd49f-2983-4d45-8ab4-08e30bcfdf80",
+    "description": "Kesepakatan dan atau MoU tentang realisasi program ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:38:39.000Z",
+    "updatedAt": "2024-01-24T07:38:39.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0981b6fc-1a67-4c82-a7b5-ac108fb5cbdd",
+    "ProgramId": "afdabd87-9ad4-48e7-a0bd-b388ba68ded2",
+    "description": "FGD dan implementasi kesepakatan kerjasama antar Lembaga / Kementerian terkait dengan Kadin Indonesia",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:43:20.000Z",
+    "updatedAt": "2024-01-24T07:43:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "09e646b2-d707-45a8-a837-66cac23d458a",
+    "ProgramId": "517e025c-eb30-4bf1-a316-fa07ebfd3932",
+    "description": "Kesepakatan dengan calon investor.",
+    "quarter": 3,
+    "createdAt": "2024-01-24T05:36:49.000Z",
+    "updatedAt": "2024-01-24T05:36:49.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "09ef6e43-5b9b-4775-9302-296624830b5d",
+    "ProgramId": "9fbe0dd2-553f-43d2-b88d-fabb8949566a",
+    "description": "Penguatan diplomasi dan jejaring baik nasional maupun internasional untuk implementasi pengesahan policy FSC.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:35:01.000Z",
+    "updatedAt": "2024-01-24T07:35:01.000Z",
+    "deletedAt": "2024-01-24T07:53:03.000Z"
+  },
+  {
+    "id": "0a1e8827-c461-431c-90b5-9647d9970664",
+    "ProgramId": "f884ed08-e959-483e-8457-1cab4a611b78",
+    "description": "Menyelesaikan konsep program sosialisasi IP ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:46:44.000Z",
+    "updatedAt": "2024-01-24T08:46:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0a8aea04-6bfd-4d98-af42-d228195b7077",
+    "ProgramId": "1e40ff50-2cde-4846-b5f2-fc1113783f06",
+    "description": "Pelaksanaan kesepakatan MoU dan PKS",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:35:51.000Z",
+    "updatedAt": "2024-01-24T07:35:51.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0b0e1ea0-842b-4ffc-94b0-15b288612245",
+    "ProgramId": "48f8dd2f-9590-49b8-9619-91b611243911",
+    "description": "Rapat dengan tim BAIK KADIN",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:27:01.000Z",
+    "updatedAt": "2024-01-24T08:27:01.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0b45112e-4f75-49b1-b070-888f5e138f85",
+    "ProgramId": "e2dc8931-5f32-4a70-aea1-3eff418d9fda",
+    "description": "Mengundang investor dalam negeri dan luar negeri\n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:47:54.000Z",
+    "updatedAt": "2024-01-24T03:47:54.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0d07c5d8-c789-482e-a811-efba8c043ff1",
+    "ProgramId": "8667c74c-f5d0-4d66-a9c7-8dfcc869abef",
+    "description": "Melakukan pertemuan dengan kementerian/Lembaga Pemerintah terkait dan asosiasi-asosiasi (ALB) yang terkait dengan Industri TIK dan industri turunannya\n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:07:50.000Z",
+    "updatedAt": "2024-01-24T04:07:50.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0d44fb4e-cce7-4148-b1ea-e63ce1f93518",
+    "ProgramId": "9073f525-1820-465e-bf01-b7307e27cf89",
+    "description": "Terbentuknya Tim Kolaborasi",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:17:44.000Z",
+    "updatedAt": "2024-01-23T07:17:44.000Z",
+    "deletedAt": "2024-01-24T04:36:32.000Z"
+  },
+  {
+    "id": "0dc774ef-67cf-4c42-9698-6c8dd0474e11",
+    "ProgramId": "2e8d5d9c-7b4e-416d-8f03-256896239bc0",
+    "description": "Berdiri “Lembaga Sertifikasi Profesi” (LSP)",
+    "quarter": 4,
+    "createdAt": "2024-01-23T06:35:15.000Z",
+    "updatedAt": "2024-01-23T06:35:15.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0e259d22-c3eb-4168-8841-9695164b25b6",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Kesadaran Publik: Sekolah Lapang Kearifan Lokal dan desa Peduli Iklim ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0e95b095-1b11-4d35-a508-42aa5b944cff",
+    "ProgramId": "3599e268-5f78-43fe-93cb-d1f7814dae22",
+    "description": "Membuat FGD bersama Kementerian Perindustrian terkait skema atau bisnis model yang tepat bagi IKM agar dapat masuk KI\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:29:18.000Z",
+    "updatedAt": "2024-01-24T07:29:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0ec231ea-c60c-4402-840d-46705dd44fdc",
+    "ProgramId": "9049b2af-3e49-43f2-bce2-f85f9bd7330a",
+    "description": "Perencanaan strategis dan kemitraan\nMembentuk tim pelaksana\nMelakukan studi kelayakan \nPenyusunan model bisnis",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:53:28.000Z",
+    "updatedAt": "2024-01-24T03:53:28.000Z",
+    "deletedAt": "2024-01-24T03:59:08.000Z"
+  },
+  {
+    "id": "0f9e462c-aefc-4bce-a5ef-f63d62339d06",
+    "ProgramId": "6a0631eb-43df-4588-828b-010e65f80e2e",
+    "description": "Diseminasi hasil survei",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:29:52.000Z",
+    "updatedAt": "2024-01-24T07:29:52.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1042f274-3fed-46ed-805a-bce6a294aae3",
+    "ProgramId": "5d9c5b3f-949c-46e4-a5b0-30c13352e28f",
+    "description": "Stunting: Adanya 1 kali kegiatan kampanye dan edukasi yang dilakukan bersinergi dengan pemerintah dan media, serta 2 kali pertemuan koordinasi dengan pemerintah untuk pelaporan hasil kegiatan.",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:15:03.000Z",
+    "updatedAt": "2024-01-24T06:15:03.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "106b8169-0110-488c-90f9-3bd4f91a69a1",
+    "ProgramId": "7e2ef3c3-ed38-42ef-b3b0-cf45ca14edc6",
+    "description": "Membuat platform dan menyiapkan SDM yang khusus mengelola platform Big data Kadin",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:29:14.000Z",
+    "updatedAt": "2024-01-23T07:29:14.000Z",
+    "deletedAt": "2024-01-24T03:27:16.000Z"
+  },
+  {
+    "id": "1092f8bb-bc45-4260-a07d-7ccce50063a3",
+    "ProgramId": "817d21b2-c803-4246-9b39-63c10b601c32",
+    "description": "Pembuatan program guidance ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:44:53.000Z",
+    "updatedAt": "2024-01-24T06:44:53.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "10e8b37f-fa5c-4fc4-8834-a3d891e82ea4",
+    "ProgramId": "e6c44f7a-b3da-4939-8abd-6055943a7d22",
+    "description": "Penyusunan Model",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:14:47.000Z",
+    "updatedAt": "2024-01-24T07:14:47.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "10f07437-2d37-4c96-bcf2-a70ae8897525",
+    "ProgramId": "f1e3426b-5351-4fec-abd5-692f5266bb86",
+    "description": "Pelaksanaan kegiatan keorganisasian Kadin \n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:35:47.000Z",
+    "updatedAt": "2024-01-24T04:35:47.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1113a2f3-af87-4d99-a95a-32460f8250e2",
+    "ProgramId": "c4da0f64-6436-4cfe-b207-0908b4576442",
+    "description": "Koordinasi dengan kementerian dan lembaga untuk mendukung pembangunan lebih banyak pabrik semikonduktor\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:48:06.000Z",
+    "updatedAt": "2024-01-24T06:48:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1177feaf-14f7-4d99-82a0-64a8f36fc789",
+    "ProgramId": "697e64f2-fddf-4943-b0bf-1b60fbbf10a3",
+    "description": "Menyempurnakan aplikasi TI yang sudah dibuat",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:21:48.000Z",
+    "updatedAt": "2024-01-24T04:21:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "119bb52a-c936-49fc-a969-b13e49112bb3",
+    "ProgramId": "12799e78-0541-4eee-9430-f341956054e1",
+    "description": "Membentuk working group bersama WKU Vokasi dan Sertifikasi WKU Ketenagakerjaan dan WKU Pendidikan dan Kebudayaan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T05:43:59.000Z",
+    "updatedAt": "2024-01-24T05:43:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "130275ae-4b74-49da-9cf6-a9bf6c9e182c",
+    "ProgramId": "81689bc2-d510-4722-9f9c-ab06eccedda6",
+    "description": "Terlaksananya kegiatan Rakornas Wilayah Kalimantan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:22:19.000Z",
+    "updatedAt": "2024-01-24T04:22:19.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "13511d07-2a01-4e2a-87da-f09ef49534f7",
+    "ProgramId": "f2026d1f-d49d-411c-9267-a5e5e41a5f76",
+    "description": "Merancang dan merealisasikan business model tambak udang intensif ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:52:25.000Z",
+    "updatedAt": "2024-01-24T03:52:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "14113709-5cef-47c3-8912-c7a5771534c0",
+    "ProgramId": "66597fec-f535-4d5a-b021-4ed4612fcbf6",
+    "description": "Implementasi tindak lanjut berdasarkan arahan dari blueprint yang sudah diterbitkan",
+    "quarter": 4,
+    "createdAt": "2024-01-24T03:50:46.000Z",
+    "updatedAt": "2024-01-24T03:50:46.000Z",
+    "deletedAt": "2024-01-24T03:59:12.000Z"
+  },
+  {
+    "id": "15658db4-8a8c-4307-a740-48ee394dc73f",
+    "ProgramId": "5da8b9c8-b489-4489-9192-8386c76d268a",
+    "description": "Rencana aksi kerja Ditjen PDSPKP dengan Kadin, diantaranya: \n1. Melakukan afiliasi website bidfish.id  dengan bursa ikan KKP\n2. Bidfish.id akan ikut digandeng dalam sosialisasi bursa ikan di seluruh wilayah target KKP\n3. Melaksanakan FGD terkait optimalis",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:55:18.000Z",
+    "updatedAt": "2024-01-24T03:55:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "16374b04-9dc5-477a-81ee-13ec2b6b28ea",
+    "ProgramId": "0dab674c-c56b-4c29-8fa2-a0b2f677931c",
+    "description": "Menyelenggarakan sosialisasi untuk penyelesaian LSD ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:33:20.000Z",
+    "updatedAt": "2024-01-24T07:33:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "170c289e-095c-46a2-96bd-7e9ea8ae1189",
+    "ProgramId": "047c296e-40bb-4146-8197-8309b7585dc5",
+    "description": "Melakukan koordinasi dengan KKS",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:39:48.000Z",
+    "updatedAt": "2024-01-24T06:39:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1791a1b4-d338-4ddd-a3aa-83c4d57124f3",
+    "ProgramId": "17e8d7c5-2a10-4b5a-a822-abb4a840529c",
+    "description": "\nBekerja sama dengan penyedia platform digitalisasi usaha",
+    "quarter": 2,
+    "createdAt": "2024-01-23T07:53:32.000Z",
+    "updatedAt": "2024-01-23T07:53:32.000Z",
+    "deletedAt": "2024-01-24T06:07:08.000Z"
+  },
+  {
+    "id": "1856a3bf-a193-41e2-9a5b-ee0653fe3ebe",
+    "ProgramId": "ec9a6347-c10d-4b11-bd0f-3eef3a38851d",
+    "description": "Sharing & Training peningkatan inovasi pada industri\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:42:03.000Z",
+    "updatedAt": "2024-01-24T06:42:03.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "189f027f-0bc7-432d-a047-c65e088ce773",
+    "ProgramId": "03029736-6ccf-460b-b553-38a86326319b",
+    "description": "Koordinasi dengan bidang dan badan terkait ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:25:12.000Z",
+    "updatedAt": "2024-01-24T07:25:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1902293b-0a57-4ab6-9c6d-159d7e6d5a84",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Mengembangkan model bisnis mangrove yang berkelanjutan. ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "191166ff-15a3-49c3-aad2-9f712c1fe0c7",
+    "ProgramId": "2b0a2feb-d050-428d-9f37-8dfad0cefc71",
+    "description": "FGD dan implementasi kesepakatan kerjasama antar lembaga / Kementerian terkait dengan Kadin Indonesia ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:46:59.000Z",
+    "updatedAt": "2024-01-24T07:46:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "194cf7c3-db5e-40f2-8410-7723345b02d8",
+    "ProgramId": "6e848eba-af2a-4cbe-9e6e-affdb8a45452",
+    "description": "Updating data LSP penyelenggara Sertifikasi Kompetensi Konstruksi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:17:26.000Z",
+    "updatedAt": "2024-01-24T07:17:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "199b2415-ae17-4557-a598-424e3b306421",
+    "ProgramId": "a4f4035b-6b05-4f15-80b6-f8764f97f4dc",
+    "description": "Melakukan riset dan pengembangan terhadap website agar fitur yang dihadirkan tepat guna",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:52:16.000Z",
+    "updatedAt": "2024-01-24T06:52:16.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1ab97136-5d66-42a4-92ad-3be8edbdc849",
+    "ProgramId": "5f721857-aa0c-485b-ab91-7ae17250aadf",
+    "description": "Melakukan diskusi dengan mitra strategis pada Q1 terkait pemanfaatan teknologi digital",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:17:09.000Z",
+    "updatedAt": "2024-01-24T08:17:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1ae28291-322e-4914-805f-d858f251af41",
+    "ProgramId": "4065ea90-bb8c-4da4-aafb-cfc4377148d2",
+    "description": "Kurasi produk film, animasi, dan konten yang akan di-showcase ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T08:37:43.000Z",
+    "updatedAt": "2024-01-24T08:37:43.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1b74a74c-eba6-4948-a50f-3dc158f6c5d0",
+    "ProgramId": "ed51825e-8152-4b7f-ba55-04178500f211",
+    "description": "Pembentukan Panitia SC/OC ASEAN Summit",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:24:58.000Z",
+    "updatedAt": "2024-01-24T07:24:58.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1bcd8c2e-cf32-4b4d-ba03-cfda43220f66",
+    "ProgramId": "04c208cf-e35d-4dcd-89d5-161280bbbe28",
+    "description": "Kementerian ATR/BPN melakukan konsultasi dan kerjasama dengan pengusaha untuk membangun kesepahaman bersama, menyinkronkan tujuan, serta mengevaluasi peluang dan tantangan yang ada",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:37:01.000Z",
+    "updatedAt": "2024-01-24T07:37:01.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1ce00267-09d7-49c1-bc19-4e020c456009",
+    "ProgramId": "7d50642a-13b7-4bee-9e0a-dccaeb7bffad",
+    "description": "Menyiapkan beberapa anggota KADIN yang akan masuk dalam bursa pasar karbon.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:42:29.000Z",
+    "updatedAt": "2024-01-24T07:42:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1d28319b-09c8-4f4c-b1cf-7642abc85b5c",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Menyediakan kegiatan ekonomi alternatif dan berkelanjutan sebagai pilihan bagi pekerja produksi arang.",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1db07d4e-db5a-4c58-8e38-2f188abc7341",
+    "ProgramId": "2b0a2feb-d050-428d-9f37-8dfad0cefc71",
+    "description": "Optimalisasi UMKM  halal untuk memenuhi sebagian kebutuhan industri dan bahan baku halal di Indonesia",
+    "quarter": 4,
+    "createdAt": "2024-01-24T07:46:59.000Z",
+    "updatedAt": "2024-01-24T07:46:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1dcdf32c-517a-429d-a2e4-4b7ddf08c919",
+    "ProgramId": "bdf4cf3f-3c0a-4a16-a310-0fae6f912f6f",
+    "description": "Melaksanakan forum diskusi dengan pemangku kepentingan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:07:18.000Z",
+    "updatedAt": "2024-01-24T07:07:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1e0d1f92-41ec-49f3-96a7-9513ee0eca32",
+    "ProgramId": "2ba6b515-d882-4722-acad-275a15d2eb00",
+    "description": "Membuat acara secara berkala dengan KADIN ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:37:15.000Z",
+    "updatedAt": "2024-01-24T06:37:15.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1e52ff2f-5e51-4b73-ba1d-6be8555629d3",
+    "ProgramId": "c64a9ac8-0985-43ef-a83b-d3be1d3b14d1",
+    "description": "Membuat forum bisnis Asosiasi dan Himpunan",
+    "quarter": 3,
+    "createdAt": "2024-01-23T06:51:44.000Z",
+    "updatedAt": "2024-01-23T06:51:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1e8b5ea6-60a0-4df6-b585-9ee20af0c192",
+    "ProgramId": "faff1000-2709-441f-8d2a-bd424d7274ab",
+    "description": "Partisipasi aktif dalam forum advokasi\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:04:09.000Z",
+    "updatedAt": "2024-01-24T07:04:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1eaa25b7-76b4-4a9a-8b8c-9a436e8641b3",
+    "ProgramId": "fc66937c-dc0c-4de0-89b0-379c1c193ee7",
+    "description": "Reporting",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:38:28.000Z",
+    "updatedAt": "2024-01-24T06:38:28.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1ec777e4-09e4-46c0-bf03-a42c27dbf4a5",
+    "ProgramId": "0f6d74eb-aab3-409b-8fe9-f98e46c75eb8",
+    "description": "Dialog dan lobby yang intens dengan Kemendag dan kemenlu",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:29:20.000Z",
+    "updatedAt": "2024-01-24T07:29:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1ee30887-3f9f-447d-a42b-48e2002825ec",
+    "ProgramId": "15e0317a-1620-4fc4-993b-f7e50b9ccf2f",
+    "description": "Evaluasi acara",
+    "quarter": 4,
+    "createdAt": "2024-01-24T06:04:29.000Z",
+    "updatedAt": "2024-01-24T06:04:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1fde79ac-c5c7-404a-b82b-84e4ce7002c9",
+    "ProgramId": "12799e78-0541-4eee-9430-f341956054e1",
+    "description": "Menyusun standar kompetensi untuk SDM angkutan   orang dan barang di Perhubungan Darat ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T05:43:59.000Z",
+    "updatedAt": "2024-01-24T05:43:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2060334f-57a0-491e-a272-ade3139403e6",
+    "ProgramId": "ca42d1ed-bbda-4e48-a9cd-70e9cffcf24a",
+    "description": "Penjajakan untuk ekspansi program ke beberapa daerah lain",
+    "quarter": 3,
+    "createdAt": "2024-01-24T06:40:59.000Z",
+    "updatedAt": "2024-01-24T06:40:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "20db54c6-fe32-49d0-a062-28212becd94d",
+    "ProgramId": "1e40ff50-2cde-4846-b5f2-fc1113783f06",
+    "description": "Melakukan kegiatan bersama yang berkaitan dengan Bank Tanah dan Tanah Terlantar misalnya sosialisasi regulasi baru, pengenalan Badan Bank Tanah, dll",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:35:51.000Z",
+    "updatedAt": "2024-01-24T07:35:51.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "21dedc75-4a91-4670-8c3f-532456b4519a",
+    "ProgramId": "0ccbcc41-b47b-4652-b0b1-8f26afe8c4a7",
+    "description": "Rapat koordinasi dengan BKPM ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:10:13.000Z",
+    "updatedAt": "2024-01-24T04:10:13.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "231eda7b-682d-4ade-a2ee-a738945c78bb",
+    "ProgramId": "d9b76ec5-748d-46d2-9ea3-540e2d030a01",
+    "description": "Mengawal implementasinya",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:18:02.000Z",
+    "updatedAt": "2024-01-24T06:18:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "238bb996-ce66-4f36-aff0-f3d58f5aacdb",
+    "ProgramId": "05ee64a4-ec93-4002-8204-77b263d7a14f",
+    "description": "Reporting \n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:24:24.000Z",
+    "updatedAt": "2024-01-24T06:24:24.000Z",
+    "deletedAt": "2024-01-24T06:27:01.000Z"
+  },
+  {
+    "id": "241ad13f-0a22-48e6-bad7-4ce792738041",
+    "ProgramId": "19714a22-76b9-4daa-8db9-7d0f4c2ec793",
+    "description": "Berpartisipasi aktif dalam rancangan UU IKN. ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:55:17.000Z",
+    "updatedAt": "2024-01-24T07:55:17.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "24727927-70da-45a0-ab36-9e95a5c48682",
+    "ProgramId": "6a0631eb-43df-4588-828b-010e65f80e2e",
+    "description": "Melaksanakan dan melaporkan kegiatan penelitian tentang  pangan dan energi",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:29:52.000Z",
+    "updatedAt": "2024-01-24T07:29:52.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "253c42fd-4b97-4826-94e9-2ded5e2b90f9",
+    "ProgramId": "b750f731-cbb9-474a-a54f-1d17656bc81e",
+    "description": "Mapping dan identifikasi pameran dan expo potensial",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:01:29.000Z",
+    "updatedAt": "2024-01-24T07:01:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "254e5fc9-0fa8-46da-84c5-164318b92631",
+    "ProgramId": "c64a9ac8-0985-43ef-a83b-d3be1d3b14d1",
+    "description": "Mapping permasalahan yang dimiliki Asosiasi dan Himpunan",
+    "quarter": 2,
+    "createdAt": "2024-01-23T06:51:44.000Z",
+    "updatedAt": "2024-01-23T06:51:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "25793860-f88b-435f-bc90-16d112a3c4cb",
+    "ProgramId": "7e2ef3c3-ed38-42ef-b3b0-cf45ca14edc6",
+    "description": "Kerja sama dengan Kemenkumham untuk produk regulasi.",
+    "quarter": 4,
+    "createdAt": "2024-01-23T07:29:14.000Z",
+    "updatedAt": "2024-01-23T07:29:14.000Z",
+    "deletedAt": "2024-01-24T03:27:16.000Z"
+  },
+  {
+    "id": "25cadc17-e91d-47b6-bd8a-bca034779fce",
+    "ProgramId": "caf57292-ce1e-4644-a1df-b640e1f88470",
+    "description": "Penyempurnaan  Sistem Online Keanggotaan Luar Biasa Kadin",
+    "quarter": 1,
+    "createdAt": "2024-01-23T06:40:29.000Z",
+    "updatedAt": "2024-01-23T06:40:29.000Z",
+    "deletedAt": "2024-01-23T06:40:55.000Z"
+  },
+  {
+    "id": "26df535f-b7bf-44b0-ace7-c9436b31af6c",
+    "ProgramId": "c8e416d5-e228-4348-9f43-bf6efc451214",
+    "description": "Rencana rapat denagn Apindo/APPI/Perbanas/AAJI dan AAUI membahas RUU P2SK untuk persiapan RDPU ke DPR",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:26:08.000Z",
+    "updatedAt": "2024-01-24T08:26:08.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "26ea4f73-79b1-49e1-bb22-89601a122ff2",
+    "ProgramId": "eef5f056-a464-47d6-b494-11b60b09ce5d",
+    "description": "Lanjutan sosialisasi kepada Anggota KADIN untuk bergabung di PaDi UMKM",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:55:55.000Z",
+    "updatedAt": "2024-01-23T07:55:55.000Z",
+    "deletedAt": "2024-01-24T06:07:47.000Z"
+  },
+  {
+    "id": "27d7a671-5ba6-47ed-8d13-805cee15c69f",
+    "ProgramId": "4732d729-3e06-4d8f-b070-5c01c0c4869a",
+    "description": "Mengidentifikasi tingkat pengetahuan terhadap SOP",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:46:36.000Z",
+    "updatedAt": "2024-01-24T03:46:36.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "27e530b7-c97c-47d2-bb7b-6ea48630e4b1",
+    "ProgramId": "ec9a6347-c10d-4b11-bd0f-3eef3a38851d",
+    "description": "Pemilihan IKM dengan inovasi terbaik\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:42:03.000Z",
+    "updatedAt": "2024-01-24T06:42:03.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2827ec97-c441-4567-b7be-da4a6334edaf",
+    "ProgramId": "7ab09abd-1963-45be-9805-1b50ca2166c7",
+    "description": "Revisi atas Lampiran D butir 1 dari UU No 23 Tahun 2014.",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:56:39.000Z",
+    "updatedAt": "2024-01-24T07:56:39.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2919d751-687c-48e4-b447-c94f463e9caa",
+    "ProgramId": "817d21b2-c803-4246-9b39-63c10b601c32",
+    "description": "Membentuk kelompok kerja  bersama WKU Ketenagakerjaan, WKU Pendidikan dan Kebudayaan dan Pokja vokasi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:44:53.000Z",
+    "updatedAt": "2024-01-24T06:44:53.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "292e2651-0efc-4c58-9488-0cb4cd228c17",
+    "ProgramId": "92d8c39d-f86f-43e5-8cdc-4ed566757021",
+    "description": "Dialog dengan Pemerintah Daerah ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:03:45.000Z",
+    "updatedAt": "2024-01-24T07:03:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "297d060c-99e8-46f3-9ca0-c64b26643513",
+    "ProgramId": "205062d0-c7ea-46e4-9291-dc996bae9bf6",
+    "description": "Pelaksanaan kegiatan keorganisasian Kadin ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:20:13.000Z",
+    "updatedAt": "2024-01-24T04:20:13.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "29eab37a-cf85-4535-a8bd-bca0379994f5",
+    "ProgramId": "c972033e-85eb-4ec6-b6fd-e78660eb0152",
+    "description": "Pendataan UMKM",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:09:04.000Z",
+    "updatedAt": "2024-01-24T04:09:04.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2a8350fd-f3d5-466c-a6c8-1f67db0fb5d2",
+    "ProgramId": "0dab674c-c56b-4c29-8fa2-a0b2f677931c",
+    "description": "Koordinasi dengan Kadinda dan ALB sektoral untuk inventarisasi lahan yang terkategorikan LSD\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:33:20.000Z",
+    "updatedAt": "2024-01-24T07:33:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2b8316ce-6893-44ab-8cc0-6baf5897c242",
+    "ProgramId": "647a72e0-1f02-4be1-a2c9-9915817cf2dc",
+    "description": "Reporting Februari 2024 (Kick Off)",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:22:21.000Z",
+    "updatedAt": "2024-01-24T06:22:21.000Z",
+    "deletedAt": "2024-01-24T06:26:26.000Z"
+  },
+  {
+    "id": "2b89583c-cdee-4f28-bcdb-e7bf59240451",
+    "ProgramId": "9fbe0dd2-553f-43d2-b88d-fabb8949566a",
+    "description": "Penyusunan strategi kampanye dan advokasi di tingkat nasional dan internasional",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:35:01.000Z",
+    "updatedAt": "2024-01-24T07:35:01.000Z",
+    "deletedAt": "2024-01-24T07:53:03.000Z"
+  },
+  {
+    "id": "2bc7467c-b00c-4d44-9317-abf91cc4ac71",
+    "ProgramId": "4b8cc058-80ee-4d14-844d-eb66857e275c",
+    "description": "Melakukan diskusi dengan mitra strategis pada terkait pemanfaatan teknologi digital",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:10:36.000Z",
+    "updatedAt": "2024-01-24T08:10:36.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2bc89858-dd6b-4c0c-a944-fa8431a8fe3c",
+    "ProgramId": "ed51825e-8152-4b7f-ba55-04178500f211",
+    "description": "Melakukan roadshow ke negara ASEAN dan mitranya",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:24:58.000Z",
+    "updatedAt": "2024-01-24T07:24:58.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2bf0652e-1ff8-4cd3-98a4-b79bf941dbe7",
+    "ProgramId": "0aafe59a-491b-4cbd-8463-bf48d3963455",
+    "description": "Standarisasi tenaga kerja sesuai dengan kebutuhan pasar internasional \n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:30:48.000Z",
+    "updatedAt": "2024-01-24T06:30:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2c683354-299f-4ef2-8133-8e6fa14e040a",
+    "ProgramId": "1a0f8aed-46c7-45d1-b3b2-5dfd21028820",
+    "description": "Menyiapkan beberapa anggota KADIN yang akan masuk dalam bursa pasar karbon.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:32:43.000Z",
+    "updatedAt": "2024-01-24T07:32:43.000Z",
+    "deletedAt": "2024-01-24T07:52:52.000Z"
+  },
+  {
+    "id": "2ca1afd0-403b-4a6a-86dd-0db41fb466d4",
+    "ProgramId": "fd3eb746-72cf-4e08-abf9-546c6c4167f1",
+    "description": "Implementasi strategi kampanye dan advokasi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:45:30.000Z",
+    "updatedAt": "2024-01-24T07:45:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2d131513-d185-4073-92c8-182541d97b60",
+    "ProgramId": "afdabd87-9ad4-48e7-a0bd-b388ba68ded2",
+    "description": "Sinkronisasi  kebijakan terkait HVC untuk mendukung terciptanya pengembangan industri halal dan infrastruktur industri produk halal, seperti lab halal, sertifikasi dan pelatihan halal, auditor halal, logistik halal dan lainnya",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:43:20.000Z",
+    "updatedAt": "2024-01-24T07:43:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2d48cf7b-51a9-475d-b69d-5d5158b9b6eb",
+    "ProgramId": "ce607832-bd1d-44d9-930c-21f5203b8556",
+    "description": "Percontohan, Pelatihan Pelatih Tempat Kerja (PTK /In- Company Training) di perusahaan & guru /mentor di lembaga pelatihan.\n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:52:08.000Z",
+    "updatedAt": "2024-01-24T04:52:08.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2dfdeccc-cd66-4e4d-81ec-0d04b2726de3",
+    "ProgramId": "5189f459-a461-4cd6-954c-ad85f68cffbb",
+    "description": "Mengumpulkan program dan aktivitas yang mendukung pemasyarakatan dan pengembangan budaya",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:30:31.000Z",
+    "updatedAt": "2024-01-24T04:30:31.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2e12b13c-4bec-46f0-b41c-14a3a2768c6e",
+    "ProgramId": "1ac78b6c-0fc9-4e5e-ab34-68c35283d46a",
+    "description": "Monitoring pelaksanaan program pelatihan di daerah (Kalimantan/IKN) ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:15:36.000Z",
+    "updatedAt": "2024-01-24T07:15:36.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "2f755e8a-f02b-4ad9-8e3f-0f700e089d36",
+    "ProgramId": "eef5f056-a464-47d6-b494-11b60b09ce5d",
+    "description": "Membuat pelatihan untuk On-Board produk secara berkala, serta melakukan pelatihan agar tampilan produk menjadi lebih menarik",
+    "quarter": 3,
+    "createdAt": "2024-01-23T07:55:55.000Z",
+    "updatedAt": "2024-01-23T07:55:55.000Z",
+    "deletedAt": "2024-01-24T06:07:47.000Z"
+  },
+  {
+    "id": "302e0cc6-8293-4589-aef6-667f46837d69",
+    "ProgramId": "d67c9a8a-5ea5-49fa-a971-dc957b08b9cb",
+    "description": "Mengembangkan solusi pelabuhan yang terintegrasi dengan logistik",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:34:34.000Z",
+    "updatedAt": "2024-01-24T07:34:34.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "308b0a0b-7a88-4d73-9aec-f1c1736b17d3",
+    "ProgramId": "634d3174-5cd6-481a-9881-29620c48d8df",
+    "description": "FGD bersama dengan asosiasi-asosiasi terkait film, animasi, dan konten. ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:42:34.000Z",
+    "updatedAt": "2024-01-24T08:42:34.000Z",
+    "deletedAt": "2024-01-24T08:47:02.000Z"
+  },
+  {
+    "id": "30ca3b6e-08d6-4bb5-aa20-8f4b6aba645c",
+    "ProgramId": "1a0f8aed-46c7-45d1-b3b2-5dfd21028820",
+    "description": "Melakukan sosialisasi kepada anggota KADIN tentang pasar karbon.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:32:43.000Z",
+    "updatedAt": "2024-01-24T07:32:43.000Z",
+    "deletedAt": "2024-01-24T07:52:52.000Z"
+  },
+  {
+    "id": "31396d10-d633-4d6c-beff-7d327faf9ff7",
+    "ProgramId": "c25c9e45-f9bf-406f-a9a1-de45e4604784",
+    "description": "Mengadakan kunjungan ke daerah yang dipilih",
+    "quarter": 2,
+    "createdAt": "2024-01-24T05:34:17.000Z",
+    "updatedAt": "2024-01-24T05:34:17.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "314184ff-ab5e-4e21-982a-ee771aa371e3",
+    "ProgramId": "17e8d7c5-2a10-4b5a-a822-abb4a840529c",
+    "description": "Mengedukasi nasabah untuk bergabung dalam platform digital dan mendaftar ijin usaha",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:53:32.000Z",
+    "updatedAt": "2024-01-23T07:53:32.000Z",
+    "deletedAt": "2024-01-24T06:07:08.000Z"
+  },
+  {
+    "id": "3148c3be-bd63-4712-9cba-d5b157ef85e3",
+    "ProgramId": "2d836918-9885-426e-a58e-ba405693d453",
+    "description": "Mengajukan ke Bendahara untuk pendanaannya ",
+    "quarter": 2,
+    "createdAt": "2024-01-23T06:55:53.000Z",
+    "updatedAt": "2024-01-23T06:55:53.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "31f8ddf4-97e1-4db3-af48-a9069221f9d4",
+    "ProgramId": "1fe198b8-2d49-4cda-8c08-b53124e281e6",
+    "description": "Perencanaan strategis dan kemitraan\nMembentuk tim pelaksana\nMelakukan studi kelayakan \nPenyusunan model bisnis\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:11:55.000Z",
+    "updatedAt": "2024-01-24T04:11:55.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3208be5f-6645-4a49-971a-4e3da4797c3c",
+    "ProgramId": "6e848eba-af2a-4cbe-9e6e-affdb8a45452",
+    "description": "Updating data Perguruan tinggi/ Universitas yang menyelenggarakan pembelajaran Teknik konstruksi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:17:26.000Z",
+    "updatedAt": "2024-01-24T07:17:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "341d7346-25e8-4955-9519-b30d621d96cc",
+    "ProgramId": "95606d35-ac29-4ab9-bb16-831e08138fdd",
+    "description": "Melakukan kegiatan advokasi kepada pemerintah salah satunya terkait PP No. 24 Tahun 2022 tentang Peraturan Pelaksanaan UU No. 24 Tahun 2019 tentang ekonomi kreatif",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:04:04.000Z",
+    "updatedAt": "2024-01-24T04:04:04.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3492c590-5907-4224-b91f-306e2df14fb0",
+    "ProgramId": "34b69b7d-6455-488e-9e5b-9005f24da75f",
+    "description": "Kerjasama dengan lembaga arbitrase internasional\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:29:49.000Z",
+    "updatedAt": "2024-01-24T03:29:49.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3555a068-c238-4ee2-9ec7-1937af64df2b",
+    "ProgramId": "8667c74c-f5d0-4d66-a9c7-8dfcc869abef",
+    "description": "Implementasi tindak lanjut berdasarkan arahan dari blueprint yang sudah diterbitkan",
+    "quarter": 4,
+    "createdAt": "2024-01-24T04:07:50.000Z",
+    "updatedAt": "2024-01-24T04:07:50.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "355ca9cd-e1ae-43c3-87a7-6b00fd16a604",
+    "ProgramId": "58dfd5ed-fcc9-4dfe-8391-e02c04d04215",
+    "description": "Mempersiapkan trainer",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:04:06.000Z",
+    "updatedAt": "2024-01-24T06:04:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "35951778-f046-4492-8a11-60abc167f0c0",
+    "ProgramId": "5189f459-a461-4cd6-954c-ad85f68cffbb",
+    "description": "Membuat KM System yang dapat mengakomodasi kebutuhan dan memanfaatkan teknologi terkini untuk mendapatkan hasil terbaik seperti metaverse, AI, dll",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:30:31.000Z",
+    "updatedAt": "2024-01-24T04:30:31.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "360d95dc-1351-4baf-9db6-ea0c0866964a",
+    "ProgramId": "ec9a6347-c10d-4b11-bd0f-3eef3a38851d",
+    "description": "Coaching klinik dalam rangka Innovation Award 2024",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:42:03.000Z",
+    "updatedAt": "2024-01-24T06:42:03.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "364c8dcb-9bc2-4fc7-a1bb-2b6e3320fad2",
+    "ProgramId": "11cc3f8c-3287-4b38-a106-564b2ef5e1d6",
+    "description": "Memfasilitasi secara berkesinambungan melalui media komunikasi yang sesuai ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:35:50.000Z",
+    "updatedAt": "2024-01-23T07:35:50.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "365d2496-1cb1-42af-88e7-f2e6e65133ca",
+    "ProgramId": "ce607832-bd1d-44d9-930c-21f5203b8556",
+    "description": "Peningkatan program kemitraan yang berkualitas di empat (4) provinsi\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:52:08.000Z",
+    "updatedAt": "2024-01-24T04:52:08.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "36666e71-899e-4265-b50c-d8e753fffb28",
+    "ProgramId": "58dfd5ed-fcc9-4dfe-8391-e02c04d04215",
+    "description": "Mempersiapkan kelas pelatihan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:04:06.000Z",
+    "updatedAt": "2024-01-24T06:04:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "36b19847-d1c0-43de-9615-4ef1112d0cb6",
+    "ProgramId": "6a83304d-ae03-4d6d-bf5c-c1a736b3c097",
+    "description": "Melakukan studi kelayakan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:14:38.000Z",
+    "updatedAt": "2024-01-24T04:14:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "375eea4f-88a2-4461-bbe8-3d4cbeb23a4d",
+    "ProgramId": "4f09ee09-cfdf-44a0-89f9-0dcaa6e67700",
+    "description": "Mencari produk atau bahan baku impor dengan kepastian nilai dan kuantitas impor yang mungkin untuk disubstitusi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:59:30.000Z",
+    "updatedAt": "2024-01-24T07:59:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "377e75bb-5b6b-484f-90ec-c38d91126b68",
+    "ProgramId": "a0c1efab-4103-48cb-aa2d-ad90f224c169",
+    "description": "UMK : 30 November",
+    "quarter": 4,
+    "createdAt": "2024-01-24T06:39:38.000Z",
+    "updatedAt": "2024-01-24T06:39:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "380c372d-ab05-4707-9f38-e1bef377b9c3",
+    "ProgramId": "4065ea90-bb8c-4da4-aafb-cfc4377148d2",
+    "description": "Rancangan program dan penyusunan proposal ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:37:43.000Z",
+    "updatedAt": "2024-01-24T08:37:43.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3876e5e8-41f6-4f1a-90cd-75da8c4731ca",
+    "ProgramId": "503435df-7f8c-424e-826b-983485c6d504",
+    "description": "Penyusunan rekomendasi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:53:46.000Z",
+    "updatedAt": "2024-01-24T06:53:46.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "388d2f19-f131-4f1e-a064-1bafcf40cc05",
+    "ProgramId": "1971335b-f5fc-4e3b-95b4-2c4a1d707a16",
+    "description": "Identifikasi dan Evaluasi PO",
+    "quarter": 1,
+    "createdAt": "2024-01-23T06:14:33.000Z",
+    "updatedAt": "2024-01-23T06:14:33.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "38fe868f-8359-4c74-bba2-fce2d0b17410",
+    "ProgramId": "24edac85-8d02-477a-a618-f7eaf0e1de79",
+    "description": "Menjaring mitra pelatih ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T08:45:26.000Z",
+    "updatedAt": "2024-01-24T08:45:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3904e0ad-c5e7-4bc8-af4a-f95deb5dd009",
+    "ProgramId": "ff6f1232-47e8-4df7-ac2a-cc23e837032a",
+    "description": "Penetapan dan MoU dengan mitra strategis dalam hub pemasaran",
+    "quarter": 3,
+    "createdAt": "2024-01-23T07:13:59.000Z",
+    "updatedAt": "2024-01-23T07:13:59.000Z",
+    "deletedAt": "2024-01-24T04:33:05.000Z"
+  },
+  {
+    "id": "394a1f75-1f52-49fe-810e-8b2d79c9c765",
+    "ProgramId": "f4089a9b-fb6d-4e6d-bf1f-c488744145f1",
+    "description": "Berkoordinasi dengan seluruh WKU/Kaban terkait kegiatan sinergi dengan Kadin daerah ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:31:13.000Z",
+    "updatedAt": "2024-01-24T04:31:13.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3a7e8f0a-c62e-47e2-9f4c-814700cda7e1",
+    "ProgramId": "5eff31a6-0dd6-4808-a1b1-88442ce7bc9c",
+    "description": "Melakukan diskusi dan kerjasama dengan Kementerian dan Lembaga ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:08:26.000Z",
+    "updatedAt": "2024-01-24T07:08:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3b441382-ec53-42ac-a4e3-e50ad2f91159",
+    "ProgramId": "f86a553b-5ce5-4761-8988-2262cacb59af",
+    "description": "Uji validitas tools",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:34:48.000Z",
+    "updatedAt": "2024-01-24T06:34:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3c644160-86d9-43c9-91a5-170ee1292075",
+    "ProgramId": "19714a22-76b9-4daa-8db9-7d0f4c2ec793",
+    "description": "Pemetaan ekosistem dan rantai pasok",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:55:17.000Z",
+    "updatedAt": "2024-01-24T07:55:17.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3c6b969e-765c-465c-b4df-26ab47719470",
+    "ProgramId": "3599e268-5f78-43fe-93cb-d1f7814dae22",
+    "description": "Membuat FGD bersama terkait kebijakan pengembangan IKM di Kawasan Industri yang berkaitan dengan Tata Ruang",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:29:18.000Z",
+    "updatedAt": "2024-01-24T07:29:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3caa82de-85a6-4b56-9789-dbb0c9b05afc",
+    "ProgramId": "b9283cef-19f9-4353-aaa6-dbe2a0001249",
+    "description": "Sosialisasi pentingnya sistem akuntansi yang terintegrasi ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T06:54:45.000Z",
+    "updatedAt": "2024-01-23T06:54:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3dec4f2f-8343-4ee3-9582-e7dec31b47f3",
+    "ProgramId": "2fd5c037-64ee-43b2-aa45-058736d3b5f8",
+    "description": "Audiensi dan koordinasi dengan Lembaga/Kementerian terkait",
+    "quarter": 2,
+    "createdAt": "2024-01-23T07:05:27.000Z",
+    "updatedAt": "2024-01-23T07:05:27.000Z",
+    "deletedAt": "2024-01-24T04:40:44.000Z"
+  },
+  {
+    "id": "3e565d64-af64-4f0f-8a61-dd790b442eff",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Kolaborasi Inklusif dan Gotong Royong Multipihak. ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3ec7bb61-e69d-4d25-aef0-43884335bf08",
+    "ProgramId": "58dfd5ed-fcc9-4dfe-8391-e02c04d04215",
+    "description": "Review dan finalisasi proposal\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:04:06.000Z",
+    "updatedAt": "2024-01-24T06:04:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3f5bb14e-f74c-4b92-a9ba-4b309ae7cca4",
+    "ProgramId": "92b1a3e3-3800-4d51-898a-146c4e2d40d0",
+    "description": "Program KUAT USAID: Telah dilaksanakan FGD sosialisasi pentingnya asuransi mikro yang melibatkan 11 UMKM dari Kab. Bogor, Kab. Cianjur, dan Kota Jakarta. ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:45:02.000Z",
+    "updatedAt": "2024-01-24T06:45:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4051e481-a808-4e41-ae1d-fa905f93c082",
+    "ProgramId": "10db8312-d499-496b-9e30-38f85e7b89d6",
+    "description": "Koordinasi dengan Kementerian terkait dan BKPM",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:42:13.000Z",
+    "updatedAt": "2024-01-23T07:42:13.000Z",
+    "deletedAt": "2024-01-24T04:21:03.000Z"
+  },
+  {
+    "id": "40ac9a89-8352-43d3-b756-8bbc2f0a4097",
+    "ProgramId": "c0d92e02-8338-4dd0-b366-97cf59d01c6c",
+    "description": "Pelaksanaan MoU Kadin Indonesia dengan Kementerian Hukum dan HAM",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:28:12.000Z",
+    "updatedAt": "2024-01-23T07:28:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "40df3457-6e31-4170-a22d-5a82f6109ce5",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Pengumpulan Data, Riset dan Penguatan Tatakelola Mangrove di Kawasan IKN. ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "413fe858-d0f7-4581-8bf4-6959b18468d4",
+    "ProgramId": "cbf6f0ad-d5b9-4c25-9656-f9a588f2cee0",
+    "description": "FGD multipihak",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:19:02.000Z",
+    "updatedAt": "2024-01-24T07:19:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4156a7f6-ae4e-49df-9a0e-0d5ae6fc310e",
+    "ProgramId": "6a83304d-ae03-4d6d-bf5c-c1a736b3c097",
+    "description": "Kerjasama dengan LSP",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:14:38.000Z",
+    "updatedAt": "2024-01-24T04:14:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "41c64113-464f-4491-a2e4-78d8b3921fab",
+    "ProgramId": "9ca4ad97-d8b2-4043-910d-d2129b19ceee",
+    "description": "Pelaksanaan acara",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:14:26.000Z",
+    "updatedAt": "2024-01-24T04:14:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "42572da6-2db7-4a44-8a88-3a4476b43f4e",
+    "ProgramId": "1db1a6b5-0324-4aa7-9541-1e0acc2ba5e7",
+    "description": "Replikasi di lebih banyak daerah ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:44:25.000Z",
+    "updatedAt": "2024-01-24T06:44:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "42605aec-bdc3-4763-966f-e20fb2c1493d",
+    "ProgramId": "6a83304d-ae03-4d6d-bf5c-c1a736b3c097",
+    "description": "Menyusun model bisnis berkelanjutan yang mengatasi tantangan biaya tinggi dan keuntungan rendah.",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:14:38.000Z",
+    "updatedAt": "2024-01-24T04:14:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "42c60772-f25e-4669-9f15-d7ccf194a8f7",
+    "ProgramId": "f4089a9b-fb6d-4e6d-bf1f-c488744145f1",
+    "description": "Memfasilitasi secara berkesinambungan melalui media komunikasi yang sesuai \n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:31:13.000Z",
+    "updatedAt": "2024-01-24T04:31:13.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "43a99ad4-c9ac-4b4f-9400-8773e9fc2a09",
+    "ProgramId": "a9bfce3f-1f2e-43f5-a9c6-b89f12892d01",
+    "description": "Membuat buku/laporan peta okupansi profesi nasional\n",
+    "quarter": 4,
+    "createdAt": "2024-01-24T04:28:42.000Z",
+    "updatedAt": "2024-01-24T04:28:42.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "44274199-44d9-4490-81c0-0e42e4469b74",
+    "ProgramId": "44cefaab-8548-4872-849a-371ac7f6f0cf",
+    "description": "PKS Tiga Pihak ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T08:49:20.000Z",
+    "updatedAt": "2024-01-24T08:49:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "44cf55fc-9ecc-4f1d-8df2-55e8edee608f",
+    "ProgramId": "9baaea7a-8c80-4182-80c1-226db1478181",
+    "description": "Standarisasi form pengajuan proker dari pusat hingga daerah",
+    "quarter": 2,
+    "createdAt": "2024-01-23T06:27:25.000Z",
+    "updatedAt": "2024-01-23T06:27:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "45d0cec4-ad42-4544-90b1-5fd3b639bb14",
+    "ProgramId": "2b0a2feb-d050-428d-9f37-8dfad0cefc71",
+    "description": "Rapat Kerja BES Kadin tahun 2024\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:46:59.000Z",
+    "updatedAt": "2024-01-24T07:46:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4663eaaf-e11d-4574-b412-0da4a7ce789a",
+    "ProgramId": "a8199880-8dc7-4272-b4c8-9b80dfe21da5",
+    "description": "Menjalin komunikasi intensif dengan asosiasi dan himpunan yang belum menjadi ALB Kadin",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:20:11.000Z",
+    "updatedAt": "2024-01-24T03:20:11.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "46850df5-152f-45d8-b1a1-413cf78254bc",
+    "ProgramId": "cfaac2a8-ab03-484d-8cc9-92c8ab3d0a39",
+    "description": "Evaluasi kegiatan pertanian 2023 dan persiapan tahun 2024.",
+    "quarter": 4,
+    "createdAt": "2024-01-24T07:02:46.000Z",
+    "updatedAt": "2024-01-24T07:02:46.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "469f8ae8-b472-4e3d-b280-f89526805260",
+    "ProgramId": "9f170e57-ab3a-4809-b222-649baa7cc15c",
+    "description": "Kunjungan lapangan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:11:43.000Z",
+    "updatedAt": "2024-01-24T07:11:43.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "46f89b08-aa61-48d7-991a-efd3e6aab367",
+    "ProgramId": "d0404b72-3483-439d-8651-759e330d06ba",
+    "description": "Mengidentifikasi area area yang masih bisa ditingkatkan",
+    "quarter": 1,
+    "createdAt": "2024-01-23T06:59:09.000Z",
+    "updatedAt": "2024-01-23T06:59:09.000Z",
+    "deletedAt": "2024-01-24T03:44:03.000Z"
+  },
+  {
+    "id": "473cf955-09e1-401c-aa1a-bdef1e4dd4c1",
+    "ProgramId": "4acfec34-34a9-47bf-af96-b52fb03df66c",
+    "description": "Pengumpulan masukan dan rekomendasi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:18:38.000Z",
+    "updatedAt": "2024-01-24T03:18:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4769a073-b85b-425c-9ee2-378b859bc68c",
+    "ProgramId": "2cfc27f2-ee87-440f-950c-3c345c46db94",
+    "description": "Menyusun agenda yang memuat urutan kegiatan, topik diskusi, dan pembagian waktu untuk setiap sesi. Agenda ini mencerminkan tujuan kolaborasi antara pemerintah pusat dan daerah",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:22:36.000Z",
+    "updatedAt": "2024-01-24T03:22:36.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "477d9e58-1460-4af9-81c5-d3f62fa6bcaf",
+    "ProgramId": "d67c9a8a-5ea5-49fa-a971-dc957b08b9cb",
+    "description": "Sinergi dengan Kementerian Perindustrian\n",
+    "quarter": 4,
+    "createdAt": "2024-01-24T07:34:34.000Z",
+    "updatedAt": "2024-01-24T07:34:34.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "482c2010-da96-489e-bf2d-4b65ca4d6224",
+    "ProgramId": "d99dfeb4-52a9-4ef2-bf3d-f0c78684aa3c",
+    "description": "Rapat koordinasi dengan kementerian/ lembaga terkait",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:05:38.000Z",
+    "updatedAt": "2024-01-24T06:05:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4866e477-ed55-42bc-b575-11e324206131",
+    "ProgramId": "d99dfeb4-52a9-4ef2-bf3d-f0c78684aa3c",
+    "description": "Pemetaan skema pendanaan\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:05:38.000Z",
+    "updatedAt": "2024-01-24T06:05:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "49c334be-5f19-4109-bd8a-c5e24ba62f99",
+    "ProgramId": "bdf4cf3f-3c0a-4a16-a310-0fae6f912f6f",
+    "description": "Partisipasi aktif dalam forum advokasi\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:07:18.000Z",
+    "updatedAt": "2024-01-24T07:07:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4b279c73-90b2-459f-a001-5059442f2ea3",
+    "ProgramId": "e15754bb-b79c-4268-a06e-ede593854506",
+    "description": "Sosialisasi PO di daerah",
+    "quarter": 3,
+    "createdAt": "2024-01-23T07:39:51.000Z",
+    "updatedAt": "2024-01-23T07:39:51.000Z",
+    "deletedAt": "2024-01-24T04:20:51.000Z"
+  },
+  {
+    "id": "4b48a346-9cf8-4205-b595-5df8bf86e81a",
+    "ProgramId": "9fbe0dd2-553f-43d2-b88d-fabb8949566a",
+    "description": "Implementasi strategi kampanye dan advokasi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:35:01.000Z",
+    "updatedAt": "2024-01-24T07:35:01.000Z",
+    "deletedAt": "2024-01-24T07:53:03.000Z"
+  },
+  {
+    "id": "4b67955c-7b43-4923-b3f8-eb8fb8bcd9bc",
+    "ProgramId": "697e7546-4cf5-4439-9d58-37668645eb1c",
+    "description": "Mendorong pendelegasian sebagian kewenangan perizinan dan KAIT Pusat kepada daerah",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:00:22.000Z",
+    "updatedAt": "2024-01-24T07:00:22.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4bebc3a8-65ec-4012-b220-6892c014c3c5",
+    "ProgramId": "4b8cc058-80ee-4d14-844d-eb66857e275c",
+    "description": "Melakukan survei terkait pandangan pihak Industri terkait substansi CEPA",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:10:36.000Z",
+    "updatedAt": "2024-01-24T08:10:36.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4dc9370a-8ef6-4af6-b974-9751569ee22f",
+    "ProgramId": "7d50642a-13b7-4bee-9e0a-dccaeb7bffad",
+    "description": "Menyiapkan infrastruktur pasar karbon bersama kementerian terkait.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:42:29.000Z",
+    "updatedAt": "2024-01-24T07:42:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4df86189-6f5d-414f-bb7a-3b871bb15ef2",
+    "ProgramId": "25d17e88-b36f-4a7e-9290-c64e0d59aad5",
+    "description": "Establishment dan peluncuran yayasan pada tanggal 4 Desember 2023",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:47:03.000Z",
+    "updatedAt": "2024-01-24T06:47:03.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4e3a4c58-21f8-47c9-9c06-8553f3b3dea7",
+    "ProgramId": "7fe32296-834d-4ccb-ad41-bac8acf0c4dc",
+    "description": "Implementasi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:23:12.000Z",
+    "updatedAt": "2024-01-24T07:23:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4e5c7ba1-a824-492e-874a-25e8f8004ba7",
+    "ProgramId": "a8c20ca5-430e-44d4-bf41-c13af269c5bc",
+    "description": "Rapat Koordinasi Kadin Daerah dengan WKU Sektoral",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:09:15.000Z",
+    "updatedAt": "2024-01-23T07:09:15.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4e6222ef-cf8a-47ed-9ec7-f07eef8a5b58",
+    "ProgramId": "9c53896f-21c3-4c5d-8f4f-669a781fc4d8",
+    "description": "Rapat pembahasan Kontrak kerjasama dengan EO",
+    "quarter": 2,
+    "createdAt": "2024-01-24T05:41:08.000Z",
+    "updatedAt": "2024-01-24T05:41:08.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4f1cc5fe-ad72-4672-8b03-1f8003be6027",
+    "ProgramId": "6a83304d-ae03-4d6d-bf5c-c1a736b3c097",
+    "description": "Membentuk tim pelaksana",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:14:38.000Z",
+    "updatedAt": "2024-01-24T04:14:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4f1df052-b455-4982-ac2c-59781cb1fc3e",
+    "ProgramId": "97da366e-a586-4bc5-ad45-7509d960e9ec",
+    "description": "Diseminasi hasil survei",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:31:12.000Z",
+    "updatedAt": "2024-01-24T07:31:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4f5a5620-7b66-430e-b2cd-a1323c38e2ec",
+    "ProgramId": "8667c74c-f5d0-4d66-a9c7-8dfcc869abef",
+    "description": "Pengumpulan data dan drafting untuk kemudian dirangkum dalam bentuk dokumen blueprint",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:07:50.000Z",
+    "updatedAt": "2024-01-24T04:07:50.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4f8cdf23-761b-4c2a-82a1-984abeda9d33",
+    "ProgramId": "f1e3426b-5351-4fec-abd5-692f5266bb86",
+    "description": "Terlaksananya kegiatan Rakornas Wilayah NTB - NTT",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:35:47.000Z",
+    "updatedAt": "2024-01-24T04:35:47.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "505d7414-7cf9-4d7f-8323-e0e693bbf7e1",
+    "ProgramId": "4638a395-a9fd-4cf9-adb4-7189181f7df6",
+    "description": "Melakukan persiapan dan pelaksanaan kegiatan ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:12:01.000Z",
+    "updatedAt": "2024-01-24T07:12:01.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "51db61fd-d9de-498d-97cc-fad5fd62839e",
+    "ProgramId": "a9bfce3f-1f2e-43f5-a9c6-b89f12892d01",
+    "description": "Mengumpulkan data ke seluruh Indonesia bersama Kadin Daerah",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:28:42.000Z",
+    "updatedAt": "2024-01-24T04:28:42.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "51e59ac4-42b2-4379-94ce-e76890b45484",
+    "ProgramId": "3e6a8568-0d34-44b9-aa86-073e27903b54",
+    "description": "Kelanjutan program KCD di seluruh Indonesia melalui kerjasama dengan pembiayaan dari donor dan/atau hibah\n",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:49:44.000Z",
+    "updatedAt": "2024-01-24T04:49:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5204d701-eedb-47fa-aa8f-460e974fce4b",
+    "ProgramId": "d9b76ec5-748d-46d2-9ea3-540e2d030a01",
+    "description": "Menyiapkan masukan/isu",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:18:02.000Z",
+    "updatedAt": "2024-01-24T06:18:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "522140d2-86c2-4d12-bcfb-41a7ad54dc42",
+    "ProgramId": "19714a22-76b9-4daa-8db9-7d0f4c2ec793",
+    "description": "Sertifikasi profesi broker diperkuat\n",
+    "quarter": 4,
+    "createdAt": "2024-01-24T07:55:17.000Z",
+    "updatedAt": "2024-01-24T07:55:17.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5254e834-61d7-4e38-a716-3564fa55c563",
+    "ProgramId": "9049b2af-3e49-43f2-bce2-f85f9bd7330a",
+    "description": "Skalabilitas, ekspansi, dan pemantauan berkelanjutan\nMenetapkan sistem pemantauan berkelanjutan untuk memastikan keberlanjutan program.\n",
+    "quarter": 4,
+    "createdAt": "2024-01-24T03:53:28.000Z",
+    "updatedAt": "2024-01-24T03:53:28.000Z",
+    "deletedAt": "2024-01-24T03:59:08.000Z"
+  },
+  {
+    "id": "525d3962-b0b6-4b43-88d4-08e29b4231ff",
+    "ProgramId": "9ca4ad97-d8b2-4043-910d-d2129b19ceee",
+    "description": "Pematangan konsep dan pembuatan dokumen acara ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:14:26.000Z",
+    "updatedAt": "2024-01-24T04:14:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "534b66e4-441a-47f6-8c8b-e3858d88a019",
+    "ProgramId": "bdf4cf3f-3c0a-4a16-a310-0fae6f912f6f",
+    "description": "Peninjauan komoditas flagship untuk mendorong ekspor\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:07:18.000Z",
+    "updatedAt": "2024-01-24T07:07:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "53d26b62-b8df-4e97-8e3c-f8e1e41bea61",
+    "ProgramId": "6a83304d-ae03-4d6d-bf5c-c1a736b3c097",
+    "description": "Perencanaan strategis dan kemitraan\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:14:38.000Z",
+    "updatedAt": "2024-01-24T04:14:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "54263dfd-34ba-4151-a2b5-c43374b42d86",
+    "ProgramId": "92d8c39d-f86f-43e5-8cdc-4ed566757021",
+    "description": "Bekerjasama dengan APPBI (Asosiasi Pengelola Pusat Belanja Indonesia) ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:03:45.000Z",
+    "updatedAt": "2024-01-24T07:03:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "552135ac-f318-41a4-bca1-3ec9429c59cd",
+    "ProgramId": "e41a57aa-9a46-466e-ac67-0918ce68b1b0",
+    "description": "Penandatanganan MoU",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:43:51.000Z",
+    "updatedAt": "2024-01-23T07:43:51.000Z",
+    "deletedAt": "2024-01-24T04:23:35.000Z"
+  },
+  {
+    "id": "559ba9a2-4aa1-44fd-973e-faf4b8717045",
+    "ProgramId": "fd3eb746-72cf-4e08-abf9-546c6c4167f1",
+    "description": "Penguatan diplomasi dan jejaring baik nasional maupun internasional untuk implementasi pengesahan policy FSC. ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:45:30.000Z",
+    "updatedAt": "2024-01-24T07:45:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "55e0cf34-c639-4bc6-be86-e4d6937a68d9",
+    "ProgramId": "ff6f1232-47e8-4df7-ac2a-cc23e837032a",
+    "description": "Penentuan hub pemasaran dan bentuk Kerjasama yang dilakukan ",
+    "quarter": 2,
+    "createdAt": "2024-01-23T07:13:59.000Z",
+    "updatedAt": "2024-01-23T07:13:59.000Z",
+    "deletedAt": "2024-01-24T04:33:05.000Z"
+  },
+  {
+    "id": "56310dee-1cc4-4c5f-aa8e-28b2d4e78622",
+    "ProgramId": "30539dba-bd50-4b3f-a843-baaf9a36361b",
+    "description": "Melaksanakan dan melaporkan kegiatan penelitian tentang UMKM dan ekonomi kreatif",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:28:23.000Z",
+    "updatedAt": "2024-01-24T07:28:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5638fd80-860a-4351-a40c-f52695737365",
+    "ProgramId": "4638a395-a9fd-4cf9-adb4-7189181f7df6",
+    "description": "Melakukan diskusi perancangan kegiatan ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:12:01.000Z",
+    "updatedAt": "2024-01-24T07:12:01.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "56434440-374e-4623-bbd9-29714d4202f8",
+    "ProgramId": "f11809c1-7fa6-443c-b768-940ea5402791",
+    "description": "Melakukan diskusi dengan mitra strategis pada Q1 terkait pemanfaatan teknologi digital",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:12:09.000Z",
+    "updatedAt": "2024-01-24T08:12:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "581eb373-f2f5-4112-ba20-bd3df73e07a1",
+    "ProgramId": "77ca718a-a38a-4de4-9e19-bab3f1196b37",
+    "description": "MoU dengan DPR RI (Q1)",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:21:33.000Z",
+    "updatedAt": "2024-01-24T07:21:33.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "587e5a50-0a9f-43ce-8b34-15fd2046ec1f",
+    "ProgramId": "eccda6d0-439c-4a83-8765-a9354a868670",
+    "description": "Membuat integrasi program KADIN dengan AFTECH",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:08:22.000Z",
+    "updatedAt": "2024-01-24T08:08:22.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "58b6d659-b32b-42c4-8c06-83f9ff0fd4ae",
+    "ProgramId": "c0d0eabd-e035-484b-a10a-9ac68fa529ce",
+    "description": "Penentuan dan pemetaan ekosistem & rantai pasok pangan terpilih \n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:17:02.000Z",
+    "updatedAt": "2024-01-24T04:17:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "59874ea4-f8ab-4dc2-b91e-9864ee93f170",
+    "ProgramId": "910df7e3-fe11-430e-83b9-a86788a0d7c6",
+    "description": "Mengusulkan perubahan /penambahan SOP",
+    "quarter": 2,
+    "createdAt": "2024-01-23T06:57:41.000Z",
+    "updatedAt": "2024-01-23T06:57:41.000Z",
+    "deletedAt": "2024-01-23T06:58:08.000Z"
+  },
+  {
+    "id": "599f1324-53d4-4570-8ee8-321a8ad3cb35",
+    "ProgramId": "4c4536da-b92b-4ea7-8977-2851f9633e00",
+    "description": "Sosialisasi lembaga mediasi bisnis Kadin",
+    "quarter": 3,
+    "createdAt": "2024-01-24T03:26:45.000Z",
+    "updatedAt": "2024-01-24T03:26:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5a51e6a6-aaa4-47f5-b52a-a57f276d8b26",
+    "ProgramId": "647a72e0-1f02-4be1-a2c9-9915817cf2dc",
+    "description": "Penyusunan tools",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:22:21.000Z",
+    "updatedAt": "2024-01-24T06:22:21.000Z",
+    "deletedAt": "2024-01-24T06:26:26.000Z"
+  },
+  {
+    "id": "5a6c7e2e-90e8-4d5a-8b72-657bca2ebbf5",
+    "ProgramId": "b7a1754c-b3aa-41a8-bd74-4d9c448b8d82",
+    "description": "Berkomunikasi dengan Kadin daerah yang dalam pemilihan lokasi pelaksanaan pelatihan",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:32:27.000Z",
+    "updatedAt": "2024-01-23T07:32:27.000Z",
+    "deletedAt": "2024-01-24T03:59:29.000Z"
+  },
+  {
+    "id": "5b38ae0b-b42b-46ac-b7d8-254c2b116b69",
+    "ProgramId": "cfaac2a8-ab03-484d-8cc9-92c8ab3d0a39",
+    "description": "Persiapan lahan budidaya dan mulai budidaya",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:02:46.000Z",
+    "updatedAt": "2024-01-24T07:02:46.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5b4ee70a-753f-4f97-9a16-d727ddd12c1a",
+    "ProgramId": "9c53896f-21c3-4c5d-8f4f-669a781fc4d8",
+    "description": "Koordinasi dengan daerah untuk menentukan tempat dan jadwal penyelenggaraan",
+    "quarter": 3,
+    "createdAt": "2024-01-24T05:41:08.000Z",
+    "updatedAt": "2024-01-24T05:41:08.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5bd452e6-8d5e-42ba-bc33-d2cabae30799",
+    "ProgramId": "503435df-7f8c-424e-826b-983485c6d504",
+    "description": "Bimbingan dan capacity building untuk self declare halal. Dimana sertifikasi halal akan tetap dilakukan oleh K/L terkait",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:53:46.000Z",
+    "updatedAt": "2024-01-24T06:53:46.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5c347887-ce81-46ff-84d7-627816b89cd8",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Pemetaan potensi Pilot Model di anggota KADIN.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5d4589d7-017e-4228-ae39-fb277434e454",
+    "ProgramId": "d0404b72-3483-439d-8651-759e330d06ba",
+    "description": "Mengusulkan perubahan /penambahan SO",
+    "quarter": 2,
+    "createdAt": "2024-01-23T06:59:09.000Z",
+    "updatedAt": "2024-01-23T06:59:09.000Z",
+    "deletedAt": "2024-01-24T03:44:03.000Z"
+  },
+  {
+    "id": "5d878c95-4405-4b45-92c6-4ed27b0f4c91",
+    "ProgramId": "34b69b7d-6455-488e-9e5b-9005f24da75f",
+    "description": "Menunjuk konsultan internasional dari lembaga arbitrase internasional (Chartered Institute of Arbitrators) CIArb",
+    "quarter": 3,
+    "createdAt": "2024-01-24T03:29:49.000Z",
+    "updatedAt": "2024-01-24T03:29:49.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5ddee800-c735-4b3b-a1bc-55eba2bcbd04",
+    "ProgramId": "9049b2af-3e49-43f2-bce2-f85f9bd7330a",
+    "description": "Melaksanakan proyek pilot di wilayah pedesaan \nMenyusun model bisnis berkelanjutan yang mengatasi tantangan biaya tinggi dan keuntungan rendah.\n",
+    "quarter": 3,
+    "createdAt": "2024-01-24T03:53:28.000Z",
+    "updatedAt": "2024-01-24T03:53:28.000Z",
+    "deletedAt": "2024-01-24T03:59:08.000Z"
+  },
+  {
+    "id": "5ec21164-c85e-4d90-8f25-6a7e8af4203f",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Mengelola operasi produksi arang",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5ed64113-8d70-4d9e-9cd9-5a9489732eda",
+    "ProgramId": "a4f4035b-6b05-4f15-80b6-f8764f97f4dc",
+    "description": "MoU dengan pemangku kepentingan  terkait, yaitu pemerintah negara yang dituju dan/atau organisasi maupun perusahaan lokal (negara tersebut",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:52:16.000Z",
+    "updatedAt": "2024-01-24T06:52:16.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5f04421c-3ce3-4b5c-ae56-ffb046682dfc",
+    "ProgramId": "6a83304d-ae03-4d6d-bf5c-c1a736b3c097",
+    "description": "Melaksanakan proyek pilot",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:14:38.000Z",
+    "updatedAt": "2024-01-24T04:14:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5f2261df-a65b-474a-a597-8174414c728d",
+    "ProgramId": "4da3b30d-36e7-4763-85ec-95ef30660636",
+    "description": "Setelah penandatanganan MoU kemudian secara intens menginventarisir,mengkurasi,mengembangkan dan memasarkan produk-produk unggulan UMKM. ",
+    "quarter": 2,
+    "createdAt": "2024-01-23T07:45:16.000Z",
+    "updatedAt": "2024-01-23T07:45:16.000Z",
+    "deletedAt": "2024-01-24T04:23:24.000Z"
+  },
+  {
+    "id": "5ffee27e-d35f-4f45-be12-e68ebd161df6",
+    "ProgramId": "5eff31a6-0dd6-4808-a1b1-88442ce7bc9c",
+    "description": "Menjalankan kegiatan ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:08:26.000Z",
+    "updatedAt": "2024-01-24T07:08:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "601a8db2-061c-4e2a-a15b-95a8a5de4c2d",
+    "ProgramId": "817d21b2-c803-4246-9b39-63c10b601c32",
+    "description": "Nota kesepahaman dengan pemangku kepentingan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:44:53.000Z",
+    "updatedAt": "2024-01-24T06:44:53.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "61191137-9564-426c-b11e-787e1376a49b",
+    "ProgramId": "1fe198b8-2d49-4cda-8c08-b53124e281e6",
+    "description": "Melaksanakan proyek pilot di wilayah pedesaan \nMenyusun model bisnis berkelanjutan yang mengatasi tantangan biaya tinggi dan keuntungan rendah.\n",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:11:55.000Z",
+    "updatedAt": "2024-01-24T04:11:55.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6194427e-3072-4ad3-8700-73cc4b8aa475",
+    "ProgramId": "c176f9b4-fbee-4364-90c3-5f548492953e",
+    "description": "Mengundang atau mendatangi legislatif terkait untuk sosialisasi",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:26:18.000Z",
+    "updatedAt": "2024-01-24T07:26:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "61e70aa2-ccf3-473c-872c-69e350d29788",
+    "ProgramId": "7ab09abd-1963-45be-9805-1b50ca2166c7",
+    "description": "Pelaksanaan program di daerah antara lain Makassar, Palu, DKI dan Kalimantan.",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:56:39.000Z",
+    "updatedAt": "2024-01-24T07:56:39.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "61ff9499-72b9-417f-a7f2-066a11fa6a82",
+    "ProgramId": "1e40ff50-2cde-4846-b5f2-fc1113783f06",
+    "description": "Memberi masukan strategi pengelolaan penyediaan tanah untuk Pembangunan melalui penguatan Model Bisnis Badan Bank Tanah ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:35:51.000Z",
+    "updatedAt": "2024-01-24T07:35:51.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6216d44c-d649-4bd9-8acc-db3a26285a7e",
+    "ProgramId": "606fdebb-2e26-48a3-8104-dba4f3981a44",
+    "description": "Kesepakatan kerjasama antar Kementerian/Lembaga terkait dengan Kadin Indonesia \n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:43:35.000Z",
+    "updatedAt": "2024-01-24T04:43:35.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "628eb5c3-b3cf-47f5-bde3-d981f9668bb4",
+    "ProgramId": "78ad671d-eedc-4ebf-82db-82bfb4498afd",
+    "description": "Audiensi dan kerjasama dengan mitra terkait \n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:49:31.000Z",
+    "updatedAt": "2024-01-24T06:49:31.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "62919fc0-1f02-4f1d-b948-8538260917bc",
+    "ProgramId": "503435df-7f8c-424e-826b-983485c6d504",
+    "description": "Diskusi dengan K/L terkait untuk mencapai wajib halal 2024",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:53:46.000Z",
+    "updatedAt": "2024-01-24T06:53:46.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "62bd3cfd-97b0-4075-b1cc-1038ba8f86a1",
+    "ProgramId": "014904e9-fe44-4d06-8dc8-55207addaea3",
+    "description": "Melakukan diskusi dengan industri yang bergerak di Bidang Industri Olahraga",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:10:33.000Z",
+    "updatedAt": "2024-01-24T07:10:33.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "63d7fccf-4315-4a7d-b44d-e64ec3d31dab",
+    "ProgramId": "8aa05f11-0a53-4807-bf11-5b7569bfa302",
+    "description": "Melakukan evaluasi dan pemantapan program ",
+    "quarter": 4,
+    "createdAt": "2024-01-24T07:04:34.000Z",
+    "updatedAt": "2024-01-24T07:04:34.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "64536604-ce7b-42d7-9f1f-bf1cf57d1b53",
+    "ProgramId": "78ad671d-eedc-4ebf-82db-82bfb4498afd",
+    "description": "Implementasi VBEOC",
+    "quarter": 3,
+    "createdAt": "2024-01-24T06:49:31.000Z",
+    "updatedAt": "2024-01-24T06:49:31.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "651f8a22-2942-47e7-a93f-94084f58e490",
+    "ProgramId": "46c1fe82-9047-4777-8da0-da2b6064379c",
+    "description": "Berkoordinasi dengan pemerintah daerah dan Kadin di provinsi ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:22:20.000Z",
+    "updatedAt": "2024-01-23T07:22:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "658a7df0-c300-4f79-9385-502c0a639e2b",
+    "ProgramId": "2fd5c037-64ee-43b2-aa45-058736d3b5f8",
+    "description": "Koordinasi dan konsultasi  secara reguler dengan BNPP, untuk terkait masukan dan kendala yang dihadapi pelaku usaha dalam berusaha/berinvestasi di Kawasan perbatasan ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:05:27.000Z",
+    "updatedAt": "2024-01-23T07:05:27.000Z",
+    "deletedAt": "2024-01-24T04:40:44.000Z"
+  },
+  {
+    "id": "66368f1a-8a75-4df8-b231-a1b9ebf4791c",
+    "ProgramId": "a8652131-6e15-4628-88d1-97f4a4487400",
+    "description": "Menentukan Lembaga penelitian ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:31:25.000Z",
+    "updatedAt": "2024-01-23T07:31:25.000Z",
+    "deletedAt": "2024-01-24T03:47:52.000Z"
+  },
+  {
+    "id": "66749118-504b-401b-b565-fc9864c7d095",
+    "ProgramId": "703f9d94-e09b-40f3-90f7-2abc207482f3",
+    "description": "Produksi digital marketing campaign yang dilakukan",
+    "quarter": 4,
+    "createdAt": "2024-01-23T07:12:35.000Z",
+    "updatedAt": "2024-01-23T07:12:35.000Z",
+    "deletedAt": "2024-01-24T04:32:57.000Z"
+  },
+  {
+    "id": "66bf6370-6283-469b-b627-55637a8aa568",
+    "ProgramId": "f14cc3de-39fa-439e-9d10-d12f2055a4ff",
+    "description": "Skalabilitas, ekspansi, dan pemantauan berkelanjutan",
+    "quarter": 4,
+    "createdAt": "2024-01-24T03:57:01.000Z",
+    "updatedAt": "2024-01-24T03:57:01.000Z",
+    "deletedAt": "2024-01-24T03:59:14.000Z"
+  },
+  {
+    "id": "67163f5d-83d9-43a7-a0b5-d1ef00d720eb",
+    "ProgramId": "f86a553b-5ce5-4761-8988-2262cacb59af",
+    "description": "Survei & Interview",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:34:48.000Z",
+    "updatedAt": "2024-01-24T06:34:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "671fc2dc-5463-46ca-b752-a0d340a929ed",
+    "ProgramId": "5da8b9c8-b489-4489-9192-8386c76d268a",
+    "description": "Menyusun kegiatan, business case dan strategi untuk mengembangkan jenis produk perikanan yang berdaya saing dan mempunyai nilai tambah",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:55:18.000Z",
+    "updatedAt": "2024-01-24T03:55:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "67ac3ca9-4bc9-4295-921f-bd0529289d16",
+    "ProgramId": "0170bc59-0af6-41c8-84b9-226de1a1f528",
+    "description": "Memantau dan Inventarisasi Daerah yang masih belum terbit RDTR Digital sehingga proses perizinan terhambat ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:31:30.000Z",
+    "updatedAt": "2024-01-24T07:31:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "67b34abe-f50f-42ae-9c89-bfc71b153f68",
+    "ProgramId": "826d4023-d9e0-4ed2-8567-d9d3e1d66fcd",
+    "description": "Bekerja sama dengan penyedia platform digitalisasi usaha",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:34:13.000Z",
+    "updatedAt": "2024-01-24T06:34:13.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "68ed0858-c48a-4782-89e0-39d7997b3b0f",
+    "ProgramId": "bc049c9d-2439-491f-8811-033dfceff3ea",
+    "description": "Persiapan internal",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:06:23.000Z",
+    "updatedAt": "2024-01-24T06:06:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6961825e-9a6c-45dc-bb05-de3c04f7ff5d",
+    "ProgramId": "f4f408f6-7604-43c3-9f4a-e824dcbac883",
+    "description": "Menggali setiap informasi yang dibutuhkan terkait dunia usaha kepada setiap pemangku kepentingan terkait",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:48:54.000Z",
+    "updatedAt": "2024-01-24T06:48:54.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "69ff090e-9fb8-4459-a6b0-0c581275890f",
+    "ProgramId": "817d21b2-c803-4246-9b39-63c10b601c32",
+    "description": "Mengadakan pelatihan, pendampingan dan menyiapkan help desk",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:44:53.000Z",
+    "updatedAt": "2024-01-24T06:44:53.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6a87167e-b5d6-49ee-a8bb-e17460737be1",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Mengembangkan ekowisata mangrove",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6af04d1c-ebf9-4dc2-ab88-c91a97a35a61",
+    "ProgramId": "0170bc59-0af6-41c8-84b9-226de1a1f528",
+    "description": "Berkolaborasi dengan Ikatan ahli perencanaan dalam membantu percepatan RDTR",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:31:30.000Z",
+    "updatedAt": "2024-01-24T07:31:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6b60ef46-b698-454f-b003-63131c4dab28",
+    "ProgramId": "afdabd87-9ad4-48e7-a0bd-b388ba68ded2",
+    "description": "Optimalisasi UMKM  halal untuk memenuhi sebagian kebutuhan industri dan bahan baku halal di Indonesia\n",
+    "quarter": 4,
+    "createdAt": "2024-01-24T07:43:20.000Z",
+    "updatedAt": "2024-01-24T07:43:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6bc195d2-632a-4417-b799-7284ef534058",
+    "ProgramId": "f14cc3de-39fa-439e-9d10-d12f2055a4ff",
+    "description": "Perencanaan strategis dan kemitraan\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:57:01.000Z",
+    "updatedAt": "2024-01-24T03:57:01.000Z",
+    "deletedAt": "2024-01-24T03:59:14.000Z"
+  },
+  {
+    "id": "6bf10eb4-414b-40b5-9e98-8e6ef5e1ced9",
+    "ProgramId": "19714a22-76b9-4daa-8db9-7d0f4c2ec793",
+    "description": "Berpartisipasi aktif dalam sosialisasi kepemilikan asing",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:55:17.000Z",
+    "updatedAt": "2024-01-24T07:55:17.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6c185450-4b16-4485-aaca-f47b5f362999",
+    "ProgramId": "7d50642a-13b7-4bee-9e0a-dccaeb7bffad",
+    "description": "Memfasilitasi dan terlibat dalam penyusunan peraturan terkait pasar karbon.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:42:29.000Z",
+    "updatedAt": "2024-01-24T07:42:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6c2a5757-dc7a-49e7-8e3e-a311ecea60cd",
+    "ProgramId": "0b497187-4157-4da0-bd2c-8bc8f4877ce3",
+    "description": "Menganalisis pemahaman terkait pentingnya BIM ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:50:58.000Z",
+    "updatedAt": "2024-01-23T07:50:58.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6c93c7f7-e695-4a3b-8cdb-11c0febf6c47",
+    "ProgramId": "0170bc59-0af6-41c8-84b9-226de1a1f528",
+    "description": "Menyampaikan aspirasi baik secara tertulis maupun dalam forum-forum bersama Kementerian ATR dan Melakukan sosialisasi pentingnya RDTR dalam proses perizinan berusaha",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:31:30.000Z",
+    "updatedAt": "2024-01-24T07:31:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6cc732a3-94da-4d92-aa55-9a09afa00356",
+    "ProgramId": "52ec8705-b58d-4979-9b7f-e417430616d3",
+    "description": "Pematangan konsep dan mencari partner perusahaan besar",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:12:09.000Z",
+    "updatedAt": "2024-01-24T04:12:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6d1f9826-3874-4329-a885-3947faeb1f06",
+    "ProgramId": "58dfd5ed-fcc9-4dfe-8391-e02c04d04215",
+    "description": "Mempersiapkan fasilitas dan infrastruktur",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:04:06.000Z",
+    "updatedAt": "2024-01-24T06:04:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6d4fa5ef-9d2a-4e0a-a0da-442175ec1af5",
+    "ProgramId": "81689bc2-d510-4722-9f9c-ab06eccedda6",
+    "description": "Pelaksanaan kegiatan keorganisasian Kadin",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:22:19.000Z",
+    "updatedAt": "2024-01-24T04:22:19.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6d7aff9b-32ca-4e6b-ad7f-84da8cad8851",
+    "ProgramId": "f6a20317-3744-4814-8bdc-5d388d0778ba",
+    "description": "Membuat kajian RUU Migas penyampaian kajian RUU Migas ",
+    "quarter": 2,
+    "createdAt": "2024-01-23T08:20:24.000Z",
+    "updatedAt": "2024-01-23T08:20:24.000Z",
+    "deletedAt": "2024-01-24T06:07:26.000Z"
+  },
+  {
+    "id": "6e7cdc1f-e537-4bfa-ae14-fb5f97a8bd04",
+    "ProgramId": "8aa05f11-0a53-4807-bf11-5b7569bfa302",
+    "description": "Quick win project pengembangan agrowisata danau toba sisi selatan, kampung baduy, wisata bahari ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:04:34.000Z",
+    "updatedAt": "2024-01-24T07:04:34.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6ef430f4-f734-4abe-8a3a-e9e1a91b62e4",
+    "ProgramId": "5cbfae70-ed61-4b5b-aac2-2dae734835ef",
+    "description": "Membentuk gugus tugas dengan Kemenkumham\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:32:12.000Z",
+    "updatedAt": "2024-01-24T03:32:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6f304ec2-d31e-439c-a857-0a962478ddf0",
+    "ProgramId": "4e408f4e-b3e5-4acd-8499-92bcadab1e2d",
+    "description": "Melakukan penandatanganan MoU Kadin dengan Kapolri dan Kejaksaan ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:06:25.000Z",
+    "updatedAt": "2024-01-24T07:06:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7007aa78-04d2-4011-9d41-bf16ce9f9a5b",
+    "ProgramId": "324d6c8f-0aef-4aae-b2ff-e9ae58105316",
+    "description": "Monitoring pelaksanaan Program Kadin di Daerah ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:41:05.000Z",
+    "updatedAt": "2024-01-23T07:41:05.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7041c80c-08b7-4141-808e-121e87f14614",
+    "ProgramId": "910df7e3-fe11-430e-83b9-a86788a0d7c6",
+    "description": "Mengidentifikasi area area yang masih bisa ditingkatkan",
+    "quarter": 1,
+    "createdAt": "2024-01-23T06:57:41.000Z",
+    "updatedAt": "2024-01-23T06:57:41.000Z",
+    "deletedAt": "2024-01-23T06:58:08.000Z"
+  },
+  {
+    "id": "70fe7c3d-4350-4c58-915e-abe4744014e4",
+    "ProgramId": "1fe198b8-2d49-4cda-8c08-b53124e281e6",
+    "description": "Kerjasama dengan Kadinda\nPendekatan intensif kepada Kadinda \n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:11:55.000Z",
+    "updatedAt": "2024-01-24T04:11:55.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "726e3f39-1f28-4132-a833-28effef8aa49",
+    "ProgramId": "014904e9-fe44-4d06-8dc8-55207addaea3",
+    "description": "Membentuk Instansi Industri Olahraga",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:10:33.000Z",
+    "updatedAt": "2024-01-24T07:10:33.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "73a2458f-2ebd-4cec-b86e-03a941da07d2",
+    "ProgramId": "e15754bb-b79c-4268-a06e-ede593854506",
+    "description": "Terbit PO hasil penyempurnaan ",
+    "quarter": 2,
+    "createdAt": "2024-01-23T07:39:51.000Z",
+    "updatedAt": "2024-01-23T07:39:51.000Z",
+    "deletedAt": "2024-01-24T04:20:51.000Z"
+  },
+  {
+    "id": "74d7f6ad-043c-451f-bba6-1acf1e108f2e",
+    "ProgramId": "fc66937c-dc0c-4de0-89b0-379c1c193ee7",
+    "description": "Penyusunan topik",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:38:28.000Z",
+    "updatedAt": "2024-01-24T06:38:28.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7545799d-16d4-4567-81f0-3cd48a940caf",
+    "ProgramId": "8622fea4-8e5f-4a18-9a55-562430cf4692",
+    "description": "Rapat Koordinasi Kadin dengan Kejaksaan ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:17:54.000Z",
+    "updatedAt": "2024-01-24T07:17:54.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "75825950-a155-4fd7-998e-ab0d17740b33",
+    "ProgramId": "a8199880-8dc7-4272-b4c8-9b80dfe21da5",
+    "description": "Mensosialisasikan manfaat dan peluang dengan menjadi ALB Kadin Indonesia",
+    "quarter": 3,
+    "createdAt": "2024-01-24T03:20:11.000Z",
+    "updatedAt": "2024-01-24T03:20:11.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "762e3e07-79a9-4f31-a28d-2da518842ecb",
+    "ProgramId": "8622fea4-8e5f-4a18-9a55-562430cf4692",
+    "description": "Monitoring pelaksanaan kegiatan bersama di pusat dan di Daerah",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:17:54.000Z",
+    "updatedAt": "2024-01-24T07:17:54.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7753d938-90ca-4439-bd49-67b997113c11",
+    "ProgramId": "74db74ac-8e85-43dd-a333-b5664ab5bd19",
+    "description": "Mencari potensi pasar yang belum terpenuhi suplainya, baik global maupun lokal\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:02:41.000Z",
+    "updatedAt": "2024-01-24T08:02:41.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7798fcae-39ba-422e-8b23-6f892fe0bcb4",
+    "ProgramId": "c25c9e45-f9bf-406f-a9a1-de45e4604784",
+    "description": "Audiensi dengan Kepala Daerah dan menjajaki peluang kerjasama",
+    "quarter": 3,
+    "createdAt": "2024-01-24T05:34:17.000Z",
+    "updatedAt": "2024-01-24T05:34:17.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "78f951e9-79f9-472e-a5d5-aece9e83c49e",
+    "ProgramId": "507475ca-e7b9-4a2a-998b-bb92d366711a",
+    "description": "FGD dan implementasi kesepakatan kerjasama antar lembaga / kementerian terkait dengan Kadin Indonesia ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:51:02.000Z",
+    "updatedAt": "2024-01-24T07:51:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "79a8e36d-d11c-40f6-9b15-3dad56a7df86",
+    "ProgramId": "1a784800-cbc2-4eab-9f0a-e50be5b3ddf1",
+    "description": "Mengundang atau mendatangi pemerintah terkait untuk sosialisasi",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:23:57.000Z",
+    "updatedAt": "2024-01-24T03:23:57.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "79aa2e6e-c2d6-4e98-a80d-a2a829f6794d",
+    "ProgramId": "1a0f8aed-46c7-45d1-b3b2-5dfd21028820",
+    "description": "Memfasilitasi dan terlibat dalam penyusunan peraturan terkait pasar karbon.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:32:43.000Z",
+    "updatedAt": "2024-01-24T07:32:43.000Z",
+    "deletedAt": "2024-01-24T07:52:52.000Z"
+  },
+  {
+    "id": "7a4f7d90-eff8-42b6-9dcb-4c0b69a617a8",
+    "ProgramId": "c0d0eabd-e035-484b-a10a-9ac68fa529ce",
+    "description": "Sosialisasi program kepada Kadinda di Wilayah Sumatera \n",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:17:02.000Z",
+    "updatedAt": "2024-01-24T04:17:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7a8c32d2-baa3-4832-b1b6-13db26bd445e",
+    "ProgramId": "34b69b7d-6455-488e-9e5b-9005f24da75f",
+    "description": "Pendirian Badan Arbitrase Kadin",
+    "quarter": 4,
+    "createdAt": "2024-01-24T03:29:49.000Z",
+    "updatedAt": "2024-01-24T03:29:49.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7aecc7d0-d9f7-433c-aef2-bb9878d5dccc",
+    "ProgramId": "c7c82a87-aefe-4bd5-8dbd-1b90d803e9f1",
+    "description": "Terselenggaranya ASEAN Weekend Market ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:59:07.000Z",
+    "updatedAt": "2024-01-24T06:59:07.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7b411d1a-ed37-4d0b-ba54-9acb97041a70",
+    "ProgramId": "e2dc8931-5f32-4a70-aea1-3eff418d9fda",
+    "description": "Mengundang investor dalam negeri dan luar negeri",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:47:54.000Z",
+    "updatedAt": "2024-01-24T03:47:54.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7c284f56-36a8-41d2-b374-b91fff08d665",
+    "ProgramId": "9c53896f-21c3-4c5d-8f4f-669a781fc4d8",
+    "description": "Pembentukan panitia",
+    "quarter": 1,
+    "createdAt": "2024-01-24T05:41:08.000Z",
+    "updatedAt": "2024-01-24T05:41:08.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7ca36285-4a7c-4794-9821-4be0f3083775",
+    "ProgramId": "b325a44e-45a7-47e2-9af8-ec0814340979",
+    "description": "Mengadakan FGD untuk menjadi bahan rekomendasi (Q2)",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:36:45.000Z",
+    "updatedAt": "2024-01-24T06:36:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7cacbbaf-9d69-4711-a87b-a1def3b50e64",
+    "ProgramId": "fddc44fe-440b-4164-a07b-0dca4ab4897a",
+    "description": "Melaksanakan webinar, dan seminar terkait edukasi literasi keuangan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:06:52.000Z",
+    "updatedAt": "2024-01-24T08:06:52.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7d4176ce-e0b0-4791-9752-ac46b4804f08",
+    "ProgramId": "826d4023-d9e0-4ed2-8567-d9d3e1d66fcd",
+    "description": "Mengedukasi nasabah untuk bergabung dalam platform digital dan mendaftar ijin usaha ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:34:13.000Z",
+    "updatedAt": "2024-01-24T06:34:13.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7d6c3660-e07e-4d7a-8467-08076b0b4dd1",
+    "ProgramId": "eeaf7a2e-96d7-4ee8-ab16-0079e220705f",
+    "description": "Melakukan Business Forum\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:26:25.000Z",
+    "updatedAt": "2024-01-24T07:26:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7d793670-aaa3-42c3-b049-f414de134521",
+    "ProgramId": "fddc44fe-440b-4164-a07b-0dca4ab4897a",
+    "description": "Training keamanan siber, perlindungan data pribadi, mitigasi risiko IT dan keuangan.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:06:52.000Z",
+    "updatedAt": "2024-01-24T08:06:52.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7e5016ed-e1bf-4c46-9634-5300a7624214",
+    "ProgramId": "703f9d94-e09b-40f3-90f7-2abc207482f3",
+    "description": "Kegiatan digital marketing campaign yang dilakukan di saluran pemasaran yang ada dan jejaring KADIN",
+    "quarter": 4,
+    "createdAt": "2024-01-23T07:12:35.000Z",
+    "updatedAt": "2024-01-23T07:12:35.000Z",
+    "deletedAt": "2024-01-24T04:32:57.000Z"
+  },
+  {
+    "id": "7ec39e55-bd55-458f-81c2-41730984bacf",
+    "ProgramId": "ca42d1ed-bbda-4e48-a9cd-70e9cffcf24a",
+    "description": "Ekspansi program ke Aceh dan Sumatera Selatan ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T06:40:59.000Z",
+    "updatedAt": "2024-01-24T06:40:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7f255e27-d1b2-436d-8432-6975eb63cd24",
+    "ProgramId": "507475ca-e7b9-4a2a-998b-bb92d366711a",
+    "description": "Rapat Kerja BES Kadin tahun 2024 \n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:51:02.000Z",
+    "updatedAt": "2024-01-24T07:51:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7f2898b2-53fe-42c2-b412-38109fe8fc36",
+    "ProgramId": "1ac78b6c-0fc9-4e5e-ab34-68c35283d46a",
+    "description": "Persiapan program pelatihan ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:15:36.000Z",
+    "updatedAt": "2024-01-24T07:15:36.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7f503e16-5863-4c31-b805-13f4b8f6885f",
+    "ProgramId": "0dab674c-c56b-4c29-8fa2-a0b2f677931c",
+    "description": "Koordinasi dan Rakor dengan Kementerian ATR dan Sekretariat LSD\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:33:20.000Z",
+    "updatedAt": "2024-01-24T07:33:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7f965614-52b5-4bd3-864e-5cfe1894e6a6",
+    "ProgramId": "e6c44f7a-b3da-4939-8abd-6055943a7d22",
+    "description": "Survey kepada Segenap Masyarakat Jasa Konstruksi\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:14:47.000Z",
+    "updatedAt": "2024-01-24T07:14:47.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7fdf6c49-155c-4394-965e-73219f70f811",
+    "ProgramId": "a4f4035b-6b05-4f15-80b6-f8764f97f4dc",
+    "description": "Mengecek keabsahan dan kebenaran informasi sebelum memposting di website dan media sosial Wiki Wirausaha ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:52:16.000Z",
+    "updatedAt": "2024-01-24T06:52:16.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "7fec7192-4d72-41ff-9afc-75e1e0219c8b",
+    "ProgramId": "24edac85-8d02-477a-a618-f7eaf0e1de79",
+    "description": "Menjaring peserta",
+    "quarter": 4,
+    "createdAt": "2024-01-24T08:45:26.000Z",
+    "updatedAt": "2024-01-24T08:45:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "80645584-146b-4b10-8e2c-f8483ea2a437",
+    "ProgramId": "8f4df089-0ffb-41e8-b098-11483bfa439a",
+    "description": "Berkoordinasi dengan seluruh WKU/Kaban terkait kegiatan sinergi dengan Kadin daerah",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:37:54.000Z",
+    "updatedAt": "2024-01-24T04:37:54.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "80701995-d5e3-4478-b9cc-69e111c5e14f",
+    "ProgramId": "697e7546-4cf5-4439-9d58-37668645eb1c",
+    "description": "Mendorong perusahaan pertambangan skala besar untuk bersinergi jasa pertambangan lokal  Mendorong perusahaan pertambangan skala besar untuk melibatkan pemilik lahan dalam mengelola sumberdaya yang terkandung di dalamnya",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:00:22.000Z",
+    "updatedAt": "2024-01-24T07:00:22.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "807bfaec-065d-4745-9a22-3a97a9f840af",
+    "ProgramId": "a98b0d06-905a-4c3b-999f-28bcb0c7823a",
+    "description": "Implementasi penyelenggaraan kuliah umum/pelatihan \n",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:36:58.000Z",
+    "updatedAt": "2024-01-24T07:36:58.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8096d997-8838-4349-9219-77e3c9091ba9",
+    "ProgramId": "606fdebb-2e26-48a3-8104-dba4f3981a44",
+    "description": "Koordinasi dan konsultasi secara reguler dengan BNPP, terkait potensi kontribusi pengelolaan kawasan perbatasan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:43:35.000Z",
+    "updatedAt": "2024-01-24T04:43:35.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "809aa713-5a44-4bfc-bc68-d9a3499d67d1",
+    "ProgramId": "507475ca-e7b9-4a2a-998b-bb92d366711a",
+    "description": "Sinkronisasi  kebijakan terkait HVC untuk mendukung terciptanya pengembangan industri halal dan infrastruktur industri produk halal, seperti lab halal, sertifikasi, dan pelatihan halal, auditor halal, logistik halal dan lainnya",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:51:02.000Z",
+    "updatedAt": "2024-01-24T07:51:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "810d318c-00ca-42a7-8170-b14747c24d75",
+    "ProgramId": "9c53896f-21c3-4c5d-8f4f-669a781fc4d8",
+    "description": "Pembuatan video tutorial mock up packaging",
+    "quarter": 2,
+    "createdAt": "2024-01-24T05:41:08.000Z",
+    "updatedAt": "2024-01-24T05:41:08.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "82031bce-2cbd-47fb-8524-695abef85526",
+    "ProgramId": "a8652131-6e15-4628-88d1-97f4a4487400",
+    "description": "TOR dan deskripsi ruang lingkup penelitian",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:31:25.000Z",
+    "updatedAt": "2024-01-23T07:31:25.000Z",
+    "deletedAt": "2024-01-24T03:47:52.000Z"
+  },
+  {
+    "id": "82173077-05ec-4ca8-9bd6-1eb753da5634",
+    "ProgramId": "0f6d74eb-aab3-409b-8fe9-f98e46c75eb8",
+    "description": "Dialog dan lobby yang intens dengan Kemendag dan kantor EU di Jakarta dan Brussels. ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:29:20.000Z",
+    "updatedAt": "2024-01-24T07:29:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8229c1e0-9098-4eeb-8d0d-25a652ae5e0b",
+    "ProgramId": "6e848eba-af2a-4cbe-9e6e-affdb8a45452",
+    "description": "Updating data TKK bersertifikasi kompetensi (fresh graduates)",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:17:26.000Z",
+    "updatedAt": "2024-01-24T07:17:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "824d28b2-b71d-46a4-9584-58ebb700b985",
+    "ProgramId": "faff1000-2709-441f-8d2a-bd424d7274ab",
+    "description": "Melaksanakan forum diskusi dengan pemangku kepentingan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:04:09.000Z",
+    "updatedAt": "2024-01-24T07:04:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "82bfec0e-c7cc-4676-aa12-ba7abfa1b2b2",
+    "ProgramId": "008e5ed6-de57-49f2-af4f-4539dc566bb0",
+    "description": "Dapat disetujui di bulan Des 2022 ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T06:53:23.000Z",
+    "updatedAt": "2024-01-23T06:53:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "83142e56-c926-4460-a193-e42bfe786ef9",
+    "ProgramId": "0aafe59a-491b-4cbd-8463-bf48d3963455",
+    "description": "Melakukan kolaborasi dengan Kemnaker\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:30:48.000Z",
+    "updatedAt": "2024-01-24T06:30:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "839dd68d-1ae1-4979-aa50-584da11585c7",
+    "ProgramId": "4e68bf5e-761c-4d9b-a57f-3b45f06f1d0c",
+    "description": "Mendorong perusahaan pertambangan skala besar untuk bersinergi jasa pertambangan lokal  Mendorong perusahaan pertambangan skala besar untuk melibatkan pemilik lahan dalam mengelola sumber daya yang terkandung di dalamnya",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:55:44.000Z",
+    "updatedAt": "2024-01-24T06:55:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "84c32ac5-f57f-45c3-ba46-fc3397686aaa",
+    "ProgramId": "eeaf7a2e-96d7-4ee8-ab16-0079e220705f",
+    "description": "Pertemuan dengan Perwakilan Kedutaan negara sahabat\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:26:25.000Z",
+    "updatedAt": "2024-01-24T07:26:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "851a675f-e408-4a96-a867-61b02b25860d",
+    "ProgramId": "5f721857-aa0c-485b-ab91-7ae17250aadf",
+    "description": "Melakukan perancangan, dan konsultasi terkait hambatan pelaku industri untuk menerapkan UU",
+    "quarter": 2,
+    "createdAt": "2024-01-24T08:17:09.000Z",
+    "updatedAt": "2024-01-24T08:17:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "851cbc24-ecc2-48c9-873c-08d76423ecfe",
+    "ProgramId": "f14cc3de-39fa-439e-9d10-d12f2055a4ff",
+    "description": "Menetapkan sistem pemantauan berkelanjutan untuk memastikan keberlanjutan program",
+    "quarter": 4,
+    "createdAt": "2024-01-24T03:57:01.000Z",
+    "updatedAt": "2024-01-24T03:57:01.000Z",
+    "deletedAt": "2024-01-24T03:59:14.000Z"
+  },
+  {
+    "id": "851f7c0e-2cbf-4400-968a-e3215a8af4c7",
+    "ProgramId": "03029736-6ccf-460b-b553-38a86326319b",
+    "description": "Identifikasi kebutuhan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:25:12.000Z",
+    "updatedAt": "2024-01-24T07:25:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "85282030-90dc-4150-b21e-7061c1197b26",
+    "ProgramId": "014904e9-fe44-4d06-8dc8-55207addaea3",
+    "description": "Melakukan advokasi terkait pentingnya pengembangan industri olahraga Indonesia kepada pemerintah",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:10:33.000Z",
+    "updatedAt": "2024-01-24T07:10:33.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "855aa3ca-f49e-4739-8c01-8cb4ed1cbbd9",
+    "ProgramId": "6a83304d-ae03-4d6d-bf5c-c1a736b3c097",
+    "description": "Penyusunan model bisnis\n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:14:38.000Z",
+    "updatedAt": "2024-01-24T04:14:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8585e40c-aed9-48bf-a23e-e9f287b13a76",
+    "ProgramId": "cbf6f0ad-d5b9-4c25-9656-f9a588f2cee0",
+    "description": "Raker persiapan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:19:02.000Z",
+    "updatedAt": "2024-01-24T07:19:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "85aeb115-8bd2-4edf-bfcc-ff492c996e80",
+    "ProgramId": "b59d6a93-3fa1-4c5c-8499-f9600f9ac2bb",
+    "description": "Penyampaian Buletin UU oleh Kepala Badan Hubungan Legislatif kepada Ketua Umum dan seluruh jaringan Kadin ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:23:28.000Z",
+    "updatedAt": "2024-01-24T07:23:28.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "86452832-da28-42af-8781-6945e0d27017",
+    "ProgramId": "2b0a2feb-d050-428d-9f37-8dfad0cefc71",
+    "description": "Pelatihan & Scale up  UMKM halal serta membuka akses pembiayaan  untuk meningkatkan kualitas dan daya saing produk",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:46:59.000Z",
+    "updatedAt": "2024-01-24T07:46:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "86c839a0-978a-4411-8af9-40514a6db54b",
+    "ProgramId": "b9283cef-19f9-4353-aaa6-dbe2a0001249",
+    "description": "Instal program Akuntansi Accurate ke seluruh Kadin Daerah",
+    "quarter": 2,
+    "createdAt": "2024-01-23T06:54:45.000Z",
+    "updatedAt": "2024-01-23T06:54:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "874616ad-659f-4e42-aab9-47499194b2a9",
+    "ProgramId": "647a72e0-1f02-4be1-a2c9-9915817cf2dc",
+    "description": "Survei & Interview",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:22:21.000Z",
+    "updatedAt": "2024-01-24T06:22:21.000Z",
+    "deletedAt": "2024-01-24T06:26:26.000Z"
+  },
+  {
+    "id": "87641e61-7717-4ff2-bb8b-1670a78659b7",
+    "ProgramId": "bc049c9d-2439-491f-8811-033dfceff3ea",
+    "description": "Evaluasi acara",
+    "quarter": 4,
+    "createdAt": "2024-01-24T06:06:23.000Z",
+    "updatedAt": "2024-01-24T06:06:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "881dc55a-9ae9-432b-838c-a68e5eb63739",
+    "ProgramId": "4c4536da-b92b-4ea7-8977-2851f9633e00",
+    "description": "Pembentukan Lembaga Mediasi Bisnis Kadin\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:26:45.000Z",
+    "updatedAt": "2024-01-24T03:26:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "884126f2-0e26-4bce-89e4-6df1603de4b0",
+    "ProgramId": "f86a553b-5ce5-4761-8988-2262cacb59af",
+    "description": "Penyusunan tools",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:34:48.000Z",
+    "updatedAt": "2024-01-24T06:34:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "88497d8a-e7ad-4239-a12c-a28661aab380",
+    "ProgramId": "c25c9e45-f9bf-406f-a9a1-de45e4604784",
+    "description": "Membuat studi kelayakan pembangunan infrastruktur dan sarana transportasi di daerah terpilih",
+    "quarter": 4,
+    "createdAt": "2024-01-24T05:34:17.000Z",
+    "updatedAt": "2024-01-24T05:34:17.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "88ba2ff1-d003-4f84-a418-7065c0031080",
+    "ProgramId": "52ec8705-b58d-4979-9b7f-e417430616d3",
+    "description": "Eksekusi program",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:12:09.000Z",
+    "updatedAt": "2024-01-24T04:12:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "898dfe89-63d5-4641-b261-c9e0742cced4",
+    "ProgramId": "9f170e57-ab3a-4809-b222-649baa7cc15c",
+    "description": "FGD multipihak",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:11:43.000Z",
+    "updatedAt": "2024-01-24T07:11:43.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "89b95ead-02ae-45b3-b4aa-edfb4027497a",
+    "ProgramId": "19a4a2ba-99f2-4ad0-bea6-099e0c030249",
+    "description": "Memeriksa dan mencatat pelanggaran yang ada ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:33:14.000Z",
+    "updatedAt": "2024-01-24T03:33:14.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "89e539d0-894f-44da-928f-a8a791cb3425",
+    "ProgramId": "1729e2bd-6603-41cc-9004-2f242fc5d52c",
+    "description": "Melaksanakan kegiatan sesuai dengan kebutuhan ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:01:46.000Z",
+    "updatedAt": "2024-01-24T04:01:46.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8a0435e5-324e-4369-923f-6f7bd2d9bda2",
+    "ProgramId": "f4f408f6-7604-43c3-9f4a-e824dcbac883",
+    "description": "Melakukan riset dan pengembangan terhadap website agar fitur yang dihadirkan tepat guna",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:48:54.000Z",
+    "updatedAt": "2024-01-24T06:48:54.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8b70bfbc-6415-4775-8259-ab23ceca9af6",
+    "ProgramId": "606fdebb-2e26-48a3-8104-dba4f3981a44",
+    "description": "Pelaksanaan pembangunan kawasan perbatasan",
+    "quarter": 4,
+    "createdAt": "2024-01-24T04:43:35.000Z",
+    "updatedAt": "2024-01-24T04:43:35.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8b7286ea-0396-4d1c-a230-86fbff7e396e",
+    "ProgramId": "17e8d7c5-2a10-4b5a-a822-abb4a840529c",
+    "description": "Perbaikan model bisnis pinjaman Mekaar PNM secara cashless ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:53:32.000Z",
+    "updatedAt": "2024-01-23T07:53:32.000Z",
+    "deletedAt": "2024-01-24T06:07:08.000Z"
+  },
+  {
+    "id": "8bc9af61-97af-4219-bbfe-0a96893a86e6",
+    "ProgramId": "9f170e57-ab3a-4809-b222-649baa7cc15c",
+    "description": "Raker Persiapan\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:11:43.000Z",
+    "updatedAt": "2024-01-24T07:11:43.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8c50627e-37eb-401f-bf5f-b80f9f443200",
+    "ProgramId": "30539dba-bd50-4b3f-a843-baaf9a36361b",
+    "description": "Diseminasi hasil survei",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:28:23.000Z",
+    "updatedAt": "2024-01-24T07:28:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8cb4af14-13d7-4277-b91f-3b6e48671f4d",
+    "ProgramId": "647a72e0-1f02-4be1-a2c9-9915817cf2dc",
+    "description": "Uji validitas tools",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:22:21.000Z",
+    "updatedAt": "2024-01-24T06:22:21.000Z",
+    "deletedAt": "2024-01-24T06:26:26.000Z"
+  },
+  {
+    "id": "8d107143-9986-481b-83c4-ffc57a083d21",
+    "ProgramId": "503435df-7f8c-424e-826b-983485c6d504",
+    "description": "Menyampaikan rekomendasi Kadin kepada K/L terkait",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:53:46.000Z",
+    "updatedAt": "2024-01-24T06:53:46.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8d66190a-6309-4b11-bd54-51925d29e633",
+    "ProgramId": "b325a44e-45a7-47e2-9af8-ec0814340979",
+    "description": "Nota kesepahaman antara Kadin dengan Kementerian PPN (Q1)",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:36:45.000Z",
+    "updatedAt": "2024-01-24T06:36:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8d70a4c4-d695-4ca2-8341-1e55bc52b2df",
+    "ProgramId": "6ee1b582-52ae-4b7e-b89d-255f09b9b67b",
+    "description": "FGD bersama dengan asosiasi-asosiasi terkait film, animasi, dan konten. ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:39:20.000Z",
+    "updatedAt": "2024-01-24T08:39:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8dafd190-0f9c-4dc1-af7f-f3c5ff167b95",
+    "ProgramId": "606fdebb-2e26-48a3-8104-dba4f3981a44",
+    "description": "Berkoordinasi dengan Kadin Provinsi, Kadin Kabupaten dan anggota Kadin yang berpotensi untuk berkontribusi dalam pembangunan kawasan perbatasan ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:43:35.000Z",
+    "updatedAt": "2024-01-24T04:43:35.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8db73eaf-5b74-4a79-9c73-a7c19eb96fc9",
+    "ProgramId": "c25c9e45-f9bf-406f-a9a1-de45e4604784",
+    "description": "Melakukan identifikasi dan observasi terkait tantangan/ masalah di beberapa daerah",
+    "quarter": 1,
+    "createdAt": "2024-01-24T05:34:17.000Z",
+    "updatedAt": "2024-01-24T05:34:17.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8ddaf667-d38d-49f6-be5e-9aac5ebafafd",
+    "ProgramId": "4e68bf5e-761c-4d9b-a57f-3b45f06f1d0c",
+    "description": "Mendorong pendelegasian sebagian kewenangan perizinan dan KAIT Pusat kepada daerah\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:55:44.000Z",
+    "updatedAt": "2024-01-24T06:55:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8df1a727-9252-4e76-8b01-54747febc6eb",
+    "ProgramId": "15e0317a-1620-4fc4-993b-f7e50b9ccf2f",
+    "description": "Persiapan internal",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:04:29.000Z",
+    "updatedAt": "2024-01-24T06:04:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8df67b1a-9e11-4f51-bedf-1cc945b37393",
+    "ProgramId": "2ba6b515-d882-4722-acad-275a15d2eb00",
+    "description": "Lanjutan sosialisasi kepada Anggota KADIN untuk bergabung di PaDi UMKM",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:37:15.000Z",
+    "updatedAt": "2024-01-24T06:37:15.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8e2ad840-e0d7-4d01-b4de-795ea637a95b",
+    "ProgramId": "b9aa938f-96f4-4645-bc52-b212db77cefc",
+    "description": "Memulai pemetaan dan perencanaan kegiatan pokja hilirisasi minerba",
+    "quarter": 1,
+    "createdAt": "2024-01-24T05:58:30.000Z",
+    "updatedAt": "2024-01-24T05:58:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8e491811-8ebb-45ae-b219-e26b0589aabe",
+    "ProgramId": "15e0317a-1620-4fc4-993b-f7e50b9ccf2f",
+    "description": "Persiapan bersama Kementerian ESDM",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:04:29.000Z",
+    "updatedAt": "2024-01-24T06:04:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8e783cc7-6558-4a85-8bb8-d8c278c91553",
+    "ProgramId": "8667c74c-f5d0-4d66-a9c7-8dfcc869abef",
+    "description": "Memulai pemetaan dan perencanaan kegiatan.\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:07:50.000Z",
+    "updatedAt": "2024-01-24T04:07:50.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8e9ba26f-5a24-499d-a642-b1c57178545b",
+    "ProgramId": "4e408f4e-b3e5-4acd-8499-92bcadab1e2d",
+    "description": "Mensosialisasikan program ke daerah daerah.",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:06:25.000Z",
+    "updatedAt": "2024-01-24T07:06:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8f18a060-af04-4622-a892-ee1c5b193ba4",
+    "ProgramId": "d67c9a8a-5ea5-49fa-a971-dc957b08b9cb",
+    "description": "Membuat nota kesepahaman dengan pemangku kepentingan",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:34:34.000Z",
+    "updatedAt": "2024-01-24T07:34:34.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "90d11047-1227-4703-90dc-69939bbdaa4e",
+    "ProgramId": "634d3174-5cd6-481a-9881-29620c48d8df",
+    "description": "Perumusan kebijakan prioritas yang dibutuhkan ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T08:42:34.000Z",
+    "updatedAt": "2024-01-24T08:42:34.000Z",
+    "deletedAt": "2024-01-24T08:47:02.000Z"
+  },
+  {
+    "id": "911223c7-86d5-4992-99eb-1d0718300cae",
+    "ProgramId": "2e8d5d9c-7b4e-416d-8f03-256896239bc0",
+    "description": "Berdiri “Pusat Pelatihan Kadin” \n",
+    "quarter": 3,
+    "createdAt": "2024-01-23T06:35:15.000Z",
+    "updatedAt": "2024-01-23T06:35:15.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "912a3a27-c065-4c6a-b4a4-86d312839225",
+    "ProgramId": "f6a20317-3744-4814-8bdc-5d388d0778ba",
+    "description": "Melakukan koordinasi dengan KKS ",
+    "quarter": 2,
+    "createdAt": "2024-01-23T08:20:24.000Z",
+    "updatedAt": "2024-01-23T08:20:24.000Z",
+    "deletedAt": "2024-01-24T06:07:26.000Z"
+  },
+  {
+    "id": "91cbac9a-dbbe-424d-a512-37853e1187ce",
+    "ProgramId": "a8652131-6e15-4628-88d1-97f4a4487400",
+    "description": "Survey Pasar Perangkat lunak, untuk kepentingan nasional",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:31:25.000Z",
+    "updatedAt": "2024-01-23T07:31:25.000Z",
+    "deletedAt": "2024-01-24T03:47:52.000Z"
+  },
+  {
+    "id": "923e6f12-f8b8-43b9-adfd-88a11376917c",
+    "ProgramId": "c0d92e02-8338-4dd0-b366-97cf59d01c6c",
+    "description": "Membuat  panduan hukum dalam melakukan investasi di Indonesia",
+    "quarter": 2,
+    "createdAt": "2024-01-23T07:28:12.000Z",
+    "updatedAt": "2024-01-23T07:28:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9282026b-e6b9-4e8a-ac9c-96e894fcb2f2",
+    "ProgramId": "703f9d94-e09b-40f3-90f7-2abc207482f3",
+    "description": "Pemetaan produk unggulan UMKM NTB NTT yang perlu dilakukan digital marketing campaign",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:12:35.000Z",
+    "updatedAt": "2024-01-23T07:12:35.000Z",
+    "deletedAt": "2024-01-24T04:32:57.000Z"
+  },
+  {
+    "id": "93441d3c-7fe4-4b78-a61e-22f9b3bb3950",
+    "ProgramId": "34b69b7d-6455-488e-9e5b-9005f24da75f",
+    "description": "Studi banding badan arbitrase di Singapura\n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:29:49.000Z",
+    "updatedAt": "2024-01-24T03:29:49.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "936513d3-eb10-4760-9f8e-9dca26cd8306",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Mengelola kegiatan Percontohan di zona inti dan perbatasan mangrove",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "939756a9-8693-4ccc-9a18-6235eeb8fbf8",
+    "ProgramId": "b325a44e-45a7-47e2-9af8-ec0814340979",
+    "description": "Audiensi dengan Menteri PPN/Bappenas (Q1)",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:36:45.000Z",
+    "updatedAt": "2024-01-24T06:36:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "93ad5989-df39-4cfc-83b8-5f766223ded7",
+    "ProgramId": "97da366e-a586-4bc5-ad45-7509d960e9ec",
+    "description": "Menyusun instrumen penelitian",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:31:12.000Z",
+    "updatedAt": "2024-01-24T07:31:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "94f9e8b3-1223-488b-825e-5256a2408903",
+    "ProgramId": "a98b0d06-905a-4c3b-999f-28bcb0c7823a",
+    "description": "Kampanye  program Kadin Goes to Campus",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:36:58.000Z",
+    "updatedAt": "2024-01-24T07:36:58.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "962a75f4-1ea6-47a9-bbaf-1706340bf5db",
+    "ProgramId": "9073f525-1820-465e-bf01-b7307e27cf89",
+    "description": "Jumlah Kapal Tangkap Yang Beroperasi",
+    "quarter": 3,
+    "createdAt": "2024-01-23T07:17:44.000Z",
+    "updatedAt": "2024-01-23T07:17:44.000Z",
+    "deletedAt": "2024-01-24T04:36:32.000Z"
+  },
+  {
+    "id": "9647c6fa-b427-4541-b423-3a79caf5b30c",
+    "ProgramId": "44cefaab-8548-4872-849a-371ac7f6f0cf",
+    "description": "Realisasi di Lapangan",
+    "quarter": 3,
+    "createdAt": "2024-01-24T08:49:20.000Z",
+    "updatedAt": "2024-01-24T08:49:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "96db2816-3ae9-4590-82f2-ee0bf4db5138",
+    "ProgramId": "02761567-2ba9-484b-be8a-8eec5d595787",
+    "description": "Penyempurnaan  Sistem Online Keanggotaan Luar Biasa Kadin",
+    "quarter": 1,
+    "createdAt": "2024-01-23T06:48:49.000Z",
+    "updatedAt": "2024-01-23T06:48:49.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "972fbaf8-f9db-4f78-9d41-ff68fbbc08fc",
+    "ProgramId": "ab105fbb-b58b-47cf-a0f9-27099502309e",
+    "description": "Hasil akhir riset\n",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:53:23.000Z",
+    "updatedAt": "2024-01-24T07:53:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "97501273-ffa8-47e0-9285-51769e9b521b",
+    "ProgramId": "01dbb70b-f30b-4480-8c79-fccf91e0b8ad",
+    "description": "Melakukan persiapan dan pelaksanaan kegiatan ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T05:45:59.000Z",
+    "updatedAt": "2024-01-24T05:45:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "97dd50de-d6e0-416d-90ad-a89b2166ba68",
+    "ProgramId": "00d3bb8a-094a-4fb5-9cc3-7aebcfd25aa0",
+    "description": "Memberikan masukan terkait RUU EBET melalui Pemerintah",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:45:27.000Z",
+    "updatedAt": "2024-01-24T06:45:27.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "98504247-238c-4232-9418-5ae3f44080bc",
+    "ProgramId": "1ac78b6c-0fc9-4e5e-ab34-68c35283d46a",
+    "description": "Pelaksanaan pelatihan nilai nilai kebangsaan dengan Lemhannas ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:15:36.000Z",
+    "updatedAt": "2024-01-24T07:15:36.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "98ef6393-c13f-4e60-a7aa-d77a94e4a713",
+    "ProgramId": "d9b76ec5-748d-46d2-9ea3-540e2d030a01",
+    "description": "Memantau tindak lanjut Pemerintah dalam menggulirkan kebijakan/peraturan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:18:02.000Z",
+    "updatedAt": "2024-01-24T06:18:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9912a3dd-bcb6-46c6-a8d6-fd243b6b9aa6",
+    "ProgramId": "afdabd87-9ad4-48e7-a0bd-b388ba68ded2",
+    "description": "Pelatihan & scale up  UMKM halal serta membuka akses pembiayaan  untuk meningkatkan kualitas dan daya saing produk",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:43:20.000Z",
+    "updatedAt": "2024-01-24T07:43:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "99241ad4-8812-4d55-b1b8-3204f82f074f",
+    "ProgramId": "24edac85-8d02-477a-a618-f7eaf0e1de79",
+    "description": "Membuat kurikulum bersama mitra ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T08:45:26.000Z",
+    "updatedAt": "2024-01-24T08:45:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9a5753ed-ec02-4a3e-88a8-68bb7f36c49b",
+    "ProgramId": "d68aa984-6c01-4a74-8640-a28f7181db0c",
+    "description": "Menemukan dan menjawab tantangan dan risiko umum yang harus ditangani",
+    "quarter": 2,
+    "createdAt": "2024-01-23T07:16:10.000Z",
+    "updatedAt": "2024-01-23T07:16:10.000Z",
+    "deletedAt": "2024-01-24T04:36:42.000Z"
+  },
+  {
+    "id": "9b64e599-9edc-44e5-ba45-7e98b4acea4e",
+    "ProgramId": "1ae470c1-5428-400e-8788-33e4e46c20b1",
+    "description": "Kegiatan verifikasi uji publik ini Jabatan Kerja SKK Khusus Konstruksi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:11:28.000Z",
+    "updatedAt": "2024-01-24T07:11:28.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9b95729c-615a-4345-9d63-8eec336078ab",
+    "ProgramId": "bb6bbbdd-a61d-4f11-8f0e-95b9824cfcd2",
+    "description": "Melakukan sosialisasi dengan cara TOT berdasarkan wilayah dan tingkatan ",
+    "quarter": 2,
+    "createdAt": "2024-01-23T06:23:35.000Z",
+    "updatedAt": "2024-01-23T06:23:35.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9d1e57e5-58dd-497d-9968-b5fa1750b7c2",
+    "ProgramId": "1a810c01-b054-4098-ab99-063f72940b85",
+    "description": "Standarisasi tenaga kerja sesuai dengan kebutuhan pasar internasional \n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:21:01.000Z",
+    "updatedAt": "2024-01-24T06:21:01.000Z",
+    "deletedAt": "2024-01-24T06:26:34.000Z"
+  },
+  {
+    "id": "9d922a7d-cb60-4a5c-92bf-283dc5cab46c",
+    "ProgramId": "f2026d1f-d49d-411c-9267-a5e5e41a5f76",
+    "description": "Mengundang investor dalam negeri dan luar negeri serta donor untuk reforestasi mangrove di tambak udang ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:52:25.000Z",
+    "updatedAt": "2024-01-24T03:52:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9e4084aa-4ed7-4387-b42f-28eb695ab94c",
+    "ProgramId": "b408adbc-3d7c-4dbb-9fe4-a24b3ced4cfa",
+    "description": "Pelaksanaan kegiatan keorganisasian Kadin",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:39:18.000Z",
+    "updatedAt": "2024-01-24T04:39:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9e5fccc6-700a-403e-9505-ad21cff67f97",
+    "ProgramId": "5d9c5b3f-949c-46e4-a5b0-30c13352e28f",
+    "description": "TBC: Dilakukan kegiatan edukasi dan skrining di 6 provinsi berbeda yang rawan terhadap TBC ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:15:03.000Z",
+    "updatedAt": "2024-01-24T06:15:03.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9e6fb877-4945-484a-ba87-4c5d0c29f8d3",
+    "ProgramId": "11cc3f8c-3287-4b38-a106-564b2ef5e1d6",
+    "description": "RAKORNAS Wilayah Sumatera dan Kunjungan Kerja ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:35:50.000Z",
+    "updatedAt": "2024-01-23T07:35:50.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9eafabca-5afa-4c1d-9dc2-5458d8a01fee",
+    "ProgramId": "4732d729-3e06-4d8f-b070-5c01c0c4869a",
+    "description": "Mengidentifikasi area area yang masih bisa ditingkatkan ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:46:36.000Z",
+    "updatedAt": "2024-01-24T03:46:36.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9ec0ed23-b4e0-4aca-acd6-f99b01aa9fef",
+    "ProgramId": "a98b0d06-905a-4c3b-999f-28bcb0c7823a",
+    "description": "Persiapan materi dan jadwal",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:36:58.000Z",
+    "updatedAt": "2024-01-24T07:36:58.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9ec16374-13c4-47c2-9aa0-eb03a6dbb081",
+    "ProgramId": "008e5ed6-de57-49f2-af4f-4539dc566bb0",
+    "description": "RAB SKI 2023 submit di bulan Nov 2022 ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T06:53:23.000Z",
+    "updatedAt": "2024-01-23T06:53:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "9fc84066-0ceb-4e47-ba65-adeed262ab00",
+    "ProgramId": "faddf796-0e92-45eb-bb99-f3b8c57c4c6c",
+    "description": "Manajemen program dan dasbor ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:34:28.000Z",
+    "updatedAt": "2024-01-24T04:34:28.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a00cc046-3f4b-4180-81c9-e9397d6ce384",
+    "ProgramId": "66597fec-f535-4d5a-b021-4ed4612fcbf6",
+    "description": "Memulai pemetaan dan perencanaan kegiatan.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:50:46.000Z",
+    "updatedAt": "2024-01-24T03:50:46.000Z",
+    "deletedAt": "2024-01-24T03:59:12.000Z"
+  },
+  {
+    "id": "a0a138e6-2280-4cea-8967-6fb9a910f562",
+    "ProgramId": "0170bc59-0af6-41c8-84b9-226de1a1f528",
+    "description": "Melakukan koordinasi secara berkala dengan Kementerian ATR/BPN",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:31:30.000Z",
+    "updatedAt": "2024-01-24T07:31:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a0c02bda-3171-4222-8726-f37535ebe7bc",
+    "ProgramId": "faddf796-0e92-45eb-bb99-f3b8c57c4c6c",
+    "description": "Berkoordinasi dengan seluruh WKU/Kaban terkait kegiatan sinergi dengan Kadin daerah \n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:34:28.000Z",
+    "updatedAt": "2024-01-24T04:34:28.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a0e12628-c2ae-4fbc-b399-5c9a002861d1",
+    "ProgramId": "0d10d2d8-392c-4e14-ae4a-8090ccfd3828",
+    "description": "Terbit PO hasil penyempurnaan",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:07:09.000Z",
+    "updatedAt": "2024-01-23T07:07:09.000Z",
+    "deletedAt": "2024-01-24T04:18:37.000Z"
+  },
+  {
+    "id": "a0f54a50-a7b2-47ba-b1e0-881fcc0b27f0",
+    "ProgramId": "a8204f0e-62ce-46fe-b04e-5f50e5a5b580",
+    "description": "Membantu pemerintah dalam menyusun cetak biru ekonomi Indonesia terkait kebijakan ekonomi dan reformasi structural agar pendapatan perkapita meningkat ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:52:36.000Z",
+    "updatedAt": "2024-01-24T06:52:36.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a1a37bbc-b385-45b3-a3f3-664c33f62de6",
+    "ProgramId": "7fe32296-834d-4ccb-ad41-bac8acf0c4dc",
+    "description": "Raker persiapan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:23:12.000Z",
+    "updatedAt": "2024-01-24T07:23:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a1c1772f-f927-4906-9ec5-03d07e699c34",
+    "ProgramId": "03029736-6ccf-460b-b553-38a86326319b",
+    "description": "Pelaporan hasil pendamping \n",
+    "quarter": 4,
+    "createdAt": "2024-01-24T07:25:12.000Z",
+    "updatedAt": "2024-01-24T07:25:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a247c309-d324-400e-82d9-d6d0142d3974",
+    "ProgramId": "6a0631eb-43df-4588-828b-010e65f80e2e",
+    "description": "Menyusun instrumen penelitian",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:29:52.000Z",
+    "updatedAt": "2024-01-24T07:29:52.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a2b451a5-9618-4285-bd25-6b2e2fef6a84",
+    "ProgramId": "d68aa984-6c01-4a74-8640-a28f7181db0c",
+    "description": "5 sektor usaha selesai ditentukan ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:16:10.000Z",
+    "updatedAt": "2024-01-23T07:16:10.000Z",
+    "deletedAt": "2024-01-24T04:36:42.000Z"
+  },
+  {
+    "id": "a2c84786-6ebd-45b3-a2af-1731aa9508b0",
+    "ProgramId": "74db74ac-8e85-43dd-a333-b5664ab5bd19",
+    "description": "Mencari desa yang memiliki produk unggulan yang dibutuhkan\n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T08:02:41.000Z",
+    "updatedAt": "2024-01-24T08:02:41.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a3084902-bf00-44d2-97c5-f7e891d4a0bb",
+    "ProgramId": "ec9a6347-c10d-4b11-bd0f-3eef3a38851d",
+    "description": "Awarding Event\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:42:03.000Z",
+    "updatedAt": "2024-01-24T06:42:03.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a422cccf-952f-4e5f-b5d2-d57ebb036f81",
+    "ProgramId": "143695c4-ea83-4603-8146-5d5b653f03a0",
+    "description": "EXPO tentang pengolahan sampah",
+    "quarter": 2,
+    "createdAt": "2024-01-23T07:20:20.000Z",
+    "updatedAt": "2024-01-23T07:20:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a42fa0fa-4511-4fcc-8880-69ad9adb6405",
+    "ProgramId": "1a810c01-b054-4098-ab99-063f72940b85",
+    "description": "Melakukan kolaborasi dengan kedubes negara-negara tujuan\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:21:01.000Z",
+    "updatedAt": "2024-01-24T06:21:01.000Z",
+    "deletedAt": "2024-01-24T06:26:34.000Z"
+  },
+  {
+    "id": "a5399e78-7ebe-4588-8b5a-aeb3d00e3f45",
+    "ProgramId": "d67c9a8a-5ea5-49fa-a971-dc957b08b9cb",
+    "description": "Membuat studi kelayakan pelabuhan yang terintegrasi dengan logistik ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:34:34.000Z",
+    "updatedAt": "2024-01-24T07:34:34.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a5414838-cb19-4c91-8d70-7e4c737f3e62",
+    "ProgramId": "7ab09abd-1963-45be-9805-1b50ca2166c7",
+    "description": "Audiensi ke Kementerian dan Lembaga terkait.\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:56:39.000Z",
+    "updatedAt": "2024-01-24T07:56:39.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a6015d57-3c57-47d0-8c0b-288582d799c3",
+    "ProgramId": "fddc44fe-440b-4164-a07b-0dca4ab4897a",
+    "description": "Roadshow ke 3 kota ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:06:52.000Z",
+    "updatedAt": "2024-01-24T08:06:52.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a61044b3-a249-4686-bf9f-ff64528dc10d",
+    "ProgramId": "d67c9a8a-5ea5-49fa-a971-dc957b08b9cb",
+    "description": "Implementasi sistem yang baru ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:34:34.000Z",
+    "updatedAt": "2024-01-24T07:34:34.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a6c9b739-78e3-4bd2-a177-12953df0eb16",
+    "ProgramId": "50ee4849-2f3b-4e97-b8fc-b6a4091f5f5c",
+    "description": "Melakukan kurasi pelaku ekonomi kreatif, dan pelaksanaan kegiatan di lokasi terkait",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:05:56.000Z",
+    "updatedAt": "2024-01-24T04:05:56.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a6e32e2b-ea84-4529-ab51-538be87d2e78",
+    "ProgramId": "a9bfce3f-1f2e-43f5-a9c6-b89f12892d01",
+    "description": "Diskusi dengan pihak terkait terutama Kemnaker dan Asosiasi Profesi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:28:42.000Z",
+    "updatedAt": "2024-01-24T04:28:42.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a838faa2-4d99-4994-9cac-92500b2b2834",
+    "ProgramId": "ed51825e-8152-4b7f-ba55-04178500f211",
+    "description": "Penyelenggaraan ABA dan ABIS",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:24:58.000Z",
+    "updatedAt": "2024-01-24T07:24:58.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a8ab8fa2-3333-4844-ac24-ebded89c4875",
+    "ProgramId": "c64a9ac8-0985-43ef-a83b-d3be1d3b14d1",
+    "description": "Melakukan kunjungan kerja ke Asosiasi dan Himpunan ALB Kadin serta membuat pertemuan per sektor",
+    "quarter": 1,
+    "createdAt": "2024-01-23T06:51:44.000Z",
+    "updatedAt": "2024-01-23T06:51:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "a9a33a45-d283-4357-9a01-bd53164e9437",
+    "ProgramId": "eef5f056-a464-47d6-b494-11b60b09ce5d",
+    "description": "\nMembuat acara secara berkala dengan KADIN \n",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:55:55.000Z",
+    "updatedAt": "2024-01-23T07:55:55.000Z",
+    "deletedAt": "2024-01-24T06:07:47.000Z"
+  },
+  {
+    "id": "aa207ca9-d188-461f-b0cf-a3a87d9e32c4",
+    "ProgramId": "8aa05f11-0a53-4807-bf11-5b7569bfa302",
+    "description": "Laporan data jumlah agrowisata di Indonesia",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:04:34.000Z",
+    "updatedAt": "2024-01-24T07:04:34.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "aa3110bb-38d8-4e88-ad7d-8bf1bb84a915",
+    "ProgramId": "12799e78-0541-4eee-9430-f341956054e1",
+    "description": "Kolaborasi dengan pemerintah, perguruan tinggi dan mitra strategis untuk menyelenggarakan pelatihan vokasi.",
+    "quarter": 4,
+    "createdAt": "2024-01-24T05:43:59.000Z",
+    "updatedAt": "2024-01-24T05:43:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "aa357998-8288-4269-9872-e1fe1561f994",
+    "ProgramId": "0f6d74eb-aab3-409b-8fe9-f98e46c75eb8",
+    "description": "Dialog dan lobby yang intens dengan Kemendag dan Atase Perdagangan Canada di Jakarta dan Canada",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:29:20.000Z",
+    "updatedAt": "2024-01-24T07:29:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "aae84db9-62b7-4751-8f77-f52825a94dcc",
+    "ProgramId": "b59d6a93-3fa1-4c5c-8499-f9600f9ac2bb",
+    "description": "FGD sektoral dengan bidang dan asosiasi terkait di Kadin ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:23:28.000Z",
+    "updatedAt": "2024-01-24T07:23:28.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "abca0577-19c4-4439-b228-38d5bc8dad2c",
+    "ProgramId": "c972033e-85eb-4ec6-b6fd-e78660eb0152",
+    "description": "Komunikasi awal dengan Kadinda",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:09:04.000Z",
+    "updatedAt": "2024-01-24T04:09:04.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "abeb3339-a866-4748-8f67-55cc821253fa",
+    "ProgramId": "58dfd5ed-fcc9-4dfe-8391-e02c04d04215",
+    "description": "Pembukaan kelas",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:04:06.000Z",
+    "updatedAt": "2024-01-24T06:04:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ac4f00c2-005b-4b80-afbd-024ee12c8754",
+    "ProgramId": "7fe32296-834d-4ccb-ad41-bac8acf0c4dc",
+    "description": "Kunjungan lapangan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:23:12.000Z",
+    "updatedAt": "2024-01-24T07:23:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "aca8326e-8dc7-435f-aa13-70abe443c2ef",
+    "ProgramId": "517e025c-eb30-4bf1-a316-fa07ebfd3932",
+    "description": "Roadshow dan business matching ke beberapa negara",
+    "quarter": 1,
+    "createdAt": "2024-01-24T05:36:49.000Z",
+    "updatedAt": "2024-01-24T05:36:49.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "aceaa10a-c2cf-4fea-a59a-1e3f26236fa6",
+    "ProgramId": "c972033e-85eb-4ec6-b6fd-e78660eb0152",
+    "description": "Sosialisasi UMKM",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:09:04.000Z",
+    "updatedAt": "2024-01-24T04:09:04.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ad504e53-6451-412d-8ccc-35fe620c0c12",
+    "ProgramId": "77ca718a-a38a-4de4-9e19-bab3f1196b37",
+    "description": "Penyusunan pedoman organisasi Kadin Indonesia tentang tata cara pemberian masukan RUU kepada DPR RI ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:21:33.000Z",
+    "updatedAt": "2024-01-24T07:21:33.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ad8ecf7d-dc9c-4477-85e6-a9f3ada67004",
+    "ProgramId": "69a3aea1-b322-4801-92d9-7b3d2c948181",
+    "description": "Terlaksananya kegiatan Rakornas Wilayah Sulawesi\n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:32:33.000Z",
+    "updatedAt": "2024-01-24T04:32:33.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ae2dce02-c6f9-4403-85e2-3e97df357148",
+    "ProgramId": "3599e268-5f78-43fe-93cb-d1f7814dae22",
+    "description": "Menentukan pilot project IKM Closed Loop",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:29:18.000Z",
+    "updatedAt": "2024-01-24T07:29:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "aeb5c909-0eaa-4fee-91ed-d1b10b1b5c2b",
+    "ProgramId": "f14cc3de-39fa-439e-9d10-d12f2055a4ff",
+    "description": "Kerjasama dengan LSP\n",
+    "quarter": 3,
+    "createdAt": "2024-01-24T03:57:01.000Z",
+    "updatedAt": "2024-01-24T03:57:01.000Z",
+    "deletedAt": "2024-01-24T03:59:14.000Z"
+  },
+  {
+    "id": "af11dee8-5989-4908-8477-0f7ff1b230b0",
+    "ProgramId": "817d21b2-c803-4246-9b39-63c10b601c32",
+    "description": "Membuat webinar ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:44:53.000Z",
+    "updatedAt": "2024-01-24T06:44:53.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b1123e66-95e4-4074-b6af-181e338b5b15",
+    "ProgramId": "b750f731-cbb9-474a-a54f-1d17656bc81e",
+    "description": "Melaksanakan forum diskusi dengan pemangku kepentingan Tiongkok",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:01:29.000Z",
+    "updatedAt": "2024-01-24T07:01:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b13ca4d8-ef94-4210-896e-5621e524a100",
+    "ProgramId": "1fe198b8-2d49-4cda-8c08-b53124e281e6",
+    "description": "Skalabilitas, ekspansi, dan pemantauan berkelanjutan\nMenetapkan sistem pemantauan berkelanjutan untuk memastikan keberlanjutan program.\n",
+    "quarter": 4,
+    "createdAt": "2024-01-24T04:11:55.000Z",
+    "updatedAt": "2024-01-24T04:11:55.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b1df9bb3-7b28-4291-8ab1-9ebffc206960",
+    "ProgramId": "224b18bc-a1c1-4b49-b631-17215c865da1",
+    "description": "Sosialisasi mengenai program insentif dengan asosiasi dan produsen kendaraan listrik roda 2 dalam rangka membangun ekosistem pengguna kendaraan listrik di Indonesia\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:46:37.000Z",
+    "updatedAt": "2024-01-24T06:46:37.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b1fcd8b6-0e4e-421f-9768-1937137fde46",
+    "ProgramId": "0b497187-4157-4da0-bd2c-8bc8f4877ce3",
+    "description": "Membuat pelatihan BIM dan mencetak tenaga ahli BIM",
+    "quarter": 3,
+    "createdAt": "2024-01-23T07:50:58.000Z",
+    "updatedAt": "2024-01-23T07:50:58.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b23fe59f-5724-4681-992b-67af202f6050",
+    "ProgramId": "f4668e2e-bca7-48ee-bdf5-4748ca4c04a3",
+    "description": "Merekomendasikan kepada perusahaan untuk mempekerjakan para difabel",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:26:45.000Z",
+    "updatedAt": "2024-01-24T04:26:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b2ecfd64-78bd-4dae-a9ab-1e193382e28d",
+    "ProgramId": "f6a20317-3744-4814-8bdc-5d388d0778ba",
+    "description": "Melakukan FGD terkait RUU Migas",
+    "quarter": 3,
+    "createdAt": "2024-01-23T08:20:24.000Z",
+    "updatedAt": "2024-01-23T08:20:24.000Z",
+    "deletedAt": "2024-01-24T06:07:26.000Z"
+  },
+  {
+    "id": "b34b6c16-1d3c-46af-bc22-c638ed962c60",
+    "ProgramId": "f14cc3de-39fa-439e-9d10-d12f2055a4ff",
+    "description": "Menyusun model bisnis berkelanjutan yang mengatasi tantangan biaya tinggi dan keuntungan rendah.\n",
+    "quarter": 4,
+    "createdAt": "2024-01-24T03:57:01.000Z",
+    "updatedAt": "2024-01-24T03:57:01.000Z",
+    "deletedAt": "2024-01-24T03:59:14.000Z"
+  },
+  {
+    "id": "b383fe6a-c0c2-4158-8835-f902840bf318",
+    "ProgramId": "4f09ee09-cfdf-44a0-89f9-0dcaa6e67700",
+    "description": "Mencari UMKM yang sanggup memproduksi produk atau bahan baku tersebut ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:59:30.000Z",
+    "updatedAt": "2024-01-24T07:59:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b3af8815-503a-46fc-a4a3-c28214d5abd1",
+    "ProgramId": "9baaea7a-8c80-4182-80c1-226db1478181",
+    "description": "Strategi penyebaran informasi melalui media sosial",
+    "quarter": 2,
+    "createdAt": "2024-01-23T06:27:25.000Z",
+    "updatedAt": "2024-01-23T06:27:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b3e12929-9911-4c0c-9ee3-5688cade1a7a",
+    "ProgramId": "65dcd49f-2983-4d45-8ab4-08e30bcfdf80",
+    "description": "Melakukan podcast sebagai bagian dari pelaksanaan program ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:38:39.000Z",
+    "updatedAt": "2024-01-24T07:38:39.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b3e991d1-6d6e-4b87-b5e6-37afefebe346",
+    "ProgramId": "2b80b3c2-9e72-49aa-b547-e1ab280087c1",
+    "description": "Digitalisasi layanan kesekretariatan ",
+    "quarter": 2,
+    "createdAt": "2024-01-23T06:30:07.000Z",
+    "updatedAt": "2024-01-23T06:30:07.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b3f3a6a5-89ee-44d5-abb1-858645125d27",
+    "ProgramId": "f86a553b-5ce5-4761-8988-2262cacb59af",
+    "description": "Reporting Februari 2024 (Kick Off)",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:34:48.000Z",
+    "updatedAt": "2024-01-24T06:34:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b4a05eff-3197-4928-88b4-8350accd9575",
+    "ProgramId": "1a0f8aed-46c7-45d1-b3b2-5dfd21028820",
+    "description": "Menyiapkan infrastruktur pasar karbon bersama kementerian terkait",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:32:43.000Z",
+    "updatedAt": "2024-01-24T07:32:43.000Z",
+    "deletedAt": "2024-01-24T07:52:52.000Z"
+  },
+  {
+    "id": "b4a56e30-621b-407d-8259-da8941348a8f",
+    "ProgramId": "bc049c9d-2439-491f-8811-033dfceff3ea",
+    "description": "Pelaksanaan acara",
+    "quarter": 3,
+    "createdAt": "2024-01-24T06:06:23.000Z",
+    "updatedAt": "2024-01-24T06:06:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b56b69ef-5564-4fdc-af20-cc85bb4d5bf2",
+    "ProgramId": "f884ed08-e959-483e-8457-1cab4a611b78",
+    "description": "Menjalin kerja sama dengan Intellectual Property Creator, Praktisi Intellectual Property & Licensing",
+    "quarter": 2,
+    "createdAt": "2024-01-24T08:46:44.000Z",
+    "updatedAt": "2024-01-24T08:46:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b5ab3360-3dce-4814-8274-58b37bf80cd3",
+    "ProgramId": "4acfec34-34a9-47bf-af96-b52fb03df66c",
+    "description": "Pembuatan white paper dan surat rekomendasi",
+    "quarter": 4,
+    "createdAt": "2024-01-24T03:18:38.000Z",
+    "updatedAt": "2024-01-24T03:18:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b606c427-76dd-4445-930c-e52a91f26d5e",
+    "ProgramId": "50ee4849-2f3b-4e97-b8fc-b6a4091f5f5c",
+    "description": "Melakukan audiensi dan kerjasama dengan mitra terkait",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:05:56.000Z",
+    "updatedAt": "2024-01-24T04:05:56.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b7ef9a3e-f1b2-4578-a041-5531c7e9eb6f",
+    "ProgramId": "fd3eb746-72cf-4e08-abf9-546c6c4167f1",
+    "description": "Penyusunan strategi kampanye dan advokasi di tingkat nasional dan internasional ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:45:30.000Z",
+    "updatedAt": "2024-01-24T07:45:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b83d998e-8ee4-4158-8b21-ed7e47a6e187",
+    "ProgramId": "30539dba-bd50-4b3f-a843-baaf9a36361b",
+    "description": "Menyusun instrumen penelitian",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:28:23.000Z",
+    "updatedAt": "2024-01-24T07:28:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b95edb15-2bb4-48e9-a5a1-1d09484215ae",
+    "ProgramId": "66597fec-f535-4d5a-b021-4ed4612fcbf6",
+    "description": "Melakukan pertemuan dengan kementerian/Lembaga Pemerintah terkait dan asosiasi-asosiasi (ALB) yang terkait dengan Industri TIK dan industri turunannya",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:50:46.000Z",
+    "updatedAt": "2024-01-24T03:50:46.000Z",
+    "deletedAt": "2024-01-24T03:59:12.000Z"
+  },
+  {
+    "id": "b9b5c3b2-f62a-421f-ae59-bc7a9d35cc8c",
+    "ProgramId": "faff1000-2709-441f-8d2a-bd424d7274ab",
+    "description": "Rekomendasi kepada K/L terkait",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:04:09.000Z",
+    "updatedAt": "2024-01-24T07:04:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "b9f96380-3470-425d-8afc-26056d5c41e7",
+    "ProgramId": "05ee64a4-ec93-4002-8204-77b263d7a14f",
+    "description": "Penentuan konsep webinar",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:24:24.000Z",
+    "updatedAt": "2024-01-24T06:24:24.000Z",
+    "deletedAt": "2024-01-24T06:27:01.000Z"
+  },
+  {
+    "id": "ba6eef57-818b-4c31-93f1-573494ba01b1",
+    "ProgramId": "6a83304d-ae03-4d6d-bf5c-c1a736b3c097",
+    "description": "Skalabilitas, ekspansi, dan pemantauan berkelanjutan",
+    "quarter": 4,
+    "createdAt": "2024-01-24T04:14:38.000Z",
+    "updatedAt": "2024-01-24T04:14:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ba78273e-49d3-4bc1-9531-323f084da150",
+    "ProgramId": "ab105fbb-b58b-47cf-a0f9-27099502309e",
+    "description": "Supply data",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:53:23.000Z",
+    "updatedAt": "2024-01-24T07:53:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bad09b75-28c9-4930-9b17-166e55c61aad",
+    "ProgramId": "9073f525-1820-465e-bf01-b7307e27cf89",
+    "description": "Jumlah seluruh hasil tangkapan untuk dalam negeri maupun ekspor ",
+    "quarter": 4,
+    "createdAt": "2024-01-23T07:17:44.000Z",
+    "updatedAt": "2024-01-23T07:17:44.000Z",
+    "deletedAt": "2024-01-24T04:36:32.000Z"
+  },
+  {
+    "id": "bb79dfdb-8cec-4712-b868-26c4e599720b",
+    "ProgramId": "c0d0eabd-e035-484b-a10a-9ac68fa529ce",
+    "description": "Koordinasi dan penyempurnaan program bersama bidang terkait \n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:17:02.000Z",
+    "updatedAt": "2024-01-24T04:17:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bb85575e-2b9f-4e5a-8df8-b607ad089bbb",
+    "ProgramId": "05ee64a4-ec93-4002-8204-77b263d7a14f",
+    "description": "Implementasi dan program ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:24:24.000Z",
+    "updatedAt": "2024-01-24T06:24:24.000Z",
+    "deletedAt": "2024-01-24T06:27:01.000Z"
+  },
+  {
+    "id": "bba9b02f-5623-43d5-b30b-502a342f6ea7",
+    "ProgramId": "826d4023-d9e0-4ed2-8567-d9d3e1d66fcd",
+    "description": "Perbaikan model bisnis pinjaman Mekaar PNM secara cashless",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:34:13.000Z",
+    "updatedAt": "2024-01-24T06:34:13.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bbe9d0bf-2cca-46cc-a05a-b87a8951460e",
+    "ProgramId": "12799e78-0541-4eee-9430-f341956054e1",
+    "description": "Membuat media komunikasi yang berisikan substansi kompetensi SDM",
+    "quarter": 3,
+    "createdAt": "2024-01-24T05:43:59.000Z",
+    "updatedAt": "2024-01-24T05:43:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bc2e8091-38c4-4f9a-a5e6-d00ec5ec9e38",
+    "ProgramId": "8aa05f11-0a53-4807-bf11-5b7569bfa302",
+    "description": "Laporan analisa bentuk pendampingan dan pengembangan agrowisata ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:04:34.000Z",
+    "updatedAt": "2024-01-24T07:04:34.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bc5a710b-130c-430d-b3fe-9e9ff294c354",
+    "ProgramId": "0d10d2d8-392c-4e14-ae4a-8090ccfd3828",
+    "description": "Sosialisasi PO Di daerah ",
+    "quarter": 2,
+    "createdAt": "2024-01-23T07:07:09.000Z",
+    "updatedAt": "2024-01-23T07:07:09.000Z",
+    "deletedAt": "2024-01-24T04:18:37.000Z"
+  },
+  {
+    "id": "bc8cb276-eb3b-4eb2-8b2d-710857ec809d",
+    "ProgramId": "b59d6a93-3fa1-4c5c-8499-f9600f9ac2bb",
+    "description": "Pelaporan dari setiap Wakil Kepala Badan ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:23:28.000Z",
+    "updatedAt": "2024-01-24T07:23:28.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bcf5bd5e-4937-436d-9c07-677b6785e545",
+    "ProgramId": "9e4d0a22-0547-4129-b9a8-11778f93fa7e",
+    "description": "Penandatanganan MOU dengan Bursa Efek Indonesia",
+    "quarter": 2,
+    "createdAt": "2024-01-24T08:31:20.000Z",
+    "updatedAt": "2024-01-24T08:31:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bdb48864-fd17-4b6f-a189-f3720405ad81",
+    "ProgramId": "b750f731-cbb9-474a-a54f-1d17656bc81e",
+    "description": "Rekomendasi kepada Kementerian terkait",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:01:29.000Z",
+    "updatedAt": "2024-01-24T07:01:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bdf48614-4dbe-4ccb-bfd3-f604488b6138",
+    "ProgramId": "ca42d1ed-bbda-4e48-a9cd-70e9cffcf24a",
+    "description": "Peluncuran  INAmikro sebagai program scale up usaha mikro di Solo",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:40:59.000Z",
+    "updatedAt": "2024-01-24T06:40:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "be1f3cf0-1af2-40c3-9c89-e64e62e554a2",
+    "ProgramId": "c0d92e02-8338-4dd0-b366-97cf59d01c6c",
+    "description": "Diskusi Hukum dalam bentuk podcast",
+    "quarter": 4,
+    "createdAt": "2024-01-23T07:28:12.000Z",
+    "updatedAt": "2024-01-23T07:28:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bef12adc-441e-4298-a4ec-193f0fc57ad1",
+    "ProgramId": "9049b2af-3e49-43f2-bce2-f85f9bd7330a",
+    "description": "Kerjasama dengan Kadinda\nPendekatan intensif kepada Kadinda \n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:53:28.000Z",
+    "updatedAt": "2024-01-24T03:53:28.000Z",
+    "deletedAt": "2024-01-24T03:59:08.000Z"
+  },
+  {
+    "id": "bf052e94-6e8f-44cf-8f06-108c4e07e244",
+    "ProgramId": "1a784800-cbc2-4eab-9f0a-e50be5b3ddf1",
+    "description": "Koordinasi dengan APKASI untuk menjadwalkan sosialisasi\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:23:57.000Z",
+    "updatedAt": "2024-01-24T03:23:57.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bf4001e9-2e0b-48dd-aa3a-2925d5aadb9e",
+    "ProgramId": "5189f459-a461-4cd6-954c-ad85f68cffbb",
+    "description": "Bekerjasama dengan sekolah/perguruan tinggi untuk melakukan sosialisasi/edukasi",
+    "quarter": 4,
+    "createdAt": "2024-01-24T04:30:31.000Z",
+    "updatedAt": "2024-01-24T04:30:31.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bf4833ae-b9e1-4e94-9fa7-7ac7ea90a92a",
+    "ProgramId": "f14cc3de-39fa-439e-9d10-d12f2055a4ff",
+    "description": "Membentuk tim pelaksana",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:57:01.000Z",
+    "updatedAt": "2024-01-24T03:57:01.000Z",
+    "deletedAt": "2024-01-24T03:59:14.000Z"
+  },
+  {
+    "id": "bf82b17e-40a3-4b0b-992c-a6ff8da686af",
+    "ProgramId": "0aafe59a-491b-4cbd-8463-bf48d3963455",
+    "description": "Melakukan kolaborasi dengan kedubes negara-negara tujuan\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:30:48.000Z",
+    "updatedAt": "2024-01-24T06:30:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bfa5c996-1ea3-451d-9a8d-1dc7989c76cc",
+    "ProgramId": "517e025c-eb30-4bf1-a316-fa07ebfd3932",
+    "description": "Mengundang investor asing melakukan site visit ke Sulawesi Tengah",
+    "quarter": 2,
+    "createdAt": "2024-01-24T05:36:49.000Z",
+    "updatedAt": "2024-01-24T05:36:49.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c0a532a0-2d7c-4df4-a985-6add43f1c672",
+    "ProgramId": "78ad671d-eedc-4ebf-82db-82bfb4498afd",
+    "description": "Beberapa mitra sedang menjajaki penyatuan sistem dari sisi mereka untuk bisa di jalankan oleh Kadin \n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:49:31.000Z",
+    "updatedAt": "2024-01-24T06:49:31.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c10322f1-ba5a-4290-99e7-9bd7b37e06ca",
+    "ProgramId": "03029736-6ccf-460b-b553-38a86326319b",
+    "description": "Pendampingan ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:25:12.000Z",
+    "updatedAt": "2024-01-24T07:25:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c2034435-200f-40aa-8b83-2b1c75bd3a25",
+    "ProgramId": "0b497187-4157-4da0-bd2c-8bc8f4877ce3",
+    "description": "Sosialisasi pentingnya infrastruktur digital BIM di era digital ",
+    "quarter": 3,
+    "createdAt": "2024-01-23T07:50:58.000Z",
+    "updatedAt": "2024-01-23T07:50:58.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c24dea6d-df00-48d2-86dc-d4d1adf1ebc8",
+    "ProgramId": "4acfec34-34a9-47bf-af96-b52fb03df66c",
+    "description": "FGD dengan masing-masing bidang dan sektor terkait",
+    "quarter": 3,
+    "createdAt": "2024-01-24T03:18:38.000Z",
+    "updatedAt": "2024-01-24T03:18:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c26b0d99-57b7-4cc8-accc-1a4311e9a910",
+    "ProgramId": "78a9eedb-2cac-48b1-90c3-cac70d454662",
+    "description": "UMK : 30 November",
+    "quarter": 4,
+    "createdAt": "2024-01-24T06:25:44.000Z",
+    "updatedAt": "2024-01-24T06:25:44.000Z",
+    "deletedAt": "2024-01-24T06:27:07.000Z"
+  },
+  {
+    "id": "c2a12bef-ae6a-4f25-b00f-9767f8ad757a",
+    "ProgramId": "f4668e2e-bca7-48ee-bdf5-4748ca4c04a3",
+    "description": "Diskusi dengan pihak terkait yang memiliki visi yang sama untuk memperkerjakan atau meningkatkan skill para difabel",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:26:45.000Z",
+    "updatedAt": "2024-01-24T04:26:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c344cf78-d05c-41ae-a799-a3faab36d126",
+    "ProgramId": "1db1a6b5-0324-4aa7-9541-1e0acc2ba5e7",
+    "description": "Pelaksanaan pilot project dengan masa trial selama 6 bulan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:44:25.000Z",
+    "updatedAt": "2024-01-24T06:44:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c3b600e3-ade1-4459-b29a-b76fbbb5d526",
+    "ProgramId": "8f4df089-0ffb-41e8-b098-11483bfa439a",
+    "description": "Memfasilitasi secara berkesinambungan melalui media komunikasi yang sesuai \n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:37:54.000Z",
+    "updatedAt": "2024-01-24T04:37:54.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c3f9ae7f-66ab-4d78-a2ac-17cc57335ccd",
+    "ProgramId": "6a83304d-ae03-4d6d-bf5c-c1a736b3c097",
+    "description": "Menetapkan sistem pemantauan berkelanjutan untuk memastikan keberlanjutan program\n",
+    "quarter": 4,
+    "createdAt": "2024-01-24T04:14:38.000Z",
+    "updatedAt": "2024-01-24T04:14:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c400c6c4-4bac-4c28-9221-edf1a4ab715c",
+    "ProgramId": "f14cc3de-39fa-439e-9d10-d12f2055a4ff",
+    "description": "Melakukan studi kelayakan ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:57:01.000Z",
+    "updatedAt": "2024-01-24T03:57:01.000Z",
+    "deletedAt": "2024-01-24T03:59:14.000Z"
+  },
+  {
+    "id": "c4b4fc8b-1e83-4b4b-8b37-c753f8834406",
+    "ProgramId": "703f9d94-e09b-40f3-90f7-2abc207482f3",
+    "description": "Menetapkan dan membuat konsep digital marketing campaign yang dilakukan",
+    "quarter": 2,
+    "createdAt": "2024-01-23T07:12:35.000Z",
+    "updatedAt": "2024-01-23T07:12:35.000Z",
+    "deletedAt": "2024-01-24T04:32:57.000Z"
+  },
+  {
+    "id": "c516d2e2-8732-4cf9-a1d2-3117c40abd27",
+    "ProgramId": "05ee64a4-ec93-4002-8204-77b263d7a14f",
+    "description": "Penyusunan topik",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:24:24.000Z",
+    "updatedAt": "2024-01-24T06:24:24.000Z",
+    "deletedAt": "2024-01-24T06:27:01.000Z"
+  },
+  {
+    "id": "c6a13f58-8a74-4ec8-8548-8e76c03d2ff7",
+    "ProgramId": "cbf6f0ad-d5b9-4c25-9656-f9a588f2cee0",
+    "description": "Implementasi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:19:02.000Z",
+    "updatedAt": "2024-01-24T07:19:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c6b67a10-91d4-4c51-8381-af4afcc2850f",
+    "ProgramId": "9ca4ad97-d8b2-4043-910d-d2129b19ceee",
+    "description": "Pencarian sponsor, speaker, list investor global dan persiapan acara",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:14:26.000Z",
+    "updatedAt": "2024-01-24T04:14:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c6c75e34-2ab9-4ab9-ab15-4bd9becd529a",
+    "ProgramId": "3e6a8568-0d34-44b9-aa86-073e27903b54",
+    "description": "Menyiapkan materi pelatihan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:49:44.000Z",
+    "updatedAt": "2024-01-24T04:49:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c7a32856-983b-4b2f-83c3-85d36c2dd8b5",
+    "ProgramId": "9f170e57-ab3a-4809-b222-649baa7cc15c",
+    "description": "Implementasi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:11:43.000Z",
+    "updatedAt": "2024-01-24T07:11:43.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c849dd4e-2d4f-4d5c-938f-62e5f9a149fa",
+    "ProgramId": "4732d729-3e06-4d8f-b070-5c01c0c4869a",
+    "description": "Mengusulkan perubahan/ penambahan SOP ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T03:46:36.000Z",
+    "updatedAt": "2024-01-24T03:46:36.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c89e1fea-92e4-46bb-ac0f-4d02211136c1",
+    "ProgramId": "19a4a2ba-99f2-4ad0-bea6-099e0c030249",
+    "description": "Membentuk gugus tugas pemantau ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:33:14.000Z",
+    "updatedAt": "2024-01-24T03:33:14.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c94b78ab-1ebc-45d5-a5e2-787d96560986",
+    "ProgramId": "2d836918-9885-426e-a58e-ba405693d453",
+    "description": "Mengidentifikasi kebutuhan Sarana & Prasarana yang dibutuhkan",
+    "quarter": 1,
+    "createdAt": "2024-01-23T06:55:53.000Z",
+    "updatedAt": "2024-01-23T06:55:53.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c95b2d49-9969-40b6-ab14-a8f56bb982b7",
+    "ProgramId": "c0d92e02-8338-4dd0-b366-97cf59d01c6c",
+    "description": "Memberikan pelayanan advokasi / konsultasi hukum bisnis",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:28:12.000Z",
+    "updatedAt": "2024-01-23T07:28:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "c9ba67ca-f35f-4316-a307-225ec3b90291",
+    "ProgramId": "b9aa938f-96f4-4645-bc52-b212db77cefc",
+    "description": "Pengumpulan data dan drafting untuk kemudian dirangkum dalam bentuk dokumen roadmap",
+    "quarter": 3,
+    "createdAt": "2024-01-24T05:58:30.000Z",
+    "updatedAt": "2024-01-24T05:58:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ca040eb6-a9a9-4b25-8111-4670f696da22",
+    "ProgramId": "a0c1efab-4103-48cb-aa2d-ad90f224c169",
+    "description": "UMP : 21 November",
+    "quarter": 4,
+    "createdAt": "2024-01-24T06:39:38.000Z",
+    "updatedAt": "2024-01-24T06:39:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "cbea0ff9-782a-4846-af96-ba01a53625b8",
+    "ProgramId": "6e848eba-af2a-4cbe-9e6e-affdb8a45452",
+    "description": "Penyusunan Rencana sertifikasi terpadu",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:17:26.000Z",
+    "updatedAt": "2024-01-24T07:17:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "cc6e169b-f56e-4b53-842f-eb35a8da13b2",
+    "ProgramId": "44cefaab-8548-4872-849a-371ac7f6f0cf",
+    "description": "Audiensi ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:49:20.000Z",
+    "updatedAt": "2024-01-24T08:49:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "cca84c2f-2531-43c3-9dc3-3a889cb10f21",
+    "ProgramId": "05970127-1a1d-48b7-9d45-851622bbb321",
+    "description": "Skalabilitas dan ekspansi: menyusun model yang dapat diterapkan secara luas dan merencanakan ekspansi program ke berbagai daerah.",
+    "quarter": 3,
+    "createdAt": "2024-01-24T06:01:09.000Z",
+    "updatedAt": "2024-01-24T06:01:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ccd8f9ec-615e-40d2-8eb0-8e5308f0551b",
+    "ProgramId": "01dbb70b-f30b-4480-8c79-fccf91e0b8ad",
+    "description": "Melakukan diskusi perancangan kegiatan bersama pemerintah dan INSA",
+    "quarter": 1,
+    "createdAt": "2024-01-24T05:45:59.000Z",
+    "updatedAt": "2024-01-24T05:45:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ccf19e5b-e312-4645-884f-a5c9637c4fe5",
+    "ProgramId": "3599e268-5f78-43fe-93cb-d1f7814dae22",
+    "description": "Melakukan koordinasi intensif dengan pengembang dan pengelola KI, Kementerian ATR, Kementerian Perindustrian (Dirjen Industri Kecil, Menengah dan Aneka Kemenperin), Asosiasi sektoral terkait, Lembaga Pembiayaan Keuangan dan Otoritas Jasa Keuangan (OJK)",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:29:18.000Z",
+    "updatedAt": "2024-01-24T07:29:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "cd1a0f0e-922e-4d3a-9a00-3dbcaa0998f5",
+    "ProgramId": "05970127-1a1d-48b7-9d45-851622bbb321",
+    "description": "Studi kelayakan: melakukan studi kelayakan untuk mengevaluasi potensi lokasi, kebutuhan teknologi, dan aspek finansial.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:01:09.000Z",
+    "updatedAt": "2024-01-24T06:01:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ce96c14b-1c84-4579-83a4-3ec2e06e579d",
+    "ProgramId": "b7a1754c-b3aa-41a8-bd74-4d9c448b8d82",
+    "description": "MoU",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:32:27.000Z",
+    "updatedAt": "2024-01-23T07:32:27.000Z",
+    "deletedAt": "2024-01-24T03:59:29.000Z"
+  },
+  {
+    "id": "ceaa1b3e-23fd-4b45-b817-d1fe6c0de397",
+    "ProgramId": "e6c44f7a-b3da-4939-8abd-6055943a7d22",
+    "description": "Uji Running dengan Kementerian PUPR RI",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:14:47.000Z",
+    "updatedAt": "2024-01-24T07:14:47.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "cf1594cf-0006-4d5a-967f-ed82e5d204c4",
+    "ProgramId": "f11809c1-7fa6-443c-b768-940ea5402791",
+    "description": "Melakukan eksekusi secara rill",
+    "quarter": 3,
+    "createdAt": "2024-01-24T08:12:09.000Z",
+    "updatedAt": "2024-01-24T08:12:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d0066134-eeac-4fd7-a27a-3eabc6de6d3c",
+    "ProgramId": "e41a57aa-9a46-466e-ac67-0918ce68b1b0",
+    "description": "Pelaksanaan\nKunjungan ke semua provinsi ",
+    "quarter": 2,
+    "createdAt": "2024-01-23T07:43:51.000Z",
+    "updatedAt": "2024-01-23T07:43:51.000Z",
+    "deletedAt": "2024-01-24T04:23:35.000Z"
+  },
+  {
+    "id": "d0775b33-8f2b-4959-a7b5-30a5fa44a0d0",
+    "ProgramId": "4e408f4e-b3e5-4acd-8499-92bcadab1e2d",
+    "description": "Mensosialisasikan kerjasama kadin dengan kapolri ke UMKM",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:06:25.000Z",
+    "updatedAt": "2024-01-24T07:06:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d0eedfc0-5bd3-4357-8be8-b5e593e39b4d",
+    "ProgramId": "faddf796-0e92-45eb-bb99-f3b8c57c4c6c",
+    "description": "Memfasilitasi secara berkesinambungan melalui media komunikasi yang sesuai \n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:34:28.000Z",
+    "updatedAt": "2024-01-24T04:34:28.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d19bd54b-db5d-4a6e-83fa-d4528156e228",
+    "ProgramId": "9c53896f-21c3-4c5d-8f4f-669a781fc4d8",
+    "description": "Menyusun kerangka acuan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T05:41:08.000Z",
+    "updatedAt": "2024-01-24T05:41:08.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d2f5f319-656b-4c63-ac7a-b25de8c6a380",
+    "ProgramId": "324d6c8f-0aef-4aae-b2ff-e9ae58105316",
+    "description": "Rapat Koordinasi Kadin Daerah dengan WKU Sektoral ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:41:05.000Z",
+    "updatedAt": "2024-01-23T07:41:05.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d3d2d0d3-63d2-41bf-a750-e83453149ba0",
+    "ProgramId": "047c296e-40bb-4146-8197-8309b7585dc5",
+    "description": "Membuat kajian RUU Migas penyampaian kajian RUU Migas",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:39:48.000Z",
+    "updatedAt": "2024-01-24T06:39:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d3e2ee6a-1b60-4fbe-b2d8-7ec2b23fe127",
+    "ProgramId": "fcad4608-a67d-45dc-952b-69eb34a28ae5",
+    "description": "Terbentuknya Institut Kesehatan ASEAN BAC di di bawah naungan Sekretariat ASEAN yang dapat mempercepat pembuatan vaksinasi demam berdarah dan deteksi TBC",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:16:44.000Z",
+    "updatedAt": "2024-01-24T06:16:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d3e88e44-3921-4faf-a4f6-86fd277b4faa",
+    "ProgramId": "c4da0f64-6436-4cfe-b207-0908b4576442",
+    "description": "Menarik investor dalam dan luar negeri untuk pembangunan pabrik microchip di Indonesia",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:48:06.000Z",
+    "updatedAt": "2024-01-24T06:48:06.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d45a1925-1ab0-4668-a2b5-62fc8a922af9",
+    "ProgramId": "0ccbcc41-b47b-4652-b0b1-8f26afe8c4a7",
+    "description": "Pelaksanaan rutin ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:10:13.000Z",
+    "updatedAt": "2024-01-24T04:10:13.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d47afdfd-ab48-4c00-a4c6-51c10006f038",
+    "ProgramId": "4b7f20c1-439e-4318-8978-8daac8adc442",
+    "description": "Mengawal dan melanjutkan pelaksanaan sosialisasi",
+    "quarter": 3,
+    "createdAt": "2024-01-24T08:28:08.000Z",
+    "updatedAt": "2024-01-24T08:28:08.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d49e28ca-7bb7-48b7-91ae-cf7e7004ad97",
+    "ProgramId": "15e0317a-1620-4fc4-993b-f7e50b9ccf2f",
+    "description": "Pelaksanaan acara",
+    "quarter": 3,
+    "createdAt": "2024-01-24T06:04:29.000Z",
+    "updatedAt": "2024-01-24T06:04:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d555c745-eabc-4cd4-9c90-2b0bcbaadfe6",
+    "ProgramId": "1971335b-f5fc-4e3b-95b4-2c4a1d707a16",
+    "description": "Penyusunan PO",
+    "quarter": 1,
+    "createdAt": "2024-01-23T06:14:33.000Z",
+    "updatedAt": "2024-01-23T06:14:33.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d667af3a-95cd-41af-9e84-98f59ce1830e",
+    "ProgramId": "a4f4035b-6b05-4f15-80b6-f8764f97f4dc",
+    "description": "Menggali setiap informasi yang dibutuhkan terkait dunia usaha kepada setiap pemangku kepentingan terkait ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:52:16.000Z",
+    "updatedAt": "2024-01-24T06:52:16.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d6ae5d34-8fbb-438c-befc-548e7f1eea69",
+    "ProgramId": "4f09ee09-cfdf-44a0-89f9-0dcaa6e67700",
+    "description": "Mencari mitra yang akan membina dan mendampingi sehingga kuantitas dan kualitas terpenuhi ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:59:30.000Z",
+    "updatedAt": "2024-01-24T07:59:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d6e1a463-9b8a-4906-9865-1770bf12c1e2",
+    "ProgramId": "74db74ac-8e85-43dd-a333-b5664ab5bd19",
+    "description": "Mencari mitra yang akan membina dan mendampingi sehingga kuantitas dan kualitas terpenuhi",
+    "quarter": 3,
+    "createdAt": "2024-01-24T08:02:41.000Z",
+    "updatedAt": "2024-01-24T08:02:41.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d7080faa-6808-44e3-a865-962933a4127d",
+    "ProgramId": "6ee1b582-52ae-4b7e-b89d-255f09b9b67b",
+    "description": "Perumusan kebijakan prioritas yang dibutuhkan ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T08:39:20.000Z",
+    "updatedAt": "2024-01-24T08:39:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d70c5f14-2da6-455d-9b93-7e4edccb1092",
+    "ProgramId": "b9aa938f-96f4-4645-bc52-b212db77cefc",
+    "description": "Melakukan pertemuan dengan Kementerian ESDM, Kementerian Perindustrian dan asosiasi-asosiasi (ALB) yang terkait dengan minerba dan industri turunannya",
+    "quarter": 2,
+    "createdAt": "2024-01-24T05:58:30.000Z",
+    "updatedAt": "2024-01-24T05:58:30.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d7a58f60-8db3-450a-b87c-6b394851e3f0",
+    "ProgramId": "4c9abe08-098c-4b03-ab84-3d721fb612d5",
+    "description": "Melaksanakan Roundtable discussion chapter 2",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:04:58.000Z",
+    "updatedAt": "2024-01-24T08:04:58.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d7b1ea35-0a57-4f27-ae0a-62366b31e30c",
+    "ProgramId": "afdabd87-9ad4-48e7-a0bd-b388ba68ded2",
+    "description": "Rapat Kerja BES Kadin tahun 2024 ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:43:20.000Z",
+    "updatedAt": "2024-01-24T07:43:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "d99e522d-1d73-4a48-993c-969ffd58d848",
+    "ProgramId": "ab105fbb-b58b-47cf-a0f9-27099502309e",
+    "description": "Analisa data",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:53:23.000Z",
+    "updatedAt": "2024-01-24T07:53:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "da932964-01fb-4436-9595-53dbbd3311d3",
+    "ProgramId": "c25c9e45-f9bf-406f-a9a1-de45e4604784",
+    "description": "Nota kesepahaman dengan Kepala Daerah",
+    "quarter": 3,
+    "createdAt": "2024-01-24T05:34:17.000Z",
+    "updatedAt": "2024-01-24T05:34:17.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "db235c64-5359-48ec-b61c-ac7d6c6b957a",
+    "ProgramId": "f14cc3de-39fa-439e-9d10-d12f2055a4ff",
+    "description": "Penyusunan model bisnis\n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:57:01.000Z",
+    "updatedAt": "2024-01-24T03:57:01.000Z",
+    "deletedAt": "2024-01-24T03:59:14.000Z"
+  },
+  {
+    "id": "dbecb895-5405-4a4a-83c2-f300ed6215da",
+    "ProgramId": "4c4536da-b92b-4ea7-8977-2851f9633e00",
+    "description": "Lembaga mediasi bisnis Kadin mulai beroperasi menerima kasus/sengketa bisnis",
+    "quarter": 4,
+    "createdAt": "2024-01-24T03:26:45.000Z",
+    "updatedAt": "2024-01-24T03:26:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "dbfb726e-2bc2-40ee-9223-46e5d9dba1de",
+    "ProgramId": "1a810c01-b054-4098-ab99-063f72940b85",
+    "description": "Melakukan kolaborasi dengan Kemnaker",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:21:01.000Z",
+    "updatedAt": "2024-01-24T06:21:01.000Z",
+    "deletedAt": "2024-01-24T06:26:34.000Z"
+  },
+  {
+    "id": "dc607ed2-e132-499a-8850-859477ba7eb0",
+    "ProgramId": "817d21b2-c803-4246-9b39-63c10b601c32",
+    "description": "Membuat proposal program",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:44:53.000Z",
+    "updatedAt": "2024-01-24T06:44:53.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ddaf2c0d-a270-49ea-8a38-beb75631b229",
+    "ProgramId": "ea00e318-9e13-4f3b-9348-9c4fff0fceed",
+    "description": "Mendorong Pemda dan Kementerian terkait untuk bersama-sama mendorong realisasi Perda di seluruh daerah",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:19:55.000Z",
+    "updatedAt": "2024-01-24T07:19:55.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "de2d9c71-e08f-4e15-be48-51d7b1927bd6",
+    "ProgramId": "2ba6b515-d882-4722-acad-275a15d2eb00",
+    "description": "Membuat pelatihan untuk On-Board produk secara berkala, serta melakukan pelatihan agar tampilan produk menjadi lebih menarik ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T06:37:15.000Z",
+    "updatedAt": "2024-01-24T06:37:15.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "df2e99e1-16ff-4de8-898a-a1f51070a903",
+    "ProgramId": "1729e2bd-6603-41cc-9004-2f242fc5d52c",
+    "description": "Melakukan integrasi dan kolaborasi dengan Kementerian atau Lembaga ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:01:46.000Z",
+    "updatedAt": "2024-01-24T04:01:46.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e164a2fd-3030-4a09-888c-68252a7c10d9",
+    "ProgramId": "f4f408f6-7604-43c3-9f4a-e824dcbac883",
+    "description": "Mengecek keabsahan dan kebenaran informasi sebelum memposting di website dan media sosial Wiki Wirausaha ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:48:54.000Z",
+    "updatedAt": "2024-01-24T06:48:54.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e1c324b7-9bfe-43f0-a8e8-578cf6edf6b6",
+    "ProgramId": "cfaac2a8-ab03-484d-8cc9-92c8ab3d0a39",
+    "description": "Panen tahap awal",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:02:46.000Z",
+    "updatedAt": "2024-01-24T07:02:46.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e243f00a-e499-4881-b6ec-978d21688ebc",
+    "ProgramId": "413d4d75-262c-47a4-82e5-dc655c4e9cbc",
+    "description": "Melakukan koordinasi dalam bentuk rapat/dialog dll\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:16:19.000Z",
+    "updatedAt": "2024-01-24T06:16:19.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e25200fd-d974-4f37-bacd-15ecfff8b590",
+    "ProgramId": "5189f459-a461-4cd6-954c-ad85f68cffbb",
+    "description": "Diskusi dengan pihak terkait terutama Kementerian Pendidikan dan Kebudayaan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:30:31.000Z",
+    "updatedAt": "2024-01-24T04:30:31.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e329e61d-5859-4975-9bbd-6e6fbaa0f3f7",
+    "ProgramId": "a9bfce3f-1f2e-43f5-a9c6-b89f12892d01",
+    "description": "Memetakan SKKNI yang sudah ada dan mendata profesi yang belum tersedia SKKNI nya",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:28:42.000Z",
+    "updatedAt": "2024-01-24T04:28:42.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e345001e-0c43-459b-af55-de6625cda158",
+    "ProgramId": "6ee1b582-52ae-4b7e-b89d-255f09b9b67b",
+    "description": "Penyampaian rekomendasi kebijakan ke pemerintah dan DPR RI",
+    "quarter": 4,
+    "createdAt": "2024-01-24T08:39:20.000Z",
+    "updatedAt": "2024-01-24T08:39:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e3e94cfc-4594-4398-afc3-bea1883bae02",
+    "ProgramId": "c176f9b4-fbee-4364-90c3-5f548492953e",
+    "description": "Koordinasi dengan Sekretariat DPR dan MPR RI untuk menjadwalkan sosialisasi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:26:18.000Z",
+    "updatedAt": "2024-01-24T07:26:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e3fac9bb-e00b-4333-9d57-ea882f1756c2",
+    "ProgramId": "e6c44f7a-b3da-4939-8abd-6055943a7d22",
+    "description": "Literature Review\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:14:47.000Z",
+    "updatedAt": "2024-01-24T07:14:47.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e4840a8f-c22e-4a0e-af8d-4dfd2923edb5",
+    "ProgramId": "c7c82a87-aefe-4bd5-8dbd-1b90d803e9f1",
+    "description": "Komunikasi dengan pihak eksternal untuk menjajaki kerjasama",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:59:07.000Z",
+    "updatedAt": "2024-01-24T06:59:07.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e4ddff66-3db5-4b6b-9ce3-7cfd662b9a8b",
+    "ProgramId": "7d50642a-13b7-4bee-9e0a-dccaeb7bffad",
+    "description": "Melakukan sosialisasi kepada anggota KADIN tentang pasar karbon.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:42:29.000Z",
+    "updatedAt": "2024-01-24T07:42:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e59e459f-774e-4aa7-a363-9445d3196dea",
+    "ProgramId": "b325a44e-45a7-47e2-9af8-ec0814340979",
+    "description": "Berkoordinasi dengan Bappenas dalam proses pembentukan PMO Major Project. (Q2)",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:36:45.000Z",
+    "updatedAt": "2024-01-24T06:36:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e5d8ed29-569e-448e-b519-06d1658f4e45",
+    "ProgramId": "3e6a8568-0d34-44b9-aa86-073e27903b54",
+    "description": "Menyiapkan pelatihan Trainer dan Master Trainer\n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:49:44.000Z",
+    "updatedAt": "2024-01-24T04:49:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e6fb201b-6e37-4a00-b17b-be7c57356e02",
+    "ProgramId": "f11809c1-7fa6-443c-b768-940ea5402791",
+    "description": "Melakukan diskusi terkait hal yang dibutuhkan untuk talent ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:12:09.000Z",
+    "updatedAt": "2024-01-24T08:12:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e71a8dc0-cc02-4702-ad01-6983ca42930b",
+    "ProgramId": "507475ca-e7b9-4a2a-998b-bb92d366711a",
+    "description": "Optimalisasi UMKM  halal untuk memenuhi sebagian kebutuhan industri dan bahan baku halal di Indonesia",
+    "quarter": 4,
+    "createdAt": "2024-01-24T07:51:02.000Z",
+    "updatedAt": "2024-01-24T07:51:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e7b8a40f-90cc-4647-811e-ca4fbd06ffd0",
+    "ProgramId": "2fd5c037-64ee-43b2-aa45-058736d3b5f8",
+    "description": "Berkoordinasi dengan Kadin Provinsi, Kadin kabupaten Perbatasan ",
+    "quarter": 2,
+    "createdAt": "2024-01-23T07:05:27.000Z",
+    "updatedAt": "2024-01-23T07:05:27.000Z",
+    "deletedAt": "2024-01-24T04:40:44.000Z"
+  },
+  {
+    "id": "e80c485c-1f39-4d32-bcff-16fa87ddfd6a",
+    "ProgramId": "507475ca-e7b9-4a2a-998b-bb92d366711a",
+    "description": "Pelatihan & Scale up  UMKM halal serta membuka Akses pembiayaan untuk meningkatkan kualitas dan daya saing produk",
+    "quarter": 3,
+    "createdAt": "2024-01-24T07:51:02.000Z",
+    "updatedAt": "2024-01-24T07:51:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e80cd3f4-c201-475f-8abd-b842664d14e1",
+    "ProgramId": "95606d35-ac29-4ab9-bb16-831e08138fdd",
+    "description": "Melakukan diskusi dengan Kementerian atau Lembaga sektor Parekraf tantangan yang dihadapi",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:04:04.000Z",
+    "updatedAt": "2024-01-24T04:04:04.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e8fe5529-8455-4ed3-b3e9-4581e9d7434f",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Risalah Kebijakan dan Kurasi Dokumentasi  Ilmiah",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e9228a61-cd86-415c-8bdc-a48131506e47",
+    "ProgramId": "4acfec34-34a9-47bf-af96-b52fb03df66c",
+    "description": "Pengelompokan masalah",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:18:38.000Z",
+    "updatedAt": "2024-01-24T03:18:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e924cc68-c9cd-4bb9-afbd-1511f76f8679",
+    "ProgramId": "bc049c9d-2439-491f-8811-033dfceff3ea",
+    "description": "Persiapan bersama Kementerian ESDM",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:06:23.000Z",
+    "updatedAt": "2024-01-24T06:06:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e979bb5a-2bbc-4bb2-ad19-d850e173539a",
+    "ProgramId": "a9bfce3f-1f2e-43f5-a9c6-b89f12892d01",
+    "description": "Menganalisis  data yang telah dikumpulkan dan melakukan interpretasi data serta membuat visualisasinya",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:28:42.000Z",
+    "updatedAt": "2024-01-24T04:28:42.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e9de979a-bddf-4312-bd35-218b6c11b2d0",
+    "ProgramId": "9baaea7a-8c80-4182-80c1-226db1478181",
+    "description": "Standarisasi MoM meeting daerah dan pusat",
+    "quarter": 2,
+    "createdAt": "2024-01-23T06:27:25.000Z",
+    "updatedAt": "2024-01-23T06:27:25.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e9e2bab5-04bd-4e52-91d5-b5ce21ee9c4e",
+    "ProgramId": "7fe32296-834d-4ccb-ad41-bac8acf0c4dc",
+    "description": "FGD multipihak",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:23:12.000Z",
+    "updatedAt": "2024-01-24T07:23:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "e9f0e6ff-d7e4-461d-b068-6ab21468d79d",
+    "ProgramId": "4065ea90-bb8c-4da4-aafb-cfc4377148d2",
+    "description": "Menjalin kerja sama dengan lembaga pemerintah dan mitra luar negeri",
+    "quarter": 2,
+    "createdAt": "2024-01-24T08:37:43.000Z",
+    "updatedAt": "2024-01-24T08:37:43.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ea138a78-2876-47b0-8f94-7050c4d5e72a",
+    "ProgramId": "17e8d7c5-2a10-4b5a-a822-abb4a840529c",
+    "description": "Perluasan penyaluran pinjaman UMi ke nasabah ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:53:32.000Z",
+    "updatedAt": "2024-01-23T07:53:32.000Z",
+    "deletedAt": "2024-01-24T06:07:08.000Z"
+  },
+  {
+    "id": "ea4fdc0f-77cd-4f4b-8cae-ce6f8c245366",
+    "ProgramId": "05970127-1a1d-48b7-9d45-851622bbb321",
+    "description": "Pilot Project: mengimplementasikan proyek pilot di satu atau beberapa daerah sebagai uji coba.",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:01:09.000Z",
+    "updatedAt": "2024-01-24T06:01:09.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ea62364b-08b6-4cda-a238-6b229204fb2c",
+    "ProgramId": "66597fec-f535-4d5a-b021-4ed4612fcbf6",
+    "description": "Pengumpulan data dan drafting untuk kemudian dirangkum dalam bentuk dokumen blueprint",
+    "quarter": 3,
+    "createdAt": "2024-01-24T03:50:46.000Z",
+    "updatedAt": "2024-01-24T03:50:46.000Z",
+    "deletedAt": "2024-01-24T03:59:12.000Z"
+  },
+  {
+    "id": "eb8a49d8-ec63-4576-a222-05a093c7c986",
+    "ProgramId": "cfaac2a8-ab03-484d-8cc9-92c8ab3d0a39",
+    "description": "Panen tahap lanjut",
+    "quarter": 4,
+    "createdAt": "2024-01-24T07:02:46.000Z",
+    "updatedAt": "2024-01-24T07:02:46.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "eb8fae43-1983-4468-9f37-304c1e6e937f",
+    "ProgramId": "a8199880-8dc7-4272-b4c8-9b80dfe21da5",
+    "description": "Menampung masukan dan aspirasi asosiasi (terutama isu-isu sektoral) dan membantu mencari solusi",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:20:11.000Z",
+    "updatedAt": "2024-01-24T03:20:11.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ed01ca96-1d3c-4ff3-bc40-5f47346efd5c",
+    "ProgramId": "3b857c4e-cb74-4a3b-b3fc-cd84c8bfc549",
+    "description": "Mendorong dan memantau sub kontraktor dari sektor swasta bersinergi melalui e-procurement ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:47:14.000Z",
+    "updatedAt": "2024-01-23T07:47:14.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ed404eea-6f36-4255-b63e-cd63e097ba7f",
+    "ProgramId": "3e6a8568-0d34-44b9-aa86-073e27903b54",
+    "description": "Penyelenggaraan program bersama Kadinda dan perusahaan terkait",
+    "quarter": 4,
+    "createdAt": "2024-01-24T04:49:44.000Z",
+    "updatedAt": "2024-01-24T04:49:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "edd81600-b645-49f8-86b7-693697fe861a",
+    "ProgramId": "c64a9ac8-0985-43ef-a83b-d3be1d3b14d1",
+    "description": "Membuat FGD antar sektor di Kadin",
+    "quarter": 2,
+    "createdAt": "2024-01-23T06:51:44.000Z",
+    "updatedAt": "2024-01-23T06:51:44.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ee647aa2-e9e6-4048-a00a-11682baa6031",
+    "ProgramId": "d68aa984-6c01-4a74-8640-a28f7181db0c",
+    "description": "Portofolio investasi dan inisiatif selesai ditetapkan",
+    "quarter": 3,
+    "createdAt": "2024-01-23T07:16:10.000Z",
+    "updatedAt": "2024-01-23T07:16:10.000Z",
+    "deletedAt": "2024-01-24T04:36:42.000Z"
+  },
+  {
+    "id": "eeef962d-932d-43d8-bd3d-fbd6ff6f27ba",
+    "ProgramId": "78a9eedb-2cac-48b1-90c3-cac70d454662",
+    "description": "UMP : 21 November\n",
+    "quarter": 4,
+    "createdAt": "2024-01-24T06:25:44.000Z",
+    "updatedAt": "2024-01-24T06:25:44.000Z",
+    "deletedAt": "2024-01-24T06:27:07.000Z"
+  },
+  {
+    "id": "ef7e5997-4c97-481f-9cde-826a5eb4d83f",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Pemberdayaan Masyarakat: Peningkatan Kesejahteraan  Masyarakat dan Desa Peduli Iklim (Green Basic Income). ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "efafb2e6-2470-4690-ab66-fd78511ff279",
+    "ProgramId": "bdf4cf3f-3c0a-4a16-a310-0fae6f912f6f",
+    "description": "Rekomendasi kepada K/L terkait\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:07:18.000Z",
+    "updatedAt": "2024-01-24T07:07:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f00f1039-b62a-42a8-9d26-110de9edae2b",
+    "ProgramId": "d67c9a8a-5ea5-49fa-a971-dc957b08b9cb",
+    "description": "Audiensi dengan pemangku kepentingan",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:34:34.000Z",
+    "updatedAt": "2024-01-24T07:34:34.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f0316ef0-949d-43bd-aa3c-422b43852ebf",
+    "ProgramId": "047c296e-40bb-4146-8197-8309b7585dc5",
+    "description": "Melakukan FGD terkait RUU Migas ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T06:39:48.000Z",
+    "updatedAt": "2024-01-24T06:39:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f0aba520-fa11-4baf-8535-9300efc41a31",
+    "ProgramId": "d9b76ec5-748d-46d2-9ea3-540e2d030a01",
+    "description": "Melakukan koordinasi dengan Kementerian dan Lembaga terkait",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:18:02.000Z",
+    "updatedAt": "2024-01-24T06:18:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f0ee6e93-b10c-4ceb-bb22-269efda9404c",
+    "ProgramId": "f14cc3de-39fa-439e-9d10-d12f2055a4ff",
+    "description": "Melaksanakan proyek pilot\n",
+    "quarter": 3,
+    "createdAt": "2024-01-24T03:57:01.000Z",
+    "updatedAt": "2024-01-24T03:57:01.000Z",
+    "deletedAt": "2024-01-24T03:59:14.000Z"
+  },
+  {
+    "id": "f16dd26c-25c9-464f-8795-98be4a1f8a81",
+    "ProgramId": "5eff31a6-0dd6-4808-a1b1-88442ce7bc9c",
+    "description": "Melakukan perancangan kegiatan pengembangan industri olahraga",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:08:26.000Z",
+    "updatedAt": "2024-01-24T07:08:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f1cf0ff9-0f69-480c-9e00-1148d965a18d",
+    "ProgramId": "d99dfeb4-52a9-4ef2-bf3d-f0c78684aa3c",
+    "description": "Sosialisasi skema pendanaan kepada pihak terkait",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:05:38.000Z",
+    "updatedAt": "2024-01-24T06:05:38.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f222e0c6-f4a1-4e0d-86a6-a174f275c050",
+    "ProgramId": "0890d7c2-d995-4def-ba40-b88588dc4ea6",
+    "description": "Mengawasi dan melakukan sertifikasi tenaga kerja agar terus bertambah ",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:49:03.000Z",
+    "updatedAt": "2024-01-23T07:49:03.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f2eefbb6-8aa1-44c1-bc92-a9f342648afd",
+    "ProgramId": "19714a22-76b9-4daa-8db9-7d0f4c2ec793",
+    "description": "Audiensi ke Kementerian dan Lembaga terkait\n",
+    "quarter": 4,
+    "createdAt": "2024-01-24T07:55:17.000Z",
+    "updatedAt": "2024-01-24T07:55:17.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f311f401-21ee-4c24-8be5-955b6f92288c",
+    "ProgramId": "4c4536da-b92b-4ea7-8977-2851f9633e00",
+    "description": "Kerjasama dengan lembaga-lembaga mediasi di Indonesia",
+    "quarter": 2,
+    "createdAt": "2024-01-24T03:26:45.000Z",
+    "updatedAt": "2024-01-24T03:26:45.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f3cd9e22-f339-4a56-9c6c-613441116fb2",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Pengelolaan mangrove berbasis masyarakat. ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f4517e0e-0db6-4bb3-bbff-4768fd4142d9",
+    "ProgramId": "b750f731-cbb9-474a-a54f-1d17656bc81e",
+    "description": "Partisipasi dalam pameran dan expo internasional",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:01:29.000Z",
+    "updatedAt": "2024-01-24T07:01:29.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f4a03470-dcb6-49ac-8ce6-e84f7c3d58ec",
+    "ProgramId": "9c53896f-21c3-4c5d-8f4f-669a781fc4d8",
+    "description": "Persiapan logistik dan penyelenggaraan",
+    "quarter": 4,
+    "createdAt": "2024-01-24T05:41:08.000Z",
+    "updatedAt": "2024-01-24T05:41:08.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f565687f-1984-4037-ba25-cf91830cd671",
+    "ProgramId": "697e64f2-fddf-4943-b0bf-1b60fbbf10a3",
+    "description": "Melakukan kerja sama dan audiensi dengan mitra yang terkait",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:21:48.000Z",
+    "updatedAt": "2024-01-24T04:21:48.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f72c86ca-7c67-4cf9-9fb7-94a0690392b1",
+    "ProgramId": "2b80b3c2-9e72-49aa-b547-e1ab280087c1",
+    "description": "Digitalisasi layanan dunia usaha dan anggota\n",
+    "quarter": 2,
+    "createdAt": "2024-01-23T06:30:07.000Z",
+    "updatedAt": "2024-01-23T06:30:07.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f7b0a958-d6e5-402f-8a6c-6597259d89dc",
+    "ProgramId": "69a3aea1-b322-4801-92d9-7b3d2c948181",
+    "description": "Pelaksanaan kegiatan keorganisasian Kadin\n",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:32:33.000Z",
+    "updatedAt": "2024-01-24T04:32:33.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f7b8aa81-1329-4bce-8d2f-0da4c2b0a9b3",
+    "ProgramId": "c25c9e45-f9bf-406f-a9a1-de45e4604784",
+    "description": "Menetapkan 2 daerah baru untuk dikembangkan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T05:34:17.000Z",
+    "updatedAt": "2024-01-24T05:34:17.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f7dacf25-897e-460b-8419-1723ba191111",
+    "ProgramId": "c0d0eabd-e035-484b-a10a-9ac68fa529ce",
+    "description": "Pengembangan dan penguatan usaha-usaha dalam ekosistem dan rantai pasok pangan terpilih. ",
+    "quarter": 4,
+    "createdAt": "2024-01-24T04:17:02.000Z",
+    "updatedAt": "2024-01-24T04:17:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f7e0816a-bf2c-4ead-a4cb-a813a45ae553",
+    "ProgramId": "92b1a3e3-3800-4d51-898a-146c4e2d40d0",
+    "description": "Kerja sama Kadin dengan International Organization for Migration (IOM): Study case-data collection: Kab. Cianjur sedang diolah menjadi MoU dan Proposal. ",
+    "quarter": 2,
+    "createdAt": "2024-01-24T06:45:02.000Z",
+    "updatedAt": "2024-01-24T06:45:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f7ec587f-425a-4389-91b6-822f8796a71c",
+    "ProgramId": "8f4df089-0ffb-41e8-b098-11483bfa439a",
+    "description": "Manajemen program dan dasbor ",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:37:54.000Z",
+    "updatedAt": "2024-01-24T04:37:54.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f848aa0a-07c9-4dbd-b3d4-7938063764ff",
+    "ProgramId": "25d17e88-b36f-4a7e-9290-c64e0d59aad5",
+    "description": "Yayasan aktif menjalankan perannya",
+    "quarter": 3,
+    "createdAt": "2024-01-24T06:47:03.000Z",
+    "updatedAt": "2024-01-24T06:47:03.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f86687f8-f090-4610-831b-a0cf33894769",
+    "ProgramId": "b408adbc-3d7c-4dbb-9fe4-a24b3ced4cfa",
+    "description": "Terlaksananya kegiatan Rakornas Wilayah Maluku - Papua\n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:39:18.000Z",
+    "updatedAt": "2024-01-24T04:39:18.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f8e7aed8-289d-4243-8114-4133a1e61a2a",
+    "ProgramId": "cbf6f0ad-d5b9-4c25-9656-f9a588f2cee0",
+    "description": "Kunjungan lapangan",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:19:02.000Z",
+    "updatedAt": "2024-01-24T07:19:02.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f8f15680-febe-47a1-b907-f643d5449477",
+    "ProgramId": "6ee1b582-52ae-4b7e-b89d-255f09b9b67b",
+    "description": "Mendorong asosiasi di bidang film dan animasi menjadi ALB KADIN",
+    "quarter": 2,
+    "createdAt": "2024-01-24T08:39:20.000Z",
+    "updatedAt": "2024-01-24T08:39:20.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f90e04a8-d23e-4872-bbdc-9c2b59f2729f",
+    "ProgramId": "2cfc27f2-ee87-440f-950c-3c345c46db94",
+    "description": "Tahap awal melibatkan perencanaan bersama antara pemerintah pusat dan daerah untuk menetapkan tujuan bersama, memilih topik diskusi yang relevan, menentukan jadwal, serta menentukan siapa yang akan terlibat dalam forum tersebut.",
+    "quarter": 1,
+    "createdAt": "2024-01-24T03:22:36.000Z",
+    "updatedAt": "2024-01-24T03:22:36.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f9a970a5-7dd1-4e2b-84a2-2fc7149320f1",
+    "ProgramId": "edadcfea-562e-4a31-b8be-c2a72c82df25",
+    "description": "Merehabilitasi dan memulihkan mangrove",
+    "quarter": 1,
+    "createdAt": "2024-01-24T07:52:23.000Z",
+    "updatedAt": "2024-01-24T07:52:23.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "f9c45be7-707b-4a40-bc84-4c29d4275654",
+    "ProgramId": "6a68d633-6d3f-4b2e-962e-aaaa2bb82ce2",
+    "description": "Dilakukan integrasi dan kolaborasi dengan Kementerian atau Lembaga",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:13:11.000Z",
+    "updatedAt": "2024-01-24T06:13:11.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "fa17f787-474a-4299-8ede-1cb351439862",
+    "ProgramId": "fc66937c-dc0c-4de0-89b0-379c1c193ee7",
+    "description": "Implementasi dan program ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T06:38:28.000Z",
+    "updatedAt": "2024-01-24T06:38:28.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "fac373eb-e188-4c77-bd2d-6d175becb676",
+    "ProgramId": "634d3174-5cd6-481a-9881-29620c48d8df",
+    "description": "Penyampaian rekomendasi kebijakan ke pemerintah dan DPR RI",
+    "quarter": 4,
+    "createdAt": "2024-01-24T08:42:34.000Z",
+    "updatedAt": "2024-01-24T08:42:34.000Z",
+    "deletedAt": "2024-01-24T08:47:02.000Z"
+  },
+  {
+    "id": "fb1cd383-6596-4808-ac57-7ee943a78e9a",
+    "ProgramId": "205062d0-c7ea-46e4-9291-dc996bae9bf6",
+    "description": "Terlaksananya kegiatan Rakornas Wilayah Jawa - Bali \n",
+    "quarter": 2,
+    "createdAt": "2024-01-24T04:20:13.000Z",
+    "updatedAt": "2024-01-24T04:20:13.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "fb568fd7-3568-4ff3-823d-9a1e1cecf236",
+    "ProgramId": "634d3174-5cd6-481a-9881-29620c48d8df",
+    "description": "Mendorong asosiasi di bidang film dan animasi menjadi ALB KADIN",
+    "quarter": 2,
+    "createdAt": "2024-01-24T08:42:34.000Z",
+    "updatedAt": "2024-01-24T08:42:34.000Z",
+    "deletedAt": "2024-01-24T08:47:02.000Z"
+  },
+  {
+    "id": "fbecf3f5-9ec1-4c81-82ae-820bca3875f9",
+    "ProgramId": "bb950f69-395b-48b4-8088-1847e0d1cfea",
+    "description": "Pelaksanaan MOU Kadin Provinsi dengan Mitra",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:37:22.000Z",
+    "updatedAt": "2024-01-23T07:37:22.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "fc9cd2a6-ed4b-4eb2-91c9-6ed583738508",
+    "ProgramId": "24edac85-8d02-477a-a618-f7eaf0e1de79",
+    "description": "Membentuk lembaga sertifikasi ",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:45:26.000Z",
+    "updatedAt": "2024-01-24T08:45:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "fd748c86-5586-46a0-8e30-119406d262ab",
+    "ProgramId": "24edac85-8d02-477a-a618-f7eaf0e1de79",
+    "description": "Menentukan kompetensi yang akan dilatih",
+    "quarter": 1,
+    "createdAt": "2024-01-24T08:45:26.000Z",
+    "updatedAt": "2024-01-24T08:45:26.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "fdee5d3d-9cfb-4e7b-8cff-62397f46934f",
+    "ProgramId": "97da366e-a586-4bc5-ad45-7509d960e9ec",
+    "description": "Melaksanakan dan melaporkan kegiatan penelitian tentang ekonomi kreatif",
+    "quarter": 2,
+    "createdAt": "2024-01-24T07:31:12.000Z",
+    "updatedAt": "2024-01-24T07:31:12.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "fe79fc64-063f-4b06-a11c-840c2ae7a416",
+    "ProgramId": "ca42d1ed-bbda-4e48-a9cd-70e9cffcf24a",
+    "description": "Pengembangan sistem aplikasi versi 2.0\n",
+    "quarter": 3,
+    "createdAt": "2024-01-24T06:40:59.000Z",
+    "updatedAt": "2024-01-24T06:40:59.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ff1b4bb1-ce9f-45cf-9ef3-f60487638b84",
+    "ProgramId": "e15754bb-b79c-4268-a06e-ede593854506",
+    "description": "Menerima aspirasi penyempurnaan ketentuan organisasi",
+    "quarter": 1,
+    "createdAt": "2024-01-23T07:39:51.000Z",
+    "updatedAt": "2024-01-23T07:39:51.000Z",
+    "deletedAt": "2024-01-24T04:20:51.000Z"
+  },
+  {
+    "id": "ff484c41-c116-4902-a157-e917363e66f7",
+    "ProgramId": "f4089a9b-fb6d-4e6d-bf1f-c488744145f1",
+    "description": "Manajemen program dan dasbor\n",
+    "quarter": 3,
+    "createdAt": "2024-01-24T04:31:13.000Z",
+    "updatedAt": "2024-01-24T04:31:13.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ff51a6b2-8a2f-4428-a3eb-82f7325f13ad",
+    "ProgramId": "697e64f2-fddf-4943-b0bf-1b60fbbf10a3",
+    "description": "Melakukan diskusi dengan kementerian ataupun lembaga terkait untuk menunjang program Education Hub",
+    "quarter": 1,
+    "createdAt": "2024-01-24T04:21:48.000Z",
+    "updatedAt": "2024-01-24T04:21:48.000Z",
+    "deletedAt": null
+  }
+]

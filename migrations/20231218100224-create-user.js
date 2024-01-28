@@ -16,6 +16,7 @@ module.exports = {
       },
       kta: {
         type: Sequelize.STRING,
+        unique: true,
       },
       position: {
         type: Sequelize.STRING,

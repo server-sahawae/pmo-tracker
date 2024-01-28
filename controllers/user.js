@@ -37,6 +37,7 @@ module.exports = class Controller {
               name: { [Op.like]: `%${search}%` },
             },
           },
+          limit: 10,
           include: {
             attributes: ["id", "name"],
             model: Partner,
