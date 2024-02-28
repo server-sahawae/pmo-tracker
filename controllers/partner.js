@@ -1,7 +1,8 @@
 const { Op, transaction, or } = require("sequelize");
 const { UNAUTHORIZED, BAD_REQUEST } = require("../constants/ErrorKeys");
-const { Partner } = require("../models");
+const { Partner, Institution } = require("../models");
 const { redisSearch, redisPMO } = require("../config/redis");
+const { expireRedis } = require("../constants/staticValue");
 
 module.exports = class Controller {
   static async createPartner(req, res, next) {
@@ -34,15 +35,17 @@ module.exports = class Controller {
               chief: { [Op.like]: `%${search}%` },
             },
           },
+          include: Institution,
           order: [
             ["no", "ASC"],
             ["name", "ASC"],
           ],
+          limit: 20,
         });
         await redisSearch.set(
           `SearchAllPartner:${search}`,
           JSON.stringify(result, null, 2),
-          { EX: 60 * 60 * 24 }
+          { EX: expireRedis }
         );
         res.status(200).json(result);
       } else res.status(200).json(JSON.parse(redisCheck));
@@ -64,6 +67,7 @@ module.exports = class Controller {
           where: {
             InstitutionId,
           },
+          include: Institution,
           order: [
             ["no", "ASC"],
             ["name", "ASC"],
@@ -72,7 +76,7 @@ module.exports = class Controller {
         await redisPMO.set(
           `FindAllPartnerByInstitutionId:${InstitutionId}`,
           JSON.stringify(result, null, 2),
-          { EX: 60 * 60 * 24 }
+          { EX: expireRedis }
         );
         res.status(200).json(result);
       } else res.status(200).json(JSON.parse(redisCheck));
@@ -92,6 +96,7 @@ module.exports = class Controller {
           where: {
             id: search,
           },
+          include: [Institution],
           order: [
             ["no", "ASC"],
             ["name", "ASC"],
@@ -100,7 +105,7 @@ module.exports = class Controller {
         await redisSearch.set(
           `PartnerId:${search}`,
           JSON.stringify(result, null, 2),
-          { EX: 60 * 60 * 24 }
+          { EX: expireRedis }
         );
         res.status(200).json(result);
       } else res.status(200).json(JSON.parse(redisCheck));

@@ -3,11 +3,13 @@ const routes = require("express").Router();
 const programRoutes = require("./program");
 const institutionRoutes = require("./institution");
 const partnerRoutes = require("./partner");
-const committeeRoutes = require("./committee");
+const PartnerPositionRoutes = require("./PartnerPosition");
 const priorityRoutes = require("./priority");
 const indicatorRoutes = require("./indicator");
 const categoryRoutes = require("./category");
 const userRoutes = require("./user");
+const ProgramIndicatorRoutes = require("./ProgramIndicator");
+const projectRoutes = require("./project");
 
 routes.get("/", (req, res) => {
   res.send("HELLO WORLD");
@@ -15,10 +17,12 @@ routes.get("/", (req, res) => {
 routes.use("/program", programRoutes);
 routes.use("/institution", institutionRoutes);
 routes.use("/partner", partnerRoutes);
-routes.use("/committee", committeeRoutes);
+routes.use("/PartnerPosition", PartnerPositionRoutes);
 routes.use("/priority", priorityRoutes);
 routes.use("/indicator", indicatorRoutes);
 routes.use("/category", categoryRoutes);
 routes.use("/user", userRoutes);
+routes.use("/ProgramIndicator", ProgramIndicatorRoutes);
+routes.use("/project", projectRoutes);
 
 module.exports = routes;

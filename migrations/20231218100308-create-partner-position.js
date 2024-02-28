@@ -2,7 +2,7 @@
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createTable("Users", {
+    await queryInterface.createTable("PartnerPositions", {
       id: {
         allowNull: false,
         primaryKey: true,
@@ -14,32 +14,10 @@ module.exports = {
         allowNull: false,
         references: { model: "Partners" },
       },
-      kta: {
-        type: Sequelize.STRING,
-        unique: true,
-      },
-      position: {
-        type: Sequelize.STRING,
-      },
-      name: {
-        type: Sequelize.STRING,
-      },
-      phone: {
-        type: Sequelize.STRING,
-      },
-      email: {
-        type: Sequelize.STRING,
-      },
-      GoogleId: {
-        type: Sequelize.STRING,
-      },
-      picture: {
-        type: Sequelize.BLOB,
-      },
-      UserLevelId: {
+      PositionId: {
         type: Sequelize.UUID,
         allowNull: false,
-        references: { model: "UserLevels" },
+        references: { model: "Positions" },
       },
       createdAt: {
         allowNull: false,
@@ -55,6 +33,6 @@ module.exports = {
     });
   },
   async down(queryInterface, Sequelize) {
-    await queryInterface.dropTable("Users");
+    await queryInterface.dropTable("PartnerPositions");
   },
 };

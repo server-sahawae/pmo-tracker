@@ -3,7 +3,7 @@ const { sequelize } = require("../models");
 const { Category } = require("../models");
 const { KADIN_ONLY } = require("../constants/ErrorKeys");
 
-const { kadinIndonesia } = require("../constants/staticValue");
+const { kadinIndonesia, expireRedis } = require("../constants/staticValue");
 const { redisPMO } = require("../config/redis");
 const { deleteRedisKeys } = require("../helpers/redis");
 module.exports = class Controller {
@@ -20,7 +20,7 @@ module.exports = class Controller {
         await redisPMO.set(
           `findAllCategories`,
           JSON.stringify(result, null, 2),
-          { EX: 60 * 60 * 24 }
+          { EX: expireRedis }
         );
         res.status(200).json(result);
       } else res.status(200).json(JSON.parse(redisCheck));

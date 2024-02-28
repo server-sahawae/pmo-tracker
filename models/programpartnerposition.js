@@ -1,7 +1,7 @@
 "use strict";
 const { Model } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
-  class ProgramCommittee extends Model {
+  class ProgramPartnerPosition extends Model {
     /**
      * Helper method for defining associations.
      * This method is not a part of Sequelize lifecycle.
@@ -9,15 +9,17 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      ProgramCommittee.belongsTo(models.Program, {
-        onDelete: "cascade",
-        foreignKey: { allowNull: false },
-        hooks: true,
+      ProgramPartnerPosition.belongsTo(models.Program);
+      ProgramPartnerPosition.belongsTo(models.PartnerPosition, {
+        // as: "PartnerPosition",
       });
-      ProgramCommittee.belongsTo(models.Committee);
+      ProgramPartnerPosition.belongsTo(models.PartnerPosition, {
+        // as: "ProgramCommittee",
+        // foreignKey: "  PartnerPositionId",
+      });
     }
   }
-  ProgramCommittee.init(
+  ProgramPartnerPosition.init(
     {
       id: {
         type: DataTypes.UUID,
@@ -28,7 +30,7 @@ module.exports = (sequelize, DataTypes) => {
         type: DataTypes.UUID,
         allowNull: false,
       },
-      CommitteeId: {
+      PartnerPositionId: {
         type: DataTypes.UUID,
         allowNull: false,
       },
@@ -36,8 +38,8 @@ module.exports = (sequelize, DataTypes) => {
     {
       paranoid: true,
       sequelize,
-      modelName: "ProgramCommittee",
+      modelName: "ProgramPartnerPosition",
     }
   );
-  return ProgramCommittee;
+  return ProgramPartnerPosition;
 };

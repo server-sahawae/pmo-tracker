@@ -11,9 +11,12 @@ module.exports = (sequelize, DataTypes) => {
       // define association here
       Partner.belongsTo(models.Institution);
       Partner.hasMany(models.Program);
-      Partner.hasMany(models.Committee);
+      Partner.belongsToMany(models.Position, { through: "PartnerPosition" });
       Partner.hasMany(models.ProgramPartner);
       Partner.hasMany(models.User);
+      Partner.belongsToMany(models.Position, {
+        through: "PartnerPositions",
+      });
     }
   }
   Partner.init(

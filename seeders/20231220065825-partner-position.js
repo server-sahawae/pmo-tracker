@@ -3,7 +3,7 @@
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
-    const data = require("../data/committees.json").map((el) => {
+    const data = require("../data/PartnerPositions.json").map((el) => {
       return {
         ...el,
         createdAt: new Date(),
@@ -11,10 +11,10 @@ module.exports = {
       };
     });
     // console.log(data);
-    await queryInterface.bulkInsert("Committees", data, {});
+    await queryInterface.bulkInsert("PartnerPositions", data, {});
   },
 
   async down(queryInterface, Sequelize) {
-    await queryInterface.bulkDelete("Committees", null);
+    await queryInterface.bulkDelete("PartnerPositions", null);
   },
 };

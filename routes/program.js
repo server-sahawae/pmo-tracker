@@ -9,7 +9,7 @@ const {
 const routes = require("express").Router();
 
 routes.get("/department/:id", programsByDepartmentId);
-routes.post("/create", createProgram);
+routes.post("/", createProgram);
 routes.get("/:id", programDetail);
 routes.delete("/:ProgramId", deleteProgram);
 

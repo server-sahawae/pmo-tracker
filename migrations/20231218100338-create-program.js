@@ -21,6 +21,7 @@ module.exports = {
         name: {
           type: Sequelize.STRING,
         },
+        rapimnas: { type: Sequelize.BOOLEAN },
         createdAt: {
           allowNull: false,
           type: Sequelize.DATE,
@@ -36,7 +37,7 @@ module.exports = {
       {
         uniqueKeys: {
           ["Program name"]: {
-            fields: ["PartnerId", "name", "deletedAt"],
+            fields: ["PartnerId", "name"],
           },
         },
       }

@@ -66,9 +66,9 @@
         "quarter": 4
       }
     ],
-    "committee": [
+    "PartnerPosition": [
       {
-        "CommitteeId": "ea742caa-4f58-43ce-a6f5-c6e6a4ac366d"
+        "PartnerPositionId": "ea742caa-4f58-43ce-a6f5-c6e6a4ac366d"
       }
     ],
     "partner": [

@@ -1,6 +1,7 @@
 const { Op } = require("sequelize");
 const { ProgramIndicator } = require("../models");
 const { redisSearch } = require("../config/redis");
+const { expireRedis } = require("../constants/staticValue");
 
 module.exports = class Controller {
   static async searchAllIndicator(req, res, next) {
@@ -18,10 +19,21 @@ module.exports = class Controller {
         await redisSearch.set(
           `SearchProgram:${ProgramId}`,
           JSON.stringify(result, null, 2),
-          { EX: 60 * 60 * 24 }
+          { EX: expireRedis }
         );
         res.status(200).json(result);
       } else res.status(200).json(JSON.parse(redisCheck));
+    } catch (error) {
+      console.log(error);
+      next(error);
+    }
+  }
+
+  static async findAllIndicatorFromManyPrograms(req, res, next) {
+    try {
+      const { ProgramIds } = req.body;
+
+      res.status(200).json(ProgramIds);
     } catch (error) {
       console.log(error);
       next(error);

@@ -16,7 +16,9 @@ module.exports = (sequelize, DataTypes) => {
       Program.hasMany(models.ProgramIndicator);
       Program.hasMany(models.ProgramPhase);
       Program.hasMany(models.ProgramPriority);
-      Program.hasMany(models.ProgramCommittee);
+      Program.belongsToMany(models.PartnerPosition, {
+        through: "ProgramPartnerPositions",
+      });
     }
   }
   Program.init(
@@ -31,6 +33,7 @@ module.exports = (sequelize, DataTypes) => {
         allowNull: false,
       },
       name: DataTypes.STRING,
+      rapimnas: DataTypes.BOOLEAN,
     },
     {
       paranoid: true,

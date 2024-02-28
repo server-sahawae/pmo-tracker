@@ -9,13 +9,14 @@ const {
   ProgramIndicator,
   ProgramPhase,
   ProgramPriority,
-  ProgramCommittee,
+  ProgramPartnerPosition,
   Priority,
-  Committee,
+  PartnerPosition,
+  Position,
 } = require("../models");
 const { KADIN_ONLY } = require("../constants/ErrorKeys");
 
-const { kadinIndonesia } = require("../constants/staticValue");
+const { kadinIndonesia, expireRedis } = require("../constants/staticValue");
 const { redisPMO } = require("../config/redis");
 const { deleteRedisKeys } = require("../helpers/redis");
 module.exports = class Controller {
@@ -32,79 +33,237 @@ module.exports = class Controller {
         indicator,
         phase,
         priority,
-        committee,
+        PartnerPosition,
       } = req.body;
-      const institutionCheck = await Partner.findOne({
-        where: {
-          id: program.PartnerId,
-          InstitutionId: kadinIndonesia,
-        },
-      });
-      // console.log(institutionCheck);
-      if (institutionCheck) {
-        const { dataValues: createInfo } = await Program.create(
-          {
-            name: program.name,
-            PartnerId: program.PartnerId,
+
+      console.log(program.id, "!!!!!!!!!");
+
+      if (!program.id) {
+        const programRestored = await Program.restore({
+          where: {
+            [Op.and]: [
+              { name: program.name },
+              { PartnerId: program.PartnerId },
+            ],
           },
-          { transaction: t }
-        );
+        });
+        const mainData = { createInfo: {} };
+        if (!programRestored) {
+          const result = await Program.create(
+            {
+              name: program.name,
+              PartnerId: program.PartnerId,
+              rapimnas: program.rapimnas,
+            },
+            { transaction: t }
+          );
+          mainData.createInfo = result;
+        } else {
+          const result = await Program.findOne({
+            where: {
+              [Op.and]: [
+                { name: program.name },
+                { PartnerId: program.PartnerId },
+              ],
+            },
+          });
+          mainData.createInfo = result;
+        }
+
+        const { createInfo } = mainData;
         await ProgramVision.bulkCreate(
-          vision.map((el) => {
-            return { ...el, ProgramId: createInfo.id };
-          }),
+          vision
+            .filter((el) => !el.deletedAt)
+            .map((el) => {
+              return { ...el, ProgramId: createInfo.id };
+            }),
           { transaction: t }
         );
         await ProgramPartner.bulkCreate(
-          partner.map((el) => {
-            return { ...el, ProgramId: createInfo.id };
-          }),
+          partner
+            .filter((el) => !el.deletedAt)
+            .map((el) => {
+              return { ...el, ProgramId: createInfo.id };
+            }),
           { transaction: t }
         );
         await ProgramDriver.bulkCreate(
-          driver.map((el) => {
-            return { ...el, ProgramId: createInfo.id };
-          }),
+          driver
+            .filter((el) => !el.deletedAt)
+            .map((el) => {
+              return { ...el, ProgramId: createInfo.id };
+            }),
           { transaction: t }
         );
         await ProgramIndicator.bulkCreate(
-          indicator.map((el) => {
-            return { ...el, ProgramId: createInfo.id };
-          }),
+          indicator
+            .filter((el) => !el.deletedAt)
+            .map((el) => {
+              return { ...el, ProgramId: createInfo.id };
+            }),
           { transaction: t }
         );
         await ProgramPhase.bulkCreate(
-          phase.map((el) => {
-            return { ...el, ProgramId: createInfo.id };
-          }),
+          phase
+            .filter((el) => !el.deletedAt)
+            .map((el) => {
+              return { ...el, ProgramId: createInfo.id };
+            }),
           { transaction: t }
         );
         await ProgramPriority.bulkCreate(
-          priority.map((el) => {
-            return { ...el, ProgramId: createInfo.id };
-          }),
+          priority
+            .filter((el) => !el.deletedAt)
+            .map((el) => {
+              return { ...el, ProgramId: createInfo.id };
+            }),
           { transaction: t }
         );
-        await ProgramCommittee.bulkCreate(
-          committee.map((el) => {
-            return { ...el, ProgramId: createInfo.id };
+        await ProgramPartnerPosition.bulkCreate(
+          PartnerPosition.filter((el) => !el.deletedAt).map((el) => {
+            return {
+              PartnerPositionId: el.id,
+              ProgramId: createInfo.id,
+            };
           }),
           { transaction: t }
         );
         await t.commit();
-        console.log(
-          "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-        );
         await deleteRedisKeys(program.PartnerId);
         res.status(200).json(`Program ${program.name} has been created!`);
-      } else throw { name: KADIN_ONLY };
+      } else {
+        await ProgramVision.bulkCreate(
+          vision
+            .map((el) => {
+              return { ...el, updatedAt: new Date(), ProgramId: program.id };
+            })
+            .filter((el) => !(el.deletedAt && !el.id)),
+          {
+            transaction: t,
+            updateOnDuplicate: [
+              "id",
+              "rapimnas",
+              "ProgramId",
+              "description",
+              "updatedAt",
+              "deletedAt",
+            ],
+          }
+        );
+        await ProgramPartner.bulkCreate(
+          partner
+            .map((el) => {
+              return { ...el, updatedAt: new Date(), ProgramId: program.id };
+            })
+            .filter((el) => !(el.deletedAt && !el.id)),
+          {
+            transaction: t,
+            updateOnDuplicate: [
+              "id",
+              "ProgramId",
+              "PartnerId",
+              "updatedAt",
+              "deletedAt",
+            ],
+          }
+        );
+        await ProgramDriver.bulkCreate(
+          driver
+            .map((el) => {
+              return { ...el, updatedAt: new Date(), ProgramId: program.id };
+            })
+            .filter((el) => !(el.deletedAt && !el.id)),
+          {
+            transaction: t,
+            updateOnDuplicate: [
+              "id",
+              "ProgramId",
+              "description",
+              "updatedAt",
+              "deletedAt",
+            ],
+          }
+        );
+        await ProgramIndicator.bulkCreate(
+          indicator
+            .map((el) => {
+              return { ...el, updatedAt: new Date(), ProgramId: program.id };
+            })
+            .filter((el) => !(el.deletedAt && !el.id)),
+          {
+            transaction: t,
+            updateOnDuplicate: [
+              "id",
+              "ProgramId",
+              "description",
+              "updatedAt",
+              "deletedAt",
+            ],
+          }
+        );
+        await ProgramPhase.bulkCreate(
+          phase
+            .map((el) => {
+              return { ...el, updatedAt: new Date(), ProgramId: program.id };
+            })
+            .filter((el) => !(el.deletedAt && !el.id)),
+          {
+            transaction: t,
+            updateOnDuplicate: [
+              "id",
+              "ProgramId",
+              "description",
+              "quarter",
+              "updatedAt",
+              "deletedAt",
+            ],
+          }
+        );
+        await ProgramPriority.bulkCreate(
+          priority
+            .map((el) => {
+              return { ...el, updatedAt: new Date(), ProgramId: program.id };
+            })
+            .filter((el) => !(el.deletedAt && !el.id)),
+          {
+            transaction: t,
+            updateOnDuplicate: [
+              "id",
+              "ProgramId",
+              "PriorityId",
+              "updatedAt",
+              "deletedAt",
+            ],
+          }
+        );
+        await ProgramPartnerPosition.bulkCreate(
+          PartnerPosition.map((el) => {
+            return {
+              updatedAt: new Date(),
+              ProgramId: program.id,
+              PartnerPositionId: el.id,
+            };
+          }).filter((el) => !(el.deletedAt && !el.id)),
+          {
+            transaction: t,
+            updateOnDuplicate: [
+              "id",
+              "ProgramId",
+              "PartnerPositionId",
+              "updatedAt",
+              "deletedAt",
+            ],
+          }
+        );
+        await t.commit();
+        await deleteRedisKeys(program.id);
+
+        res.status(200).json("update");
+      }
     } catch (error) {
       console.log(error);
       await t.rollback();
       await next(error);
-    } finally {
-      //       await redisPMO.disconnect();
-      console.log("Redis closed");
     }
   }
 
@@ -125,7 +284,7 @@ module.exports = class Controller {
           await redisPMO.set(
             `[Program]PartnerId:${PartnerId}`,
             JSON.stringify(result, null, 2),
-            { EX: 60 * 60 * 24 }
+            { EX: expireRedis }
           );
         res.status(200).json(result);
       }
@@ -164,21 +323,33 @@ module.exports = class Controller {
           where: { ProgramId },
           include: [Priority],
         });
-        const programCommittee = await ProgramCommittee.findAll({
-          where: { ProgramId },
-          include: [Committee],
+        const programPartnerPosition = await PartnerPosition.findAll({
+          include: [
+            {
+              model: ProgramPartnerPosition,
+              where: { ProgramId },
+              as: "ProgramCommittee",
+            },
+            {
+              model: Position,
+            },
+            {
+              model: Partner,
+            },
+          ],
+          // include: [Position],
         });
         const result = {
           ...data1,
           ...data2,
           ProgramPartner: programPartner,
           ProgramPriority: programPriority,
-          ProgramCommittee: programCommittee,
+          ProgramPartnerPosition: programPartnerPosition,
         };
         await redisPMO.set(
           `[ProgramDetail]ProgramId:${ProgramId}`,
           JSON.stringify(result, null, 2),
-          { EX: 60 * 60 * 24 }
+          { EX: expireRedis }
         );
         res.status(200).json(result);
       } else res.status(200).json(JSON.parse(redisCheck));
@@ -226,7 +397,7 @@ module.exports = class Controller {
         },
         { transaction: t }
       );
-      await ProgramCommittee.destroy(
+      await ProgramPartnerPosition.destroy(
         {
           where: { ProgramId },
         },

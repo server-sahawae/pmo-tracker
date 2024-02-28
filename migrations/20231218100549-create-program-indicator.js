@@ -34,7 +34,7 @@ module.exports = {
       {
         uniqueKeys: {
           ["Program Key Performance Indicator"]: {
-            fields: ["ProgramId", "description", "deletedAt"],
+            fields: ["ProgramId", "description"],
           },
         },
       }

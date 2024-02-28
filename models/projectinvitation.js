@@ -15,12 +15,25 @@ module.exports = (sequelize, DataTypes) => {
   }
   ProjectInvitation.init(
     {
+      id: {
+        type: DataTypes.UUID,
+        defaultValue: DataTypes.UUIDV4,
+        primaryKey: true,
+      },
       ProjectId: {
         type: DataTypes.UUID,
         allowNull: false,
       },
-      UserId: {
-        type: DataTypes.UUID,
+      name: {
+        type: DataTypes.STRING,
+        allowNull: false,
+      },
+      position: {
+        type: DataTypes.STRING,
+        allowNull: false,
+      },
+      institution: {
+        type: DataTypes.STRING,
         allowNull: false,
       },
     },

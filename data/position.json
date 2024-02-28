@@ -1,0 +1,2615 @@
+[
+  {
+    "id": "c2990c6f-c2cb-46fd-b3ee-e1910e6aaf9c",
+    "name": "Wakil Ketua Komite Tetap Banten"
+  },
+  {
+    "id": "c8ae45e9-ffcb-4e5b-a737-4844e386f93c",
+    "name": "Wakil Ketua Komite TetapPembangunan Infrastruktur Energi Baru dan Terbarukan II"
+  },
+  {
+    "id": "aeaa9b13-3a0d-4ee6-899f-c0891330e2c6",
+    "name": "Wakil Ketua Komite Tetap Kalimantan Barat II"
+  },
+  {
+    "id": "9844c603-f38f-4358-a817-603f623cd23f",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Pertambangan & Batuan"
+  },
+  {
+    "id": "3f64d89a-6ff4-4636-b02a-ee3e3b578a4f",
+    "name": "Wakil Ketua Komite Tetap Budidaya Rumput Laut"
+  },
+  {
+    "id": "6053fed6-4510-4b07-8e47-04ccda9884cc",
+    "name": "Wakil Ketua Komite Tetap Pemasaran Industri UKM Lokal"
+  },
+  {
+    "id": "b8e6c4ca-d36a-484e-b100-dce007b49156",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Promosi dan Citra"
+  },
+  {
+    "id": "8640d4a2-9f47-4c0a-9e3a-966516afd9c4",
+    "name": "Wakil Ketua Komite Tetap Hukum Perbankan, Asuransi dan Industri Keuangan Lainnya"
+  },
+  {
+    "id": "da183b87-48a2-43b7-aeeb-e219c38e6b34",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Usaha Daerah"
+  },
+  {
+    "id": "a626f50a-ffd8-4aa2-834d-5920c03015bc",
+    "name": "Ketua Komite Tetap Asosiasi-Asosiasi Industri Pengolahan Kimia"
+  },
+  {
+    "id": "b14510f3-317e-482f-bc09-59f64846b8dc",
+    "name": "Wakil Ketua Komite Tetap Industri Hijau"
+  },
+  {
+    "id": "bb19ab80-5bd7-408e-93b2-b2059f00278b",
+    "name": "Ketua Komite Tetap PED-Pertambangan (Pengembangan Ekonomi Daerah Berbasis Pertambangan Skala Kecil)"
+  },
+  {
+    "id": "2bcf24f5-272b-47a4-8932-68b6e472415e",
+    "name": "Wakil Ketua Komite Tetap Kalimantan Timur II"
+  },
+  {
+    "id": "29ade9c1-b7af-4af7-9013-963d1005d1c1",
+    "name": "Ketua Komite Tetap Industri Agro"
+  },
+  {
+    "id": "2253fcd3-3793-4327-a7a6-1a33cc7d7318",
+    "name": "Wakil Ketua Komite Tetap Processing Technology"
+  },
+  {
+    "id": "f87c5862-fcaf-4a12-a7a6-ed59897dea57",
+    "name": "Wakil Ketua Umum Bidang Vokasi dan Sertifikasi"
+  },
+  {
+    "id": "0b5ed41c-a18a-4714-8e09-9f057033d038",
+    "name": "Wakil Ketua Komite Tetap Geologi dan Eksplorasi Minyak Bumi Gas Bumi"
+  },
+  {
+    "id": "1ab777d9-6fd3-477e-bd36-5a342acd9edf",
+    "name": "Ketua Komite Tetap Asosiasi-Asosiasi Industri Jasa Perdagangan dan Jasa Eksport Import"
+  },
+  {
+    "id": "3d5680fc-17cc-4255-8099-0eae57075875",
+    "name": "Anggota Kawasan Industri Halal"
+  },
+  {
+    "id": "bad00782-f596-452a-9b98-ce10cdf739eb",
+    "name": "Kepala Badan Hubungan Legislatif"
+  },
+  {
+    "id": "8040edd9-f25f-432e-9fd2-1ea3d9f21c3e",
+    "name": "Wakil Ketua Komite Tetap DI Jogjakarta"
+  },
+  {
+    "id": "cf31d72a-e14c-48ac-b923-61009c627989",
+    "name": "Wakil Ketua Komite Tetap Bisnis E-Sport"
+  },
+  {
+    "id": "97f85860-9656-4acf-a2b1-5c68a9ef38c2",
+    "name": "Wakil Ketua Komite Tetap Digitalisasi Pertanian"
+  },
+  {
+    "id": "00d31d40-966a-4b22-a9e1-f018b81b7d1e",
+    "name": "Wakil Ketua Komite Tetap Digitalisasi dan Star Up Industri Unggulan Daerah"
+  },
+  { "id": "da17e3a1-2dff-4e27-9824-c70a9325695d", "name": "Anggota" },
+  {
+    "id": "dff50c9d-c2f7-45ed-a720-dedc02691987",
+    "name": "Wakil Ketua Komite Tetap Kajian Usaha BUMN"
+  },
+  {
+    "id": "fced1352-bd59-454f-9ce3-75e6dd5467c3",
+    "name": "Ketua Komite Tetap PED -PP (Pengembangan Ekonomi Daerah Berbasis Pertanian dan Peternakan)"
+  },
+  {
+    "id": "e521229d-2f0f-41e8-bc33-9610b52fd144",
+    "name": "Wakil Ketua Komite Tetap Uji Sertifikasi"
+  },
+  {
+    "id": "6f01fa95-3f63-48c1-9744-3c47c683f544",
+    "name": "Wakil Ketua Komite Tetap Kebijakan Energi Baru dan Terbarukan II"
+  },
+  {
+    "id": "5487a94c-6ac1-4128-b392-5086c99856db",
+    "name": "Wakil Ketua Komite Tetap Penguatan Kelembagaan Internal ALB"
+  },
+  {
+    "id": "1c71f111-0030-4020-b942-8b078346a074",
+    "name": "Ketua Komite Tetap PED-KP (Pengembangan Ekonomi Daerah Berbasis Kelautan dan Perikanan)"
+  },
+  {
+    "id": "2f0ca75d-0170-4374-8e16-d4405bdd3fb9",
+    "name": "Ketua Komite Tetap Infrastruktur Hijau dan Berkelanjutan"
+  },
+  {
+    "id": "7d7b1de5-ea4f-4581-8a5d-c6890015c17c",
+    "name": "Wakil Ketua Komite Tetap Program Sponsor Pendukung Industri Olahraga"
+  },
+  {
+    "id": "c65364fe-0b5d-4492-97a9-4cbf2eb286da",
+    "name": "Wakil Ketua Komite Tetap Prasarana Pengolahan Pangan"
+  },
+  {
+    "id": "ff0ce2fa-26c8-4fc4-949a-87ee8a7a46d0",
+    "name": "Anggota Kebijakan Makro dan Mikro Ekonomi Syariah"
+  },
+  {
+    "id": "7ed91c8a-24e9-4524-a2e2-7156b11bf62a",
+    "name": "Wakil Ketua Komite Tetap Manajemen Risiko"
+  },
+  {
+    "id": "15b63da0-3e01-4166-9256-045dcb1f90b3",
+    "name": "Wakil Ketua Komite Tetap Komunikasi Produk Pengusaha Perempuan"
+  },
+  {
+    "id": "e2250250-3d9c-46a9-a293-30cd98f8d63e",
+    "name": "Kepala Badan Logistik Dan Rantai Pasok"
+  },
+  {
+    "id": "668264fa-9d4d-413f-b328-d4494a5bfff2",
+    "name": "Wakil Ketua Komite Tetap Pengaturan Tanah Komunal, Hubungan Kelembagaan dan Pembinaan PPAT"
+  },
+  {
+    "id": "ab319a8c-f799-43f4-98ba-0d052e215f13",
+    "name": "Anggota Milenial dan Pemuda"
+  },
+  {
+    "id": "914b0f64-37a8-4348-b952-c5e516b5e3bf",
+    "name": "Wakil Ketua Umum Bidang Kewirausahaan"
+  },
+  {
+    "id": "418b0df5-40e1-4df7-ac29-9bad8f5f4c74",
+    "name": "Wakil Ketua Komite Tetap Koordinator Eropa I : Belanda, Belgia, Luksemburg, Inggris, Irlandia, Perancis, Andorra, Monaco, Yunani, Italia, Spanyol, Portugal, Vatikan, Malta, Siprus, dan San Marino"
+  },
+  {
+    "id": "75a06fbb-aa60-47cc-8de4-89f317d5f9ce",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Profesi Non ALB"
+  },
+  {
+    "id": "5ef7bad0-d922-46c8-a44e-716f4d30e8c8",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Jasa Mekanikal & Elektrikal"
+  },
+  {
+    "id": "aaa9a9c2-740b-45a2-b09b-ca3cfc769eee",
+    "name": "Anggota Pariwisata dan Ekonomi Kreatif"
+  },
+  {
+    "id": "8c2024d2-0e5a-48f8-92eb-0b3bcfa2069d",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Elektronika & Telematika"
+  },
+  {
+    "id": "7ebbb447-139a-45a8-950f-d3843c46108b",
+    "name": "Anggota Kerja Sama Internasional dan Komite Luar Negeri"
+  },
+  {
+    "id": "e73e4c8d-059b-430f-a0e0-f3cf81fe2521",
+    "name": "Anggota Pengembangan Industri Produk Halal"
+  },
+  {
+    "id": "3a81bd74-99d5-44d5-b9d9-f81a0820e38e",
+    "name": "Wakil Ketua Komite Tetap Pemberdayaan UMKM"
+  },
+  {
+    "id": "d8ee194b-ac07-452c-88fc-d5dcd7dd88dd",
+    "name": "Wakil Ketua Komite Tetap Industri Kecil dan Menengah Makanan"
+  },
+  {
+    "id": "b73829d2-9f12-4c96-a053-f20f361daeaf",
+    "name": "Wakil Ketua Umum Wilayah Maluku, Maluku Utara, Papua dan Papua Barat"
+  },
+  {
+    "id": "3264c14e-40a5-4738-b72d-bbf705f1b2df",
+    "name": "Wakil Ketua Komite Tetap Akses Sumber Daya Industri"
+  },
+  {
+    "id": "8e469c79-0489-41cf-a9df-f9a454a71040",
+    "name": "Wakil Ketua Komite Tetap Perundingan ASEAN"
+  },
+  {
+    "id": "88d47f7c-d0d8-49a5-9820-c47f44bdc5fc",
+    "name": "Wakil Ketua Komite Tetap Kaderisasi Tingkat Nasional"
+  },
+  {
+    "id": "ccaf3eed-b6d5-4c51-872b-ae5f1ce75175",
+    "name": "Anggota Inovasi Produk Halal"
+  },
+  {
+    "id": "e310168c-0317-4846-8b03-fb9c75c3d5bc",
+    "name": "Wakil Ketua Komite Tetap Ketersediaan Bahan Pangan"
+  },
+  {
+    "id": "ba35ca43-ab03-43aa-85ec-76d0a0ca04fa",
+    "name": "Anggota HVC dan Ekosistem Halal"
+  },
+  {
+    "id": "c825e60f-833f-4d7d-8392-109c816a9499",
+    "name": "Wakil Ketua Komite Tetap Perumus SKKNI dan KKNI"
+  },
+  {
+    "id": "341e0b07-a685-4739-9dea-17e1030cb3b0",
+    "name": "Wakil Ketua Komite Tetap Pelaksanaan Pembiayaan\nInfrastruktur Pemukiman & Perumahan"
+  },
+  {
+    "id": "6bdcf19d-761e-4a8d-ae22-82092a4acfd3",
+    "name": "Wakil Ketua Komite Tetap Kerjasama Luar Negeri"
+  },
+  {
+    "id": "e6058670-ca7e-4b70-ab13-97ddcad6c06e",
+    "name": "Wakil Ketua Komite Tetap Industri Makanan, Hasil Tembakau dan Bahan Penyegar"
+  },
+  {
+    "id": "d3e08d97-d670-4974-868e-f3229b07a8e9",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Perdagangan Hasil Pertambangan"
+  },
+  {
+    "id": "700a1e58-7513-4313-8686-02401c133daa",
+    "name": "Wakil Ketua Komite Tetap Sarana dan Prasarana Pergudangan"
+  },
+  {
+    "id": "8a51245e-9c96-4fb3-b4f0-be10e31e7990",
+    "name": "Ketua Komite Tetap Kajian Usaha BUMN"
+  },
+  {
+    "id": "ddbb83ba-f875-4988-9c53-4e1a53c3ae8f",
+    "name": "Wakil Ketua Komite Tetap Koordinator Amerika III : Antigua dan Barbuda, Barbados, Trinidad dan Tobago, St. Kitts dan Nevis, Grenada, Persemakmuran Dominika, St. Vincents dan Grenadines, dan St. Lucia"
+  },
+  {
+    "id": "49672961-9faa-4c7d-8457-654fbe52d55e",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Permesinan & Alat Mesin Pertanian"
+  },
+  {
+    "id": "b622baec-ed3d-4dd6-a5f8-6e88c9682e37",
+    "name": "Anggota Registrasi dan Sertifikasi Halal"
+  },
+  {
+    "id": "8b5a7164-bdc6-42b1-a7b4-e7ae0762991a",
+    "name": "Wakil Ketua Komite Tetap Kejuruan"
+  },
+  {
+    "id": "2a358a99-0160-4e7f-9d6f-6ae3d4e47365",
+    "name": "Ketua Komite Tetap Perjanjian Internasional/FTA"
+  },
+  {
+    "id": "347957a2-4c12-4cea-843e-3b26447a5aeb",
+    "name": "Ketua Komite Tetap Pendidikan Dasar dan Menengah"
+  },
+  {
+    "id": "ec09aae3-d15e-4007-9a8e-064dd31d9e01",
+    "name": "Wakil Ketua Komite Tetap Kebijakan dan Regulasi Ketenagalistrikan"
+  },
+  {
+    "id": "52bbf75e-a1ff-451c-9762-a85b86aaf8d1",
+    "name": "Wakil Ketua Komite Tetap Program Minyak dan Gas Bumi"
+  },
+  {
+    "id": "8b60dfa3-91c0-4405-8fda-4d33c9580c49",
+    "name": "Ketua Komite Tetap Geologi dan Eksplorasi"
+  },
+  {
+    "id": "408b2fe5-1914-4676-879e-4e8af521a91b",
+    "name": "Wakil Ketua Komite Tetap Pendalaman Pasar Keuangan"
+  },
+  {
+    "id": "99c4435a-17eb-4b6f-96f5-489762b0bf28",
+    "name": "Wakil Ketua Komite Tetap Market & Supply Chain"
+  },
+  {
+    "id": "2e89c178-3f9f-4bc1-bd84-f727be557441",
+    "name": "Ketua Komite Tetap Sponsorship"
+  },
+  {
+    "id": "d03169b0-0511-4b62-99ec-69891be1084a",
+    "name": "Wakil Ketua Komite Tetap Barang Kebutuhan Pokok dan Barang Penting"
+  },
+  {
+    "id": "6e48621b-f9a2-4fe7-adb3-e7cd20336e76",
+    "name": "Wakil Ketua Komite Tetap Perencanaan Jasa dan Kawasan"
+  },
+  {
+    "id": "fb574ee1-5047-4bb6-ab18-f62cc96020fd",
+    "name": "Wakil Ketua Umum Bidang Pertanian"
+  },
+  {
+    "id": "d82ec18b-0fb9-4b97-8fc9-dffd636e7c94",
+    "name": "Wakil Kepala Badan Keuangan, Jasa Keuangan dan Dana Sosial"
+  },
+  {
+    "id": "2c827413-dcd1-4ebe-9af6-a016c6ff77df",
+    "name": "Ketua Komite Tetap Peningkatan Konektivitas dan Efisiensi Logistik Nasional"
+  },
+  {
+    "id": "7ba573e6-1d58-46c5-a423-559955038e75",
+    "name": "Wakil Kepala Badan Dana dan Investasi"
+  },
+  {
+    "id": "3789d48e-2394-4e8c-baee-f6e2834600cc",
+    "name": "Kepala Badan Pengembangan Ekosistem Perfilman dan Animasi"
+  },
+  {
+    "id": "4673e572-0381-48d0-bef9-634df97e70dc",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Industri Penyedia Informasi Lowongan Kerja"
+  },
+  {
+    "id": "5209963b-40ff-4b04-a7c6-6d7e051349fb",
+    "name": "Ketua Komite Tetap Bidang Pengelolaan Ruang Laut"
+  },
+  {
+    "id": "6c90e637-1985-4479-988d-80aa12ccf8e3",
+    "name": "Wakil Ketua Komite Tetap Regulasi Internal Organisasi"
+  },
+  {
+    "id": "bfacbcba-278b-43e9-894f-19684cf294c7",
+    "name": "Ketua Komite Tetap Ketenagalistrikan"
+  },
+  {
+    "id": "c47971aa-1a32-458a-9340-0bf393ee8c1f",
+    "name": "Ketua Komite Tetap Promosi dan Komunikasi Produk Pengusaha Perempuan"
+  },
+  {
+    "id": "f8eaa571-3642-438a-99ab-bbc3cf05e958",
+    "name": "Ketua Komite Tetap Mineral dan Batu Bara"
+  },
+  {
+    "id": "5a92479f-5c43-404e-bed9-cb73318f6ea9",
+    "name": "Wakil Ketua Komite Tetap Kemitraan Teknologi"
+  },
+  {
+    "id": "872dfe09-8c6e-483e-8cae-037fa14ae26a",
+    "name": "Wakil Ketua Komite Tetap Sponsorship Pendanaan"
+  },
+  {
+    "id": "19fbde4b-cbb2-4149-b031-cf4c0c9071a8",
+    "name": "Wakil Ketua Komite Tetap Produksi & Usaha Budidaya"
+  },
+  {
+    "id": "84174b7a-1137-4cdd-9df6-959a7f3efdc3",
+    "name": "Wakil Ketua Komite Tetap Kerja Sama Pelatihan Vokasi"
+  },
+  {
+    "id": "e7b34fcb-798f-4874-ac93-49047c27523a",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Teknologi & Informasi"
+  },
+  {
+    "id": "3a5ba6bf-67ea-4adf-8e88-e47364652352",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Antar ALB"
+  },
+  {
+    "id": "0ec41af2-03eb-4377-a5c6-a7641dc386e5",
+    "name": "Anggota Riset dan Inovasi Sains Halal Industri Produk Halal"
+  },
+  {
+    "id": "24de63ff-7eff-421a-b183-ff377cdf70d4",
+    "name": "Wakil Ketua Komite Tetap Pemberdayaan Disabilitas"
+  },
+  {
+    "id": "433db7e6-2554-403d-8a70-dad5f14ba472",
+    "name": "Wakil Ketua Komite Tetap Bali"
+  },
+  {
+    "id": "213a9f2e-266e-4f81-b429-0e6a92bed737",
+    "name": "Wakil Ketua Komite Tetap Sarana dan Prasarana Pelabuhan"
+  },
+  {
+    "id": "b4fce9f1-e1b3-4805-ae6b-8739798a0a31",
+    "name": "Wakil Ketua Komite Tetap Sistem Sertifikasi & SKKNI/KKNI"
+  },
+  {
+    "id": "72028c0e-7828-48fe-9d59-0bff9e830eb3",
+    "name": "Wakil Ketua Komite Tetap Community Development (COMDEV)"
+  },
+  {
+    "id": "4b9ca055-8334-4d2f-a675-975acbf3d792",
+    "name": "Wakil Ketua Umum Bidang Dana dan Sarana"
+  },
+  {
+    "id": "6b090ff9-8a37-484d-8fbd-233df4576ca6",
+    "name": "Ketua Komite Tetap Standardisasi dan Produktivitas"
+  },
+  {
+    "id": "3b490124-36d9-4140-ac54-ebe0898a0eae",
+    "name": "Wakil Ketua Komite Tetap Kemitraan Pengusaha Perempuan Dalam Negeri"
+  },
+  {
+    "id": "a4b8a6d1-675e-4ba7-8d08-a9376d59e454",
+    "name": "Anggota Syariah dan Linkage Ekonomi Syariah"
+  },
+  {
+    "id": "5a33d608-ef1c-4bd8-9548-36b3a9b94828",
+    "name": "Ketua Komite Tetap Perencanaan Pengembangan Ekonomi dan Investasi"
+  },
+  {
+    "id": "ba90e6a6-8fcc-4eb4-ad00-0b68de32bc7c",
+    "name": "Wakil Ketua Komite Tetap Penyelesaian Perselisihan Kadin"
+  },
+  {
+    "id": "3d0b5a1c-671d-418a-9c3e-aa39718a3da2",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Hasil Kehutanan"
+  },
+  {
+    "id": "e14c0936-994c-463b-8582-828160d11306",
+    "name": "Anggota Perbankan Syariah"
+  },
+  {
+    "id": "585b5a77-2d84-4ca6-95e3-10425fa66584",
+    "name": "Ketua Komite Tetap Pengelolaan Sampah, Limbah Dan B3"
+  },
+  {
+    "id": "75495451-6f44-448f-9ab5-9cd15cb49cb4",
+    "name": "Ketua Komite Tetap Asosiasi-Asosiasi Perposan, Media Massa, Teknologi Komunikasi dan Informasi"
+  },
+  {
+    "id": "59a4ae0d-09d8-45d6-8194-39d66765ee27",
+    "name": "Anggota Kerjasama Industri Halal"
+  },
+  {
+    "id": "6fe0896d-95b0-4dce-9deb-e1fc69e26b21",
+    "name": "Ketua Komite Tetap Perhubungan Udara"
+  },
+  {
+    "id": "c15b81e3-076f-4425-a06f-727f576aa88a",
+    "name": "Wakil Ketua Komite Tetap Kemaritiman"
+  },
+  {
+    "id": "8004b067-881c-4e3d-b7eb-1d355570c3fe",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Rokok Konvensional & Elektrikal"
+  },
+  {
+    "id": "e7464fd0-0b3e-4cf2-9531-99ecd1468d2d",
+    "name": "Ketua Komite Tetap Hak Kekayaan Intelektual"
+  },
+  {
+    "id": "b8cb552f-e297-4644-b20f-2b694f411f75",
+    "name": "Wakil Ketua Umum Bidang Hubungan Internasional"
+  },
+  {
+    "id": "15284246-3ee2-4451-9b06-25d0148a0233",
+    "name": "Anggota Pusat Data Ekonomi Syariah"
+  },
+  {
+    "id": "22a543ec-f2c3-41c4-9997-6c53665e2cbc",
+    "name": "Wakil Ketua Komite Tetap Pengolahan & Bina Mutu"
+  },
+  {
+    "id": "feea10de-d8cd-41dd-8697-b24685df6fe1",
+    "name": "Wakil Ketua Umum Bidang Perindustrian"
+  },
+  {
+    "id": "c25472c1-4fac-491f-8000-853be3eb62c2",
+    "name": "Wakil Ketua Komite Tetap Kerja Sama Lembaga Luar Negeri"
+  },
+  {
+    "id": "ef2c9101-d27c-46ac-a3b4-8d9e0ecb43c8",
+    "name": "Wakil Ketua Komite Tetap Koordinator Asia Timur dan Pasifik"
+  },
+  {
+    "id": "56106bc7-511a-409b-80c1-9c7292ef215f",
+    "name": "Wakil Ketua Komite Tetap Komoditas Gula"
+  },
+  {
+    "id": "09256feb-0485-44ad-b46e-86edc0a482c5",
+    "name": "Wakil Ketua Komite Tetap Intermediasi ALB"
+  },
+  {
+    "id": "6c96a532-8820-42bc-9ea5-aa9e946bd6e9",
+    "name": "Wakil Ketua Komite Tetap Kebijakan Makro Ekonomi"
+  },
+  {
+    "id": "b933c3ab-35be-482b-b523-2ba5ea329ded",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Umroh & Haji"
+  },
+  {
+    "id": "e73c1aca-2b8f-4737-8ba7-0e838f41fcc0",
+    "name": "Kepala Badan Pengembangan Kawasan Properti Terpadu"
+  },
+  {
+    "id": "5af64193-736b-4489-8c76-c60a9ca0cc29",
+    "name": "Wakil Ketua Komite Tetap UMKM"
+  },
+  {
+    "id": "52e4d612-b48a-42ed-ac50-0a55da489d2f",
+    "name": "Ketua Komite Tetap Wilayah Eropa"
+  },
+  {
+    "id": "9c0948b7-f141-42e9-b15c-74f730246b13",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Pendidikan Vokasi Industri Dalam Negeri"
+  },
+  {
+    "id": "0d8d74b3-2687-4f6c-b19a-a6e999d7a233",
+    "name": "Ketua Komite Tetap Koordinasi Asosisasi Jasa Tenaga Kerja"
+  },
+  {
+    "id": "749b31bf-3de3-46dc-b09a-e52f442ae5ff",
+    "name": "Wakil Ketua Komite Tetap Ekosistem Prakarsa Baru"
+  },
+  {
+    "id": "d503980f-ab36-462a-8938-4709723ce0cb",
+    "name": "Wakil Ketua Komite Tetap Sistem dan Strategi Penyelenggaraan KPBU"
+  },
+  {
+    "id": "1c1a8ae8-208e-4b98-860c-617736fd6727",
+    "name": "Wakil Ketua Komite Tetap Perwilayahan Industri"
+  },
+  {
+    "id": "153a4063-2ce4-4eb6-ba51-b828d018a32c",
+    "name": "Ketua Komite Tetap Kebijakan Publik"
+  },
+  {
+    "id": "059821a0-d67f-4851-a2fd-d011e0ab7f2a",
+    "name": "Wakil Ketua Komite Tetap Komunikasi Kadin Provinsi"
+  },
+  {
+    "id": "683795ad-b7d5-4d51-99ea-5786d833d7fd",
+    "name": "Wakil Ketua Komite Tetap Penambahan Anggota Biasa"
+  },
+  {
+    "id": "170d927b-8833-4d5a-8bae-073378113043",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Pengolahan Limbah"
+  },
+  {
+    "id": "ecfbd3b8-32d3-4878-9bb0-0e78426f564c",
+    "name": "Wakil Ketua Komite Tetap Pendidikan Dasar"
+  },
+  {
+    "id": "f870848a-6816-4caf-a39d-191789d4c3a3",
+    "name": "Ketua Komite Tetap Pelayanan Perizinan dan OSS"
+  },
+  {
+    "id": "bbff265a-29dc-4c1d-b0d4-b1525bbb94e6",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Alat Kesehatan"
+  },
+  {
+    "id": "42ffd812-316a-48d8-b2fc-3367d449506f",
+    "name": "Ketua Komite Tetap NTB"
+  },
+  {
+    "id": "578caf15-a973-47e3-a0a6-76fd0e1ddd4b",
+    "name": "Wakil Ketua Komite Tetap Kemitraan Pengusaha Perempuan Usaha Mikro"
+  },
+  {
+    "id": "d60a73f6-ac45-45c1-9dac-e22b98c45923",
+    "name": "Wakil Ketua Komite Tetap Koordinator Amerika I : Amerika Serikat, Kanada, Kuba, Bahamas, Jamaika, Republik Dominika, Haiti, Meksiko, Guatemala, El Salvador, Belize, Panama, Kosta Rika, Nicaragua, dan Honduras"
+  },
+  {
+    "id": "28268a1e-51e7-40df-af23-891a6aebc1d5",
+    "name": "Anggota Halal Social Commerce dan E-Commerce"
+  },
+  {
+    "id": "aee774b0-d915-4655-89ae-45dd0d557a93",
+    "name": "Wakil Ketua Jasa Penunjang Properti"
+  },
+  {
+    "id": "e4d7a8a9-ebd8-41e6-8cc1-1f53b47901c7",
+    "name": "Wakil Ketua Komite Tetap Kapal Tanker dan Curah"
+  },
+  {
+    "id": "a1041097-1981-48c1-bada-dfc0c8802ea0",
+    "name": "Ketua Komite Tetap Pendalaman Sektor Keuangan dan Kebijakan Makro Ekonomi"
+  },
+  {
+    "id": "c7badf08-cec4-4f75-91ff-7d4906dd93c4",
+    "name": "Ketua Komite Tetap Pendidikan Vokasi"
+  },
+  {
+    "id": "b4b7bfee-01ca-48d1-9951-ba52ca18bf20",
+    "name": "Wakil Ketua Komite Tetap Peningkatan Kapasitas Asosiasi dan Himpunan"
+  },
+  {
+    "id": "a8e7d513-37cd-430f-8b8d-b7e537239f93",
+    "name": "Wakil Ketua Komite Tetap Sinkronisasi Pemanfaatan Ruang"
+  },
+  {
+    "id": "5079ba72-718a-4607-8e0a-ff891c5c08a1",
+    "name": "Wakil Ketua Komite Tetap Perencanaan Peningkatan Ekspor UKM"
+  },
+  {
+    "id": "cc43bf9e-2f26-4878-a766-64afb9810519",
+    "name": "Wakil Kepala Badan Bidang Hubungan Internasional, Pertahanan, Informatika & Urusan Pemerintahan"
+  },
+  {
+    "id": "5cb52b0d-1a62-44db-9f37-3bf19372a834",
+    "name": "Wakil Ketua Komite Tetap Peningkatan Kapasitas Daerah Jawa-Bali-Kalimantan"
+  },
+  {
+    "id": "642da0f9-3a67-4661-acf5-eccd72dd848a",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Barang dari kayu, Furniture & kerajinan"
+  },
+  {
+    "id": "89b843ed-e017-457c-b02c-df55c7cc6324",
+    "name": "Wakil Ketua Komite Tetap Infrastruktur Kemitraan"
+  },
+  {
+    "id": "07c907ab-a009-4187-8939-55f070068da4",
+    "name": "Wakil Ketua Komite Tetap Transformasi & Revitalisasi Pendidikan Vokasi"
+  },
+  {
+    "id": "dc7f1ea2-9815-41ac-a74e-932907737faf",
+    "name": "Wakil Ketua Komite Tetap Sosialisasi dan Distribusi Regulasi"
+  },
+  {
+    "id": "5044d406-d198-4b9b-9085-b437f48c885b",
+    "name": "Ketua Komite Tetap Wilayah Utara"
+  },
+  {
+    "id": "83dec3fa-d181-48dc-aff6-43263147e1eb",
+    "name": "Wakil Ketua Umum Bidang Perhubungan"
+  },
+  {
+    "id": "c351f95d-d656-43fe-ac7f-453c9baade73",
+    "name": "Ketua Komite Tetap Koordinasi Himpunan, Dewan Bisnis, Gabungan & Koperasi"
+  },
+  {
+    "id": "b3bfa6ce-32ff-40ec-81be-791015855c5d",
+    "name": "Ketua Komite Tetap Pembinaan & Pengembangan Konstruksi"
+  },
+  {
+    "id": "9cea4ddb-bc66-4604-b4c3-3a8d3497b7ce",
+    "name": "Wakil Kepala Badan Bidang Pembangunan Sumber Daya Manusia"
+  },
+  {
+    "id": "2902541d-3301-4250-bec7-d5c292ab4138",
+    "name": "Wakil Ketua Komite Tetap Tata Kelola Regulasi"
+  },
+  {
+    "id": "f5b8f37a-1972-43de-a685-94992a7174bb",
+    "name": "Wakil Ketua Komite Tetap Sistem Regulasi Ekonomi Nasional"
+  },
+  {
+    "id": "a49c0ff6-6884-4bfe-8fc3-cef65c81bf57",
+    "name": "Wakil Ketua Umum Bidang Hukum dan Hak Asasi Manusia"
+  },
+  {
+    "id": "8254964b-cf95-4149-8197-d8a1998a61fe",
+    "name": "Ketua Komite Tetap Pengendalian Perubahan Iklim"
+  },
+  {
+    "id": "a2a2867d-b4e1-4805-878a-5fdd7b610229",
+    "name": "Wakil Ketua Komite Tetap Perencanaan, Pengelolaan Kawasan Konservasi dan Konservasi KEHATI"
+  },
+  {
+    "id": "8bde268d-99b1-4902-af2c-a1324890c745",
+    "name": "Anggota Pengembangan Mitra Dagang Produk Halal"
+  },
+  {
+    "id": "d0527581-cd2d-4f14-ab03-dfd041dff913",
+    "name": "Wakil Ketua Komite Tetap Fasilitas Kesehatan Rumah Sakit"
+  },
+  {
+    "id": "27269e25-15da-4aae-ab9e-23b2fea3c92c",
+    "name": "Ketua Komite Tetap Pengelolaan Infrastruktur Kawasan Perbatasan"
+  },
+  {
+    "id": "e99cac80-2968-4de1-a8cf-74f85f975b26",
+    "name": "Wakil Ketua Komite Tetap Kaderisasi Tingkat Provinsi"
+  },
+  {
+    "id": "a5ed9d26-05d9-4742-a5cb-f5f0f6f501cf",
+    "name": "Wakil Ketua Komite Tetap Kendaraan Listrik dan Baterai"
+  },
+  {
+    "id": "8e9e917b-12f8-4fe9-99e4-54f98de5407b",
+    "name": "Ketua Komite Tetap Wilayah Amerika"
+  },
+  {
+    "id": "9e5f839e-91fe-4b2e-88a7-ae3720ce58f3",
+    "name": "Ketua Komite Tetap Wilayah Kalimantan Bagian Timur"
+  },
+  {
+    "id": "cb97ddb4-efe1-4349-9a1e-6b5131f5864b",
+    "name": "Wakil Ketua Komite Tetap Kesatuan Pengelolaan Hutan Lindung dan Pembenihan Tanaman Hutan"
+  },
+  {
+    "id": "790d46af-535b-4e99-adcc-87bd9de26778",
+    "name": "Wakil Ketua Komite Tetap Kalimantan Barat I"
+  },
+  {
+    "id": "0d062cdc-7c9b-438e-8138-96708602d9a8",
+    "name": "Ketua Komite Tetap Wilayah Sumatera Bagian Tengah"
+  },
+  {
+    "id": "65921e73-5cbd-45ff-b683-14c55c5044ce",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Jasa Perdagangan Digital"
+  },
+  {
+    "id": "7fc2ab3d-92f6-49e8-92fd-f5f05ad73ee5",
+    "name": "Wakil Ketua Komite Tetap Pulau Lombok"
+  },
+  {
+    "id": "6b265caf-1ca6-4be0-a5c4-537bf1aa23b8",
+    "name": "Wakil Kepala Badan Kawasan Kota Baru dan Peremajaan Kota"
+  },
+  {
+    "id": "9bf7b9ba-eb1e-4509-9957-2b04a2a5e9bd",
+    "name": "Wakil Ketua Komite Tetap Inovasi & Teknologi Daerah Sulawesi-Nusra-Maluku-Papua"
+  },
+  {
+    "id": "372a8fc8-cebb-4c66-8d3f-6b68547a6d4a",
+    "name": "Wakil Ketua Umum Bidang Pembangunan Kawasan Perbatasan"
+  },
+  {
+    "id": "e710525e-febc-43a0-91d3-536f30d69e6f",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Tekstil,\nKulit dan alas kaki"
+  },
+  {
+    "id": "e0a2cfc9-b834-4a85-ad27-1dbbc1ae67b2",
+    "name": "Wakil Ketua Komite Tetap Industri Kimia Hulu"
+  },
+  {
+    "id": "d38a7fac-13ee-4eff-b9c1-19facc6265cc",
+    "name": "Wakil Ketua Komite Tetap Air Minum"
+  },
+  {
+    "id": "a85a35c9-a159-4b8a-befd-0dd9684029a8",
+    "name": "Wakil Ketua Komite Tetap Tata Ruang"
+  },
+  {
+    "id": "7ec028ac-f1f0-490c-935f-326bd3c497a9",
+    "name": "Wakil Ketua Komite Tetap Industri Semen dan Keramik"
+  },
+  {
+    "id": "df734aca-b369-4345-8542-0838ae93711e",
+    "name": "Ketua Komite Tetap Wilayah Kalimantan Bagian Selatan"
+  },
+  {
+    "id": "c6ac8d73-3387-4256-9184-b5bd5a7e75b5",
+    "name": "Wakil Ketua Komite Tetap Intermediasi"
+  },
+  {
+    "id": "eef645b4-cbb6-43b8-adf2-d40e3d994c09",
+    "name": "Wakil Ketua Komite Tetap Industri Hasil Perkebunan"
+  },
+  {
+    "id": "df3de3ed-c487-4e91-a22b-f57a44e399ed",
+    "name": "Ketua Komite Tetap Wilayah Sumatera Bagian Timur"
+  },
+  {
+    "id": "720b2879-bae7-4df7-b49a-d36f59303a80",
+    "name": "Wakil Ketua Komite Tetap Adaptasi Perubahan Iklim dan Kebakaran Hutan"
+  },
+  {
+    "id": "3a91e744-a26d-4ba9-9995-def7b3adbf9e",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Pasar Nasional Industri Unggulan Daerah"
+  },
+  {
+    "id": "0d8066f4-e1d7-4d54-bb0d-3dacb26debb0",
+    "name": "Ketua Komite Tetap Pengendalian"
+  },
+  {
+    "id": "85301966-bd08-47f3-8598-821be09383da",
+    "name": "Wakil Ketua Komite Tetap Media dan Periklanan"
+  },
+  {
+    "id": "308023a6-f1b7-4c65-b5bc-c9e2556af8c9",
+    "name": "Wakil Ketua Komite Tetap Promosi International"
+  },
+  {
+    "id": "7e15acb0-4ba9-4bd4-a8dd-7ac2ef66a147",
+    "name": "Wakil Ketua Komite Tetap Kemitraan & Pengelolaan Sumber Daya"
+  },
+  {
+    "id": "fa103f61-5b60-41b1-b72b-df239895b10e",
+    "name": "Wakil Ketua Komite Tetap Pendidikan dan Pelatihan Sumber Daya Manusia Industri"
+  },
+  {
+    "id": "43c3b9d6-2643-45cd-94a4-a02740a187b7",
+    "name": "Wakil Ketua Komite Tetap Lintas Batas Negara"
+  },
+  {
+    "id": "2c248f44-c9ee-4077-a843-eaec795f6b73",
+    "name": "Wakil Ketua Komite Tetap Kepatuhan dan Regulasi Kadin Daerah"
+  },
+  {
+    "id": "19305aaf-50f7-41cd-8938-ca38782c8a45",
+    "name": "Wakil Ketua Komite Tetap Standardisasi dan Sertifikasi"
+  },
+  {
+    "id": "7ade0e9b-71fe-42f7-9c94-4bf2fe805eae",
+    "name": "Wakil Ketua Komite Tetap Inovasi Teknologi Sektor Keuangan (ITSK) dan Blockchain"
+  },
+  {
+    "id": "1fea7cac-1dbd-458c-b0d8-af2c1e8f6787",
+    "name": "Wakil Ketua Komite Tetap Industri Kecil dan Menengah Kimia"
+  },
+  {
+    "id": "3c1f52f7-0c9e-4ae8-99c5-88f1e1c5be5d",
+    "name": "Wakil Ketua Komite Tetap Pembinaan Anggota Luar Biasa"
+  },
+  {
+    "id": "64542f25-4f17-4cea-b5ef-49e214a580ea",
+    "name": "Anggota Kerjasama Asosiasi"
+  },
+  {
+    "id": "1ad72db3-1c59-486e-ab18-45cb06ebaa1d",
+    "name": "Wakil Ketua Komite Tetap Industri Penunjang Minyak Bumi I"
+  },
+  {
+    "id": "1b337d53-9819-4ca5-b047-f97fc64d91b6",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Kimia Hulu"
+  },
+  {
+    "id": "55f2c410-40f2-48c5-85f2-89defda8c5ee",
+    "name": "Wakil Ketua Komite Tetap Ekonomi Kerakyatan"
+  },
+  {
+    "id": "a37547d4-b19d-4e3b-9b01-72110fb3601f",
+    "name": "Wakil Ketua Komite Tetap Alat Kesehatan Rumah Tangga I"
+  },
+  {
+    "id": "172fc0f8-fe98-4a02-b18b-110f5e531f9e",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Jasa Konstruksi"
+  },
+  {
+    "id": "493f008a-675d-4c12-98af-a463af440b62",
+    "name": "Wakil Kepala Badan SDM Logistik"
+  },
+  {
+    "id": "c7218d18-84a9-4f40-9608-a6518e0710ea",
+    "name": "Wakil Kepala Badan Kerjasama Dengan Pemerintah"
+  },
+  {
+    "id": "5734bb75-d20e-4255-a471-0c94096e5349",
+    "name": "Wakil Ketua Komite Tetap Industri Penunjang Minyak Bumi III"
+  },
+  {
+    "id": "710de11e-cc2e-4b84-b743-0ef3ea183123",
+    "name": "Wakil Ketua Komite Tetap Kebijakan dan Regulasi Minyak dan Gas Bumi"
+  },
+  {
+    "id": "112eb688-0f87-4227-8e3c-eff7607cd9fe",
+    "name": "Wakil Ketua Komite Tetap Keanggotaan Asosiasi dan Himpunan"
+  },
+  {
+    "id": "98532c7d-41e8-4e73-8f58-15f4e5f629d0",
+    "name": "Wakil Ketua Komite Tetap Pelaksanaan Investasi Wilayah I"
+  },
+  {
+    "id": "31e1f429-167d-42b7-b675-a92b4fa05caa",
+    "name": "Wakil Ketua Komite Tetap Ketenagakerjaan"
+  },
+  {
+    "id": "5bf43ac4-9ca9-49ed-9de8-20a109106c1c",
+    "name": "Wakil Ketua Komite Tetap Kerjasama antar Daerah"
+  },
+  {
+    "id": "e1a46aa2-b077-4d20-b24b-556aed59f2b7",
+    "name": "Wakil Kepala Badan Kawasan Khusus TOD & Airport City & Harbour City"
+  },
+  {
+    "id": "83013c56-a8a4-40f1-a861-3998f2215217",
+    "name": "Wakil Ketua Komite Tetap Akselerasi Prakarsa Baru"
+  },
+  {
+    "id": "8f51f559-f1df-4490-bf39-c227a40b7f95",
+    "name": "Wakil Ketua Komite Tetap Koordinator Asia Selatan dan Tengah"
+  },
+  {
+    "id": "fa1c3d80-d0e0-4bef-8aec-d55a0fa49cff",
+    "name": "Ketua Komite Tetap PED - IUL (Pengembangan Ekonomi Daerah Berbasis Industri UMKM Lokal)"
+  },
+  {
+    "id": "24956f06-0814-4059-abab-963938590850",
+    "name": "Wakil Ketua Komite Tetap Kapal Kontainer dan General Cargo"
+  },
+  {
+    "id": "52f59097-1044-44b3-b006-2ae512d7a54f",
+    "name": "Wakil Ketua Komite Tetap Sarana dan Prasarana Peternakan"
+  },
+  {
+    "id": "67dc70e2-fac8-4803-affb-276a1bbc1ab0",
+    "name": "Wakil Ketua Komite Tetap Kebijakan Perlindungan Hak Perempuan"
+  },
+  {
+    "id": "081209f7-d5d6-4799-916b-f99955696823",
+    "name": "Wakil Ketua Komite Tetap Kaji Ulang SKKNI dan KKNI"
+  },
+  {
+    "id": "7dbeb974-5072-4c49-8935-85d638a701dc",
+    "name": "Wakil Ketua Umum Kadin Indonesia Wilayah Kalimantan"
+  },
+  {
+    "id": "ed3edf83-c715-49f7-b5ee-e6fd2bafcd71",
+    "name": "Anggota HSC dan Logistik Halal"
+  },
+  {
+    "id": "64821429-de71-47b4-9723-b065418f0446",
+    "name": "Wakil Ketua Komite Tetap Reportasi pengembangan dan Penyesuaian Regulasi"
+  },
+  {
+    "id": "f92a97f2-eb08-4660-8d1a-2daeb4e84b95",
+    "name": "Wakil Ketua Komite Tetap Kelembagaan danSumber Daya Konstruksi"
+  },
+  {
+    "id": "7185af5d-0ff0-406d-b9e9-5ae72781e13c",
+    "name": "Wakil Ketua Umum Bidang Komunikasi dan Informatika"
+  },
+  {
+    "id": "67c4a936-1d57-47c1-9c77-1190c696fac3",
+    "name": "Wakil Ketua Komite Tetap Industri Alas Kaki dan Kulit"
+  },
+  {
+    "id": "9345a7c8-811d-4f9c-9347-05d585d9a9bd",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Pertanian"
+  },
+  {
+    "id": "b0e8ba2a-4103-4e84-bff1-258c4f91dd83",
+    "name": "Wakil Ketua Komite Tetap Perbekalan Kesehatan Rumah Tangga I"
+  },
+  {
+    "id": "de6d0cfc-3c84-4235-a6f9-a35f0f04189e",
+    "name": "Anggota Modest Fashion"
+  },
+  {
+    "id": "9a9a9b00-3a31-4bf7-9cc1-e277a43ed1fd",
+    "name": "Ketua Komite Tetap Keanggotaan, Sertifikasi & Peningkatan Kapasitas ALB"
+  },
+  {
+    "id": "d351c9cb-fc3f-459f-b4fd-d28a5ccac2de",
+    "name": "Wakil Ketua Komite Tetap Pengendalian Wilayah II"
+  },
+  {
+    "id": "bba52881-bf94-450d-b73f-e6b7118e5e08",
+    "name": "Wakil Kepala Badan Bidang Pengelolaan Sumber Daya Alam & Infrastruktur"
+  },
+  {
+    "id": "db8daf79-d674-46b5-9b8e-d4f9f7eb3b1e",
+    "name": "Ketua Komite Tetap Pembiayaan Infrastruktur PUPR"
+  },
+  {
+    "id": "22ddb6ae-ce4a-49cc-8270-5380c1a8258e",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Penunjang Angkutan"
+  },
+  {
+    "id": "486872ed-fbfe-42b2-b416-d2b81ea0e6af",
+    "name": "Wakil Ketua Komite Tetap Perundingan Multilateral, WTO dan Investasi"
+  },
+  {
+    "id": "023a37c4-1a75-4b50-aa09-dc30ec91b0f4",
+    "name": "Ketua Komite Tetap Bidang Pengembangan Klub-klub Olahraga Profesional"
+  },
+  {
+    "id": "be8a51fe-fa3c-46e1-b783-71a3e044415d",
+    "name": "Ketua Komite Tetap Asosiasi-Asosiasi Jasa Perhubungan dan Logistik"
+  },
+  {
+    "id": "70b68fbb-e739-496d-a764-73d2df28db97",
+    "name": "Wakil Ketua Komite Tetap Prasarana Strategis dan\nSanitasi"
+  },
+  {
+    "id": "e27ef215-0be8-4b3a-bbf2-2492a04e8212",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Jasa Konstruksi Sipil"
+  },
+  {
+    "id": "13957ed7-8042-45b8-ab18-d4147380d620",
+    "name": "Wakil Ketua Komite Tetap Teknologi & Bibit Unggul"
+  },
+  {
+    "id": "288cdeb3-b42a-400f-9769-eea07bd2b172",
+    "name": "Ketua Komite Tetap Keanggotaan Biasa dan Luar Biasa"
+  },
+  {
+    "id": "e92503b9-082a-4c24-ae9d-19d9f79097c5",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Pertanian & Kehutanan"
+  },
+  {
+    "id": "f0d6fc54-0bc1-40b6-8636-d832e7ffcd30",
+    "name": "Wakil Ketua Komite Tetap Kebijakan Sektor Keuangan"
+  },
+  {
+    "id": "03ade56c-d89d-4185-9ab5-87415792232b",
+    "name": "Wakil Ketua Komite Tetap Industri Alat Pertahanan"
+  },
+  {
+    "id": "d690c4b6-ffe8-4f09-884a-ee8d83b9788d",
+    "name": "Wakil Ketua Komite Tetap Kawasan Industri UMKM Lokal"
+  },
+  {
+    "id": "30b41404-a31d-4d79-9bd8-147eed398ba8",
+    "name": "Ketua Komite Tetap PED - Pengembangan Potensi Industri Unggulan Daerah"
+  },
+  {
+    "id": "d5b0ec59-5a65-4814-a598-9bc592bbd9d5",
+    "name": "Ketua Komite Tetap Pembangunan Infrastruktur Daerah"
+  },
+  {
+    "id": "09bdf7f4-7ed4-4944-ab1e-13fc17e8ab95",
+    "name": "Wakil Ketua Komite Tetap Komoditas Protein dan Pangan Strategis"
+  },
+  {
+    "id": "41e64a4b-2b1b-443f-b18b-a1753526db7c",
+    "name": "Wakil Ketua Komite Tetap Kerja Sama Pendidikan Vokasi"
+  },
+  {
+    "id": "51027226-c60c-4a32-a9cc-ca58acc94175",
+    "name": "Wakil Ketua Komite Tetap Daerah Gorontalo I"
+  },
+  {
+    "id": "d2bc0ba2-1df1-4615-ae66-5d401d02099c",
+    "name": "Wakil Ketua Komite Tetap Mediasi"
+  },
+  {
+    "id": "8b3b12b8-4f36-45da-a701-ab5e3cf05c7a",
+    "name": "Ketua Komite Tetap Pengembangan Produk & Komoditi Unggulan Daerah"
+  },
+  {
+    "id": "a9d2c45b-d8ae-4548-9391-5789cede7b96",
+    "name": "Ketua Komite Tetap Farmasi dan Baku Farmasi"
+  },
+  {
+    "id": "8e89ff26-fb6e-478f-a3e1-f828a95cf6e3",
+    "name": "Wakil Ketua Komite Tetap Industri Penunjang Ketenagalistrikan III"
+  },
+  {
+    "id": "e1d378e1-a6eb-46f5-a2f2-228d9d3b1f84",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Jasa Pendidikan Tenaga Kerja"
+  },
+  {
+    "id": "5ac11841-5c55-477a-b2e0-42ebebb131c4",
+    "name": "Wakil Ketua Komite Tetap Sponsorship Program"
+  },
+  {
+    "id": "d5aca71a-58bc-4c5e-99b0-b493ae6bcf19",
+    "name": "Wakil Ketua Komite Tetap Usaha Hutan Produksi, Jasa Lingkungan dan HHBK"
+  },
+  {
+    "id": "20d5b74f-3d5a-431c-9c17-d65cddb035ca",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Perikanan"
+  },
+  {
+    "id": "e9eb448b-2675-4189-9cae-a27bc2b0525e",
+    "name": "Wakil Ketua Komite Tetap Industri Kimia Hilir"
+  },
+  {
+    "id": "aa31301f-1811-4451-89e5-8e321aa8fb45",
+    "name": "Wakil Ketua Komite Tetap Kajian Kebijakan Pangan"
+  },
+  {
+    "id": "3fb80044-5499-4b91-81e9-6f519a24701e",
+    "name": "Ketua Komite Tetap Perkebunan"
+  },
+  {
+    "id": "23ef758d-6482-4c7d-8408-f00a6c20d94b",
+    "name": "Wakil Ketua Komite Tetap Digital Eco-System"
+  },
+  {
+    "id": "764ec833-f0ad-4faf-a909-50fcf70f03e6",
+    "name": "Ketua Komite Tetap Perencanaan Pembangunan Kemaritiman dan Sumber Daya Alam"
+  },
+  {
+    "id": "4ef99f6d-adb3-415f-8a42-640c2b7af454",
+    "name": "Wakil Kepala Badan Pelaku dan Penyedia Jasa Logistik"
+  },
+  {
+    "id": "c136dd0d-39c6-4a8b-b170-39fb246c7fc0",
+    "name": "Wakil Ketua Komite Tetap Pemasaran Hortikultura"
+  },
+  {
+    "id": "3f3f7676-494c-4340-bf83-e67fdfcc8d5b",
+    "name": "Wakil Ketua Komite Tetap Sistem & Strategi\nPenyelenggaraan Perumahan"
+  },
+  {
+    "id": "d51e1416-471c-40f9-81ee-5dc973d6381b",
+    "name": "Ketua Komite Tetap Kebijakan dan Penataan Agraria"
+  },
+  {
+    "id": "5fc7d5a9-4168-473b-87ff-f565e960414b",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Pertambangan Batubara"
+  },
+  {
+    "id": "ac506ec9-d9d5-4924-8520-b3fcde3b5d2b",
+    "name": "Wakil Kepala Badan Kawasan Pariwisata & Eco Tourism"
+  },
+  {
+    "id": "fb62b685-3707-4ae6-9886-ed8a7cd7cc12",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Jasa Perdagangan Export & Import"
+  },
+  {
+    "id": "c9813023-6cfe-4e4b-9463-a0254a29dc53",
+    "name": "Wakil Ketua Komite Tetap Pulau Flores"
+  },
+  {
+    "id": "74527923-0d88-41a4-912f-9b19e53caa32",
+    "name": "Wakil Ketua Komite Tetap Sponsorship Kegiatan Olahraga BUMN I"
+  },
+  {
+    "id": "2f4a54e5-0832-4e76-97aa-b6917d41a34a",
+    "name": "Wakil Ketua Komite Tetap Sosial Budaya dan Organisasi Internasional Negara Berkembang"
+  },
+  {
+    "id": "8f30ed30-c9ba-4a0d-9a21-1903ea94754f",
+    "name": "Anggota UMKM Syariah"
+  },
+  {
+    "id": "5364a50d-32da-4a94-9930-7ff2e128da20",
+    "name": "Wakil Ketua Komite Tetap Pemantauan Kepatuhan Perizinan Berusaha"
+  },
+  {
+    "id": "e7313cfd-757b-4093-b365-8c41ebbe38b7",
+    "name": "Wakil Ketua Komite Tetap Konektivitas Jaringan"
+  },
+  {
+    "id": "963445a9-4fbe-4c24-a6ba-41b3f79e024a",
+    "name": "Wakil Ketua Komite Tetap Tools & Machine"
+  },
+  {
+    "id": "db703a1d-9f95-4426-851e-b9799a4514e0",
+    "name": "Wakil Ketua Komite Tetap Hubungan Kelembagaan Pengembangan Industri Unggulan Daerah"
+  },
+  {
+    "id": "f09c4e2c-f9eb-4488-857f-0875caf1b920",
+    "name": "Wakil Ketua Komite Tetap Pulau Sumbawa Timur"
+  },
+  {
+    "id": "08c4777c-1863-46d8-afa0-dff44cc3cbc8",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Jasa Konsultan"
+  },
+  {
+    "id": "bf0dc6e9-4784-4dd2-9619-95000f29c894",
+    "name": "Wakil Ketua Komite Tetap Sistem & Strategi\nPenyelenggaraan Jalan & Jembatan serta Bina Teknik Jalan dan Jembatan"
+  },
+  {
+    "id": "68e406f4-4456-44e1-9928-ee2d9408d943",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Ritel"
+  },
+  {
+    "id": "1af49f69-0002-47e5-8e4f-46edf6d74585",
+    "name": "Wakil Ketua Komite Tetap Infrastruktur Teknologi Informasi Industri Olahraga"
+  },
+  {
+    "id": "2dcda280-3cf2-4455-86f8-fe90d28b5db2",
+    "name": "Wakil Ketua Komite Tetap Kalimantan Timur I"
+  },
+  {
+    "id": "98b0d66d-b96d-48fa-8d44-ccccdead7217",
+    "name": "Wakil Ketua Umum Bidang Pendidikan dan Kebudayaan"
+  },
+  {
+    "id": "8774697f-3cf2-4a8a-a103-545950412210",
+    "name": "Ketua Komite Tetap Wilayah Sumatera Bagian Utara"
+  },
+  {
+    "id": "d1878f31-46ea-45d9-aee9-3ff474f8cec9",
+    "name": "Ketua Komite Tetap Pencegahan dan Pengendalian Penyakit"
+  },
+  {
+    "id": "4f37a16e-2b2d-4a90-8cc9-2047e14d6015",
+    "name": "Ketua Komite Tetap Perumahan KPBU Dan Digitalisasi Konstruksi"
+  },
+  {
+    "id": "d07a8575-2ea8-40c2-be66-c39cc1231258",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Maritim & Alat Transportasi"
+  },
+  {
+    "id": "55920fab-7681-40cc-8f20-0733adf5186a",
+    "name": "Wakil Kepala Badan Pemberdayaan Masyarakat"
+  },
+  {
+    "id": "91c43087-20e9-4fd1-b241-79dc0d6cae47",
+    "name": "Ketua Komite Tetap Bidang Penguatan Daya Saing Produk"
+  },
+  {
+    "id": "39c1263c-22a0-4e5a-b230-e473ba84d2ac",
+    "name": "Ketua Komite Tetap Fasilitas Penunjang Pelayanan Kesehatan, Pengobatan Tradisional dan Kosmetik"
+  },
+  {
+    "id": "0461952d-0bac-494c-a4d9-a1e7bc1ece9c",
+    "name": "Wakil Ketua Komite Tetap Kefarmasian"
+  },
+  {
+    "id": "f6b5eec4-d842-4ca8-a1d5-262cdf0d21cf",
+    "name": "Wakil Ketua Komite Tetap Kebijakan Regional dan Bilateral 2"
+  },
+  {
+    "id": "9eea0d37-064a-4b97-9f28-89fab5bc7639",
+    "name": "Wakil Ketua Komite Tetap Kolaborasi Pemerintah dan Badan Usaha Konstruksi"
+  },
+  {
+    "id": "d6689335-b823-491f-9cf6-c590d0663f21",
+    "name": "Wakil Ketua Komite Tetap Rumah Khusus, Rumah Umum\ndan Komersial"
+  },
+  {
+    "id": "90b75adc-b212-4ce8-9c9d-d1317ede0d81",
+    "name": "Anggota Kewirausahaan"
+  },
+  {
+    "id": "63ff009e-0983-4f27-a66a-5e42a2509e6f",
+    "name": "Wakil Ketua Komite Tetap Peningkatan Penggunaan Produk Dalam Negeri"
+  },
+  {
+    "id": "a8c442b4-bf5b-4129-b5b0-f75aceef7b21",
+    "name": "Anggota Sistem Jaminan Rantai Nilai Produk Halal"
+  },
+  {
+    "id": "192f2a72-f262-41c5-98fe-d7daceafb206",
+    "name": "Wakil Ketua Komite Tetap Bengkulu"
+  },
+  {
+    "id": "0fae5f82-d5bf-4696-9338-6339a5983def",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Alat Pertahanan"
+  },
+  {
+    "id": "8cbe2233-cf2d-4031-9d95-3d9cf4ce4e5a",
+    "name": "Kepala Badan Riset dan Teknologi"
+  },
+  {
+    "id": "8c6e59d5-be51-42e0-b9cf-88d4479fd8df",
+    "name": "Anggota Kesehatan dan Farmasi Halal"
+  },
+  {
+    "id": "ca2dca02-7fd5-4a0a-93e7-720bb3ea9c8d",
+    "name": "Wakil Ketua Komite Tetap Kompetensi, Produktifitas dan\nKeberlanjutan Konstruksi"
+  },
+  {
+    "id": "8a55d46c-6f23-44cb-a73e-18a82e367883",
+    "name": "Wakil Ketua Komite Tetap Infrastruktur Telekomunikasi"
+  },
+  {
+    "id": "ccaff2a2-bfe8-4985-aba4-2bbd8ff41654",
+    "name": "Wakil Ketua Komite Tetap Sistem dan StrategiPenyelenggaraan Infrastruktur Permukiman serta Pengembangan KawasanPemukiman"
+  },
+  {
+    "id": "71192776-0f9a-4dbb-9788-d3567b955458",
+    "name": "Ketua Komite Tetap Kerjasama Investasi"
+  },
+  {
+    "id": "e6a509a3-9390-4acb-a74a-dcc0a05f9199",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Potensi Daerah"
+  },
+  {
+    "id": "11c86966-8901-4ff0-8d2a-76bbd05d994e",
+    "name": "Wakil Ketua Komite Tetap Rumah Swadaya"
+  },
+  {
+    "id": "a32b7020-2ca7-4254-a19e-289529cdcb54",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Budidaya & Pengolahan Hasil Laut"
+  },
+  {
+    "id": "9454c3b3-caf2-4dd4-8930-c16ac90a2e90",
+    "name": "Wakil Ketua Komite Tetap Industri Makanan, Hasil Laut, dan Perikanan"
+  },
+  {
+    "id": "6b3d9d42-eda4-4944-bfc0-8462ab3020fe",
+    "name": "Wakil Ketua Umum Pekerjaan Umum dan Perumahan Rakyat dan Infrastruktur"
+  },
+  {
+    "id": "b0323049-ee26-4334-9eb7-974b9567a032",
+    "name": "Ketua Komite Tetap Promosi Investasi"
+  },
+  {
+    "id": "de4eb402-d4e7-47eb-8eeb-fca3c1334aaa",
+    "name": "Ketua Komite Tetap Perencanaan Ekonomi Digital, Pengembangan Kewirausahaan dan Pemberdayaan UMKM"
+  },
+  {
+    "id": "9c5617e1-da15-4384-a2b4-4d7e3befece5",
+    "name": "Wakil Ketua Komite Tetap Pelatihan dan Pengembangan Usaha Pengusaha Perempuan"
+  },
+  {
+    "id": "fec94b8d-0a45-4303-950e-d12bee8effd1",
+    "name": "Wakil Ketua Umum Bidang Industri Olahraga"
+  },
+  {
+    "id": "037ff924-4f54-4101-89b0-7f6b52136e23",
+    "name": "Ketua Komite Tetap Perdagangan Luar Negeri"
+  },
+  {
+    "id": "dc0121bf-ac81-4b98-8d82-2593ff1da086",
+    "name": "Wakil Ketua Komite Tetap Industri Penunjang Panas Bumi II"
+  },
+  {
+    "id": "55823c41-170d-4f6d-ab50-d0d298dd444b",
+    "name": "Wakil Ketua Komite Tetap Industri Komponen Otomotif dan Sepeda Motor"
+  },
+  {
+    "id": "2e0cd1b5-aa9d-4c2c-b6c3-6e568e339aed",
+    "name": "Wakil Ketua Komite Tetap Industri Hasil Hutan"
+  },
+  {
+    "id": "7235b613-3f6a-46ab-b9bb-5fc1f0358049",
+    "name": "Ketua Komite Tetap Pengelolaan Teknologi Informasi Industri Olahraga"
+  },
+  {
+    "id": "bd18b83e-5a50-40f1-a34d-bd4f81a03853",
+    "name": "Wakil Kepala Badan Komoditas"
+  },
+  {
+    "id": "577343bf-f2dd-430b-b343-df4a02733c33",
+    "name": "Wakil Ketua Komite Tetap Mekanisasi Pertanian"
+  },
+  {
+    "id": "5850d28b-38af-4647-8a52-4de867b95f77",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Jasa Aktivitas Kebersihan"
+  },
+  {
+    "id": "aa1ca847-5b62-47ba-a0d5-6638c8972f3c",
+    "name": "Wakil Ketua Umum Wilayah Nusa Tenggara Barat dan Timur"
+  },
+  {
+    "id": "dfaef745-8512-4430-a790-dc6e82894d28",
+    "name": "Wakil Ketua Komite Tetap Pergudangan"
+  },
+  {
+    "id": "b798e43f-bacb-4a25-9cff-db9878c9858b",
+    "name": "Wakil Ketua Komite Tetap Kerjasama antar Lembaga"
+  },
+  {
+    "id": "ab44fcd7-5b28-407a-b00f-00ca470ec823",
+    "name": "Ketua Komite Tetap Pasar Kerja & Pemagangan"
+  },
+  {
+    "id": "a0d6ea13-7cd1-4948-a269-71a150bd9d87",
+    "name": "Wakil Ketua Komite Tetap Industri Kecil dan Menengah Logam"
+  },
+  {
+    "id": "84c48781-f9c5-479b-9f8c-608181c605e5",
+    "name": "Wakil Ketua Komite Tetap Mineral"
+  },
+  {
+    "id": "4134f277-7dad-4c37-a7c0-d9129f4d3e29",
+    "name": "Wakil Ketua Komite Tetap Penambahan Anggota Luar Biasa"
+  },
+  {
+    "id": "1f6fa184-c754-48a4-b7da-f0604c254f20",
+    "name": "Wakil Ketua Komite Tetap Penerapan Perangkat Teknologi"
+  },
+  {
+    "id": "0e1c7248-3495-44bd-8b91-168742815a8b",
+    "name": "Ketua Komite Tetap Energi Baru dan Terbarukan"
+  },
+  {
+    "id": "e953d661-6f96-45ee-a541-17eaac27925e",
+    "name": "Wakil Ketua Komite Tetap Industri Tekstil"
+  },
+  {
+    "id": "c20bf65b-e5b2-47a4-ac20-0f9e0a9cfb76",
+    "name": "Ketua Komite Tetap Strategi, Sumber Daya dan Kelembagaan"
+  },
+  {
+    "id": "639ecf75-96bc-4286-9dd4-c5b51341b015",
+    "name": "Wakil Ketua Komite Tetap Industri Elektronika"
+  },
+  {
+    "id": "12b0a06b-fd1e-4534-9899-e96cc505c191",
+    "name": "Wakil Ketua Komite Tetap Impor"
+  },
+  {
+    "id": "844ef5d3-e69d-4810-bb6f-6f41a5a395a5",
+    "name": "Ketua Komite Tetap Kepabeanan dan Cukai"
+  },
+  {
+    "id": "e4bbb5c0-26aa-478d-8a39-7f5655b6d975",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Jasa Perhubungan"
+  },
+  {
+    "id": "487595a9-1556-4a39-88c2-ada677dbb394",
+    "name": "Wakil Ketua Komite Tetap Kebijakan Farmasi dan Baku Farmasi"
+  },
+  {
+    "id": "fae33260-e00c-4601-a9cf-76a82afd91c4",
+    "name": "Wakil Kepala Badan Ristek, Digitalisasi, dan Pusat Data Eksyar"
+  },
+  {
+    "id": "eefbaa52-03aa-450b-b8b9-93fdbe0997b3",
+    "name": "Wakil Ketua Umum Bidang Kelautan dan Perikanan"
+  },
+  {
+    "id": "073fbd2a-52c9-4880-9274-2f580677be47",
+    "name": "Wakil Ketua Komite Tetap Perpajakan Internasional"
+  },
+  {
+    "id": "5f67c6d3-8b56-4fa4-8d61-431518b05d4f",
+    "name": "Ketua Komite Tetap Asosiasi-Asosiasi Jasa Keuangan dan Jasa Profesi"
+  },
+  {
+    "id": "159a8540-0a90-4ec2-bf80-12b7a3432133",
+    "name": "Anggota Kosmetik Halal"
+  },
+  {
+    "id": "12e95a98-c541-496c-af1b-6a4474ba950e",
+    "name": "Wakil Ketua Komite Tetap Rantai Pasok"
+  },
+  {
+    "id": "3aebfef6-b361-45b8-af1a-3f40849f69be",
+    "name": "Wakil Ketua Komite Tetap Kebijakan dan Regulasi Mineral dan Batubara"
+  },
+  {
+    "id": "6984aa5b-b5da-4e29-abdf-a67f9576bfab",
+    "name": "Ketua Komite Tetap Asosiasi-Asosiasi Industri Pertanian dan Kehutanan"
+  },
+  {
+    "id": "fd5f07b5-9397-495f-9623-24091fa2f7c5",
+    "name": "Ketua Komite Tetap Hortikultura"
+  },
+  {
+    "id": "877fcf85-5883-4922-a65e-d2e556b71ccb",
+    "name": "Wakil Ketua Umum Bidang BUMN"
+  },
+  {
+    "id": "838f1c71-4696-4b05-b9a5-f87343ffcd55",
+    "name": "Ketua Komite Tetap Pengembangan Ekonomi Kawasan Transmigrasi"
+  },
+  {
+    "id": "57b24992-2c67-4e5a-9a0b-d5fb724e1acd",
+    "name": "Wakil Ketua Komite Tetap Konservasi Tanah, Air dan Pengendalian Kerusakan Perairan Darat"
+  },
+  {
+    "id": "f157bb8d-0974-45f0-b18f-16fac8cb87b8",
+    "name": "Anggota Keamanan Siber & Perlindungan Data Pribadi"
+  },
+  {
+    "id": "d9e4b3b9-15f3-46dc-a9c0-883ea7650aa9",
+    "name": "Wakil Ketua Komite Tetap Kajian Hukum Penyelesaian Perselisihan"
+  },
+  {
+    "id": "b5bc3856-1a46-4634-8359-375493f4b29f",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Pola Kemitraan Antar Daerah Jawa-Bali-Kalimantan"
+  },
+  {
+    "id": "4c7ca8f4-ec5c-47f3-bcba-5efbab5d223d",
+    "name": "Wakil Ketua Komite Tetap Kapal Roro dan Penumpang"
+  },
+  {
+    "id": "31898677-dd6e-4069-9d4d-11ba5f4fd7b9",
+    "name": "Wakil Ketua Komite Tetap Infrastruktur Digital Industri Lokal"
+  },
+  {
+    "id": "e95cca6b-f593-4a23-9b64-ddc2631e8145",
+    "name": "Ketua Komite Tetap Pengamanan Investasi Strategis"
+  },
+  {
+    "id": "69120646-c43c-4f75-bc5b-930db55d2da6",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Pengelola Energi & Terbarukan"
+  },
+  {
+    "id": "ee7ddd1f-98ad-4dd8-8fc9-e444488f1dc3",
+    "name": "Wakil Ketua Komite Tetap Infrastruktur Hijau dan Berkelanjutan"
+  },
+  {
+    "id": "7388e576-2e89-453b-8246-4b8758bf26c6",
+    "name": "Wakil Ketua Komite Tetap Produk Industri dan Pertambangan"
+  },
+  {
+    "id": "d32a5e81-c7b1-4609-8d18-d6d3d12447dd",
+    "name": "Wakil Ketua Komite Tetap Industri Farmasi"
+  },
+  {
+    "id": "bdab823f-cf10-4974-86fb-212c5a2391a0",
+    "name": "Wakil Ketua Umum Wilayah Sulawesi"
+  },
+  {
+    "id": "07157311-c8c8-4c5d-a58c-7f87454333a5",
+    "name": "Wakil Ketua Komite Tetap Industri Alat Transportasi"
+  },
+  {
+    "id": "60012624-bfde-4ae5-bfa1-56010bcef26c",
+    "name": "Ketua Komite Tetap Industri Logam dan Alat Transportasi"
+  },
+  {
+    "id": "513d6a88-40c9-4189-af37-9429e6d8de96",
+    "name": "Wakil Ketua Komite Tetap Kebijakan Kesetaraan Gender"
+  },
+  {
+    "id": "b9f43c73-224a-4efe-896a-2a533a0275e8",
+    "name": "Wakil Ketua Komite Tetap Ketahanan Pangan Urusan Input Pertanian"
+  },
+  {
+    "id": "421013fd-8b96-46a0-8abe-a66a4054c2dd",
+    "name": "Ketua Komite Tetap Cipta Karya"
+  },
+  {
+    "id": "f1e90f68-8dcf-47f2-96f7-07dc3c9c818f",
+    "name": "Wakil Ketua Komite Tetap Industri Logam"
+  },
+  {
+    "id": "9ef9431e-3a4f-4887-83df-2ac2a462a07f",
+    "name": "Ketua Komite Tetap Pengendalian Pencemaran, Kerusakan Lingkungan, Penegakkan Hukum Lingkungan Dan Kehutanan"
+  },
+  {
+    "id": "60e60690-1815-44d4-895a-ef1d6f3f37bb",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Sistem Perizinan Berusaha"
+  },
+  {
+    "id": "e72cd938-2bd7-4dd4-aed7-e31c7502c8fb",
+    "name": "Sekretaris Kepala Badan"
+  },
+  { "id": "1adc6882-da06-4ff1-9cd5-40ad581514b5", "name": "Sekretaris I" },
+  {
+    "id": "1dee0126-972c-4495-b255-b55fc3b95d6b",
+    "name": "Wakil Ketua Komite Tetap Keuangan"
+  },
+  {
+    "id": "63a7515f-a66b-4c56-965f-e0422a96e222",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Teknik Ketenagalistrikan"
+  },
+  {
+    "id": "135209a5-2165-47e7-a455-d5f86a361467",
+    "name": "Ketua Komite Tetap Sumber Daya Air"
+  },
+  { "id": "6670fc23-5c54-407f-8f38-6c0b53fd7ce3", "name": "Anggota Kemitraan" },
+  {
+    "id": "1b0e48c7-2b9b-4922-8bf3-6c1faa7dcd9d",
+    "name": "Anggota Start Up Syariah"
+  },
+  {
+    "id": "37d9b0cf-3e44-4891-8856-da30584648b7",
+    "name": "Wakil Ketua Komite Tetap Peningkatan Konektivitas"
+  },
+  {
+    "id": "caa3566a-8a20-4357-b089-7ccfe47cd8a6",
+    "name": "Wakil Ketua Komite Tetap Bangka Belitung"
+  },
+  {
+    "id": "6d59a8ac-bfbf-4048-b933-8f9442441afb",
+    "name": "Wakil Ketua Komite Tetap Teknik dan Lingkungan Minyak dan Gas Bumi"
+  },
+  {
+    "id": "e615cd7d-f967-4ad7-a710-45d57350805d",
+    "name": "Wakil Ketua Komite Tetap Asosiasi Lembaga Sertifikasi Profesi"
+  },
+  {
+    "id": "3f0d8887-f0e5-47d8-a347-2a585dec521b",
+    "name": "Wakil Ketua Komite Tetap Penerbangan Kargo"
+  },
+  {
+    "id": "d1a1a548-901d-45d0-ae4a-f351a5cf3c12",
+    "name": "Ketua Komite Tetap PED-K (Pengembangan Ekonomi Daerah Berbasis Kehutanan dan Perkebunan)"
+  },
+  {
+    "id": "9cd6d21b-c384-40ff-9095-f4d7bd72ac50",
+    "name": "Wakil Ketua Komite Tetap Tata Ruang dan Kawasan"
+  },
+  {
+    "id": "8717ae56-a86a-4b6a-9ec6-785aa449fe2e",
+    "name": "Anggota Infrastruktur Halal"
+  },
+  {
+    "id": "18698349-804d-4efb-9875-019f0d4e2936",
+    "name": "Wakil Ketua Komite Tetap Pengarusutamaan Bidang Ekonomi"
+  },
+  {
+    "id": "4335038f-0abf-479b-ac74-94350dff3d90",
+    "name": "Wakil Ketua Komite Tetap Perundang-undangan"
+  },
+  {
+    "id": "9efb13e8-838c-4429-9969-92bc0b405cb0",
+    "name": "Wakil Ketua Komite Tetap Inkubasi Prakarsa Baru"
+  },
+  {
+    "id": "6790ef78-ecdc-4d62-9bd5-a0c27caed741",
+    "name": "Wakil Ketua Komite Tetap Diklat Lemhanas"
+  },
+  {
+    "id": "91918533-ab65-4638-8dcc-242bc2ed8728",
+    "name": "Wakil Ketua Komite Tetap Inovasi Kesehatan I"
+  },
+  {
+    "id": "af23a447-0ab2-4eb8-82d3-5579942538e1",
+    "name": "Wakil Kepala Badan"
+  },
+  {
+    "id": "175f861c-e6fc-439e-ac66-52c309a668f6",
+    "name": "Anggota Promosi dan Syiar Ekonomi Syariah"
+  },
+  {
+    "id": "fc9e4d4e-808f-424f-b061-e42da43aedc8",
+    "name": "Wakil Ketua Komite Tetap Kemitraan Pengusaha Perempuan Usaha Kecil"
+  },
+  {
+    "id": "3cb58082-e145-4d14-b098-b5af18ec3045",
+    "name": "Wakil Ketua Komite Tetap Iuran, Peredaran, Pengelolaan dan Pemasaran Hasil Hutan"
+  },
+  {
+    "id": "38583bf1-3a99-4fd4-bb4e-422c7df10e26",
+    "name": "Ketua Komite Tetap Kerja Sama K/L & Industri"
+  },
+  {
+    "id": "fac58582-998f-4a1a-abc8-0564bf57b40e",
+    "name": "Ketua Komite Tetap Produk Wisata dan Penyelenggaraan Kegiatan"
+  },
+  {
+    "id": "c4338f46-4749-42c5-8ca8-7429e4e330a5",
+    "name": "Wakil Ketua Komite Tetap Perijinan & Kenelayanan"
+  },
+  {
+    "id": "7e9f4b6a-b959-4449-85d4-28e4b17ea0d7",
+    "name": "Wakil Ketua Komite Tetap Industri Penunjang Minyak Bumi II"
+  },
+  {
+    "id": "62fdb665-6154-43b8-a2b0-7ddf23025479",
+    "name": "Wakil Ketua Komite Tetap Perluasan Pasar Kerja"
+  },
+  {
+    "id": "3642a8c5-917b-4e4d-a928-0f2c2f24304a",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Pertambangan Mineral & Nikel"
+  },
+  {
+    "id": "f8107ef8-40f6-4a8c-bcdb-73eb22692528",
+    "name": "Wakil Ketua Komite Tetap Skill and Career Development"
+  },
+  {
+    "id": "ce60751a-82ff-4cf3-8ba3-35212207bbf4",
+    "name": "Ketua Komite Tetap Pendidikan Tinggi"
+  },
+  {
+    "id": "b2a672b0-1af4-4fa9-824b-ff960880df17",
+    "name": "Wakil Ketua Komite Tetap Pelatihan Publik"
+  },
+  {
+    "id": "a7e0cebb-7350-49d4-aba5-e625939e1af7",
+    "name": "Wakil Ketua Komite Tetap Penguatan Organisasi"
+  },
+  {
+    "id": "dbc53131-4bfa-4875-a52a-725af947390d",
+    "name": "Wakil ketua Komite Tetap Ekspor Agrikultur"
+  },
+  {
+    "id": "e14efbd5-cb32-46bc-b24a-cf9d38fa35d2",
+    "name": "Wakil Ketua Komite Tetap Wastra Nusantara"
+  },
+  {
+    "id": "f2a709df-6f6a-4c11-8410-dabed23d4274",
+    "name": "Wakil Kepala Badan Koordinator Pengembangan Ekosistem Fintech dan Keamanan Siber"
+  },
+  {
+    "id": "95ba6bc9-1a8b-458a-87ae-f3c3771c12b7",
+    "name": "Anggota Pengembangan Digitalisasi Bisnis dan Keuangan (Fintech)"
+  },
+  {
+    "id": "21161ddc-2c4c-4365-b364-bd29e13c2708",
+    "name": "Wakil Ketua Komite Tetap Geologi dan Eksplorasi Gas Bumi"
+  },
+  {
+    "id": "79503970-fb3c-41be-8453-d4485855da45",
+    "name": "Wakil Ketua Komite Tetap Daerah Sulawesi Tenggara I"
+  },
+  {
+    "id": "84c9d063-7391-4a2e-8d3b-e681188e7ebe",
+    "name": "Wakil Ketua Komite Tetap Perundingan Bilateral"
+  },
+  {
+    "id": "4c9d98e8-6bc1-46f7-adec-fc8b667b4b27",
+    "name": "Wakil Ketua Komite Tetap Pemagangan Luar Negeri"
+  },
+  {
+    "id": "cfd6225d-0b12-4a6c-b52f-283598b306ba",
+    "name": "Wakil Ketua Komite Tetap Papua Pegunungan I"
+  },
+  {
+    "id": "13a5ffa5-e061-4483-9068-ff98aebada50",
+    "name": "Wakil Ketua Komite Tetap Geologi dan Eksplorasi Batubara"
+  },
+  {
+    "id": "4d4a5c91-74d7-433f-b116-ff8acd81208d",
+    "name": "Wakil Ketua Komite Tetap Industri dan Menengah Barang dari Kayu & Furnitur"
+  },
+  {
+    "id": "edc4f617-3117-4257-bf0c-d8119e9b5e22",
+    "name": "Wakil Ketua Komite Tetap Riau"
+  },
+  {
+    "id": "fd50cd86-6ccd-4c43-8856-7a3ab4b00bee",
+    "name": "Wakil Ketua Komite Tetap Ekosistem Pendukung"
+  },
+  {
+    "id": "11245611-0d5a-4665-97f2-43439edd7e52",
+    "name": "Wakil Ketua Umum Bidang Pengembangan Ekonomi Daerah"
+  },
+  {
+    "id": "16db602c-d436-42fa-aa81-edce255a25de",
+    "name": "Wakil Ketua Komite Tetap Industri Penunjang Gas Bumi II"
+  },
+  {
+    "id": "91a3974f-7cfe-4b94-98ed-47b21ed4ee56",
+    "name": "Wakil Ketua Komite Tetap Industri Penunjang Ketenagalistrikan II"
+  },
+  {
+    "id": "bc5e25cf-bebf-45b3-b356-1cac6d7fbace",
+    "name": "Wakil Ketua Komite Tetap Pemasaran Produk Dalam Negeri"
+  },
+  {
+    "id": "5d66addd-9b32-4673-947f-477398939801",
+    "name": "Wakil Ketua Komite Tetap Sertifikasi Asosiasi dan Himpunan"
+  },
+  {
+    "id": "bfb343e3-b0fa-40d4-9f8c-1805b4c20797",
+    "name": "Anggota Investasi dan Permodalan Syariah"
+  },
+  {
+    "id": "2d6c2d19-5b92-4640-b228-5bc40b1ddfee",
+    "name": "Wakil Ketua Komite Tetap Pembangunan Infrastruktur Ketenagalistrikan"
+  },
+  {
+    "id": "15ff4321-c1f8-471e-85fc-fef9ab884a78",
+    "name": "Ketua Komite Tetap Penguatan Sektor Energi dan Energi Terbarukan"
+  },
+  {
+    "id": "babf748b-acb8-4746-9428-41e0b8997e07",
+    "name": "Wakil Ketua Komite Tetap Digitalisasi Konstruksi"
+  },
+  {
+    "id": "20a68cf2-0e62-4dfe-9581-72c91e564bbb",
+    "name": "Ketua Komite Tetap Pasar Kerja dan Perluasan Kesempatan Kerja"
+  },
+  {
+    "id": "fea43e95-f8fb-43b9-a667-7af1e54ad252",
+    "name": "Wakil Ketua Komite Tetap Riset Industri"
+  },
+  {
+    "id": "6828930b-afe5-45ae-8033-b27d0444b1d8",
+    "name": "Ketua Komite Tetap Kurir dan Logistik E-Commerce"
+  },
+  {
+    "id": "5d2ab42b-2944-4578-8db1-14e66666c740",
+    "name": "Wakil Ketua Komite Tetap Komunikasi & Publikasi ALB"
+  },
+  {
+    "id": "427630f2-80aa-4efb-b82f-30288063e0b2",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Agro"
+  },
+  {
+    "id": "98974a71-5ca9-423a-803b-bac421404741",
+    "name": "Ketua Komite Tetap Aplikasi Teknologi Komunikasi dan Informatika"
+  },
+  {
+    "id": "cb3506a6-17ba-46ac-b86c-51d8b582472b",
+    "name": "Wakil Ketua Komite Tetap SDM Standardisasi"
+  },
+  {
+    "id": "c80961a4-83e7-4a16-b8b0-0bcb44c2f787",
+    "name": "Ketua Komite Tetap Perhubungan Laut"
+  },
+  {
+    "id": "1fbab302-ad66-4896-84c3-1d6a46910507",
+    "name": "Ketua Komite Tetap Pembangunan Infrastruktur"
+  },
+  {
+    "id": "c43125e2-e402-4a78-9654-504b6fb545ac",
+    "name": "Wakil Ketua Komite Tetap Penilaian Kesesuaian"
+  },
+  {
+    "id": "3dc6f8c7-6eb1-4ba0-9dd0-97479acddc7b",
+    "name": "Wakil Ketua Komite Tetap Pengembangan UMKM"
+  },
+  {
+    "id": "1f767d92-04e4-4662-8350-be06bb65a239",
+    "name": "Ketua Komite Tetap Pembiayaan Percepatan Pembangunan Infrastruktur"
+  },
+  {
+    "id": "73fb35f4-81fd-4467-9f26-60f1781fc8bd",
+    "name": "Ketua Komite Tetap Industri dan Investasi"
+  },
+  {
+    "id": "3b1831cc-d4c4-47e2-852c-c1540f9a6a64",
+    "name": "Ketua Komite Tetap Pengembangan Pola Kemitraan Antar Daerah"
+  },
+  {
+    "id": "20108435-b4f1-4c6c-b223-f7ab75d17b66",
+    "name": "Wakil Ketua Komite Tetap Sarana dan Prasarana Udara 1"
+  },
+  {
+    "id": "0e6f41f5-9434-421a-bcec-e6da175efdc4",
+    "name": "Wakil Ketua Komite Tetap Sertifikat Industri"
+  },
+  {
+    "id": "cc142c64-afb9-40a4-9756-dd2aecde1bb8",
+    "name": "Wakil Ketua Komite Tetap Kesempatan Kerja Non-Industri"
+  },
+  {
+    "id": "9efbcea6-6131-4e3f-b246-3935df7d3a66",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Sayuran"
+  },
+  {
+    "id": "cd3d299c-e232-4af9-828c-098628431f95",
+    "name": "Wakil Ketua Komite Tetap Pengadaan Jasa Konstruksi"
+  },
+  {
+    "id": "ff9d4243-984f-4afd-a7fd-26c5f966644b",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Infrastruktur"
+  },
+  {
+    "id": "65bb8ea6-40c3-48d1-91b6-2bed766c04a9",
+    "name": "Kepala Badan Pengembangan Keuangan Digital"
+  },
+  {
+    "id": "b25aae06-adc4-4754-873d-71521e47c030",
+    "name": "Wakil Ketua Komite Tetap Tata Kelola Lahan Perkebunan"
+  },
+  {
+    "id": "d90adf8c-1152-49d2-b264-aca5744350e8",
+    "name": "Ketua Komite Tetap Asosiasi-Asosiasi Jasa Konstruksi, Properti & Kawasan"
+  },
+  {
+    "id": "0ea6e7f3-ba09-4ba4-a703-895ef986d451",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Pelatih Tempat Kerja"
+  },
+  { "id": "27988eeb-513a-4b00-8da3-afaf1fc05a5b", "name": "Sekretaris Badan" },
+  {
+    "id": "86be356f-cf98-46b7-956f-6d9855d0a7a1",
+    "name": "Wakil Ketua Komite Tetap Keamanan Produk Pangan"
+  },
+  {
+    "id": "6dfbd8f6-9dc7-4fc8-a500-b209e81da42d",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Pengelolaan Karbon & Perdagangan"
+  },
+  {
+    "id": "7d5388b8-6a2a-4180-9c8e-4636ae1d4553",
+    "name": "Wakil Ketua Komite Tetap Komoditas Kopi"
+  },
+  {
+    "id": "6d406359-8807-4b3a-bed4-d6d3a85f8af5",
+    "name": "Anggota Heritage & Rekreasi Syariah"
+  },
+  {
+    "id": "3043bc4c-e650-4abd-a6e7-e640feaf2548",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Konstruksi Khusus"
+  },
+  {
+    "id": "89488faa-814c-4d8f-a8a1-4e08cbbdd00b",
+    "name": "Ketua Komite Tetap Pengelolaan Batas Wilayah Negara"
+  },
+  {
+    "id": "b29acebd-f6e2-491f-b4fb-d216af2f624a",
+    "name": "Wakil Ketua Komite Tetap Kepatuhan dan Regulasi ALB"
+  },
+  {
+    "id": "0513bd54-f263-4ec9-9790-7d28cec78b1f",
+    "name": "Wakil Ketua Komite Tetap Penelitian Perangkat Teknologi"
+  },
+  {
+    "id": "27083bef-942b-4bfb-9e26-f133a87be815",
+    "name": "Wakil Ketua Komite Tetap Pemberdayaan Digital Talent"
+  },
+  {
+    "id": "ff1a45fe-5e06-43e7-ba73-de9817c707a0",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Aplikasi"
+  },
+  {
+    "id": "950daf32-c145-4fc4-98b7-82f22938ac75",
+    "name": "Wakil Ketua Komite Tetap Ketenagalistrikan Pengembangan Program Ketenagalistrikan"
+  },
+  {
+    "id": "78c274b6-f30f-4608-a604-7db97ba7a25e",
+    "name": "Ketua Komite Tetap Koordinasi Jasa Lainnya"
+  },
+  {
+    "id": "b6f6d8f8-1509-40d6-9b07-dee5d6ccc76b",
+    "name": "Wakil Ketua Komite Tetap Kebijakan Perdagangan Komoditas Pertanian"
+  },
+  {
+    "id": "4012b09c-c87c-4984-8d76-05715e238749",
+    "name": "Ketua Komite Tetap Asosiasi-Asosiasi Industri Pertambangan dan Energi dan Gas"
+  },
+  {
+    "id": "472c6baf-d6aa-4e0f-b2fd-2426953b4c78",
+    "name": "Wakil Ketua Komite Tetap Komoditas Teh"
+  },
+  {
+    "id": "c6bb333d-8b66-4fca-8a86-f59231539341",
+    "name": "Ketua Komite Tetap Ketahanan Perwilayahan dan Akses Industri Internasional"
+  },
+  {
+    "id": "1c9fe4e6-e574-4ccb-99f6-941dabe79bcd",
+    "name": "Wakil Ketua Komite Tetap Sarana"
+  },
+  {
+    "id": "32242fad-33c5-4809-b4a4-368b74acc938",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Pengolahan Makanan"
+  },
+  {
+    "id": "545111fc-0bf6-4aca-83f5-b2eb3fed94c9",
+    "name": "Ketua Komite Tetap Industri Kimia, Farmasi dan Tekstil"
+  },
+  {
+    "id": "4c1ccc19-eeb5-44f8-bc79-0426aaeade0b",
+    "name": "Wakil Ketua Komite Tetap Hirilisasi Industri"
+  },
+  {
+    "id": "2c26272c-54b4-463c-9e03-78131a19b949",
+    "name": "Wakil Ketua Komite Tetap Pemasaran Produk UMKM Lokal"
+  },
+  {
+    "id": "5f2be920-52d6-4004-8e46-2deb1d7e575f",
+    "name": "Ketua Komite Tetap Pengembangan Ekspor Nasional"
+  },
+  {
+    "id": "f40d3d72-2240-490a-b106-0eaf321f5c18",
+    "name": "Wakil Ketua Komite Tetap Pendanaan dan Optimalisasi Prakerja"
+  },
+  {
+    "id": "ffdfad19-a753-43ca-94bd-dcb80f7c5258",
+    "name": "Wakil Ketua Komite Tetap Preservasi Jalan & Jembatan\nWilayah I & II"
+  },
+  {
+    "id": "f51bed5f-e247-42a7-9b1b-7c133b42106d",
+    "name": "Ketua Komite Tetap Industri Kecil, Menengah dan Aneka"
+  },
+  {
+    "id": "2671a015-6ca5-480d-a698-3a34cdea4878",
+    "name": "Wakil Ketua Komite Tetap Pencegahan dan Penanganan Konflik Pertanahan"
+  },
+  {
+    "id": "fcce2343-16c8-440d-8e11-455f15eb962a",
+    "name": "Ketua Komite Tetap Kaderisasi dan Pembinaan Anggota"
+  },
+  {
+    "id": "e33e9a5e-9f7b-4cd9-979f-811d972aa32b",
+    "name": "Wakil Ketua Komite Tetap Koordinator Afrika II : Kenya, Mauritius, Republik Kongo, Seychelles, Somalia, Uganda, Mozambik, Malawi, Madagaskar, UNEP, Afrika Selatan, Botswana, Lesotho, Swaziland, Namibia, Angola, Zimbabwe, Zambia, SADC, SACU dan UN Habitat"
+  },
+  {
+    "id": "549678e1-65ca-4417-b9f4-c669f4d6cf18",
+    "name": "Ketua Komite Tetap Asosiasi-Asosiasi Industri Pengolahan Lain-lainnya"
+  },
+  {
+    "id": "8918ac36-95cb-4c41-9006-b35a34637af5",
+    "name": "Wakil Ketua Komite Tetap Kebijakan Energi Baru dan Terbarukan I"
+  },
+  {
+    "id": "9a85b37c-9d30-4309-8a5f-a72ed3098009",
+    "name": "Wakil Ketua Komite Tetap Pembangunan Wilayah Bencana"
+  },
+  {
+    "id": "976ad035-731c-47f1-9c89-31554c802ea2",
+    "name": "Wakil Kepala Badan Pengembangan Bisnis dan Kekayaan Intelektual"
+  },
+  {
+    "id": "38b0953b-e927-4094-9a13-5406c3ca9e77",
+    "name": "Wakil Ketua Komite Tetap Kepelabuhan Perikanan"
+  },
+  { "id": "be9822f8-ffd6-430e-a0c1-5fd844691686", "name": "Ketua Komite Dana" },
+  {
+    "id": "48a18db8-56f5-4de5-acea-f53144696d22",
+    "name": "Wakil Ketua Komite Tetap Efisiensi Biaya Logistik"
+  },
+  {
+    "id": "5ec6e11d-1b32-43f3-ae91-40c48f918e6c",
+    "name": "Wakil Ketua Komite Tetap Industri Penunjang Gas Bumi I"
+  },
+  {
+    "id": "a204443c-b1a1-42d8-8ee2-58c16b4022a3",
+    "name": "Ketua Komite Tetap Perencanaan"
+  },
+  {
+    "id": "c73285d0-aeb9-4194-bcaa-6d6e85f275c4",
+    "name": "Wakil Ketua Komite Tetap Pembentukan dan Pembinaan Asosiasi Produsen Alat-Alat Olahraga"
+  },
+  {
+    "id": "8ed30a23-0fca-48dd-b940-b6f30bfa326f",
+    "name": "Ketua Komite Tetap Perlindungan Hukum"
+  },
+  {
+    "id": "b65139d4-3681-4c1b-9bc3-69a7c436ebbd",
+    "name": "Wakil Ketua Komite Tetap Geologi dan Eksplorasi Mineral"
+  },
+  {
+    "id": "d32102f6-0454-4123-bf74-c1203e57a12a",
+    "name": "Wakil Ketua Komite Tetap Sekretariat Kebijakan Fiskal"
+  },
+  {
+    "id": "c638bd12-3cd4-4aa0-aac2-526c8969bb11",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Jasa Gedung & Pertamanan"
+  },
+  {
+    "id": "06cf0ea5-15d3-464b-8f7a-0cc671190ab9",
+    "name": "Wakil Ketua Komite Tetap Industri Pengolahan Bahan Galian Non Logam"
+  },
+  {
+    "id": "e2e3dee6-8ef6-4c5e-a889-75c86fa90bdb",
+    "name": "Wakil Ketua Komite Tetap Peningkatan Standardisasi"
+  },
+  {
+    "id": "4a7f14c2-88b4-434f-a5bf-adcd5b7c9df2",
+    "name": "Wakil Kepala Badan Perkuatan Keuangan dan Permodalan"
+  },
+  {
+    "id": "257d689f-9c41-41a9-9ee1-c5f347796655",
+    "name": "Wakil Ketua Komite Tetap Industri Kecil dan Menengah Kerajinan"
+  },
+  {
+    "id": "7bd1f587-a225-41e9-beeb-466a1cce9ee2",
+    "name": "Ketua Komite Tetap Perundang-undangan dan HAM"
+  },
+  {
+    "id": "bd890679-7676-437e-95ce-ed2a4edfeb8d",
+    "name": "Wakil Ketua Komite Tetap Analisa Data Keanggotaan"
+  },
+  {
+    "id": "a13620ba-1d2f-4b6d-b604-9e2a9aaea6e2",
+    "name": "Wakil Ketua Komite Tetap APEC dan Organisasi Ekonomi Internasional"
+  },
+  {
+    "id": "90d55026-f1ec-4835-a4f2-456258117165",
+    "name": "Wakil Ketua Komite Tetap Kerjasama Antar Lembaga Peningkatan Kualitas SDM"
+  },
+  {
+    "id": "76f70187-902f-4cb1-9e8f-1eb21bd33c70",
+    "name": "Wakil Ketua Komite Tetap Jawa Tengah II"
+  },
+  {
+    "id": "66f05159-4241-4351-8b37-05e00aa5aa1e",
+    "name": "Ketua Komite Tetap Kerjasama Ekonomi Digital dan Penyatuan Data Nasional"
+  },
+  {
+    "id": "02118a86-0361-4f1a-aeb2-203a4b7b4aea",
+    "name": "Wakil Ketua Komite Tetap Ketenagalistrikan, Telekomunikasi dan Informatika"
+  },
+  {
+    "id": "6b7acc4c-0e8e-4870-8b19-ba9c28fa485a",
+    "name": "Ketua Komite Tetap Hukum Keuangan, Inovasi Teknologi Sektor Keuangan (ITSK) dan Blockchain"
+  },
+  {
+    "id": "8502b0a6-e589-4e17-8c3d-1461fe92da53",
+    "name": "Wakil Ketua Komite Tetap Inovasi & Teknologi Daerah Jawa-Bali-Kalimantan"
+  },
+  {
+    "id": "a6ab9df9-e1d6-4694-8e16-53639af4f6c3",
+    "name": "Ketua Komite Tetap Peningkatan Kapasitas Daerah"
+  },
+  {
+    "id": "b13cdf5c-1b0a-4677-b203-596fe93ac0ec",
+    "name": "Ketua Komite Tetap Komunikasi Kadin Daerah"
+  },
+  {
+    "id": "51a4d2a2-6de1-4d9c-bd62-76a86a0ee7c6",
+    "name": "Ketua Komite Tetap Konservasi Sumber Daya Alam, Ekosistem, Perhutanan Sosial Dan Kemitraan Lingkungan"
+  },
+  {
+    "id": "9058e1ca-337c-4c81-a014-429cdc211bef",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi UKM"
+  },
+  {
+    "id": "e380100b-d117-4f3b-9765-4a5b08f41ae0",
+    "name": "Wakil Ketua Komite Tetap Harmonisasi Peraturan Perundangundangan Pusat dan Daerah"
+  },
+  {
+    "id": "3e05a571-0cb4-489d-9189-213c0cce5958",
+    "name": "Wakil Ketua Komite Tetap Perencanaan Ruang Laut"
+  },
+  {
+    "id": "82301183-1566-4990-9b09-4b1cf6487601",
+    "name": "Wakil Ketua Komite Tetap Hilir Minyak dan Gas Bumi"
+  },
+  {
+    "id": "65a46767-644b-44cd-9d65-d7dd6714aeec",
+    "name": "Wakil Ketua Komite Tetap Hubungan antar Asosiasi dan Himpunan"
+  },
+  {
+    "id": "076fe82a-ab57-4d7e-a84c-3058ae0641c7",
+    "name": "Wakil Ketua Komite Tetap Integrasi Sistem Keanggotaan"
+  },
+  {
+    "id": "c9de3f66-7055-4ca3-b160-60c5b2a98720",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Ekonomi Pesisir"
+  },
+  {
+    "id": "4ad4921d-d0d1-4b7f-a031-60619b08f388",
+    "name": "Ketua Komite Tetap Industri Penunjang"
+  },
+  {
+    "id": "5cf5a343-4c7f-49a6-9290-f9aa6be35e3b",
+    "name": "Wakil Ketua Komite Tetap Pembangunan Infrastruktur Minyak dan Gas Bumi"
+  },
+  {
+    "id": "705b6892-daad-47f8-8a63-6c036b4bf508",
+    "name": "Wakil Ketua Komite Tetap Implementasi Prakarsa Baru"
+  },
+  {
+    "id": "1a36e35d-c394-4eaa-ae9b-7d55e22fdae5",
+    "name": "Wakil Ketua Komite Tetap Sistem & Strategi\nPenyelenggaraan Pembiayaan"
+  },
+  {
+    "id": "2e8deb2d-f5d5-45fe-94bc-5c3caa4b9fde",
+    "name": "Wakil Ketua Komite Tetap Bina Penataan\nBangunan dan Bina Teknik Permukiman serta Perumahan"
+  },
+  {
+    "id": "06c94eda-4c7e-4a46-b5cf-2c478ad01db6",
+    "name": "Wakil Ketua Komite Tetap Jawa Timur I"
+  },
+  {
+    "id": "56e9fe57-5142-4465-b5cf-0dfaea9df23b",
+    "name": "Wakil Ketua Komite Tetap Transportasi dan Distribusi"
+  },
+  {
+    "id": "d3820488-04b0-4004-b169-8237eccb51bf",
+    "name": "Wakil Ketua Komite Tetap Peningkatan Produktivitas"
+  },
+  {
+    "id": "180d561b-62e4-41ed-bfbf-d4740d484bea",
+    "name": "Wakil Ketua Komite Tetap Komoditas Kelapa"
+  },
+  {
+    "id": "9ce66dd1-810d-412d-af54-5197fa39f5b6",
+    "name": "Wakil Ketua Komite Tetap Koordinator Timur Tengah III: Mesir, Mauritania, Aljazair, Tunisia, Maroko Libya, Sudan, Eritrea, Yaman, Irak, dan Kuwait"
+  },
+  {
+    "id": "2e4f7f6f-12ec-47e9-84c2-9cf434ef483a",
+    "name": "Wakil Ketua Komite Tetap Pengendalian Kerusakan Gambut dan Lahan Terbuka"
+  },
+  {
+    "id": "f66cb2bb-d37f-4877-bce7-d5c33b73b92e",
+    "name": "Ketua Komite Tetap Papua Pegunungan"
+  },
+  {
+    "id": "b1777ba4-35b9-47ca-94df-24a76bce528d",
+    "name": "Ketua Komite Tetap Perencanaan Pengembangan Wilayah"
+  },
+  {
+    "id": "9638313b-0e0e-48e2-a2e4-fbaf3acd3910",
+    "name": "Wakil Ketua Komite Tetap Baku Farmasi"
+  },
+  {
+    "id": "badf1efc-80d3-41f0-b649-cb120931503e",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Jasa Perpajakan"
+  },
+  {
+    "id": "0140fdef-17e2-4f91-9f83-7433a9e73075",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Jasa Penilai Bisnis dan Properti"
+  },
+  {
+    "id": "9ff79c5c-58c7-4389-bc9f-439cb754ffb2",
+    "name": "Ketua Komite Tetap Aplikasi Teknologi Pendidikan"
+  },
+  {
+    "id": "64573c27-c1a2-4821-a756-6cbf62530ac0",
+    "name": "Ketua Komite Tetap Asosiasi-Asosiasi Industri Peternakan, Perikanan dan Pengolahan Makanan"
+  },
+  {
+    "id": "8c7e78a1-355f-432a-8f66-e3ede045d30b",
+    "name": "Wakil Kepala Badan Industri dan Ekosistem Halal"
+  },
+  {
+    "id": "8c97f2e9-2b7b-492a-97e9-13a02eb8afaf",
+    "name": "Wakil Ketua Komite Tetap Kerjasama BUMD dan Pengembangan BumDes Sulawesi-Nusra-Maluku-Papua"
+  },
+  {
+    "id": "82272881-59e1-4425-92ff-8df08b984d2c",
+    "name": "Anggota Kebijakan dan Perlindungan Investasi Syariah"
+  },
+  {
+    "id": "a19a8c87-6196-4781-ab81-09b71aa1be64",
+    "name": "Ketua Komite Tetap Kampus Merdeka"
+  },
+  {
+    "id": "924e51d0-ff21-48e7-b0fa-2238ff878652",
+    "name": "Wakil Ketua Komite Tetap Aspirasi Daerah"
+  },
+  {
+    "id": "5e7825df-664c-49c9-816b-3f8830d7d94d",
+    "name": "Wakil Ketua Komite Tetap Ketahanan dan Iklim Usaha Industri"
+  },
+  {
+    "id": "7eebb853-cade-4748-9cb9-fc51312c110c",
+    "name": "Wakil Ketua Umum Bidang Agraria, Tata Ruang dan Kawasan"
+  },
+  {
+    "id": "38ab7056-e873-4224-84ac-a21a55a5cca5",
+    "name": "Wakil Ketua Komite Tetap Koordinator Amerika II : Argentina, Chile, Uruguay, Paraguay, Brazil, Suriname, Guyana, Ekuador, Peru, Bolivia, Kolombia, dan Venezuela"
+  },
+  {
+    "id": "1fdc3944-b215-4ed5-ae53-fbb70ab48540",
+    "name": "Wakil Ketua Umum Bidang Pengembangan Otonomi Daerah"
+  },
+  {
+    "id": "c76cfc3d-2da1-4c92-bcb4-d9183569ea70",
+    "name": "Wakil Ketua Komite Tetap Hulu Minyak dan Gas Bumi"
+  },
+  {
+    "id": "09db8703-c569-4e6d-846b-0cb0d2b1a00b",
+    "name": "Wakil Ketua Komite Tetap Transformasi dan Revitalisasi P2.V"
+  },
+  {
+    "id": "9649169e-dd26-4162-a78f-d19fb3bbffc3",
+    "name": "Ketua Komite Tetap Kebijakan dan Regulasi"
+  },
+  {
+    "id": "3a025557-b0ae-484f-abac-afb276092772",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Pengolahan Lainnya dan Lingkungan"
+  },
+  {
+    "id": "3a0f0e66-9b6c-4c85-955a-c4abb5243465",
+    "name": "Wakil Ketua Komite Tetap Pengelolaan Infrastruktur Energi Kawasan Perbatasan"
+  },
+  {
+    "id": "0857aa2d-0fb0-4165-bc25-b30c300c40a2",
+    "name": "Wakil Ketua Komite Tetap Kerjasama BUMD dan Pengembangan BumDes Sumatera"
+  },
+  {
+    "id": "aaae182b-4681-499a-9963-dd9ccdca6c44",
+    "name": "Wakil Ketua Komite Tetap Industri Kecil dan Menengah Sandang"
+  },
+  {
+    "id": "01f3e1d8-9e8e-4cf6-aa49-94f8fc1d85b7",
+    "name": "Ketua Komite Tetap Regulasi dan Advokasi Organisasi"
+  },
+  {
+    "id": "b75d231a-84f6-4612-ac60-27b51e568f12",
+    "name": "Wakil Kepala Badan Kajian"
+  },
+  {
+    "id": "b06657cc-e8b5-4dbd-b738-ed6b1d33616f",
+    "name": "Ketua Komite Tetap Perpajakan"
+  },
+  {
+    "id": "f3b1d85c-1a9f-4267-9613-b5cee76a6706",
+    "name": "Ketua Komite Tetap Pengelolaan Hutan Produksi Lestari"
+  },
+  {
+    "id": "e6431099-0724-4e7f-8fce-996ac5364c80",
+    "name": "Wakil Ketua Komite Tetap Kebijakan Perkebunan"
+  },
+  {
+    "id": "fafdff54-92fb-4295-8c94-dc4378eac9be",
+    "name": "Wakil Ketua Umum Bidang Lingkungan Hidup dan Kehutanan"
+  },
+  {
+    "id": "12430cc9-ae3a-4a1a-8a78-6fc146d13376",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Pasar Ekspor"
+  },
+  {
+    "id": "30212a53-4fc4-46fa-821a-dc4ebcc335f5",
+    "name": "Ketua Komite Tetap Planologi Kehutanan, Tata Lingkungan, Badan Standarisasi Kehutanan Dan Kehutanan"
+  },
+  {
+    "id": "180ce443-7d0e-4b3a-8c13-8c966f3f1c32",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Pasar Internasional Industri Unggulan Daerah"
+  },
+  {
+    "id": "c8781c03-62c7-423a-b6f1-ae7a1f84be11",
+    "name": "Wakil Ketua Komite Tetap Kapal Offshore dan Khusus"
+  },
+  {
+    "id": "6c66ba05-f1a5-45fe-9e4e-5a86a5bf16f7",
+    "name": "Wakil Ketua Umum Kadin Bidang Energi dan Sumber Daya Mineral"
+  },
+  {
+    "id": "60ba7ed8-33dc-4e60-92f8-781139357cf3",
+    "name": "Wakil Ketua Komite Tetap Perencanaan dan Kerjasama"
+  },
+  {
+    "id": "963d94df-306d-4fee-afe4-ec1357595bf3",
+    "name": "Wakil Ketua Komite Tetap Pemagangan Dalam Negeri"
+  },
+  {
+    "id": "48394146-2565-4fc9-a401-007167332685",
+    "name": "Wakil Ketua Komite Tetap UKM"
+  },
+  {
+    "id": "2af0c73a-db3b-4219-b97b-dd48e10db27d",
+    "name": "Anggota IKNB Syariah"
+  },
+  {
+    "id": "038f94ec-9379-4d61-b848-a5acbff4571d",
+    "name": "Wakil Kepala Badan Kawasan Komersial & Superblok"
+  },
+  {
+    "id": "d200bb7a-8f38-4fec-a156-300a38b3db95",
+    "name": "Wakil Ketua Komite Tetap Pemaparan dan Sosialisasi Pelaku Industri"
+  },
+  {
+    "id": "8c876625-0dfd-4ba0-b359-78067e78cd6e",
+    "name": "Wakil Ketua Komite Tetap Geologi dan Eksplorasi Logam Tanah Jarang"
+  },
+  {
+    "id": "2cbad2b2-70ca-429b-9d51-e8233f18e36b",
+    "name": "Wakil Ketua Komite Tetap Sistem & Strategi Pengelolaan SDA, Bina Operasi dan Pemeliharaan SDA serta Bina Teknik SDA"
+  },
+  {
+    "id": "1b2c074e-6a6b-4221-a59f-2dc981500ca9",
+    "name": "Wakil Ketua Komite Tetap Kerja Sama Antar Lembaga Pasar Kerja dan Perluasan Kesempatan Kerja"
+  },
+  {
+    "id": "51c493e3-4e96-4c80-ad7a-fe43734db0ab",
+    "name": "Wakil Ketua Komite Tetap Kebijakan Industri Pertanian"
+  },
+  {
+    "id": "945703e8-4998-4c8f-b307-d4b584bfca76",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Industri Kimia Hilir"
+  },
+  {
+    "id": "2d2c2376-5004-43cf-882b-2a5e103ab370",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Properti"
+  },
+  {
+    "id": "88fdc04a-9c00-438f-9baa-5ea11c934f1e",
+    "name": "Wakil Ketua Komite Tetap Akses Industri Internasional"
+  },
+  {
+    "id": "09d81f9f-0b72-477e-bf7a-312295e200b3",
+    "name": "Ketua Komite Tetap Pengembangan UMKM dan Pertanian"
+  },
+  {
+    "id": "ce457e94-9b0c-4d35-8e4e-4e8d7543a523",
+    "name": "Wakil Ketua Komite Tetap Promosi dan Expo Industri Unggulan"
+  },
+  {
+    "id": "21277053-1f36-4b92-835a-83a78774bde7",
+    "name": "Wakil Ketua Komite Tetap Perbatasan Wilayah Darat"
+  },
+  {
+    "id": "f33d9d41-5b88-41b5-a117-45a2cfe3c76c",
+    "name": "Anggota Coorporate Governance & Compliance"
+  },
+  {
+    "id": "3a920829-9868-4f03-89b8-11334f5a366a",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Pola Kemitraan Antar Daerah Sulawesi-Nusra-Maluku-Papua"
+  },
+  {
+    "id": "928172fe-7307-4f97-af44-50210e0443f1",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi, Lembaga Pemerintahan & Kebijakan"
+  },
+  {
+    "id": "3709de3d-5be4-4d47-b9e8-cbea410e9be1",
+    "name": "Ketua Komite Tetap Wilayah Sumatera Bagian Selatan"
+  },
+  {
+    "id": "2462ad79-06d2-4c95-9a82-2ebbc7b7ca45",
+    "name": "Wakil Ketua Komite Tetap Sumber Daya Energi, Mineral dan Pertambangan"
+  },
+  {
+    "id": "36b95771-f395-425a-a74f-acbfa40d2c13",
+    "name": "Wakil Ketua Komite Tetap Koordinatir Afrika I : Nigeria, Benin, Burkina Faso, Gabon, Ghana, Kamerun, Republik Kongo, Liberia, Niger, Sao Tome dan Prrincipe, Togo, Chad, Republik Afrika Tengah, Guinea Ekuatorial, Senegal, Cabo Verde, Gambia, Guinea, Guinea Bissau, Mali, Pantai Gading, Sierra Leone, Ethiopia, Djibouti, Tanzania, Burundi, Rwanda, Komoro dan Uni Afrika dan ECOWAS"
+  },
+  {
+    "id": "64ce35cb-cf05-46ba-952a-9491befed6b7",
+    "name": "Wakil Ketua Komite Tetap Peningkatan Kapasitas Daerah Sumatera"
+  },
+  {
+    "id": "6850335e-9f27-4072-8573-946612e8b836",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Mice"
+  },
+  {
+    "id": "15366bf9-f3ac-4adc-956f-6ef2580ec52e",
+    "name": "Ketua Komite Tetap Minyak dan Gas Bumi"
+  },
+  {
+    "id": "68e96dca-b886-40ae-9180-a733081ef54f",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Produk & Komoditi Unggulan Daerah Jawa-Bali-Kalimantan"
+  },
+  {
+    "id": "a3474e03-05e7-4779-88d3-154110013f1d",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Jasa Penilai & Penguji Peralatan"
+  },
+  {
+    "id": "08ae6bcf-e79b-4e35-90fb-b1fe054013c5",
+    "name": "Kepala Badan Ekonomi Syariah"
+  },
+  {
+    "id": "68511362-cc98-43a3-adc4-17c2f2f2ebd5",
+    "name": "Ketua Komite Tetap Pengelolaan Kerjasama Bilateral Tata Kelola Perdagangan Kawasan Perbatasan"
+  },
+  {
+    "id": "d93e7a1b-32ae-49ad-bd8e-bb89f87c91d6",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Himpunan dan Ikatan"
+  },
+  {
+    "id": "a0e6a9e7-ce59-4885-980a-065d3a5818de",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Bank Perekonomian & Koperasi"
+  },
+  {
+    "id": "3cb87a39-9697-428d-b16d-d8732a1e800d",
+    "name": "Ketua Komite Tetap UMKM Industri Olahraga"
+  },
+  {
+    "id": "404b93f4-886f-4daa-8fb3-8ced385eedbe",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Produk & Komoditi Unggulan Daerah Sumatera"
+  },
+  {
+    "id": "22818e4b-f059-480e-b258-77c49a1c0cec",
+    "name": "Wakil Ketua Komite Tetap Replanting Perkebunan"
+  },
+  {
+    "id": "2d999cf2-935a-454c-974c-f6efafa37d8c",
+    "name": "Wakil Ketua Komite Tetap Mineral dan Batu Bara"
+  },
+  {
+    "id": "1ceb7931-3a35-4be1-9336-c97d60ea669f",
+    "name": "Wakil Ketua Komite Tetap Kemitraan Pengusaha Perempuan Luar Negeri"
+  },
+  {
+    "id": "448e4d06-ccea-4913-8cf1-c90ce5b419ae",
+    "name": "Wakil Ketua Komite Tetap Perlindungan Konsumen"
+  },
+  {
+    "id": "948ceb55-4fc4-4e07-938a-a4c3ab26b290",
+    "name": "Anggota Lembaga Keuangan Mikro Syariah"
+  },
+  {
+    "id": "6464bfdd-d748-4934-a380-3f2ef5dc9afd",
+    "name": "Wakil Ketua Komite Tetap Angkutan Logistik non pelabuhan"
+  },
+  {
+    "id": "777969f7-0c6f-4d9f-9a07-d1cc98e1f834",
+    "name": "Ketua Komite Tetap Pengendalian Das dan Hutan Lindung"
+  },
+  {
+    "id": "d8b065e7-804e-462b-9930-f989aadb874f",
+    "name": "Wakil Ketua Umum Bidang Investasi"
+  },
+  {
+    "id": "09bc4370-2a66-436d-bb1c-b77db98413c7",
+    "name": "Ketua Komite Tetap Perumahan"
+  },
+  {
+    "id": "75f301d7-dfd3-4468-9876-6da42bb64259",
+    "name": "Wakil Ketua Umum Bidang Pemberdayaan Perempuan"
+  },
+  {
+    "id": "0e9187b3-178a-4dd0-985b-1180b3d706f0",
+    "name": "Ketua Komite Tetap Peternakan"
+  },
+  {
+    "id": "a0d0f88c-f16c-42e6-a906-9b600982fc76",
+    "name": "Wakil Ketua Komite Tetap Industri Menengah Elektronika dan Peralatan Listrik"
+  },
+  {
+    "id": "e6e33014-9cb5-4212-847b-fd26e9ea4c93",
+    "name": "Ketua Komite Tetap Bina Marga"
+  },
+  {
+    "id": "51820761-f98e-4949-b1c3-cffe8aab7984",
+    "name": "Wakil Ketua Umum Bidang Pariwisata Dan Ekonomi Kreatif"
+  },
+  {
+    "id": "d5390e51-cc66-45b1-a32c-5e4b90de3fe3",
+    "name": "Wakil Ketua Komite Tetap Penempatan Tenaga Kerja Dalam Negeri dan Luar Negeri"
+  },
+  {
+    "id": "94fd0594-12c8-40b2-a314-8b385d30007f",
+    "name": "Ketua Komite Tetap Asosiasi-Asosiasi Industri Pengolahan Logam dan Mesin"
+  },
+  {
+    "id": "e1fcd19b-d83c-4af2-821f-2f8f14ff0029",
+    "name": "Ketua Komite Tetap Penguatan Organisasi dan Kelembagaan"
+  },
+  {
+    "id": "6f7d687c-76b9-4203-aef5-a722a9e76af8",
+    "name": "Wakil Ketua Komite Tetap Kepulauan Riau"
+  },
+  {
+    "id": "b73a929b-963a-4f06-bc14-4d5b9253f337",
+    "name": "Wakil Ketua Komite Tetap Keluarga, Perempuan, Anak, Pemuda dan Olahraga"
+  },
+  {
+    "id": "08a7bebf-7ff5-4055-bce4-9fbc6774c96e",
+    "name": "Wakil Ketua Komite Tetap Industri Telematika"
+  },
+  {
+    "id": "b2691de4-dcee-4493-b860-3fad28e731dd",
+    "name": "Wakil Ketua Komite Tetap Industri Kecil dan Menengah Minuman"
+  },
+  {
+    "id": "860333a9-b8a7-4b9c-bd56-0afd9efff4c3",
+    "name": "Wakil Ketua Komite Tetap Industri Produk UMKM Lokal"
+  },
+  {
+    "id": "e21192d0-ce8c-49b3-9902-22d2b9512da8",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Ekonomi Nelayan"
+  },
+  {
+    "id": "a742717c-178e-45d2-a774-1f21448ed622",
+    "name": "Wakil Ketua Komite Tetap Teknologi Kesehatan"
+  },
+  {
+    "id": "9c081859-cd1b-4aa8-8dcd-ff4f30ef7b5d",
+    "name": "Wakil Ketua Komite Tetap Pendidikan"
+  },
+  {
+    "id": "2fbdb200-04c4-4594-83d4-7be00e581e89",
+    "name": "Ketua Komite Tetap Penyelesaian Perselisihan Organisasi Kadin/ALB"
+  },
+  {
+    "id": "739baa18-6c62-4d0e-aa20-7fc4575b0db3",
+    "name": "Anggota Pengembangan Industri Halal Berbasis Komunitas"
+  },
+  {
+    "id": "84986115-1b98-4b21-bd03-d57a4e3a3432",
+    "name": "Wakil Ketua Komite Tetap Standardisasi dan Pengendalian Mutu"
+  },
+  {
+    "id": "bccc0e1d-b5d6-48d3-9efc-e70153a1be73",
+    "name": "Wakil Ketua Komite Tetap Infrastruktur Perumahan Rakyat"
+  },
+  {
+    "id": "ea2e3a6e-de85-42e6-a183-7096f6a6e8f8",
+    "name": "Ketua Komite Tetap Perencanaan Pembangunan Manusia, Pemberdayaan Masyarakat dan Ketenagakerjaan"
+  },
+  {
+    "id": "00fe01cc-3e0a-47ad-bf98-8b2b5365ade5",
+    "name": "Wakil Ketua Komite Tetap Keselamatan Kerja Ketenagalistrikan"
+  },
+  {
+    "id": "8e1d25e5-a78f-463a-bfd7-34f203c17ddd",
+    "name": "Wakil Ketua Komite Tetap Penyelenggaraan Pendidikan Tinggi Vokasi"
+  },
+  {
+    "id": "b2f021f4-0e66-4fdf-966e-d99833e1e9cc",
+    "name": "Wakil Ketua Komite Tetap Percepatan Tranformasi Industri 4.0"
+  },
+  {
+    "id": "da458055-500f-4323-9335-3227654f5efd",
+    "name": "Ketua Komite Tetap Papua Tengah"
+  },
+  {
+    "id": "a5e89922-912d-475a-96f7-853462b6f3c4",
+    "name": "Wakil Ketua Komite Tetap Jawa Tengah I"
+  },
+  {
+    "id": "2796896a-9b24-4cff-ab30-09a7cfea4ab6",
+    "name": "Wakil Ketua Komite Tetap Konten"
+  },
+  {
+    "id": "96067cfb-8691-447a-8938-c4da2d7aea38",
+    "name": "Wakil Ketua Komite Tetap Pasokan Bahan Pangan"
+  },
+  {
+    "id": "f392114d-6119-43d1-88ea-9f0e7d6017ec",
+    "name": "Wakil Ketua Umum Bidang Asosiasi dan Himpunan"
+  },
+  {
+    "id": "9fa03148-2864-4d03-b042-eb43a490aea8",
+    "name": "Wakil Ketua Komite Tetap Pengembangan Aplikasi Pembelajaran Digital"
+  },
+  {
+    "id": "d2b01f3d-abb2-4051-99f8-13cc1690f0db",
+    "name": "Wakil Ketua Umum Bidang Sosial Dan Penanggulangan Bencana"
+  },
+  {
+    "id": "6b13cbab-f392-465e-ba14-9a75e09b3cb9",
+    "name": "Ketua Komite Tetap Pengkajian & Pengembangan Perdagangan"
+  },
+  {
+    "id": "f86399ef-89af-44cf-bfd7-3a5fd17ef0f8",
+    "name": "Wakil Ketua Komite Tetap Penyelesaian Perselisihan ALB"
+  },
+  {
+    "id": "9cc084b6-a63a-4852-b78c-5a1ee20e0531",
+    "name": "Ketua Komite Tetap Pelaksanaan Investasi"
+  },
+  {
+    "id": "d87b100e-4cb4-4c10-963e-27e59afb29cf",
+    "name": "Anggota Pemberdayaan Pengusaha Wanita"
+  },
+  {
+    "id": "1c265387-db1c-4809-b546-aac24592d8ae",
+    "name": "Wakil Ketua Komite Tetap Pemberdayaan Konsumen"
+  },
+  {
+    "id": "60f64a09-6239-45dd-a886-0bced9cf16d7",
+    "name": "Wakil Ketua Komite Tetap Peraturan Perundang-Undangan dan Penindakan"
+  },
+  {
+    "id": "df432de9-cc4e-4c1d-80c3-8aa1e7e8ca50",
+    "name": "Wakil Ketua Komite TetapPembangunan Infrastruktur Energi Baru dan Terbarukan I"
+  },
+  {
+    "id": "f204dcfb-582b-4926-9523-f1b654a995fa",
+    "name": "Anggota Literasi Ekonomi dan Keuangan Syariah"
+  },
+  {
+    "id": "44b168c2-e785-4032-a9e4-420a660e3ff0",
+    "name": "Ketua Komite Tetap Sarana dan Prasarana"
+  },
+  {
+    "id": "5495d93c-f384-4724-bc08-5c80f70a4b2e",
+    "name": "Wakil Ketua Komite Tetap Livestock & Dairy"
+  },
+  {
+    "id": "234a177c-75b6-4fd5-83b0-786f997c8c7f",
+    "name": "Wakil Kepala Badan Pembinaan UMKM"
+  },
+  {
+    "id": "cc7454db-0256-4d37-be3e-8961577ed95a",
+    "name": "Wakil Kepala Badan Riset, Data dan Regulasi"
+  },
+  {
+    "id": "06b8e966-3b69-426b-8ff2-168ba2bc7cf6",
+    "name": "Wakil Ketua Komite Tetap Koordinasi Asosiasi Perhotelan dan Restoran"
+  },
+  {
+    "id": "f5daad3b-3b7a-4438-a595-28e162695eba",
+    "name": "Ketua Komite Tetap Perdagangan Dalam Negeri"
+  },
+  {
+    "id": "af5c6b88-9c33-4165-afba-15303732b3c7",
+    "name": "Wakil Ketua Komite Tetap Teknologi Infrastruktur"
+  }
+]

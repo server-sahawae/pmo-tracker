@@ -37,7 +37,7 @@ module.exports = {
       {
         uniqueKeys: {
           ["Program phase"]: {
-            fields: ["ProgramId", "description", "deletedAt"],
+            fields: ["ProgramId", "description"],
           },
         },
       }

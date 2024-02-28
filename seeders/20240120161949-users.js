@@ -3,9 +3,15 @@
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
-    const data = require("../data/userPengurus.json").map((el) => {
+    const data = require("../data/NewUser.json").map((el) => {
+      const arr = el.kta.toString().split("");
+      arr.includes("-") ? "" : arr.splice(5, 0, "-");
+      const result = arr;
+      delete el.PartnerId;
+      delete el.PositionId;
       return {
         ...el,
+        kta: result.join(""),
         createdAt: new Date(),
         updatedAt: new Date(),
       };

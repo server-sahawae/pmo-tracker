@@ -9,7 +9,7 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      User.belongsTo(models.Partner);
+      User.belongsTo(models.PartnerPosition);
       User.belongsTo(models.UserLevel);
       User.hasMany(models.ProjectInvitation);
     }
@@ -21,7 +21,7 @@ module.exports = (sequelize, DataTypes) => {
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
       },
-      PartnerId: {
+      PartnerPositionId: {
         type: DataTypes.UUID,
         allowNull: false,
       },

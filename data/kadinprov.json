@@ -1,0 +1,172 @@
+[
+  {
+    "id": "75a758bc-7c2c-4b8c-8ecf-1c0008b381c3",
+    "name": "Kadin Aceh",
+    "chief": "Ir. H. Muhammad Iqbal"
+  },
+  {
+    "id": "ecdf706c-7ece-4a16-9726-2c0155518273",
+    "name": "Kadin Sumatera Utara",
+    "chief": "Firsal Ferial Mutyara"
+  },
+  {
+    "id": "540473b1-ca86-4784-a38b-506f2667f31e",
+    "name": "Kadin Sumatera Barat",
+    "chief": "Ir. H. Buchari Bachter, MT"
+  },
+  {
+    "id": "e0167097-3c0a-43d8-8d7d-8b200cac1029",
+    "name": "Kadin Riau",
+    "chief": "Masuri"
+  },
+  {
+    "id": "5abaf6d9-565b-4fa9-8f8d-2fd8b36169d1",
+    "name": "Kadin Kepulauan Riau",
+    "chief": "Akhmad Ma’ruf Maulana"
+  },
+  {
+    "id": "ac6d4bc0-1fde-40e6-b21c-675b3025e91d",
+    "name": "Kadin Jambi",
+    "chief": "H. Usman Sulaiman"
+  },
+  {
+    "id": "b6aad9bc-366f-4b19-b248-7e706d7c11ad",
+    "name": "Kadin Bengkulu",
+    "chief": "Ahmad Irfansyah"
+  },
+  {
+    "id": "d197fc92-b58a-40a0-837c-07d58eea78ed",
+    "name": "Kadin Sumatera Selatan",
+    "chief": "H. Affandi Udji, SE, MM"
+  },
+  {
+    "id": "583e1d98-f783-4d94-80a8-e383eaf85067",
+    "name": "Kadin Bangka-Belitung",
+    "chief": "Ir. Thomas Jusman, MM"
+  },
+  {
+    "id": "8adb3bb7-3284-4cf1-9ce6-17a397bc3bd6",
+    "name": "Kadin Lampung",
+    "chief": "Dr. H. Muhammad Kadafi, SH, MH"
+  },
+  {
+    "id": "de1aae42-8add-443f-9f40-9bcbd02a594e",
+    "name": "Kadin Banten ",
+    "chief": "H. Mochamad Azzari Jayabaya"
+  },
+  {
+    "id": "594632ec-c21b-4a5c-8ccf-427e588e2bba",
+    "name": "Kadin DKI Jakarta ",
+    "chief": "Diana Dew"
+  },
+  {
+    "id": "8899d617-d04f-4fb3-a457-75c1da99d8ed",
+    "name": "Kadin Jawa Barat",
+    "chief": "Drs. H. Cucu Sutara, MM"
+  },
+  {
+    "id": "0ab0aaed-b5ee-4cd7-a0d2-ada87bd809fe",
+    "name": "Kadin Jawa Tengah",
+    "chief": "Harry Nuryanto Soediro, SE, MM"
+  },
+  {
+    "id": "87d62631-52a6-475c-b10d-174876104a17",
+    "name": "Kadin DI Yogyakarta",
+    "chief": "GKR. Mangkubumi"
+  },
+  {
+    "id": "1357d22e-3eb8-4330-8be1-8f47d83eb217",
+    "name": "Kadin Jawa Timur",
+    "chief": "Adik Dwi Putranto, SH"
+  },
+  {
+    "id": "d795f06c-828d-49c5-ae33-3e9e9ba7cfd5",
+    "name": "Kadin Bali",
+    "chief": "I Made Ariandi"
+  },
+  {
+    "id": "fb13fe0c-71b8-4e45-affc-db0c413882ac",
+    "name": "Kadin Kalimantan Barat",
+    "chief": "Arya Rizqi Darsono"
+  },
+  {
+    "id": "7c72b82a-96db-4fb3-8948-eff621df477b",
+    "name": "Kadin Kalimantan Tengah",
+    "chief": "Rahmat Nasution Hamka"
+  },
+  {
+    "id": "2577947a-d7c7-4955-8eec-242637db8308",
+    "name": "Kadin Kalimantan Selatan",
+    "chief": "Shinta Laksmi Dewi, SE"
+  },
+  {
+    "id": "8b5767b8-8237-4858-bd10-1f0a1a62ded6",
+    "name": "Kadin Kalimantan Timur",
+    "chief": "Dayang Donna Faroek"
+  },
+  {
+    "id": "76ebed10-61c5-4514-a2ab-57416571ad7e",
+    "name": "Kadin Kalimantan Utara",
+    "chief": "Kilit Laing"
+  },
+  {
+    "id": "02bf1104-0808-4fb2-82c6-8eb63d3ebfd6",
+    "name": "Kadin Sulawesi Barat",
+    "chief": "H. Muh. Taslim Tammauni"
+  },
+  {
+    "id": "83823da0-9958-45c6-8fea-698501cec833",
+    "name": "Kadin Sulawesi Tengah",
+    "chief": "H. M. Nur DG. Rahmatu, SE"
+  },
+  {
+    "id": "caa206fa-fe6a-437f-9b78-aa9e2d9891a1",
+    "name": "Kadin Sulawesi Selatan",
+    "chief": "H. Andi Iwan Darmawan Aras,SE,M.Si"
+  },
+  {
+    "id": "c55ff1ee-40fa-4735-b445-66bd393f9bb7",
+    "name": "Kadin Sulawesi Tenggara",
+    "chief": "Anton Timbang"
+  },
+  {
+    "id": "5dd0f38b-e0eb-4d2c-86fd-bc0001a5c18e",
+    "name": "Kadin Gorontalo",
+    "chief": "Muhalim Djafar Litty"
+  },
+  {
+    "id": "069205d4-5062-46ed-ae98-4e78c43dba4d",
+    "name": "Kadin Sulawesi Utara",
+    "chief": "Rio Dondokambey"
+  },
+  {
+    "id": "31d063af-cf0d-43fb-a496-3f4fc4da331a",
+    "name": "Kadin Nusa Tenggara Barat",
+    "chief": "H. Faurani, SE, MBA"
+  },
+  {
+    "id": "6645aff0-2079-49ee-93d7-3410a2687a44",
+    "name": "Kadin Nusa Tenggara Timur",
+    "chief": "Bobby Lianto"
+  },
+  {
+    "id": "f555ad25-3c2b-4b96-93fb-dba65375c46f",
+    "name": "Kadin Maluku",
+    "chief": "Muhammad Armin Syarif Latuconsina"
+  },
+  {
+    "id": "570476e2-729e-4ca5-a867-50576600ad00",
+    "name": "Kadin Maluku Utara",
+    "chief": "Adam Marsaoly"
+  },
+  {
+    "id": "1bd81640-30be-4a15-8bd2-439980a346df",
+    "name": "Kadin Papua",
+    "chief": "Ronald Antonio, S.Sos"
+  },
+  {
+    "id": "157c9a0b-c06e-4b04-a326-6556982c3050",
+    "name": "Kadin Papua Barat",
+    "chief": "Michael Wattimena"
+  }
+]

@@ -5,6 +5,7 @@ const { createToken, verifyToken } = require("../helpers/jwt");
 const { loggerInfo } = require("../helpers/loggerDebug");
 const { User, Partner, Institution, UserLevel } = require("../models");
 const { redisSearch, redisPMO } = require("../config/redis");
+const { expireRedis } = require("../constants/staticValue");
 
 module.exports = class Controller {
   static async createUser(req, res, next) {
@@ -28,7 +29,6 @@ module.exports = class Controller {
   static async searchAllUsers(req, res, next) {
     try {
       const { search } = req.params;
-      console.log(search);
       const redisCheck = await redisSearch.get(`SearchAllUsers:${search}`);
       if (!redisCheck) {
         const result = await User.findAll({
@@ -49,7 +49,7 @@ module.exports = class Controller {
         await redisSearch.set(
           `SearchAllUsers:${search}`,
           JSON.stringify(result, null, 2),
-          { EX: 60 * 60 * 24 }
+          { EX: expireRedis }
         );
         res.status(200).json(result);
       } else res.status(200).json(JSON.parse(redisCheck));
@@ -85,7 +85,7 @@ module.exports = class Controller {
           ],
         });
         await redisPMO.set(`User:${id}`, JSON.stringify(result, null, 2), {
-          EX: 60 * 60 * 24,
+          EX: expireRedis,
         });
         res.status(200).json(result);
       } else res.status(200).json(JSON.parse(redisCheck));
@@ -119,7 +119,7 @@ module.exports = class Controller {
           ],
         });
         await redisPMO.set(`User:${id}`, JSON.stringify(result, null, 2), {
-          EX: 60 * 60 * 24,
+          EX: expireRedis,
         });
         res.status(200).json(result);
       } else res.status(200).json(JSON.parse(redisCheck));

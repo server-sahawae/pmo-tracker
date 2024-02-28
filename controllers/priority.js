@@ -2,6 +2,7 @@ const { Op } = require("sequelize");
 const { UNAUTHORIZED, BAD_REQUEST } = require("../constants/ErrorKeys");
 const { Priority } = require("../models");
 const { redisSearch } = require("../config/redis");
+const { expireRedis } = require("../constants/staticValue");
 
 module.exports = class Controller {
   static async searchAllPriority(req, res, next) {
@@ -22,7 +23,7 @@ module.exports = class Controller {
         await redisSearch.set(
           `SearchAllPriorities:${search}`,
           JSON.stringify(result, null, 2),
-          { EX: 60 * 60 * 24 }
+          { EX: expireRedis }
         );
         res.status(200).json(result);
       } else res.status(200).json(JSON.parse(redisCheck));
@@ -47,7 +48,7 @@ module.exports = class Controller {
         await redisSearch.set(
           `PriorityId:${search}`,
           JSON.stringify(result, null, 2),
-          { EX: 60 * 60 * 24 }
+          { EX: expireRedis }
         );
         res.status(200).json(result);
       } else res.status(200).json(JSON.parse(redisCheck));

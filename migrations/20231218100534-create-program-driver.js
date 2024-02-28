@@ -33,7 +33,7 @@ module.exports = {
       {
         uniqueKeys: {
           ["Program driver"]: {
-            fields: ["ProgramId", "description", "deletedAt"],
+            fields: ["ProgramId", "description"],
           },
         },
       }

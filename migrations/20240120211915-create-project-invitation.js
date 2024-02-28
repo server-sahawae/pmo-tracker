@@ -5,23 +5,23 @@ module.exports = {
     await queryInterface.createTable("ProjectInvitations", {
       id: {
         allowNull: false,
-        autoIncrement: true,
         primaryKey: true,
-        type: Sequelize.INTEGER,
+        type: Sequelize.UUID,
+        defaultValue: Sequelize.UUIDV4,
       },
       ProjectId: {
         type: Sequelize.UUID,
         allowNull: false,
         references: { model: "Projects" },
-        onUpdate: "CASCADE",
-        onDelete: "CASCADE",
       },
-      UserId: {
-        type: Sequelize.UUID,
-        allowNull: false,
-        references: { model: "Users" },
-        onUpdate: "CASCADE",
-        onDelete: "CASCADE",
+      name: {
+        type: Sequelize.STRING,
+      },
+      position: {
+        type: Sequelize.STRING,
+      },
+      institution: {
+        type: Sequelize.STRING,
       },
       createdAt: {
         allowNull: false,

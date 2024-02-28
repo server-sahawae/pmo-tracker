@@ -40,7 +40,7 @@ module.exports = {
       {
         uniqueKeys: {
           actions_unique: {
-            fields: ["InstitutionId", "name", "deletedAt"],
+            fields: ["InstitutionId", "name"],
           },
         },
       }

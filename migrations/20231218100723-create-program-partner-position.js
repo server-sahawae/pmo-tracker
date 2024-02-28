@@ -3,7 +3,7 @@
 module.exports = {
   async up(queryInterface, Sequelize) {
     await queryInterface.createTable(
-      "Committees",
+      "ProgramPartnerPositions",
       {
         id: {
           allowNull: false,
@@ -11,13 +11,15 @@ module.exports = {
           type: Sequelize.UUID,
           defaultValue: Sequelize.UUIDV4,
         },
-        PartnerId: {
+        ProgramId: {
           type: Sequelize.UUID,
           allowNull: false,
-          references: { model: "Partners" },
+          references: { model: "Programs" },
         },
-        name: {
-          type: Sequelize.STRING,
+        PartnerPositionId: {
+          type: Sequelize.UUID,
+          allowNull: false,
+          references: { model: "PartnerPositions" },
         },
         createdAt: {
           allowNull: false,
@@ -33,14 +35,14 @@ module.exports = {
       },
       {
         uniqueKeys: {
-          actions_unique: {
-            fields: ["PartnerId", "name", "deletedAt"],
+          ["Program PartnerPosition"]: {
+            fields: ["ProgramId", "PartnerPositionId"],
           },
         },
       }
     );
   },
   async down(queryInterface, Sequelize) {
-    await queryInterface.dropTable("Committees");
+    await queryInterface.dropTable("ProgramPartnerPositions");
   },
 };
