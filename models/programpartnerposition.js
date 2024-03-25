@@ -10,9 +10,10 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       // define association here
       ProgramPartnerPosition.belongsTo(models.Program);
-      ProgramPartnerPosition.belongsTo(models.PartnerPosition, {
-        // as: "PartnerPosition",
-      });
+      // ProgramPartnerPosition.belongsTo(models.PartnerPosition, {
+      //   as: "PartnerPositionFromPostition",
+      //   foreignKey: "PartnerPositionId",
+      // });
       ProgramPartnerPosition.belongsTo(models.PartnerPosition, {
         // as: "ProgramCommittee",
         // foreignKey: "  PartnerPositionId",
@@ -22,16 +23,16 @@ module.exports = (sequelize, DataTypes) => {
   ProgramPartnerPosition.init(
     {
       id: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
       },
       ProgramId: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         allowNull: false,
       },
       PartnerPositionId: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         allowNull: false,
       },
     },

@@ -10,12 +10,13 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       // define association here
       Category.hasMany(models.Project);
+      Category.hasMany(models.Activity);
     }
   }
   Category.init(
     {
       id: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
       },

@@ -29,7 +29,7 @@ module.exports = class Controller {
     }
   }
 };
-// ProjectCategoryId: DataTypes.UUID,
+// ProjectCategoryId: DataTypes.UUIDV4,
 // title: DataTypes.STRING,
 // location: DataTypes.STRING,
 // start: DataTypes.DATE,

@@ -1,11 +1,11 @@
 const {
   findAllIndicator,
-  inducatorById,
+  indicatorById,
 } = require("../controllers/ProgramIndicator");
 
 const routes = require("express").Router();
 
 routes.get("/", findAllIndicator);
-routes.get("/:id", inducatorById);
+routes.get("/:id", indicatorById);
 
 module.exports = routes;

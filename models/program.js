@@ -24,12 +24,12 @@ module.exports = (sequelize, DataTypes) => {
   Program.init(
     {
       id: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
       },
       PartnerId: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         allowNull: false,
       },
       name: DataTypes.STRING,

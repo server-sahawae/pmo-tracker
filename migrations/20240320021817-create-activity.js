@@ -2,17 +2,12 @@
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createTable("ProjectRundowns", {
+    await queryInterface.createTable("Activities", {
       id: {
         allowNull: false,
         primaryKey: true,
         type: Sequelize.UUID,
         defaultValue: Sequelize.UUIDV4,
-      },
-      ProjectId: {
-        type: Sequelize.UUID,
-        allowNull: false,
-        references: { model: "Projects" },
       },
       title: {
         type: Sequelize.STRING,
@@ -20,17 +15,41 @@ module.exports = {
       location: {
         type: Sequelize.STRING,
       },
+
+      CategoryId: {
+        type: Sequelize.UUID,
+        allowNull: false,
+        references: { model: "Categories" },
+      },
       start: {
         type: Sequelize.DATE,
       },
       end: {
         type: Sequelize.DATE,
       },
-      speaker: {
+      summary: {
         type: Sequelize.TEXT,
       },
-      note: {
-        type: Sequelize.TEXT,
+      isMain: {
+        type: Sequelize.BOOLEAN,
+        defaultValue: false,
+      },
+
+      flyer: {
+        type: Sequelize.BOOLEAN,
+        defaultValue: false,
+      },
+      photo: {
+        type: Sequelize.BOOLEAN,
+        defaultValue: false,
+      },
+      video: {
+        type: Sequelize.BOOLEAN,
+        defaultValue: false,
+      },
+      release: {
+        type: Sequelize.BOOLEAN,
+        defaultValue: false,
       },
       createdAt: {
         allowNull: false,
@@ -46,6 +65,6 @@ module.exports = {
     });
   },
   async down(queryInterface, Sequelize) {
-    await queryInterface.dropTable("ProjectRundowns");
+    await queryInterface.dropTable("Activities");
   },
 };

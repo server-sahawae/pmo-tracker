@@ -14,16 +14,16 @@ module.exports = (sequelize, DataTypes) => {
   ProgramUser.init(
     {
       id: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
       },
       ProgramId: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         allowNull: false,
       },
       UserId: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         allowNull: false,
       },
       indexes: [

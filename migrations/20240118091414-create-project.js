@@ -13,8 +13,6 @@ module.exports = {
         type: Sequelize.UUID,
         allowNull: false,
         references: { model: "Categories" },
-        onUpdate: "CASCADE",
-        onDelete: "CASCADE",
       },
       title: {
         type: Sequelize.STRING,
@@ -31,21 +29,24 @@ module.exports = {
       background: {
         type: Sequelize.TEXT,
       },
-      flyer: {
-        type: Sequelize.BOOLEAN,
-      },
-      photo: {
-        type: Sequelize.BOOLEAN,
-      },
-      video: {
-        type: Sequelize.BOOLEAN,
-      },
-      release: {
-        type: Sequelize.BOOLEAN,
-      },
+      // flyer: {
+      //   type: Sequelize.BOOLEAN,
+      // },
+      // photo: {
+      //   type: Sequelize.BOOLEAN,
+      // },
+      // video: {
+      //   type: Sequelize.BOOLEAN,
+      // },
+      // release: {
+      //   type: Sequelize.BOOLEAN,
+      // },
       status: {
         type: Sequelize.INTEGER,
         defaultValue: 0,
+      },
+      image: {
+        type: Sequelize.BLOB("medium"),
       },
       createdAt: {
         allowNull: false,

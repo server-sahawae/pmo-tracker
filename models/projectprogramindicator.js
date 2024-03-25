@@ -9,21 +9,28 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
+      ProjectProgramIndicator.belongsTo(models.Program);
+      ProjectProgramIndicator.belongsTo(models.Project);
+      ProjectProgramIndicator.belongsTo(models.ProgramIndicator);
     }
   }
   ProjectProgramIndicator.init(
     {
       id: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
       },
-      ProjectId: {
-        type: DataTypes.UUID,
+      ProgramId: {
+        type: DataTypes.UUIDV4,
         allowNull: false,
       },
-      IndicatorId: {
-        type: DataTypes.UUID,
+      ProjectId: {
+        type: DataTypes.UUIDV4,
+        allowNull: false,
+      },
+      ProgramIndicatorId: {
+        type: DataTypes.UUIDV4,
         allowNull: false,
       },
     },

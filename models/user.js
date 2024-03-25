@@ -17,12 +17,12 @@ module.exports = (sequelize, DataTypes) => {
   User.init(
     {
       id: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
       },
       PartnerPositionId: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         allowNull: false,
       },
       kta: DataTypes.STRING,
@@ -33,7 +33,7 @@ module.exports = (sequelize, DataTypes) => {
       GoogleId: DataTypes.STRING,
       picture: DataTypes.BLOB,
       UserLevelId: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         allowNull: false,
       },
     },

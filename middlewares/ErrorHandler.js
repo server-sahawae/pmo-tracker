@@ -7,6 +7,7 @@ const {
 const { loggerError } = require("../helpers/loggerDebug");
 
 module.exports = function ErrorHandler(err, req, res, next) {
+  // console.log(err);
   switch (err.name) {
     case FILE_TOO_BIG:
       data = {

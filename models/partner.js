@@ -17,17 +17,18 @@ module.exports = (sequelize, DataTypes) => {
       Partner.belongsToMany(models.Position, {
         through: "PartnerPositions",
       });
+      Partner.hasMany(models.PartnerProjectActivity);
     }
   }
   Partner.init(
     {
       id: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
       },
       InstitutionId: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         allowNull: false,
       },
       no: DataTypes.INTEGER,

@@ -15,19 +15,21 @@ module.exports = (sequelize, DataTypes) => {
       Position.hasMany(models.User);
       Position.belongsToMany(models.PartnerPosition, {
         through: "ProgramPartnerPositions",
+        as: "PartnerPositionFromPostition",
       });
     }
   }
   Position.init(
     {
       id: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
       },
       name: DataTypes.STRING,
     },
     {
+      paranoid: true,
       sequelize,
       modelName: "Position",
     }

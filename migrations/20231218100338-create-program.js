@@ -10,8 +10,6 @@ module.exports = {
           primaryKey: true,
           type: Sequelize.UUID,
           defaultValue: Sequelize.UUIDV4,
-          onDelete: "cascade",
-          onUpdate: "cascade",
         },
         PartnerId: {
           type: Sequelize.UUID,

@@ -9,21 +9,29 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
+      PartnerProjectActivity.belongsTo(models.Partner);
+      PartnerProjectActivity.belongsTo(models.Project);
+      PartnerProjectActivity.belongsTo(models.Activity);
     }
   }
   PartnerProjectActivity.init(
     {
       id: {
-        type: DataTypes.UUID,
+        type: DataTypes.UUIDV4,
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
       },
-      PartnerId: DataTypes.UUID,
-      ProjectId: DataTypes.UUID,
-      ActivityId: DataTypes.UUID,
-      isOwner: DataTypes.BOOLEAN,
+      PartnerId: DataTypes.UUIDV4,
+      ProjectId: DataTypes.UUIDV4,
+      ActivityId: DataTypes.UUIDV4,
+      UserId: DataTypes.UUIDV4,
+      isOwner: {
+        type: DataTypes.BOOLEAN,
+        defaultValue: false,
+      },
     },
     {
+      paranoid: true,
       sequelize,
       modelName: "PartnerProjectActivity",
     }

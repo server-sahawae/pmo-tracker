@@ -2,26 +2,26 @@
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createTable("ProjectProgramIndicators", {
+    await queryInterface.createTable("Discussions", {
       id: {
         allowNull: false,
         primaryKey: true,
         type: Sequelize.UUID,
         defaultValue: Sequelize.UUIDV4,
       },
-      ProjectId: {
+      ActivityId: {
         type: Sequelize.UUID,
+        references: { model: "Activities" },
         allowNull: false,
-        references: { model: "Projects" },
-        onUpdate: "CASCADE",
-        onDelete: "CASCADE",
       },
-      ProgramIndicatorId: {
-        type: Sequelize.UUID,
-        allowNull: false,
-        references: { model: "ProgramIndicators" },
-        onUpdate: "CASCADE",
-        onDelete: "CASCADE",
+      topic: {
+        type: Sequelize.STRING,
+      },
+      speaker: {
+        type: Sequelize.STRING,
+      },
+      description: {
+        type: Sequelize.TEXT,
       },
       createdAt: {
         allowNull: false,
@@ -37,6 +37,6 @@ module.exports = {
     });
   },
   async down(queryInterface, Sequelize) {
-    await queryInterface.dropTable("ProjectProgramIndicators");
+    await queryInterface.dropTable("Discussions");
   },
 };
