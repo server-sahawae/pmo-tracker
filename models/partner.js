@@ -13,11 +13,12 @@ module.exports = (sequelize, DataTypes) => {
       Partner.hasMany(models.Program);
       Partner.belongsToMany(models.Position, { through: "PartnerPosition" });
       Partner.hasMany(models.ProgramPartner);
-      Partner.hasMany(models.User);
+      // Partner.hasMany(models.User);
       Partner.belongsToMany(models.Position, {
         through: "PartnerPositions",
       });
-      Partner.hasMany(models.PartnerProjectActivity);
+      Partner.belongsToMany(models.Project, { through: "PartnerProject" });
+      Partner.hasMany(models.Activity);
     }
   }
   Partner.init(

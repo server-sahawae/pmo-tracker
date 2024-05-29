@@ -10,6 +10,9 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       // define association here
       ProgramIndicator.belongsTo(models.Program);
+      ProgramIndicator.belongsToMany(models.Project, {
+        through: models.ProjectProgramIndicator,
+      });
     }
   }
   ProgramIndicator.init(

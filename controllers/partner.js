@@ -58,6 +58,7 @@ module.exports = class Controller {
   static async findAllPartnersByInstitutionId(req, res, next) {
     try {
       const { InstitutionId } = req.params;
+      // console.log(req.headers);
       console.log(InstitutionId);
       const redisCheck = await redisPMO.get(
         `FindAllPartnerByInstitutionId:${InstitutionId}`

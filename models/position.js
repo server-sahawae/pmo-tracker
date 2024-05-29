@@ -12,7 +12,7 @@ module.exports = (sequelize, DataTypes) => {
       Position.belongsToMany(models.Partner, {
         through: "PartnerPosition",
       });
-      Position.hasMany(models.User);
+      // Position.hasMany(models.User, { through: "PartnerPositions" });
       Position.belongsToMany(models.PartnerPosition, {
         through: "ProgramPartnerPositions",
         as: "PartnerPositionFromPostition",

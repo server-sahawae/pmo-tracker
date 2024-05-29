@@ -34,6 +34,8 @@ module.exports = (sequelize, DataTypes) => {
       },
       name: DataTypes.STRING,
       rapimnas: DataTypes.BOOLEAN,
+      createdBy: { type: DataTypes.UUIDV4, references: "Users" },
+      updatedBy: { type: DataTypes.UUIDV4, references: "Users" },
     },
     {
       paranoid: true,

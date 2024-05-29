@@ -1,10 +1,11 @@
 const { Op } = require("sequelize");
 const { sequelize } = require("../models");
+const { v4 } = require("uuid");
 const {
   Project,
   ProjectRundown,
   ProjectProgramIndicator,
-  PartnerProjectActivity,
+  PartnerProject,
   Category,
   Partner,
   Institution,
@@ -22,15 +23,27 @@ module.exports = class Controller {
 
     try {
       const data = req.body;
-      console.log(data.PartnerId);
+      // console.log(data.PartnerxId);
 
-      const project = await Project.create(data.project, { transaction: t });
-      await deleteRedisKeys([data.PartnerId]);
-      await PartnerProjectActivity.create(
-        { PartnerId: data.PartnerId, ProjectId: project.id, isOwner: true },
-        { transaction: t }
-      );
+      await deleteRedisKeys([data.PartnerId, data.project.id]);
+
+      const [project, created] = await Project.findOrCreate({
+        where: { id: data.project.id || v4() },
+        defaults: data.project,
+        transaction: t,
+      });
+
+      if (!created)
+        await Project.update(data.project, { where: { id: data.project.id } });
+      if (!data.project.id)
+        await PartnerProject.create(
+          { PartnerId: data.PartnerId, ProjectId: project.id, isOwner: true },
+          { transaction: t }
+        );
       if (data.ProjectRundown.length) {
+        console.log("=========================RUNDOWN");
+        await deleteRedisKeys(data.ProjectRundown.map((el) => el.id));
+
         await ProjectRundown.bulkCreate(
           data.ProjectRundown.map((el) => {
             return {
@@ -53,6 +66,9 @@ module.exports = class Controller {
       }
 
       if (data.ProjectIndicators.length) {
+        console.log("=========================INDICATOR");
+        await deleteRedisKeys(data.ProjectIndicators.map((el) => el.ProgramId));
+
         await ProjectProgramIndicator.bulkCreate(
           data.ProjectIndicators.map((el) => {
             return {
@@ -60,13 +76,13 @@ module.exports = class Controller {
               ProjectId: project.id,
               updatedAt: new Date(),
             };
-          }).filter((el) => !(el.deletedAt && !el.id)),
+          }).filter((el) => el.deletedAt && !el.id),
           {
             transaction: t,
             updateOnDuplicate: [
               "id",
               "ProgramId",
-              "description",
+              "ProgramIndicatorId",
               "updatedAt",
               "deletedAt",
             ],
@@ -75,20 +91,24 @@ module.exports = class Controller {
       }
 
       if (data.Sinergy?.length) {
-        await PartnerProjectActivity.bulkCreate(
+        console.log("=========================SINERGY");
+        await deleteRedisKeys(data.Sinergy.map((el) => el.PartnerId));
+
+        await PartnerProject.bulkCreate(
           data.Sinergy.map((el) => {
             return {
+              id: el.PartnerProject?.id,
               PartnerId: el.id,
               ProjectId: project.id,
               updatedAt: new Date(),
+              deletedAt: el.deletedAt,
             };
-          }).filter((el) => !(el.deletedAt && !el.id)),
+          }),
           {
             transaction: t,
             updateOnDuplicate: [
               "id",
               "PartnerId",
-              "ActivityId",
               "ProjectId",
               "updatedAt",
               "deletedAt",
@@ -111,7 +131,7 @@ module.exports = class Controller {
 
       // await t.rollback();
       await t.commit();
-      console.log("SUCCESS!!!");
+      // console.log(data);
       res.status(200).json(data);
     } catch (error) {
       await t.rollback();
@@ -123,43 +143,34 @@ module.exports = class Controller {
   static async findAllProjectsByProgramId(req, res, next) {
     try {
       const { ProgramId } = req.params;
-      const redisCheck = await redisPMO.get(
-        `findAllProjectsByProgramId:${ProgramId}`
+
+      const projects = JSON.parse(
+        JSON.stringify(
+          await Project.findAll({
+            include: [
+              { model: Category },
+              { model: ProgramIndicator, where: { ProgramId } },
+              {
+                model: Partner,
+                attributes: ["id", "name", "chief"],
+                include: { model: Institution, attributes: ["id", "name"] },
+              },
+            ],
+          })
+        )
       );
-      if (redisCheck) {
-        res.status(200).json(JSON.parse(redisCheck));
-      } else {
-        const projects = JSON.parse(
-          JSON.stringify(
-            await Project.findAll({
-              include: [
-                { model: Category },
-                { model: ProjectProgramIndicator, where: { ProgramId } },
-                {
-                  model: PartnerProjectActivity,
-                  attributes: ["id"],
-                  include: {
-                    model: Partner,
-                    attributes: ["id", "name", "chief"],
-                    include: { model: Institution, attributes: ["id", "name"] },
-                  },
-                },
-              ],
-            })
-          )
-        );
-        const result = projects.map((el) => {
-          el.image = el.image ? true : false;
-          return el;
-        });
-        if (result.length > 0)
-          await redisPMO.set(
-            `findAllProjectsByProgramId:${ProgramId}`,
-            JSON.stringify(result, null, 2),
-            { EX: expireRedis }
-          );
-        res.status(200).json(result);
-      }
+      const result = projects.map((el) => {
+        el.image = el.image ? true : false;
+        return el;
+      });
+      // if (result.length > 0)
+
+      await redisPMO.set(
+        `findAllProjectsByProgramId:${ProgramId}`,
+        JSON.stringify(result, null, 2),
+        { EX: expireRedis }
+      );
+      res.status(200).json(result);
     } catch (error) {
       next(error);
     }
@@ -180,45 +191,40 @@ module.exports = class Controller {
               include: [
                 { model: Category },
                 {
-                  model: ProjectProgramIndicator,
+                  model: ProgramIndicator,
                   include: { model: Program, where: { PartnerId } },
                 },
                 {
-                  model: PartnerProjectActivity,
-                  attributes: ["PartnerId", "id"],
-                  include: {
-                    model: Partner,
-                    attributes: ["id", "name", "chief"],
-                    include: { model: Institution, attributes: ["id", "name"] },
-                  },
+                  model: Partner,
+                  attributes: ["id", "name", "chief"],
+                  include: { model: Institution, attributes: ["id", "name"] },
                 },
               ],
             })
           )
         );
-        const result = projects
+        const result = await projects
           .map((el) => {
             el.image = el.image ? true : false;
             return el;
           })
           .filter((el) => {
-            return JSON.stringify(el.PartnerProjectActivities).includes(
-              PartnerId
-            );
+            return JSON.stringify(el.Partners).includes(PartnerId);
           });
-        if (result.length > 0)
-          await redisPMO.set(
-            `findAllProjectsWithoutProgram:${PartnerId}`,
-            JSON.stringify(
-              result.filter((el) => !el.ProjectProgramIndicators.length),
-              null,
-              2
-            ),
-            { EX: expireRedis }
-          );
+
+        // if (result.length > 0)
+        await redisPMO.set(
+          `findAllProjectsWithoutProgram:${PartnerId}`,
+          JSON.stringify(
+            result.filter((el) => !el.ProgramIndicators.length),
+            null,
+            2
+          ),
+          { EX: expireRedis }
+        );
         res
           .status(200)
-          .json(result.filter((el) => !el.ProjectProgramIndicators.length));
+          .json(result.filter((el) => !el.ProgramIndicators.length));
       }
     } catch (error) {
       console.log(error);
@@ -233,9 +239,6 @@ module.exports = class Controller {
       if (redisCheck) {
         res.status(200).json(JSON.parse(redisCheck));
       } else {
-        console.log(
-          "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-        );
         const result = await Project.findOne({
           where: { id: ProjectId },
           attributes: {
@@ -244,45 +247,43 @@ module.exports = class Controller {
           include: [
             { model: Category, attributes: ["id", "name"] },
             {
-              model: PartnerProjectActivity,
-              attributes: ["id", "isOwner"],
-              include: [
-                {
-                  model: Partner,
-                  attributes: ["id", "name", "chief"],
-                  include: { model: Institution, attributes: ["id", "name"] },
-                },
-              ],
+              model: Partner,
+              attributes: ["id", "name", "chief", "InstitutionId"],
+              include: { model: Institution, attributes: ["id", "name"] },
             },
             {
-              model: ProjectProgramIndicator,
-              attributes: ["id"],
+              model: ProgramIndicator,
+              attributes: ["id", "description"],
               include: [
                 {
-                  model: ProgramIndicator,
-                  attributes: ["id", "description"],
-                  include: [
-                    {
-                      model: Program,
-                      attributes: ["id", "name", "rapimnas"],
-                      include: {
-                        model: Partner,
-                        attributes: ["id", "name", "chief"],
-                        include: {
-                          model: Institution,
-                          attributes: ["id", "name"],
-                        },
-                      },
+                  model: Program,
+                  attributes: ["id", "name", "rapimnas"],
+                  include: {
+                    model: Partner,
+                    attributes: ["id", "name", "chief"],
+                    include: {
+                      model: Institution,
+                      attributes: ["id", "name"],
                     },
-                  ],
+                  },
                 },
               ],
             },
+
             { model: ProjectRundown },
           ],
           order: [[ProjectRundown, "start", "ASC"]],
         });
         if (!result) throw { name: DATA_NOT_FOUND };
+        result.dataValues.ProjectScores = (
+          await sequelize.query(
+            `SELECT SUM(a.score) AS ProjectScores FROM Activities a 
+INNER JOIN Projects p ON p.id = a.ProjectId WHERE a.start < NOW() AND a.ProjectId = '${ProjectId}' AND a.summary IS NOT NULL AND a.deletedAt IS NULL GROUP BY a.ProjectId`
+          )
+        )[0][0]?.ProjectScores;
+        console.log("================================");
+        console.log(result.dataValues.ProjectScores);
+        console.log("================================");
 
         result.dataValues.image = result.dataValues.image ? true : false;
 
@@ -292,9 +293,6 @@ module.exports = class Controller {
           { EX: expireRedis }
         );
 
-        console.log(
-          "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-        );
         res.status(200).json(result);
       }
     } catch (error) {
@@ -305,6 +303,7 @@ module.exports = class Controller {
   static async uploadImage(req, res, next) {
     try {
       const { id } = req.params;
+      deleteRedisKeys(id);
       console.log(req);
       await Project.update({ image: req.files.logo.data }, { where: { id } });
       res.status(200).send("Logo has been uploaded successfully!");
@@ -320,7 +319,6 @@ module.exports = class Controller {
       const { image } = await Project.findOne({
         where: { id: ProjectId },
       });
-      // console.log(image);
       res.status(200).type("image/webp").send(Buffer.from(image));
     } catch (error) {
       console.log(error);
@@ -336,7 +334,7 @@ module.exports = class Controller {
       await deleteRedisKeys([ProjectId]);
 
       await Project.destroy({ where: { id: ProjectId } }, { transaction: t });
-      await PartnerProjectActivity.destroy(
+      await PartnerProject.destroy(
         { where: { ProjectId: ProjectId } },
         { transaction: t }
       );
@@ -354,14 +352,14 @@ module.exports = class Controller {
       await Activity.destroy(
         {
           include: {
-            model: PartnerProjectActivity,
+            model: PartnerProject,
             where: { ProjectId: ProjectId },
           },
         },
         { transaction: t }
       );
 
-      await PartnerProjectActivity.destroy(
+      await PartnerProject.destroy(
         { where: { ProjectId: ProjectId } },
         { transaction: t }
       );
@@ -372,6 +370,22 @@ module.exports = class Controller {
     } catch (error) {
       console.log(error);
       await t.rollback();
+      next(error);
+    }
+  }
+
+  static async projectScore(req, res, next) {
+    try {
+      const { ProjectId } = req.params;
+      const result = (
+        await sequelize.query(
+          `SELECT SUM(a.score) AS ProjectScores FROM Activities a 
+INNER JOIN Projects p ON p.id = a.ProjectId WHERE a.start < NOW() AND a.ProjectId = '${ProjectId}' AND a.summary IS NOT NULL GROUP BY a.ProjectId`
+        )
+      )[0][0]?.ProjectScores;
+
+      res.status(200).json(result);
+    } catch (error) {
       next(error);
     }
   }

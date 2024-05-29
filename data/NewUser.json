@@ -1,5 +1,12 @@
 [
   {
+    "id": "6dace56b-2cc7-441b-9eb0-f12a5f51d61a",
+    "PartnerId": "0f43f3b4-7d73-4264-9db6-102d870a445c",
+    "name": "Muhammad Sayid Sabiq",
+    "email": "sabiq@kadin.id",
+    "UserLevelId": "72372ccb-a973-4413-8d8f-2ffda25b78580"
+  },
+  {
     "id": "1723104f-eab7-495f-a746-976e7cae7b98",
     "PartnerId": "e7f4bd25-60c3-4c52-a9b7-d48daea9964e",
     "name": "A. Ade Widya Harijaya",

@@ -15,11 +15,25 @@ module.exports = {
       location: {
         type: Sequelize.STRING,
       },
-
+      score: {
+        type: Sequelize.INTEGER,
+        defaultValue: 0,
+      },
       CategoryId: {
         type: Sequelize.UUID,
         allowNull: false,
         references: { model: "Categories" },
+      },
+
+      PartnerId: {
+        type: Sequelize.UUID,
+        allowNull: false,
+        references: { model: "Partners" },
+      },
+
+      ProjectId: {
+        type: Sequelize.UUID,
+        references: { model: "Projects" },
       },
       start: {
         type: Sequelize.DATE,
@@ -58,6 +72,16 @@ module.exports = {
       updatedAt: {
         allowNull: false,
         type: Sequelize.DATE,
+      },
+      createdBy: {
+        type: Sequelize.UUID,
+        allowNull: false,
+        references: { model: "Users" },
+      },
+      updatedBy: {
+        type: Sequelize.UUID,
+        allowNull: false,
+        references: { model: "Users" },
       },
       deletedAt: {
         type: Sequelize.DATE,

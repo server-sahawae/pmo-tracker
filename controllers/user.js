@@ -1,11 +1,21 @@
 const { Op } = require("sequelize");
-const { UNAUTHORIZED, BAD_REQUEST } = require("../constants/ErrorKeys");
-const { hash, compareHash } = require("../helpers/bcrypt");
-const { createToken, verifyToken } = require("../helpers/jwt");
-const { loggerInfo } = require("../helpers/loggerDebug");
-const { User, Partner, Institution, UserLevel } = require("../models");
+const {
+  UNAUTHORIZED,
+  BAD_REQUEST,
+  NO_AUTHORIZE,
+} = require("../constants/ErrorKeys");
+
+const {
+  User,
+  Partner,
+  Institution,
+  UserLevel,
+  PartnerPosition,
+  UserUserLevel,
+} = require("../models");
 const { redisSearch, redisPMO } = require("../config/redis");
 const { expireRedis } = require("../constants/staticValue");
+const verifyGoogleAuth = require("../helpers/googleOauth");
 
 module.exports = class Controller {
   static async createUser(req, res, next) {
@@ -65,17 +75,21 @@ module.exports = class Controller {
       const redisCheck = await redisPMO.get(`User:${id}`);
       if (!redisCheck) {
         const result = await User.findOne({
-          attributes: ["id", "name", "position", "picture"],
+          attributes: ["id", "name", "picture"],
           where: {
             id,
           },
           include: [
             {
-              attributes: ["id", "name"],
-              model: Partner,
+              // attributes: ["id", "name"],
+              model: PartnerPosition,
               include: {
-                model: Institution,
+                model: Partner,
                 attributes: ["id", "name"],
+                include: {
+                  model: Institution,
+                  attributes: ["id", "name"],
+                },
               },
             },
             {
@@ -122,6 +136,38 @@ module.exports = class Controller {
           EX: expireRedis,
         });
         res.status(200).json(result);
+      } else res.status(200).json(JSON.parse(redisCheck));
+    } catch (error) {
+      console.log(error);
+      next(error);
+    }
+  }
+
+  static async GoogleVerification(req, res, next) {
+    try {
+      // console.log("!!!!!!!!!!!!!!!!!!!!!!!");
+
+      const { access_token, userlevelid: UserLevelId } = req.headers;
+      if (!access_token) throw { name: UNAUTHORIZED };
+      const redisCheck = await redisPMO.get(access_token);
+      if (!redisCheck) {
+        const result = await verifyGoogleAuth(access_token);
+        console.log("!!!!!!!!!!!!!!!!!!!!!!!");
+        const auth = await UserUserLevel.findOne({
+          where: {
+            UserLevelId,
+          },
+          include: { model: User, where: { email: result.payload.email } },
+        });
+        // console.log(auth);
+        if (!auth) throw { name: NO_AUTHORIZE };
+        await redisPMO.set(
+          access_token,
+          JSON.stringify({ email: result.payload.email, UserId: auth.id }),
+          { EXAT: result.payload.exp }
+        );
+
+        res.status(200).json(result.payload);
       } else res.status(200).json(JSON.parse(redisCheck));
     } catch (error) {
       console.log(error);

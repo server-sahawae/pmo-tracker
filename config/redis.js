@@ -4,11 +4,21 @@ const { createClient } = require("redis");
 
 console.log("REDIS SET");
 const redisPMO = createClient({
-  url: process.env.REDIS_PMO,
+  password: process.env.REDIS_PASSWORD,
+  username: process.env.REDIS_USERNAME,
+  socket: {
+    host: process.env.REDIS_PMO,
+    port: 17750,
+  },
 });
 
 const redisSearch = createClient({
-  url: process.env.REDIS_SEARCH,
+  password: process.env.REDIS_PASSWORD,
+  username: process.env.REDIS_USERNAME,
+  socket: {
+    host: process.env.REDIS_SEARCH,
+    port: 12707,
+  },
 });
 
 module.exports = { redisPMO, redisSearch };

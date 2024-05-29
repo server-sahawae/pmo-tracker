@@ -2,29 +2,33 @@
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createTable("PartnerProjects", {
+    await queryInterface.createTable("UserPartnerProgramProjectActivities", {
       id: {
         allowNull: false,
         primaryKey: true,
         type: Sequelize.UUID,
         defaultValue: Sequelize.UUIDV4,
       },
+      UserId: {
+        type: Sequelize.UUID,
+        allowNull: false,
+        references: { model: "Users" },
+      },
       PartnerId: {
         type: Sequelize.UUID,
         references: { model: "Partners" },
-        allowNull: false,
+      },
+      ProgramId: {
+        type: Sequelize.UUID,
+        references: { model: "Programs" },
       },
       ProjectId: {
         type: Sequelize.UUID,
         references: { model: "Projects" },
       },
-      UserId: {
+      ActivityId: {
         type: Sequelize.UUID,
-        references: { model: "Users" },
-      },
-      isOwner: {
-        type: Sequelize.BOOLEAN,
-        defaultValue: false,
+        references: { model: "Activities" },
       },
       createdAt: {
         allowNull: false,
@@ -34,12 +38,9 @@ module.exports = {
         allowNull: false,
         type: Sequelize.DATE,
       },
-      deletedAt: {
-        type: Sequelize.DATE,
-      },
     });
   },
   async down(queryInterface, Sequelize) {
-    await queryInterface.dropTable("PartnerProjects");
+    await queryInterface.dropTable("UserPartnerProgramProjectActivities");
   },
 };

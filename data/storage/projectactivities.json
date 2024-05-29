@@ -1,0 +1,1220 @@
+[
+  {
+    "ProjectName": "Innovative Strategies 2024",
+    "startTime": "2024-03-15T09:00:00",
+    "endTime": "2024-03-15T18:00:00",
+    "venue": "Jakarta Convention Center",
+    "activities": [
+      {
+        "activityName": "Initial Planning",
+        "startTime": "2024-01-15T09:00:00",
+        "endTime": "2024-01-15T11:00:00",
+        "summary": "Kick-off meeting to outline the event's goals and major milestones."
+      },
+      {
+        "activityName": "Budget Approval",
+        "startTime": "2024-01-22T14:00:00",
+        "endTime": "2024-01-22T16:00:00",
+        "summary": "Meeting to discuss and approve the budget for the event."
+      },
+      {
+        "activityName": "Venue Booking",
+        "startTime": "2024-01-30T10:00:00",
+        "endTime": "2024-01-30T12:00:00",
+        "summary": "Finalize the booking of the Jakarta Convention Center for the event."
+      },
+      {
+        "activityName": "Marketing Strategy Session",
+        "startTime": "2024-02-06T09:00:00",
+        "endTime": "2024-02-06T11:00:00",
+        "summary": "Development of a comprehensive marketing strategy to promote the event."
+      },
+      {
+        "activityName": "Supplier Contracts",
+        "startTime": "2024-02-13T15:00:00",
+        "endTime": "2024-02-13T17:00:00",
+        "summary": "Finalize contracts with suppliers for event materials and services."
+      },
+      {
+        "activityName": "Staff Recruitment",
+        "startTime": "2024-02-20T10:00:00",
+        "endTime": "2024-02-20T12:00:00",
+        "summary": "Begin recruitment and training of additional staff needed for the event."
+      },
+      {
+        "activityName": "Technical Rehearsal",
+        "startTime": "2024-02-27T13:00:00",
+        "endTime": "2024-02-27T15:00:00",
+        "summary": "Technical rehearsal to test all equipment and technology setups."
+      },
+      {
+        "activityName": "Final Promotion Push",
+        "startTime": "2024-03-07T09:00:00",
+        "endTime": "2024-03-07T11:00:00",
+        "summary": "Implement final promotional activities to ensure high attendance."
+      },
+      {
+        "activityName": "Pre-event Staff Briefing",
+        "startTime": "2024-03-14T10:00:00",
+        "endTime": "2024-03-14T12:00:00",
+        "summary": "Final briefing for all staff to review roles and responsibilities."
+      },
+      {
+        "activityName": "Event Setup",
+        "startTime": "2024-03-14T13:00:00",
+        "endTime": "2024-03-14T17:00:00",
+        "summary": "Setup of the venue including staging, signage, and attendee registration areas."
+      }
+    ]
+  },
+  {
+    "ProjectName": "Tech Innovators Expo",
+    "startTime": "2024-06-20T09:00:00",
+    "endTime": "2024-06-20T19:00:00",
+    "venue": "Surabaya Expo Center",
+    "activities": [
+      {
+        "activityName": "Pre-Expo Webinar",
+        "startTime": "2024-04-20T15:00:00",
+        "endTime": "2024-04-20T17:00:00",
+        "summary": "An online webinar to discuss the themes and expectations of the upcoming expo with potential exhibitors."
+      },
+      {
+        "activityName": "Technology Vendor Meeting",
+        "startTime": "2024-04-27T13:00:00",
+        "endTime": "2024-04-27T15:00:00",
+        "summary": "Meeting with technology vendors to finalize their participation and logistics for the expo."
+      },
+      {
+        "activityName": "Sponsorship Drive",
+        "startTime": "2024-05-04T10:00:00",
+        "endTime": "2024-05-04T12:00:00",
+        "summary": "Initiating contact with potential sponsors to secure funding and support for the expo."
+      },
+      {
+        "activityName": "Marketing Materials Release",
+        "startTime": "2024-05-11T09:00:00",
+        "endTime": "2024-05-11T11:00:00",
+        "summary": "Release of promotional materials and press kits to media partners and industry influencers."
+      },
+      {
+        "activityName": "Exhibitor Briefing",
+        "startTime": "2024-05-18T14:00:00",
+        "endTime": "2024-05-18T16:00:00",
+        "summary": "Comprehensive briefing for all exhibitors on setup times, booth design guidelines, and event schedule."
+      },
+      {
+        "activityName": "Final Venue Inspection",
+        "startTime": "2024-06-13T10:00:00",
+        "endTime": "2024-06-13T12:00:00",
+        "summary": "Final inspection of the venue to ensure all facilities meet the required standards for the expo."
+      },
+      {
+        "activityName": "Pre-Expo Team Gathering",
+        "startTime": "2024-06-19T15:00:00",
+        "endTime": "2024-06-19T17:00:00",
+        "summary": "Gathering of the event team for last-minute coordination and motivation before the expo starts."
+      },
+      {
+        "activityName": "Expo Setup",
+        "startTime": "2024-06-19T08:00:00",
+        "endTime": "2024-06-19T20:00:00",
+        "summary": "Setup of booths, technology demos, and all necessary equipment for the expo."
+      },
+      {
+        "activityName": "Opening Ceremony Preparation",
+        "startTime": "2024-06-20T07:00:00",
+        "endTime": "2024-06-20T08:30:00",
+        "summary": "Final preparations for the opening ceremony, including rehearsals and AV checks."
+      },
+      {
+        "activityName": "Post-Expo Review",
+        "startTime": "2024-06-21T10:00:00",
+        "endTime": "2024-06-21T12:00:00",
+        "summary": "Review session to discuss the outcomes and gather feedback for future improvements."
+      }
+    ]
+  },
+  {
+    "ProjectName": "Sustainable Business Forum",
+    "startTime": "2024-09-05T09:00:00",
+    "endTime": "2024-09-05T17:00:00",
+    "venue": "Medan International Business Center",
+    "activities": [
+      {
+        "activityName": "Green Initiatives Workshop",
+        "startTime": "2024-07-05T10:00:00",
+        "endTime": "2024-07-05T12:00:00",
+        "summary": "Workshop focusing on the implementation of sustainable practices in businesses."
+      },
+      {
+        "activityName": "Eco-Friendly Sponsor Meeting",
+        "startTime": "2024-07-12T13:00:00",
+        "endTime": "2024-07-12T15:00:00",
+        "summary": "Meeting with sponsors who advocate for eco-friendly solutions to discuss their roles and contributions to the forum."
+      },
+      {
+        "activityName": "Public Relations Campaign",
+        "startTime": "2024-07-19T09:00:00",
+        "endTime": "2024-07-19T11:00:00",
+        "summary": "Launch of a public relations campaign to promote the forum and highlight its sustainability goals."
+      },
+      {
+        "activityName": "Logistics Coordination",
+        "startTime": "2024-07-26T14:00:00",
+        "endTime": "2024-07-26T16:00:00",
+        "summary": "Coordination meeting to finalize all logistics for the forum, ensuring a green approach in all arrangements."
+      },
+      {
+        "activityName": "Volunteer Training",
+        "startTime": "2024-08-02T10:00:00",
+        "endTime": "2024-08-02T12:00:00",
+        "summary": "Training session for volunteers, focusing on customer service and eco-friendly practices during the event."
+      },
+      {
+        "activityName": "Final Venue Setup",
+        "startTime": "2024-08-30T08:00:00",
+        "endTime": "2024-08-30T18:00:00",
+        "summary": "Complete setup of the venue, ensuring all aspects are aligned with sustainability standards."
+      },
+      {
+        "activityName": "Speaker Rehearsal",
+        "startTime": "2024-09-04T13:00:00",
+        "endTime": "2024-09-04T16:00:00",
+        "summary": "Final rehearsal with speakers to ensure their presentations are polished and align with the forum's themes."
+      },
+      {
+        "activityName": "Registration Desk Setup",
+        "startTime": "2024-09-04T17:00:00",
+        "endTime": "2024-09-04T20:00:00",
+        "summary": "Setting up the registration desks and preparing all necessary materials for attendee check-in."
+      },
+      {
+        "activityName": "Forum Kickoff",
+        "startTime": "2024-09-05T08:00:00",
+        "endTime": "2024-09-05T09:00:00",
+        "summary": "Initial kickoff event to welcome all participants and introduce the day's agenda."
+      },
+      {
+        "activityName": "Post-Forum Feedback Collection",
+        "startTime": "2024-09-06T10:00:00",
+        "endTime": "2024-09-06T12:00:00",
+        "summary": "Collecting feedback from attendees to assess the impact of the forum and gather suggestions for future events."
+      }
+    ]
+  },
+  {
+    "ProjectName": "Healthcare Innovation Conference",
+    "startTime": "2024-11-10T09:00:00",
+    "endTime": "2024-11-10T17:00:00",
+    "venue": "Bandung Health Arena",
+    "activities": [
+      {
+        "activityName": "Medical Tech Showcase",
+        "startTime": "2024-09-10T15:00:00",
+        "endTime": "2024-09-10T17:00:00",
+        "summary": "Showcase of the latest innovations in medical technology, open to early registrants."
+      },
+      {
+        "activityName": "Partner Hospital Tour",
+        "startTime": "2024-09-17T10:00:00",
+        "endTime": "2024-09-17T12:00:00",
+        "summary": "Guided tour of partner hospitals that are pioneering new healthcare technologies."
+      },
+      {
+        "activityName": "Research Symposium",
+        "startTime": "2024-09-24T09:00:00",
+        "endTime": "2024-09-24T11:00:00",
+        "summary": "Symposium featuring leading researchers discussing breakthroughs in healthcare treatments."
+      },
+      {
+        "activityName": "Funding Roundtable",
+        "startTime": "2024-10-01T13:00:00",
+        "endTime": "2024-10-01T15:00:00",
+        "summary": "Roundtable discussion with investors interested in funding healthcare innovations."
+      },
+      {
+        "activityName": "Keynote Preparation",
+        "startTime": "2024-10-08T10:00:00",
+        "endTime": "2024-10-08T12:00:00",
+        "summary": "Preparation session for keynote speakers, aligning their presentations with the conference themes."
+      },
+      {
+        "activityName": "Exhibitor Setup",
+        "startTime": "2024-10-15T08:00:00",
+        "endTime": "2024-10-15T17:00:00",
+        "summary": "Setting up exhibits for the conference, including booths for tech demonstrations and information distribution."
+      },
+      {
+        "activityName": "Healthcare Policy Panel",
+        "startTime": "2024-10-22T14:00:00",
+        "endTime": "2024-10-22T16:00:00",
+        "summary": "Panel discussion on current healthcare policies and their impact on innovation in the sector."
+      },
+      {
+        "activityName": "Pre-Conference Networking Event",
+        "startTime": "2024-11-09T18:00:00",
+        "endTime": "2024-11-09T21:00:00",
+        "summary": "Networking event for speakers, exhibitors, and VIP attendees to connect before the conference."
+      },
+      {
+        "activityName": "Conference Registration",
+        "startTime": "2024-11-10T07:00:00",
+        "endTime": "2024-11-10T08:30:00",
+        "summary": "Opening of conference registration, welcoming all participants and distributing materials."
+      },
+      {
+        "activityName": "Conference Wrap-Up",
+        "startTime": "2024-11-10T16:00:00",
+        "endTime": "2024-11-10T17:00:00",
+        "summary": "Closing session to summarize the conference insights and outline next steps for participants."
+      }
+    ]
+  },
+  {
+    "ProjectName": "Global Education Summit",
+    "startTime": "2025-01-15T09:00:00",
+    "endTime": "2025-01-15T17:00:00",
+    "venue": "Yogyakarta Education Center",
+    "activities": [
+      {
+        "activityName": "Educational Technology Workshop",
+        "startTime": "2024-11-15T10:00:00",
+        "endTime": "2024-11-15T12:00:00",
+        "summary": "Workshop on integrating new technologies into educational curriculums globally."
+      },
+      {
+        "activityName": "Curriculum Development Session",
+        "startTime": "2024-11-22T13:00:00",
+        "endTime": "2024-11-22T15:00:00",
+        "summary": "Session dedicated to the development of innovative, inclusive curriculums that can be adapted worldwide."
+      },
+      {
+        "activityName": "Global Education Policy Roundtable",
+        "startTime": "2024-11-29T09:00:00",
+        "endTime": "2024-11-29T11:00:00",
+        "summary": "Roundtable discussion with educators and policymakers to discuss the impact of global trends on education."
+      },
+      {
+        "activityName": "International Student Forum",
+        "startTime": "2024-12-06T14:00:00",
+        "endTime": "2024-12-06T16:00:00",
+        "summary": "Forum for students from around the world to share their educational experiences and challenges."
+      },
+      {
+        "activityName": "Keynote Speaker Preparation",
+        "startTime": "2024-12-13T10:00:00",
+        "endTime": "2024-12-13T12:00:00",
+        "summary": "Preparation session with keynote speakers to align their messages with the summit's goals."
+      },
+      {
+        "activityName": "Sponsor Meet and Greet",
+        "startTime": "2025-01-14T15:00:00",
+        "endTime": "2025-01-14T17:00:00",
+        "summary": "Opportunity for attendees to meet and interact with sponsors of the summit."
+      },
+      {
+        "activityName": "Summit Opening",
+        "startTime": "2025-01-15T08:00:00",
+        "endTime": "2025-01-15T09:00:00",
+        "summary": "Official opening of the summit, welcoming remarks, and introduction of the day's agenda."
+      },
+      {
+        "activityName": "Summit Closing Remarks",
+        "startTime": "2025-01-15T16:00:00",
+        "endTime": "2025-01-15T17:00:00",
+        "summary": "Closing remarks summarizing the outcomes of the summit and outlining plans for future collaborations."
+      }
+    ]
+  },
+  {
+    "ProjectName": "International Arts Festival",
+    "startTime": "2025-03-10T09:00:00",
+    "endTime": "2025-03-10T19:00:00",
+    "venue": "Bali Arts Pavilion",
+    "activities": [
+      {
+        "activityName": "Artists Meetup",
+        "startTime": "2025-01-10T10:00:00",
+        "endTime": "2025-01-10T12:00:00",
+        "summary": "An informal gathering for artists to network and discuss their upcoming exhibits at the festival."
+      },
+      {
+        "activityName": "Media Launch",
+        "startTime": "2025-01-17T14:00:00",
+        "endTime": "2025-01-17T16:00:00",
+        "summary": "Official media launch to announce the festival and highlight key artists and events."
+      },
+      {
+        "activityName": "Venue Preparation",
+        "startTime": "2025-01-24T09:00:00",
+        "endTime": "2025-01-24T17:00:00",
+        "summary": "Preparation of the Bali Arts Pavilion, setting up installations and art exhibits."
+      },
+      {
+        "activityName": "Art Transport and Safety",
+        "startTime": "2025-02-01T08:00:00",
+        "endTime": "2025-02-01T12:00:00",
+        "summary": "Ensuring all art pieces are transported safely and securely to the venue."
+      },
+      {
+        "activityName": "Curator Training",
+        "startTime": "2025-02-08T13:00:00",
+        "endTime": "2025-02-08T15:00:00",
+        "summary": "Training for curators on handling and presenting the artworks during the festival."
+      },
+      {
+        "activityName": "Final Artist Confirmations",
+        "startTime": "2025-02-15T10:00:00",
+        "endTime": "2025-02-15T12:00:00",
+        "summary": "Final confirmation of all participating artists and their scheduled times for exhibitions."
+      },
+      {
+        "activityName": "VIP Preview Event",
+        "startTime": "2025-03-09T17:00:00",
+        "endTime": "2025-03-09T20:00:00",
+        "summary": "Exclusive preview for VIPs and major sponsors, showcasing select pieces and artists."
+      },
+      {
+        "activityName": "Festival Opening Ceremony",
+        "startTime": "2025-03-10T08:00:00",
+        "endTime": "2025-03-10T09:00:00",
+        "summary": "Opening ceremony to welcome guests and officially start the festival."
+      },
+      {
+        "activityName": "Public Engagement Activities",
+        "startTime": "2025-03-10T10:00:00",
+        "endTime": "2025-03-10T18:00:00",
+        "summary": "A series of interactive workshops and talks with artists throughout the day."
+      },
+      {
+        "activityName": "Festival Wrap-Up",
+        "startTime": "2025-03-10T18:00:00",
+        "endTime": "2025-03-10T19:00:00",
+        "summary": "Closing remarks and a brief ceremony to conclude the festival."
+      }
+    ]
+  },
+  {
+    "ProjectName": "Global Finance Summit",
+    "startTime": "2025-04-15T09:00:00",
+    "endTime": "2025-04-15T17:00:00",
+    "venue": "Jakarta Financial Center",
+    "activities": [
+      {
+        "activityName": "Financial Tech Workshop",
+        "startTime": "2025-02-15T10:00:00",
+        "endTime": "2025-02-15T12:00:00",
+        "summary": "Workshop focusing on the latest innovations in financial technology."
+      },
+      {
+        "activityName": "Investor Networking Event",
+        "startTime": "2025-02-22T14:00:00",
+        "endTime": "2025-02-22T17:00:00",
+        "summary": "Networking event for potential investors and financial startups to connect and explore funding opportunities."
+      },
+      {
+        "activityName": "Regulatory Compliance Seminar",
+        "startTime": "2025-03-01T09:00:00",
+        "endTime": "2025-03-01T11:00:00",
+        "summary": "Seminar discussing the latest regulatory changes affecting the finance sector globally."
+      },
+      {
+        "activityName": "Market Trends Panel",
+        "startTime": "2025-03-08T13:00:00",
+        "endTime": "2025-03-08T15:00:00",
+        "summary": "Panel discussion on current market trends and future predictions in the global financial landscape."
+      },
+      {
+        "activityName": "Final Preparations",
+        "startTime": "2025-04-14T10:00:00",
+        "endTime": "2025-04-14T12:00:00",
+        "summary": "Final logistical preparations for the summit."
+      },
+      {
+        "activityName": "Summit Opening",
+        "startTime": "2025-04-15T08:00:00",
+        "endTime": "2025-04-15T09:00:00",
+        "summary": "Opening ceremony with welcome speeches from key figures in the finance industry."
+      },
+      {
+        "activityName": "Keynote Address",
+        "startTime": "2025-04-15T09:30:00",
+        "endTime": "2025-04-15T10:30:00",
+        "summary": "Keynote address by a renowned economist."
+      },
+      {
+        "activityName": "Panel Discussions",
+        "startTime": "2025-04-15T11:00:00",
+        "endTime": "2025-04-15T13:00:00",
+        "summary": "Multiple panel discussions focusing on innovation, regulation, and investment opportunities."
+      },
+      {
+        "activityName": "Networking Luncheon",
+        "startTime": "2025-04-15T13:00:00",
+        "endTime": "2025-04-15T14:30:00",
+        "summary": "Luncheon providing a networking opportunity for all summit attendees."
+      },
+      {
+        "activityName": "Closing Remarks",
+        "startTime": "2025-04-15T16:30:00",
+        "endTime": "2025-04-15T17:00:00",
+        "summary": "Summarizing the day's discussions and closing the summit."
+      }
+    ]
+  },
+  {
+    "ProjectName": "International Culinary Festival",
+    "startTime": "2025-05-10T09:00:00",
+    "endTime": "2025-05-10T19:00:00",
+    "venue": "Bandung Culinary Park",
+    "activities": [
+      {
+        "activityName": "Chef's Workshop",
+        "startTime": "2025-03-10T09:00:00",
+        "endTime": "2025-03-10T11:00:00",
+        "summary": "Interactive workshop with top chefs demonstrating cooking techniques and sharing culinary secrets."
+      },
+      {
+        "activityName": "Food Safety Seminar",
+        "startTime": "2025-03-17T13:00:00",
+        "endTime": "2025-03-17T15:00:00",
+        "summary": "Seminar focused on food safety practices and standards in professional kitchens."
+      },
+      {
+        "activityName": "Global Cuisine Exhibition",
+        "startTime": "2025-03-24T10:00:00",
+        "endTime": "2025-03-24T12:00:00",
+        "summary": "Exhibition showcasing dishes from various countries, providing a taste of global culinary traditions."
+      },
+      {
+        "activityName": "Supplier and Vendor Meet",
+        "startTime": "2025-03-31T14:00:00",
+        "endTime": "2025-03-31T16:00:00",
+        "summary": "Meeting for festival participants to connect with suppliers and vendors of high-quality ingredients and cooking equipment."
+      },
+      {
+        "activityName": "Public Cooking Contest",
+        "startTime": "2025-04-07T10:00:00",
+        "endTime": "2025-04-07T13:00:00",
+        "summary": "A cooking contest open to the public, judged by professional chefs and culinary experts."
+      },
+      {
+        "activityName": "Media Day",
+        "startTime": "2025-04-14T09:00:00",
+        "endTime": "2025-04-14T11:00:00",
+        "summary": "A day dedicated to media coverage of the festival, featuring interviews with participating chefs and organizers."
+      },
+      {
+        "activityName": "Final Venue Setup",
+        "startTime": "2025-05-09T08:00:00",
+        "endTime": "2025-05-09T20:00:00",
+        "summary": "Final preparations and setup of the venue to ensure everything is ready for the festival's opening."
+      },
+      {
+        "activityName": "Festival Opening Ceremony",
+        "startTime": "2025-05-10T08:00:00",
+        "endTime": "2025-05-10T09:00:00",
+        "summary": "Official opening of the festival with a welcome speech from a renowned culinary figure."
+      },
+      {
+        "activityName": "Tasting Sessions",
+        "startTime": "2025-05-10T10:00:00",
+        "endTime": "2025-05-10T17:00:00",
+        "summary": "Ongoing tasting sessions allowing attendees to sample a wide variety of dishes and cuisines."
+      },
+      {
+        "activityName": "Award Ceremony",
+        "startTime": "2025-05-10T18:00:00",
+        "endTime": "2025-05-10T19:00:00",
+        "summary": "Closing ceremony to award the best dishes and chefs of the festival."
+      }
+    ]
+  },
+  {
+    "ProjectName": "EcoTech Symposium",
+    "startTime": "2025-06-15T09:00:00",
+    "endTime": "2025-06-15T17:00:00",
+    "venue": "Surabaya EcoTech Center",
+    "activities": [
+      {
+        "activityName": "Sustainable Technology Showcase",
+        "startTime": "2025-04-15T10:00:00",
+        "endTime": "2025-04-15T12:00:00",
+        "summary": "Showcase of cutting-edge sustainable technologies from startups and established companies."
+      },
+      {
+        "activityName": "Green Energy Panel",
+        "startTime": "2025-04-22T14:00:00",
+        "endTime": "2025-04-22T16:00:00",
+        "summary": "Panel discussion on the latest advancements in green energy and their practical applications."
+      },
+      {
+        "activityName": "Eco-Innovation Workshops",
+        "startTime": "2025-04-29T09:00:00",
+        "endTime": "2025-04-29T11:00:00",
+        "summary": "Interactive workshops focused on developing new eco-friendly technologies and solutions."
+      },
+      {
+        "activityName": "Investor Networking",
+        "startTime": "2025-05-06T13:00:00",
+        "endTime": "2025-05-06T15:00:00",
+        "summary": "Networking event for entrepreneurs to meet with potential investors interested in eco-tech."
+      },
+      {
+        "activityName": "Final Preparations",
+        "startTime": "2025-06-14T10:00:00",
+        "endTime": "2025-06-14T12:00:00",
+        "summary": "Last-minute preparations to ensure all systems and displays are operational."
+      },
+      {
+        "activityName": "Symposium Opening",
+        "startTime": "2025-06-15T08:00:00",
+        "endTime": "2025-06-15T09:00:00",
+        "summary": "Opening remarks to kick off the symposium, outlining the day's events and goals."
+      },
+      {
+        "activityName": "Technology Demonstrations",
+        "startTime": "2025-06-15T10:00:00",
+        "endTime": "2025-06-15T12:00:00",
+        "summary": "Live demonstrations of new eco-friendly technologies, featuring interactive sessions with the creators."
+      },
+      {
+        "activityName": "Discussion Forums",
+        "startTime": "2025-06-15T13:00:00",
+        "endTime": "2025-06-15T15:00:00",
+        "summary": "Forums for deeper discussion on specific sustainable technologies, led by experts and participants."
+      },
+      {
+        "activityName": "Closing Panel",
+        "startTime": "2025-06-15T16:00:00",
+        "endTime": "2025-06-15T17:00:00",
+        "summary": "A panel to summarize the day's learnings and discuss the roadmap for implementing these technologies in various sectors."
+      }
+    ]
+  },
+  {
+    "ProjectName": "Global Youth Leadership Conference",
+    "startTime": "2025-07-20T09:00:00",
+    "endTime": "2025-07-20T17:00:00",
+    "venue": "Bandung Leadership Forum",
+    "activities": [
+      {
+        "activityName": "Youth Empowerment Workshops",
+        "startTime": "2025-05-20T10:00:00",
+        "endTime": "2025-05-20T12:00:00",
+        "summary": "Workshops designed to empower young leaders through skills development and leadership training."
+      },
+      {
+        "activityName": "Cultural Exchange Meet",
+        "startTime": "2025-05-27T14:00:00",
+        "endTime": "2025-05-27T16:00:00",
+        "summary": "An event promoting cultural exchange, allowing participants from various backgrounds to share their heritage and learn from each other."
+      },
+      {
+        "activityName": "Public Speaking Competition",
+        "startTime": "2025-06-03T09:00:00",
+        "endTime": "2025-06-03T11:00:00",
+        "summary": "A competition to enhance public speaking skills among youth, judged by experienced leaders."
+      },
+      {
+        "activityName": "Leadership Roundtable",
+        "startTime": "2025-06-10T13:00:00",
+        "endTime": "2025-06-10T15:00:00",
+        "summary": "A roundtable discussion involving young leaders and seasoned professionals, discussing global leadership challenges and opportunities."
+      },
+      {
+        "activityName": "Conference Prep",
+        "startTime": "2025-07-19T10:00:00",
+        "endTime": "2025-07-19T12:00:00",
+        "summary": "Final preparations for the conference, ensuring all logistical aspects are handled."
+      },
+      {
+        "activityName": "Conference Opening",
+        "startTime": "2025-07-20T08:00:00",
+        "endTime": "2025-07-20T09:00:00",
+        "summary": "Opening ceremony with welcome speeches and an overview of the conference agenda."
+      },
+      {
+        "activityName": "Keynote on Global Leadership",
+        "startTime": "2025-07-20T09:30:00",
+        "endTime": "2025-07-20T10:30:00",
+        "summary": "A keynote address focusing on the importance of global leadership and the role of youth in shaping the future."
+      },
+      {
+        "activityName": "Youth Panel Discussions",
+        "startTime": "2025-07-20T11:00:00",
+        "endTime": "2025-07-20T13:00:00",
+        "summary": "Panel discussions featuring young leaders discussing their experiences and visions for a better world."
+      },
+      {
+        "activityName": "Networking Lunch",
+        "startTime": "2025-07-20T13:00:00",
+        "endTime": "2025-07-20T14:30:00",
+        "summary": "A networking lunch to foster connections among young leaders from around the world."
+      },
+      {
+        "activityName": "Conference Wrap-Up",
+        "startTime": "2025-07-20T16:30:00",
+        "endTime": "2025-07-20T17:00:00",
+        "summary": "Closing session to summarize the key points discussed and outline future actions for the participants and outline future actions for the participants."
+      }
+    ]
+  },
+  {
+    "ProjectName": "International Architecture Symposium",
+    "startTime": "2025-08-15T09:00:00",
+    "endTime": "2025-08-15T17:00:00",
+    "venue": "Yogyakarta Design Hub",
+    "activities": [
+      {
+        "activityName": "Architectural Trends Workshop",
+        "startTime": "2025-06-15T10:00:00",
+        "endTime": "2025-06-15T12:00:00",
+        "summary": "Workshop on emerging trends in global architecture, with a focus on sustainable and innovative designs."
+      },
+      {
+        "activityName": "Heritage Conservation Panel",
+        "startTime": "2025-06-22T14:00:00",
+        "endTime": "2025-06-22T16:00:00",
+        "summary": "Panel discussion on the challenges and strategies for conserving architectural heritage in urban environments."
+      },
+      {
+        "activityName": "Building Materials Expo",
+        "startTime": "2025-06-29T09:00:00",
+        "endTime": "2025-06-29T11:00:00",
+        "summary": "Expo showcasing innovative building materials that are eco-friendly and technologically advanced."
+      },
+      {
+        "activityName": "Smart City Solutions Roundtable",
+        "startTime": "2025-07-06T13:00:00",
+        "endTime": "2025-07-06T15:00:00",
+        "summary": "Roundtable discussion on smart city solutions and the integration of technology in urban planning."
+      },
+      {
+        "activityName": "Symposium Setup",
+        "startTime": "2025-08-14T10:00:00",
+        "endTime": "2025-08-14T17:00:00",
+        "summary": "Setting up the venue, ensuring all displays and technology are in place for the symposium."
+      },
+      {
+        "activityName": "Opening of the Symposium",
+        "startTime": "2025-08-15T08:00:00",
+        "endTime": "2025-08-15T09:00:00",
+        "summary": "Formal opening of the symposium, welcoming participants and outlining the day's agenda."
+      },
+      {
+        "activityName": "Keynote on Urban Architecture",
+        "startTime": "2025-08-15T09:30:00",
+        "endTime": "2025-08-15T10:30:00",
+        "summary": "Keynote address by a leading figure in urban architecture discussing the future of cities."
+      },
+      {
+        "activityName": "Design Innovation Talks",
+        "startTime": "2025-08-15T11:00:00",
+        "endTime": "2025-08-15T13:00:00",
+        "summary": "A series of talks by innovators in architectural design, highlighting recent advancements and case studies."
+      },
+      {
+        "activityName": "Networking Coffee Break",
+        "startTime": "2025-08-15T13:00:00",
+        "endTime": "2025-08-15T14:00:00",
+        "summary": "A coffee break to allow participants to network and discuss collaborations and ideas."
+      },
+      {
+        "activityName": "Symposium Conclusion",
+        "startTime": "2025-08-15T16:30:00",
+        "endTime": "2025-08-15T17:00:00",
+        "summary": "Closing remarks summarizing the symposium's discussions and setting the stage for future engagements."
+      }
+    ]
+  },
+  {
+    "ProjectName": "World Music Days Festival",
+    "startTime": "2025-09-10T09:00:00",
+    "endTime": "2025-09-10T23:00:00",
+    "venue": "Jakarta Outdoor Arena",
+    "activities": [
+      {
+        "activityName": "Artist Coordination Meeting",
+        "startTime": "2025-07-10T10:00:00",
+        "endTime": "2025-07-10T12:00:00",
+        "summary": "Initial meeting to coordinate with all participating artists and their management teams."
+      },
+      {
+        "activityName": "Sponsorship Workshop",
+        "startTime": "2025-07-17T14:00:00",
+        "endTime": "2025-07-17T16:00:00",
+        "summary": "Workshop with sponsors to finalize the details of their involvement and promotional strategies."
+      },
+      {
+        "activityName": "Venue Safety Inspection",
+        "startTime": "2025-07-24T09:00:00",
+        "endTime": "2025-07-24T11:00:00",
+        "summary": "Comprehensive safety inspection of the venue to ensure compliance with all regulations and standards."
+      },
+      {
+        "activityName": "Public Relations Campaign Launch",
+        "startTime": "2025-07-31T13:00:00",
+        "endTime": "2025-07-31T15:00:00",
+        "summary": "Launch of a major public relations campaign to promote the festival across various media platforms."
+      },
+      {
+        "activityName": "Final Artist Line-up Announcement",
+        "startTime": "2025-08-07T10:00:00",
+        "endTime": "2025-08-07T12:00:00",
+        "summary": "Announcement of the final artist line-up, including any last-minute additions."
+      },
+      {
+        "activityName": "Tech Setup and Sound Checks",
+        "startTime": "2025-09-08T08:00:00",
+        "endTime": "2025-09-08T20:00:00",
+        "summary": "Setting up stage technology and conducting sound checks with the artists."
+      },
+      {
+        "activityName": "Festival Kick-off Event",
+        "startTime": "2025-09-09T18:00:00",
+        "endTime": "2025-09-09T21:00:00",
+        "summary": "A pre-festival event to generate excitement, featuring performances by select artists."
+      },
+      {
+        "activityName": "Opening Ceremonies",
+        "startTime": "2025-09-10T08:00:00",
+        "endTime": "2025-09-10T09:00:00",
+        "summary": "Official opening ceremonies of the festival with introductions and welcome speeches."
+      },
+      {
+        "activityName": "Live Performances",
+        "startTime": "2025-09-10T10:00:00",
+        "endTime": "2025-09-10T22:00:00",
+        "summary": "Continuous live performances across multiple stages by a diverse array of artists."
+      },
+      {
+        "activityName": "Festival Close and Fireworks",
+        "startTime": "2025-09-10T22:00:00",
+        "endTime": "2025-09-10T23:00:00",
+        "summary": "Closing of the festival with a grand fireworks display."
+      }
+    ]
+  },
+  {
+    "ProjectName": "International Film and Media Conference",
+    "startTime": "2025-10-15T09:00:00",
+    "endTime": "2025-10-15T17:00:00",
+    "venue": "Bali Media Center",
+    "activities": [
+      {
+        "activityName": "Film Industry Workshop",
+        "startTime": "2025-08-15T10:00:00",
+        "endTime": "2025-08-15T12:00:00",
+        "summary": "Workshop focusing on current trends and future directions in the film industry."
+      },
+      {
+        "activityName": "Media Technology Expo",
+        "startTime": "2025-08-22T14:00:00",
+        "endTime": "2025-08-22T16:00:00",
+        "summary": "Expo showcasing the latest technology in filmmaking and media production."
+      },
+      {
+        "activityName": "Director's Roundtable",
+        "startTime": "2025-08-29T13:00:00",
+        "endTime": "2025-08-29T15:00:00",
+        "summary": "A roundtable discussion featuring prominent directors discussing the challenges and opportunities in modern filmmaking."
+      },
+      {
+        "activityName": "Screenwriting Seminar",
+        "startTime": "2025-09-05T09:00:00",
+        "endTime": "2025-09-05T11:00:00",
+        "summary": "A seminar on the art of screenwriting, featuring guest speakers from the industry and interactive workshops."
+      },
+      {
+        "activityName": "Virtual Reality in Film",
+        "startTime": "2025-09-12T14:00:00",
+        "endTime": "2025-09-12T16:00:00",
+        "summary": "Exploring the use of virtual reality technologies in film production and storytelling."
+      },
+      {
+        "activityName": "Conference Setup",
+        "startTime": "2025-10-14T08:00:00",
+        "endTime": "2025-10-14T17:00:00",
+        "summary": "Setting up the venue, arranging the tech required for demonstrations and discussions."
+      },
+      {
+        "activityName": "Conference Opening",
+        "startTime": "2025-10-15T08:00:00",
+        "endTime": "2025-10-15T09:00:00",
+        "summary": "Official opening of the conference with welcoming remarks and a preview of the day's events."
+      },
+      {
+        "activityName": "Panel Discussions",
+        "startTime": "2025-10-15T10:00:00",
+        "endTime": "2025-10-15T12:00:00",
+        "summary": "Panel discussions on various aspects of film and media, including distribution, production, and new media."
+      },
+      {
+        "activityName": "Networking Lunch",
+        "startTime": "2025-10-15T12:00:00",
+        "endTime": "2025-10-15T13:30:00",
+        "summary": "A networking lunch where participants can connect with industry leaders and peers."
+      },
+      {
+        "activityName": "Film Showcase",
+        "startTime": "2025-10-15T14:00:00",
+        "endTime": "2025-10-15T16:00:00",
+        "summary": "Showcase of short films and documentaries produced by emerging filmmakers from around the world."
+      },
+      {
+        "activityName": "Conference Conclusion",
+        "startTime": "2025-10-15T16:30:00",
+        "endTime": "2025-10-15T17:00:00",
+        "summary": "Closing remarks summarizing the insights gained and discussing future trends in the industry."
+      }
+    ]
+  },
+  {
+    "ProjectName": "Global Health and Wellness Summit",
+    "startTime": "2025-11-20T09:00:00",
+    "endTime": "2025-11-20T17:00:00",
+    "venue": "Surabaya Health Forum",
+    "activities": [
+      {
+        "activityName": "Nutrition Workshop",
+        "startTime": "2025-09-20T10:00:00",
+        "endTime": "2025-09-20T12:00:00",
+        "summary": "Workshop focusing on modern nutrition science and its application in daily health practices."
+      },
+      {
+        "activityName": "Mental Health Panel",
+        "startTime": "2025-09-27T14:00:00",
+        "endTime": "2025-09-27T16:00:00",
+        "summary": "Panel discussion on emerging trends in mental health care, including digital solutions."
+      },
+      {
+        "activityName": "Holistic Health Practices",
+        "startTime": "2025-10-04T09:00:00",
+        "endTime": "2025-10-04T11:00:00",
+        "summary": "Exploring holistic approaches to health that integrate physical, mental, and spiritual well-being."
+      },
+      {
+        "activityName": "Health Tech Innovations",
+        "startTime": "2025-10-11T13:00:00",
+        "endTime": "2025-10-11T15:00:00",
+        "summary": "A showcase of the latest innovations in health technology, featuring demos and presentations by industry leaders."
+      },
+      {
+        "activityName": "Summit Setup",
+        "startTime": "2025-11-19T08:00:00",
+        "endTime": "2025-11-19T17:00:00",
+        "summary": "Setting up the venue for the summit, ensuring all areas are prepared for the various sessions and exhibits."
+      },
+      {
+        "activityName": "Summit Opening",
+        "startTime": "2025-11-20T08:00:00",
+        "endTime": "2025-11-20T09:00:00",
+        "summary": "Opening ceremony of the summit, featuring introductory speeches by key figures in the health sector."
+      },
+      {
+        "activityName": "Keynote on Global Health Trends",
+        "startTime": "2025-11-20T09:30:00",
+        "endTime": "2025-11-20T10:30:00",
+        "summary": "Keynote presentation discussing current global health trends and their implications for public health policy."
+      },
+      {
+        "activityName": "Workshop on Preventative Healthcare",
+        "startTime": "2025-11-20T11:00:00",
+        "endTime": "2025-11-20T13:00:00",
+        "summary": "Workshop focusing on preventative measures and early detection strategies in healthcare."
+      },
+      {
+        "activityName": "Networking Luncheon",
+        "startTime": "2025-11-20T13:00:00",
+        "endTime": "2025-11-20T14:30:00",
+        "summary": "A luncheon providing an opportunity for professionals to network and discuss collaborations."
+      },
+      {
+        "activityName": "Roundtable on Health Policy",
+        "startTime": "2025-11-20T15:00:00",
+        "endTime": "2025-11-20T16:00:00",
+        "summary": "A roundtable discussion with health policymakers and practitioners to debate and shape future health policies."
+      },
+      {
+        "activityName": "Summit Closure",
+        "startTime": "2025-11-20T16:30:00",
+        "endTime": "2025-11-20T17:00:00",
+        "summary": "Closing remarks summarizing the summit's key takeaways and outlining steps for future collaboration."
+      }
+    ]
+  },
+  {
+    "ProjectName": "Next-Gen Tech Expo",
+    "startTime": "2026-01-10T09:00:00",
+    "endTime": "2026-01-10T19:00:00",
+    "venue": "Medan Tech Pavilion",
+    "activities": [
+      {
+        "activityName": "Emerging Technologies Workshop",
+        "startTime": "2025-11-10T10:00:00",
+        "endTime": "2025-11-10T12:00:00",
+        "summary": "Workshop on the latest emerging technologies shaping industries, including AI, blockchain, and IoT."
+      },
+      {
+        "activityName": "Startup Pitch Session",
+        "startTime": "2025-11-17T14:00:00",
+        "endTime": "2025-11-17T16:00:00",
+        "summary": "Session where startups present their innovative tech solutions to a panel of investors and industry experts."
+      },
+      {
+        "activityName": "Tech Investor Meetup",
+        "startTime": "2025-11-24T13:00:00",
+        "endTime": "2025-11-24T15:00:00",
+        "summary": "Networking event connecting tech entrepreneurs with potential investors."
+      },
+      {
+        "activityName": "Product Demos",
+        "startTime": "2025-12-01T09:00:00",
+        "endTime": "2025-12-01T11:00:00",
+        "summary": "Demonstrations of new tech products from various companies, showcasing their features and applications."
+      },
+      {
+        "activityName": "Expo Setup",
+        "startTime": "2026-01-09T08:00:00",
+        "endTime": "2026-01-09T20:00:00",
+        "summary": "Setting up the exhibition spaces for the tech expo, ensuring all technology and displays are functional."
+      },
+      {
+        "activityName": "Expo Opening",
+        "startTime": "2026-01-10T08:00:00",
+        "endTime": "2026-01-10T09:00:00",
+        "summary": "Formal opening of the expo, introducing the participants and outlining the day's schedule."
+      },
+      {
+        "activityName": "Technology Showcases",
+        "startTime": "2026-01-10T10:00:00",
+        "endTime": "2026-01-10T18:00:00",
+        "summary": "Ongoing showcases featuring the latest advancements in technology from around from around the world, including interactive sessions for attendees to engage with tech innovators."
+      },
+      {
+        "activityName": "Panel Discussion on Future Tech",
+        "startTime": "2026-01-10T14:00:00",
+        "endTime": "2026-01-10T15:30:00",
+        "summary": "Panel discussion featuring industry leaders debating the potential impacts of new technologies on society and business."
+      },
+      {
+        "activityName": "Networking Event",
+        "startTime": "2026-01-10T16:00:00",
+        "endTime": "2026-01-10T17:00:00",
+        "summary": "A networking event designed for tech professionals to build connections and explore future collaborations."
+      },
+      {
+        "activityName": "Expo Conclusion",
+        "startTime": "2026-01-10T18:30:00",
+        "endTime": "2026-01-10T19:00:00",
+        "summary": "Closing ceremony that summarizes the day's events and highlights key technologies and insights shared."
+      }
+    ]
+  },
+  {
+    "ProjectName": "Global Environmental Summit",
+    "startTime": "2026-02-25T09:00:00",
+    "endTime": "2026-02-25T17:00:00",
+    "venue": "Jakarta Green Hub",
+    "activities": [
+      {
+        "activityName": "Sustainable Practices Workshop",
+        "startTime": "2025-12-25T10:00:00",
+        "endTime": "2025-12-25T12:00:00",
+        "summary": "Workshop on sustainable practices across industries, focusing on reducing environmental impact."
+      },
+      {
+        "activityName": "Green Technology Expo",
+        "startTime": "2026-01-01T14:00:00",
+        "endTime": "2026-01-01T16:00:00",
+        "summary": "Expo showcasing the latest in green technology, including renewable energy, waste management, and eco-friendly products."
+      },
+      {
+        "activityName": "Climate Change Panel",
+        "startTime": "2026-01-08T13:00:00",
+        "endTime": "2026-01-08T15:00:00",
+        "summary": "Panel discussion on climate change challenges and innovative solutions being implemented worldwide."
+      },
+      {
+        "activityName": "Environmental Policy Roundtable",
+        "startTime": "2026-01-15T09:00:00",
+        "endTime": "2026-01-15T11:00:00",
+        "summary": "Roundtable with policymakers, activists, and business leaders to discuss environmental policies and their implementation."
+      },
+      {
+        "activityName": "Summit Setup",
+        "startTime": "2026-02-24T08:00:00",
+        "endTime": "2026-02-24T17:00:00",
+        "summary": "Setting up the venue for the summit, arranging for exhibits and session areas to be properly equipped."
+      },
+      {
+        "activityName": "Summit Opening",
+        "startTime": "2026-02-25T08:00:00",
+        "endTime": "2026-02-25T09:00:00",
+        "summary": "Opening of the summit with a keynote address on the importance of global cooperation in environmental conservation."
+      },
+      {
+        "activityName": "Keynote on Biodiversity",
+        "startTime": "2026-02-25T09:30:00",
+        "endTime": "2026-02-25T10:30:00",
+        "summary": "Keynote presentation on biodiversity and the critical role it plays in maintaining ecological balance."
+      },
+      {
+        "activityName": "Sustainable Innovation Talks",
+        "startTime": "2026-02-25T11:00:00",
+        "endTime": "2026-02-25T13:00:00",
+        "summary": "Talks by innovators who are making significant strides in sustainable practices."
+      },
+      {
+        "activityName": "Networking Lunch",
+        "startTime": "2026-02-25T13:00:00",
+        "endTime": "2026-02-25T14:30:00",
+        "summary": "Lunch providing an opportunity for attendees to network and discuss potential collaborations and projects."
+      },
+      {
+        "activityName": "Summit Conclusion",
+        "startTime": "2026-02-25T16:30:00",
+        "endTime": "2026-02-25T17:00:00",
+        "summary": "Closing session to summarize the discussions, reinforce commitments, and outline future environmental initiatives."
+      }
+    ]
+  },
+  {
+    "ProjectName": "International Literary Festival",
+    "startTime": "2026-03-15T09:00:00",
+    "endTime": "2026-03-15T17:00:00",
+    "venue": "Bandung Literary Hub",
+    "activities": [
+      {
+        "activityName": "Author Meet and Greet",
+        "startTime": "2026-01-15T10:00:00",
+        "endTime": "2026-01-15T12:00:00",
+        "summary": "An opportunity for fans to meet their favorite authors and get books signed."
+      },
+      {
+        "activityName": "Poetry Workshop",
+        "startTime": "2026-01-22T14:00:00",
+        "endTime": "2026-01-22T16:00:00",
+        "summary": "Workshop on poetry writing techniques, hosted by renowned poets."
+      },
+      {
+        "activityName": "Panel on Modern Literature",
+        "startTime": "2026-01-29T13:00:00",
+        "endTime": "2026-01-29T15:00:00",
+        "summary": "Discussion on the trends and challenges in modern literature with authors and critics."
+      },
+      {
+        "activityName": "Children's Book Reading",
+        "startTime": "2026-02-05T09:00:00",
+        "endTime": "2026-02-05T11:00:00",
+        "summary": "A reading session aimed at children, featuring popular children's book authors."
+      },
+      {
+        "activityName": "Literary Festival Setup",
+        "startTime": "2026-03-14T08:00:00",
+        "endTime": "2026-03-14T20:00:00",
+        "summary": "Setting up the venue for the literary festival, arranging stages, seating, and book stalls."
+      },
+      {
+        "activityName": "Festival Opening",
+        "startTime": "2026-03-15T08:00:00",
+        "endTime": "2026-03-15T09:00:00",
+        "summary": "Official opening of the festival, welcoming attendees and outlining the day's schedule."
+      },
+      {
+        "activityName": "Author Panels",
+        "startTime": "2026-03-15T10:00:00",
+        "endTime": "2026-03-15T12:00:00",
+        "summary": "Multiple panels featuring discussions by authors from various genres."
+      },
+      {
+        "activityName": "Book Launches",
+        "startTime": "2026-03-15T13:00:00",
+        "endTime": "2026-03-15T15:00:00",
+        "summary": "Launch of new books by both new and established authors, with short readings and Q&A sessions."
+      },
+      {
+        "activityName": "Literary Awards Ceremony",
+        "startTime": "2026-03-15T16:00:00",
+        "endTime": "2026-03-15T17:00:00",
+        "summary": "Awards ceremony to honor outstanding contributions to literature in various categories."
+      }
+    ]
+  },
+  {
+    "ProjectName": "Global Sports Management Conference",
+    "startTime": "2026-04-20T09:00:00",
+    "endTime": "2026-04-20T17:00:00",
+    "venue": "Jakarta Sports Arena",
+    "activities": [
+      {
+        "activityName": "Sports Analytics Workshop",
+        "startTime": "2026-02-20T10:00:00",
+        "endTime": "2026-02-20T12:00:00",
+        "summary": "Workshop on the use of analytics and data science in sports performance and management."
+      },
+      {
+        "activityName": "Panel on Athlete Development",
+        "startTime": "2026-02-27T14:00:00",
+        "endTime": "2026-02-27T16:00:00",
+        "summary": "Panel discussion focusing on best practices for athlete development and management across various sports."
+      },
+      {
+        "activityName": "Sponsorship Strategy Session",
+        "startTime": "2026-03-05T13:00:00",
+        "endTime": "2026-03-05T15:00:00",
+        "summary": "A strategic session on how to attract and manage sponsorship deals in the sports industry."
+      },
+      {
+        "activityName": "Networking Event for Sports Professionals",
+        "startTime": "2026-03-12T09:00:00",
+        "endTime": "2026-03-12T11:00:00",
+        "summary": "A networking event designed for professionals in the sports industry to connect and explore new opportunities."
+      },
+      {
+        "activityName": "Conference Setup",
+        "startTime": "2026-04-19T08:00:00",
+        "endTime": "2026-04-19T20:00:00",
+        "summary": "Setting up the venue, ensuring that all facilities are ready for the conference presentations and guest accommodations."
+      },
+      {
+        "activityName": "Conference Opening",
+        "startTime": "2026-04-20T08:00:00",
+        "endTime": "2026-04-20T09:00:00",
+        "summary": "Opening of the conference with a welcome speech from notable figures in the sports management industry."
+      },
+      {
+        "activityName": "Keynote on Sports Industry Trends",
+        "startTime": "2026-04-20T09:30:00",
+        "endTime": "2026-04-20T10:30:00",
+        "summary": "A keynote address highlighting current trends and future predictions in the sports industry."
+      },
+      {
+        "activityName": "Breakout Sessions",
+        "startTime": "2026-04-20T11:00:00",
+        "endTime": "2026-04-20T13:00:00",
+        "summary": "Various breakout sessions focusing on specific areas of sports management, including marketing, legal issues, and athlete welfare."
+      },
+      {
+        "activityName": "Lunch and Learn",
+        "startTime": "2026-04-20T13:00:00",
+        "endTime": "2026-04-20T14:00:00",
+        "summary": "A lunch session where attendees can learn from experts in a more informal setting, discussing innovative ideas in sports management."
+      },
+      {
+        "activityName": "Panel on International Sports Governance",
+        "startTime": "2026-04-20T14:30:00",
+        "endTime": "2026-04-20T16:00:00",
+        "summary": "Panel discussion involving leaders in international sports organizations to discuss governance and global sports policies."
+      },
+      {
+        "activityName": "Conference Conclusion",
+        "startTime": "2026-04-20T16:30:00",
+        "endTime": "2026-04-20T17:00:00",
+        "summary": "Closing remarks summarizing the key insights from the conference and outlining the next steps for the attendees."
+      }
+    ]
+  }
+]

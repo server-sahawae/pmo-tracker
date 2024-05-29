@@ -3,11 +3,13 @@ const {
   DATA_NOT_FOUND,
   DATA_EXIST,
   KADIN_ONLY,
+  NO_AUTHORIZE,
 } = require("../constants/ErrorKeys");
 const { loggerError } = require("../helpers/loggerDebug");
 
 module.exports = function ErrorHandler(err, req, res, next) {
-  // console.log(err);
+  // console.log(err.message);
+  // loggerError(err);
   switch (err.name) {
     case FILE_TOO_BIG:
       data = {
@@ -30,6 +32,13 @@ module.exports = function ErrorHandler(err, req, res, next) {
         message: "Data not Found!",
       };
       break;
+    case NO_AUTHORIZE:
+      data = {
+        code: 401,
+        name: NO_AUTHORIZE,
+        message: "You have no authorization!",
+      };
+      break;
     case KADIN_ONLY:
       data = {
         code: 404,
@@ -48,6 +57,7 @@ module.exports = function ErrorHandler(err, req, res, next) {
       };
       break;
   }
-  loggerError({ code: data.code, message: data.message });
+  // console.log(err.name);
+  loggerError({ code: data.code, name: err.name, message: err.message });
   res.status(data.code).json({ message: data.message });
 };

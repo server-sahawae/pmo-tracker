@@ -2,7 +2,7 @@ const { redisPMO } = require("../config/redis");
 
 const deleteRedisKeys = async (keys) => {
   try {
-    // console.log(keys);
+    console.log(keys);
     const redKeys = await redisPMO.keys("*");
 
     for (let i = 0; i < redKeys.length; i++) {

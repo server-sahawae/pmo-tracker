@@ -1,7 +1,7 @@
 "use strict";
 const { Model } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
-  class UserLevel extends Model {
+  class UserPartnerProgramProjectActivity extends Model {
     /**
      * Helper method for defining associations.
      * This method is not a part of Sequelize lifecycle.
@@ -9,23 +9,26 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      UserLevel.hasMany(models.UserUserLevel);
     }
   }
-  UserLevel.init(
+  UserPartnerProgramProjectActivity.init(
     {
       id: {
         type: DataTypes.UUIDV4,
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
       },
-      name: DataTypes.STRING,
+      UserId: DataTypes.UUID,
+      PartnerId: DataTypes.UUID,
+      ProgramId: DataTypes.UUID,
+      ProjectId: DataTypes.UUID,
+      ActivityId: DataTypes.UUID,
+      createdBy: { type: DataTypes.UUIDV4, references: "Users" },
     },
     {
-      paranoid: true,
       sequelize,
-      modelName: "UserLevel",
+      modelName: "UserPartnerProgramProjectActivity",
     }
   );
-  return UserLevel;
+  return UserPartnerProgramProjectActivity;
 };

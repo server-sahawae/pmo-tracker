@@ -36,8 +36,6 @@ module.exports = class Controller {
         PartnerPosition,
       } = req.body;
 
-      console.log(program.id, "!!!!!!!!!");
-
       if (!program.id) {
         const programRestored = await Program.restore({
           where: {
@@ -272,22 +270,18 @@ module.exports = class Controller {
       // await redisPMO.connect();
       const { id: PartnerId } = req.params;
 
-      const redisCheck = await redisPMO.get(`[Program]PartnerId:${PartnerId}`);
-      if (redisCheck) {
-        res.status(200).json(JSON.parse(redisCheck));
-      } else {
-        const result = await Program.findAll({
-          where: { PartnerId },
-          order: [["name", "asc"]],
-        });
-        if (result.length > 0)
-          await redisPMO.set(
-            `[Program]PartnerId:${PartnerId}`,
-            JSON.stringify(result, null, 2),
-            { EX: expireRedis }
-          );
-        res.status(200).json(result);
-      }
+      const result = await Program.findAll({
+        where: { PartnerId },
+        order: [["name", "asc"]],
+      });
+      // if (result.length > 0)
+
+      await redisPMO.set(
+        `[Program]PartnerId:${PartnerId}`,
+        JSON.stringify(result, null, 2),
+        { EX: expireRedis }
+      );
+      res.status(200).json(result);
     } catch (error) {
       console.log(error);
       next(error);
@@ -299,66 +293,55 @@ module.exports = class Controller {
       // await redisPMO.connect();
 
       const { id: ProgramId } = req.params;
-      console.log(
-        "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+
+      const { dataValues: data1 } = await Program.findOne({
+        where: { id: ProgramId },
+        include: [Partner, ProgramVision, ProgramDriver],
+      });
+      const { dataValues: data2 } = await Program.findOne({
+        where: { id: ProgramId },
+        include: [ProgramIndicator, ProgramPhase],
+      });
+      const programPartner = await ProgramPartner.findAll({
+        where: { ProgramId },
+        include: [Partner],
+      });
+      const programPriority = await ProgramPriority.findAll({
+        where: { ProgramId },
+        include: [Priority],
+      });
+      const programPartnerPosition = await PartnerPosition.findAll({
+        include: [
+          {
+            model: ProgramPartnerPosition,
+            where: { ProgramId },
+            as: "ProgramCommittee",
+          },
+          {
+            model: Position,
+          },
+          {
+            model: Partner,
+          },
+        ],
+        // include: [Position],
+      });
+      const result = {
+        ...data1,
+        ...data2,
+        ProgramPartner: programPartner,
+        ProgramPriority: programPriority,
+        ProgramPartnerPosition: programPartnerPosition,
+      };
+      await redisPMO.set(
+        `[ProgramDetail]ProgramId:${ProgramId}`,
+        JSON.stringify(result, null, 2),
+        { EX: expireRedis }
       );
-      console.log(ProgramId);
-      const redisCheck = await redisPMO.get(
-        `[ProgramDetail]ProgramId:${ProgramId}`
-      );
-      if (!redisCheck) {
-        const { dataValues: data1 } = await Program.findOne({
-          where: { id: ProgramId },
-          include: [Partner, ProgramVision, ProgramDriver],
-        });
-        const { dataValues: data2 } = await Program.findOne({
-          where: { id: ProgramId },
-          include: [ProgramIndicator, ProgramPhase],
-        });
-        const programPartner = await ProgramPartner.findAll({
-          where: { ProgramId },
-          include: [Partner],
-        });
-        const programPriority = await ProgramPriority.findAll({
-          where: { ProgramId },
-          include: [Priority],
-        });
-        const programPartnerPosition = await PartnerPosition.findAll({
-          include: [
-            {
-              model: ProgramPartnerPosition,
-              where: { ProgramId },
-              as: "ProgramCommittee",
-            },
-            {
-              model: Position,
-            },
-            {
-              model: Partner,
-            },
-          ],
-          // include: [Position],
-        });
-        const result = {
-          ...data1,
-          ...data2,
-          ProgramPartner: programPartner,
-          ProgramPriority: programPriority,
-          ProgramPartnerPosition: programPartnerPosition,
-        };
-        await redisPMO.set(
-          `[ProgramDetail]ProgramId:${ProgramId}`,
-          JSON.stringify(result, null, 2),
-          { EX: expireRedis }
-        );
-        res.status(200).json(result);
-      } else res.status(200).json(JSON.parse(redisCheck));
+      res.status(200).json(result);
     } catch (error) {
       console.log(error);
       next(error);
-    } finally {
-      //       await redisPMO.disconnect();
-      console.log("Redis closed");
     }
   }
 

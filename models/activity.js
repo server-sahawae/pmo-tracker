@@ -10,8 +10,9 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       // define association here
       Activity.hasMany(models.Discussion);
-      Activity.hasOne(models.PartnerProjectActivity);
       Activity.belongsTo(models.Category);
+      Activity.belongsTo(models.Partner);
+      Activity.belongsTo(models.Project);
     }
   }
   Activity.init(
@@ -24,7 +25,10 @@ module.exports = (sequelize, DataTypes) => {
       title: DataTypes.STRING,
       location: DataTypes.STRING,
       CategoryId: DataTypes.UUIDV4,
+      PartnerId: DataTypes.UUIDV4,
+      ProjectId: DataTypes.UUIDV4,
       start: DataTypes.DATE,
+      score: DataTypes.INTEGER,
       end: DataTypes.DATE,
       summary: DataTypes.TEXT,
       isMain: DataTypes.BOOLEAN,
@@ -32,6 +36,8 @@ module.exports = (sequelize, DataTypes) => {
       photo: DataTypes.BOOLEAN,
       video: DataTypes.BOOLEAN,
       release: DataTypes.BOOLEAN,
+      createdBy: { type: DataTypes.UUIDV4, references: "Users" },
+      updatedBy: { type: DataTypes.UUIDV4, references: "Users" },
     },
     {
       paranoid: true,

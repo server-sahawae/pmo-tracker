@@ -28,6 +28,16 @@ module.exports = {
           allowNull: false,
           type: Sequelize.DATE,
         },
+        createdBy: {
+          type: Sequelize.UUID,
+          allowNull: false,
+          references: { model: "Users" },
+        },
+        updatedBy: {
+          type: Sequelize.UUID,
+          allowNull: false,
+          references: { model: "Users" },
+        },
         deletedAt: {
           type: Sequelize.DATE,
         },

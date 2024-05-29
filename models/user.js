@@ -10,8 +10,8 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       // define association here
       User.belongsTo(models.PartnerPosition);
-      User.belongsTo(models.UserLevel);
       User.hasMany(models.ProjectInvitation);
+      User.hasMany(models.UserUserLevel);
     }
   }
   User.init(
@@ -25,17 +25,10 @@ module.exports = (sequelize, DataTypes) => {
         type: DataTypes.UUIDV4,
         allowNull: false,
       },
-      kta: DataTypes.STRING,
-      position: DataTypes.STRING,
       name: DataTypes.STRING,
-      email: DataTypes.STRING,
+      email: { type: DataTypes.STRING, validate: { isEmail: true } },
       phone: DataTypes.STRING,
-      GoogleId: DataTypes.STRING,
-      picture: DataTypes.BLOB,
-      UserLevelId: {
-        type: DataTypes.UUIDV4,
-        allowNull: false,
-      },
+      picture: DataTypes.STRING,
     },
     {
       paranoid: true,

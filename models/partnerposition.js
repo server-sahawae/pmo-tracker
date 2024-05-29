@@ -16,6 +16,7 @@ module.exports = (sequelize, DataTypes) => {
       PartnerPosition.hasMany(models.ProgramPartnerPosition, {
         as: "ProgramCommittee",
       });
+      PartnerPosition.hasMany(models.User);
       PartnerPosition.belongsTo(models.Partner);
       PartnerPosition.belongsTo(models.Position);
     }

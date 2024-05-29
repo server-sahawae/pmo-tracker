@@ -11,8 +11,12 @@ module.exports = (sequelize, DataTypes) => {
       // define association here
       Project.hasMany(models.ProjectRundown);
       Project.belongsTo(models.Category);
-      Project.hasMany(models.PartnerProjectActivity);
-      Project.hasMany(models.ProjectProgramIndicator);
+      Project.belongsToMany(models.Partner, { through: models.PartnerProject });
+      Project.hasMany(models.Activity);
+      Project.hasMany(models.PartnerProject);
+      Project.belongsToMany(models.ProgramIndicator, {
+        through: models.ProjectProgramIndicator,
+      });
     }
   }
   Project.init(
@@ -23,17 +27,16 @@ module.exports = (sequelize, DataTypes) => {
         primaryKey: true,
       },
       CategoryId: DataTypes.UUIDV4,
+      folderUrl: DataTypes.STRING,
       title: DataTypes.STRING,
       location: DataTypes.STRING,
       start: DataTypes.DATE,
       end: DataTypes.DATE,
       background: DataTypes.TEXT,
-      // flyer: DataTypes.BOOLEAN,
-      // photo: DataTypes.BOOLEAN,
-      // video: DataTypes.BOOLEAN,
-      // release: DataTypes.BOOLEAN,
-      status: DataTypes.INTEGER,
+
       image: DataTypes.BLOB("medium"),
+      createdBy: { type: DataTypes.UUIDV4, references: "Users" },
+      updatedBy: { type: DataTypes.UUIDV4, references: "Users" },
     },
     {
       paranoid: true,

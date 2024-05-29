@@ -11,9 +11,18 @@ const userRoutes = require("./user");
 const ProgramIndicatorRoutes = require("./ProgramIndicator");
 const projectRoutes = require("./project");
 const activityRoutes = require("./activity");
+const gdriveRoutes = require("./gdrive");
+const { redisPMO, redisSearch } = require("../config/redis");
 
-routes.get("/", (req, res) => {
-  res.send("HELLO WORLD");
+routes.get("/", async (req, res) => {
+  try {
+    // throw "error";
+    await redisPMO.flushAll();
+    await redisSearch.flushAll();
+    res.send("Redis Flush!");
+  } catch (error) {
+    res.send(error);
+  }
 });
 routes.use("/program", programRoutes);
 routes.use("/institution", institutionRoutes);
@@ -26,5 +35,6 @@ routes.use("/user", userRoutes);
 routes.use("/ProgramIndicator", ProgramIndicatorRoutes);
 routes.use("/project", projectRoutes);
 routes.use("/activity", activityRoutes);
+routes.use("/gdrive", gdriveRoutes);
 
 module.exports = routes;

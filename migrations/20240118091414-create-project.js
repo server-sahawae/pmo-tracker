@@ -14,6 +14,9 @@ module.exports = {
         allowNull: false,
         references: { model: "Categories" },
       },
+      folderUrl: {
+        type: Sequelize.STRING,
+      },
       title: {
         type: Sequelize.STRING,
       },
@@ -29,22 +32,6 @@ module.exports = {
       background: {
         type: Sequelize.TEXT,
       },
-      // flyer: {
-      //   type: Sequelize.BOOLEAN,
-      // },
-      // photo: {
-      //   type: Sequelize.BOOLEAN,
-      // },
-      // video: {
-      //   type: Sequelize.BOOLEAN,
-      // },
-      // release: {
-      //   type: Sequelize.BOOLEAN,
-      // },
-      status: {
-        type: Sequelize.INTEGER,
-        defaultValue: 0,
-      },
       image: {
         type: Sequelize.BLOB("medium"),
       },
@@ -55,6 +42,16 @@ module.exports = {
       updatedAt: {
         allowNull: false,
         type: Sequelize.DATE,
+      },
+      createdBy: {
+        type: Sequelize.UUID,
+        allowNull: false,
+        references: { model: "Users" },
+      },
+      updatedBy: {
+        type: Sequelize.UUID,
+        allowNull: false,
+        references: { model: "Users" },
       },
       deletedAt: {
         type: Sequelize.DATE,
