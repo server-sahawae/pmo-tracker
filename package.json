@@ -12,7 +12,8 @@
     "seqInit": "npx sequelize db:migrate && npx sequelize db:seed:all",
     "seqMigrate": "npx sequelize db:migrate",
     "seqSeed": "npx sequelize db:seed:all",
-    "seqUndoMigrate": "npx sequelize db:migrate:undo:all"
+    "seqUndoMigrate": "npx sequelize db:migrate:undo:all",
+    "reset": "sequelize db:drop && sequelize db:create && sequelize db:migrate && sequelize db:seed:all && npm run dev"
   },
   "author": "",
   "license": "ISC",

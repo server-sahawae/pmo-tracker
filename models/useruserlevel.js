@@ -22,6 +22,7 @@ module.exports = (sequelize, DataTypes) => {
       },
       UserId: DataTypes.UUID,
       UserLevelId: DataTypes.UUID,
+      createdBy: { type: DataTypes.UUID, references: "Users" },
     },
     {
       sequelize,

@@ -1,8 +1,67 @@
 [
   {
+    "id": "b57054ee-7f1a-4a35-a5aa-6bfcd87fc20a",
+    "email": "ayu.kemalasari@kadin.id",
+    "PartnerId": "0f43f3b4-7d73-4264-9db6-102d870a445c",
+    "UserLevelId": "72372ccb-a973-4413-8d8f-2ffda25b78580"
+  },
+  {
+    "id": "d5538a97-0560-4cfc-8d54-8c34fcfd3394",
+    "email": "hauralia.rahmadanti@kadin.id",
+    "PartnerId": "0f43f3b4-7d73-4264-9db6-102d870a445c",
+    "UserLevelId": "72372ccb-a973-4413-8d8f-2ffda25b78580"
+  },
+  {
+    "id": "0ceb4f4a-54d3-410e-abff-d1625dd176fc",
+    "email": "doni.priambodo@kadin.id",
+    "PartnerId": "0f43f3b4-7d73-4264-9db6-102d870a445c",
+    "UserLevelId": "72372ccb-a973-4413-8d8f-2ffda25b78580"
+  },
+  {
+    "id": "2e83f415-c1fb-4446-8089-f6533ad07d1b",
+    "email": "nabil.ghazi@kadin.id",
+    "PartnerId": "0f43f3b4-7d73-4264-9db6-102d870a445c",
+    "UserLevelId": "72372ccb-a973-4413-8d8f-2ffda25b78580"
+  },
+  {
+    "id": "1afea864-9048-4075-beca-3a03ee2527d1",
+    "email": "monica.balqis@kadin.id",
+    "PartnerId": "0f43f3b4-7d73-4264-9db6-102d870a445c",
+    "UserLevelId": "72372ccb-a973-4413-8d8f-2ffda25b78580"
+  },
+  {
+    "id": "ce3ea604-109d-45d9-9ffb-03bd6a54cd75",
+    "email": "christian.pareira@kadin.id",
+    "PartnerId": "0f43f3b4-7d73-4264-9db6-102d870a445c",
+    "UserLevelId": "72372ccb-a973-4413-8d8f-2ffda25b78580"
+  },
+  {
+    "id": "41ddc84d-de8b-4c05-96ed-f140b70655e6",
+    "email": "kevin.daniel@kadin.id",
+    "PartnerId": "0f43f3b4-7d73-4264-9db6-102d870a445c",
+    "UserLevelId": "72372ccb-a973-4413-8d8f-2ffda25b78580"
+  },
+  {
+    "id": "32e92e99-ba9d-468c-9ad4-4c8d8c4b9dab",
+    "email": "dio.mahendra@kadin.id",
+    "PartnerId": "0f43f3b4-7d73-4264-9db6-102d870a445c",
+    "UserLevelId": "72372ccb-a973-4413-8d8f-2ffda25b78580"
+  },
+  {
+    "id": "b4ce51ab-87a6-41b4-9c97-135a69fcbef8",
+    "email": "kreshna.wiryatama@kadin.id",
+    "PartnerId": "0f43f3b4-7d73-4264-9db6-102d870a445c",
+    "UserLevelId": "72372ccb-a973-4413-8d8f-2ffda25b78580"
+  },
+  {
+    "id": "4d0d7aac-4e44-42bf-90a9-ec3253ae29a3",
+    "email": "samuelkharish@kadin.id",
+    "PartnerId": "0f43f3b4-7d73-4264-9db6-102d870a445c",
+    "UserLevelId": "72372ccb-a973-4413-8d8f-2ffda25b78580"
+  },
+  {
     "id": "6dace56b-2cc7-441b-9eb0-f12a5f51d61a",
     "PartnerId": "0f43f3b4-7d73-4264-9db6-102d870a445c",
-    "name": "Muhammad Sayid Sabiq",
     "email": "sabiq@kadin.id",
     "UserLevelId": "72372ccb-a973-4413-8d8f-2ffda25b78580"
   },

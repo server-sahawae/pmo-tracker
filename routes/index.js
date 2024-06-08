@@ -11,6 +11,7 @@ const userRoutes = require("./user");
 const ProgramIndicatorRoutes = require("./ProgramIndicator");
 const projectRoutes = require("./project");
 const activityRoutes = require("./activity");
+const assignmentRoutes = require("./assignment");
 const gdriveRoutes = require("./gdrive");
 const { redisPMO, redisSearch } = require("../config/redis");
 
@@ -35,6 +36,7 @@ routes.use("/user", userRoutes);
 routes.use("/ProgramIndicator", ProgramIndicatorRoutes);
 routes.use("/project", projectRoutes);
 routes.use("/activity", activityRoutes);
+routes.use("/assignment", assignmentRoutes);
 routes.use("/gdrive", gdriveRoutes);
 
 module.exports = routes;

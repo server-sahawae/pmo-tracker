@@ -9,6 +9,12 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
+      UserPartnerProgramProjectActivity.belongsTo(models.Partner);
+      UserPartnerProgramProjectActivity.belongsTo(models.User);
+      UserPartnerProgramProjectActivity.belongsTo(models.User, {
+        as: "Creator",
+        foreignKey: "createdBy",
+      });
     }
   }
   UserPartnerProgramProjectActivity.init(
@@ -23,7 +29,7 @@ module.exports = (sequelize, DataTypes) => {
       ProgramId: DataTypes.UUID,
       ProjectId: DataTypes.UUID,
       ActivityId: DataTypes.UUID,
-      createdBy: { type: DataTypes.UUIDV4, references: "Users" },
+      createdBy: { type: DataTypes.UUID, references: "Users" },
     },
     {
       sequelize,

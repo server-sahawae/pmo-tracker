@@ -3,18 +3,17 @@ const { encryptData, decryptData } = require("./encryptDecrypt");
 const keys = process.env.JWT_TOKEN;
 const googleKey = process.env.GOOGLE_KEY;
 
-function createToken(data, staySignedIn) {
-  let result;
-  if (!staySignedIn) {
-    result = jwt.sign({ ...data, staySignedIn: false }, keys, {
-      expiresIn: "24h",
-    });
-  } else result = jwt.sign({ ...data, staySignedIn }, keys);
-  return encryptData(result);
+function createToken(data) {
+  result = jwt.sign({ ...data }, keys, {
+    expiresIn: "7d",
+  });
+  return result;
+  // return encryptData(result);
 }
 
 function verifyToken(token) {
-  token = decryptData(token);
+  // token = decryptData(token);
+  // console.log(jwt.verify(token, keys));
   return jwt.verify(token, keys);
 }
 

@@ -12,6 +12,8 @@ module.exports = (sequelize, DataTypes) => {
       User.belongsTo(models.PartnerPosition);
       User.hasMany(models.ProjectInvitation);
       User.hasMany(models.UserUserLevel);
+      User.hasMany(models.UserPartnerProgramProjectActivity);
+      User.hasMany(models.UserPartnerProgramProjectActivity, { as: "Creator" });
     }
   }
   User.init(
@@ -23,7 +25,6 @@ module.exports = (sequelize, DataTypes) => {
       },
       PartnerPositionId: {
         type: DataTypes.UUIDV4,
-        allowNull: false,
       },
       name: DataTypes.STRING,
       email: { type: DataTypes.STRING, validate: { isEmail: true } },

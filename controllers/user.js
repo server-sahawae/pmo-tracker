@@ -16,20 +16,21 @@ const {
 const { redisSearch, redisPMO } = require("../config/redis");
 const { expireRedis } = require("../constants/staticValue");
 const verifyGoogleAuth = require("../helpers/googleOauth");
+const { createToken, verifyToken } = require("../helpers/jwt");
 
 module.exports = class Controller {
   static async createUser(req, res, next) {
     try {
-      const { name, email, phone } = req.body;
+      const { email } = req.body;
       //   await Role.create({ name: "test", level: 1 });
       const [user, created] = await User.findOrCreate({
         where: { email },
         defaults: {
-          level: 1,
+          createdBy: req.access.id,
         },
       });
       if (created) {
-        res.status(200).json(user.name);
+        res.status(200).json(`User has been created with email: ${user.email}`);
       } else throw { name: BAD_REQUEST };
     } catch (error) {
       next(error);
@@ -145,30 +146,39 @@ module.exports = class Controller {
 
   static async GoogleVerification(req, res, next) {
     try {
-      // console.log("!!!!!!!!!!!!!!!!!!!!!!!");
+      res.status(200).json(true);
+    } catch (error) {
+      console.log(error);
+      next(error);
+    }
+  }
 
+  static async login(req, res, next) {
+    try {
       const { access_token, userlevelid: UserLevelId } = req.headers;
       if (!access_token) throw { name: UNAUTHORIZED };
-      const redisCheck = await redisPMO.get(access_token);
-      if (!redisCheck) {
-        const result = await verifyGoogleAuth(access_token);
-        console.log("!!!!!!!!!!!!!!!!!!!!!!!");
-        const auth = await UserUserLevel.findOne({
-          where: {
-            UserLevelId,
-          },
-          include: { model: User, where: { email: result.payload.email } },
-        });
-        // console.log(auth);
-        if (!auth) throw { name: NO_AUTHORIZE };
-        await redisPMO.set(
-          access_token,
-          JSON.stringify({ email: result.payload.email, UserId: auth.id }),
-          { EXAT: result.payload.exp }
-        );
+      const result = await verifyGoogleAuth(access_token);
+      console.log(result.payload);
+      const auth = JSON.parse(
+        JSON.stringify(
+          await UserUserLevel.findOne({
+            where: {
+              UserLevelId,
+            },
+            include: { model: User, where: { email: result.payload.email } },
+          })
+        )
+      );
+      if (!auth) throw { name: NO_AUTHORIZE };
+      await User.update(
+        {
+          name: result.payload.name,
+          picture: result.payload.picture,
+        },
+        { where: { id: auth.User.id } }
+      );
 
-        res.status(200).json(result.payload);
-      } else res.status(200).json(JSON.parse(redisCheck));
+      res.status(200).json(createToken({ id: auth.User.id }));
     } catch (error) {
       console.log(error);
       next(error);

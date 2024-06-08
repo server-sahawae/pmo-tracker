@@ -19,6 +19,7 @@ module.exports = (sequelize, DataTypes) => {
       });
       Partner.belongsToMany(models.Project, { through: "PartnerProject" });
       Partner.hasMany(models.Activity);
+      Partner.hasMany(models.UserPartnerProgramProjectActivity);
     }
   }
   Partner.init(
