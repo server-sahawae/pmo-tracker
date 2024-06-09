@@ -5,7 +5,6 @@ const client = new OAuth2Client();
 
 async function verifyGoogleAuth(token) {
   try {
-    // console.log(CLIENT_ID);
     const ticket = await client.verifyIdToken({
       idToken: token,
       audience: CLIENT_ID,

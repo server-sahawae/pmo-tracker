@@ -5,9 +5,10 @@ module.exports = {
     username: process.env.DATABASE_USERNAME,
     password: process.env.DATABASE_PASSWORD,
     database: process.env.DATABASE_NAME_DEV,
+    host: "127.0.0.1",
     host: "217.21.72.148",
     dialect: "mysql",
-
+    // port: 3306,
     timezone: "+07:00",
   },
   test: {

@@ -1,9 +1,5 @@
 const { Op } = require("sequelize");
-const {
-  UNAUTHORIZED,
-  BAD_REQUEST,
-  NO_AUTHORIZE,
-} = require("../constants/ErrorKeys");
+const { BAD_REQUEST, NO_AUTHORIZE } = require("../constants/ErrorKeys");
 
 const {
   User,
@@ -146,7 +142,8 @@ module.exports = class Controller {
 
   static async GoogleVerification(req, res, next) {
     try {
-      res.status(200).json(true);
+      delete req.access.id;
+      res.status(200).json(req.access);
     } catch (error) {
       console.log(error);
       next(error);
@@ -155,8 +152,9 @@ module.exports = class Controller {
 
   static async login(req, res, next) {
     try {
+      console.log("=================== login =================");
       const { access_token, userlevelid: UserLevelId } = req.headers;
-      if (!access_token) throw { name: UNAUTHORIZED };
+      if (!access_token) throw { name: NO_AUTHORIZE };
       const result = await verifyGoogleAuth(access_token);
       console.log(result.payload);
       const auth = JSON.parse(
@@ -178,7 +176,10 @@ module.exports = class Controller {
         { where: { id: auth.User.id } }
       );
 
-      res.status(200).json(createToken({ id: auth.User.id }));
+      res.status(200).json({
+        name: auth.User.name,
+        access_token: createToken({ id: auth.User.id }),
+      });
     } catch (error) {
       console.log(error);
       next(error);

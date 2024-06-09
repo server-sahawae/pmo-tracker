@@ -8,10 +8,11 @@ const {
   deleteProject,
   projectScore,
 } = require("../controllers/project");
+const { getUserFromAccessToken } = require("../middlewares/authHandler");
 
 const routes = require("express").Router();
 
-routes.post("/", createProject);
+routes.post("/", getUserFromAccessToken, createProject);
 routes.get("/image/:ProjectId", ProjectImage);
 routes.post("/image/:id", uploadImage);
 routes.get("/program/:ProgramId", findAllProjectsByProgramId);

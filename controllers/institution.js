@@ -150,4 +150,45 @@ module.exports = class Controller {
       next(error);
     }
   }
+
+  static async institutionSinergy(req, res, next) {
+    try {
+      const { quarter = "all", year = new Date().getFullYear() } = req.query;
+      console.log(quarter);
+      console.log(quarter);
+      let quarterTime;
+      if (quarter == "all")
+        quarterTime = moment().format("YYYY-MM-DD HH:mm:ss");
+      else if (quarter == 1)
+        quarterTime = moment(new Date(`${year}-3-1`))
+          .endOf("month")
+          .format("YYYY-MM-DD HH:mm:ss");
+      else if (quarter == 2)
+        quarterTime = moment(new Date(`${year}-6-1`))
+          .endOf("month")
+          .format("YYYY-MM-DD HH:mm:ss");
+      else if (quarter == 3)
+        quarterTime = moment(new Date(`${year}-9-1`))
+          .endOf("month")
+          .format("YYYY-MM-DD HH:mm:ss");
+      else if (quarter == 4)
+        quarterTime = moment(new Date(`${year}-12-1`))
+          .endOf("month")
+          .format("YYYY-MM-DD HH:mm:ss");
+
+      const result = (
+        await sequelize.query(
+          `SELECT i.id ,i.name , COUNT(p.InstitutionId) - COUNT(DISTINCT pp.ProjectId ) AS TotalSinergy , COUNT(DISTINCT pp.ProjectId ) AS TotalProject, COUNT(DISTINCT pp.PartnerId ) AS TotalPartner  FROM PartnerProjects pp 
+INNER JOIN Partners p ON pp.PartnerId = p.id 
+INNER JOIN Projects p2 ON p2.id =pp.ProjectId 
+INNER JOIN Institutions i ON p.InstitutionId = i.id 
+WHERE pp.deletedAt IS NULL AND p2.end <= '${quarterTime}'
+GROUP BY p.InstitutionId;`
+        )
+      )[0];
+      res.status(200).json(result);
+    } catch (error) {
+      next(error);
+    }
+  }
 };

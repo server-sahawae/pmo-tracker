@@ -17,14 +17,14 @@ const {
 const { KADIN_ONLY } = require("../constants/ErrorKeys");
 
 const { kadinIndonesia, expireRedis } = require("../constants/staticValue");
-const { redisPMO } = require("../config/redis");
+const { redisPMO, redisSearch } = require("../config/redis");
 const { deleteRedisKeys } = require("../helpers/redis");
 module.exports = class Controller {
   static async createProgram(req, res, next) {
     const t = await sequelize.transaction();
     try {
-      // await redisPMO.connect();
-
+      await redisPMO.flushAll();
+      await redisSearch.flushAll();
       const {
         program,
         vision,
@@ -348,6 +348,8 @@ module.exports = class Controller {
   static async deleteProgram(req, res, next) {
     const t = await sequelize.transaction();
     try {
+      await redisPMO.flushAll();
+      await redisSearch.flushAll();
       const { ProgramId } = req.params;
       const result = await Program.destroy(
         {

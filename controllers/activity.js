@@ -13,7 +13,7 @@ const {
 const { KADIN_ONLY, DATA_NOT_FOUND } = require("../constants/ErrorKeys");
 const moment = require("moment");
 const { kadinIndonesia, expireRedis } = require("../constants/staticValue");
-const { redisPMO } = require("../config/redis");
+const { redisPMO, redisSearch } = require("../config/redis");
 const { deleteRedisKeys } = require("../helpers/redis");
 const { v4 } = require("uuid");
 module.exports = class Controller {
@@ -22,9 +22,10 @@ module.exports = class Controller {
 
     try {
       const activity = req.body;
+      const { id: userAccessId } = req.access;
       console.log(activity);
-      await deleteRedisKeys(activity.PartnerId);
-      await deleteRedisKeys(activity.ProjectId);
+      await redisPMO.flushAll();
+      await redisSearch.flushAll();
 
       let result = [];
       if (!activity.info.id) {
@@ -37,6 +38,8 @@ module.exports = class Controller {
             ...activity.info,
             PartnerId: activity.PartnerId,
             ProjectId: activity.ProjectId,
+            createdBy: userAccessId,
+            updatedBy: userAccessId,
             id: v4(),
           },
           { transaction: t }
@@ -47,6 +50,7 @@ module.exports = class Controller {
             ...activity.info,
             PartnerId: activity.PartnerId,
             ProjectId: activity.ProjectId,
+            updatedBy: userAccessId,
           },
           { transaction: t, where: { id: activity.info.id } }
         );
@@ -85,7 +89,8 @@ module.exports = class Controller {
 
     try {
       const { ActivityId } = req.params;
-      await deleteRedisKeys([ActivityId]);
+      await redisPMO.flushAll();
+      await redisSearch.flushAll();
       const result = await Activity.destroy(
         { where: { id: ActivityId } },
         { transaction: t }

@@ -1,12 +1,11 @@
 const jwt = require("jsonwebtoken");
-const { encryptData, decryptData } = require("./encryptDecrypt");
 const keys = process.env.JWT_TOKEN;
-const googleKey = process.env.GOOGLE_KEY;
 
 function createToken(data) {
-  result = jwt.sign({ ...data }, keys, {
+  const result = jwt.sign({ ...data }, keys, {
     expiresIn: "7d",
   });
+  console.log(result);
   return result;
   // return encryptData(result);
 }
