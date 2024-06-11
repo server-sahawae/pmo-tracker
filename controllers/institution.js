@@ -177,14 +177,17 @@ module.exports = class Controller {
           .format("YYYY-MM-DD HH:mm:ss");
 
       const result = (
-        await sequelize.query(
-          `SELECT i.id ,i.name , COUNT(p.InstitutionId) - COUNT(DISTINCT pp.ProjectId ) AS TotalSinergy , COUNT(DISTINCT pp.ProjectId ) AS TotalProject, COUNT(DISTINCT pp.PartnerId ) AS TotalPartner  FROM PartnerProjects pp 
+        await sequelize.query(`WITH ProjectScores AS (SELECT a.ProjectId, SUM(a.score) AS TotalScore FROM Activities a
+WHERE a.summary IS NOT NULL
+GROUP BY a.ProjectId
+HAVING TotalScore >= 80)
+SELECT i.id ,i.name , COUNT(p.InstitutionId) - COUNT(DISTINCT pp.ProjectId ) AS TotalSinergy , COUNT(DISTINCT pp.ProjectId ) AS TotalProject, COUNT(DISTINCT pp.PartnerId ) AS TotalPartner  FROM PartnerProjects pp 
 INNER JOIN Partners p ON pp.PartnerId = p.id 
 INNER JOIN Projects p2 ON p2.id =pp.ProjectId 
+INNER JOIN Projectscores ps ON ps.ProjectId = p2.id
 INNER JOIN Institutions i ON p.InstitutionId = i.id 
 WHERE pp.deletedAt IS NULL AND p2.end <= '${quarterTime}'
-GROUP BY p.InstitutionId;`
-        )
+GROUP BY p.InstitutionId;`)
       )[0];
       res.status(200).json(result);
     } catch (error) {

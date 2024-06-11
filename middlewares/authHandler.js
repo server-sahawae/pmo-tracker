@@ -23,6 +23,7 @@ const getUserFromAccessToken = async (req, res, next) => {
     if (!auth) throw { name: NO_AUTHORIZE };
     req.access = {
       id: result.id,
+      UserLevelId,
       name: auth.User.name,
       email: auth.User.email,
       picture: auth.User.picture,

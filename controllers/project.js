@@ -34,12 +34,22 @@ module.exports = class Controller {
         transaction: t,
       });
       delete data.project.image;
-      if (!created)
+      if (!created) {
         await Project.update(
           { ...data.project, updatedBy: userAccessId },
           { where: { id: data.project.id } }
         );
-      if (!data.project.id)
+
+        await PartnerProject.create(
+          {
+            PartnerId: data.PartnerId,
+            ProjectId: project.id,
+            createdBy: userAccessId,
+            updatedBy: userAccessId,
+          },
+          { transaction: t }
+        );
+      } else
         await PartnerProject.create(
           {
             PartnerId: data.PartnerId,

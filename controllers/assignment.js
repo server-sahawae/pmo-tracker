@@ -6,7 +6,11 @@ const {
   Partner,
   UserUserLevel,
 } = require("../models");
-const { KADIN_ONLY, DATA_NOT_FOUND } = require("../constants/ErrorKeys");
+const {
+  KADIN_ONLY,
+  DATA_NOT_FOUND,
+  NO_AUTHORIZE,
+} = require("../constants/ErrorKeys");
 const moment = require("moment");
 const { kadinIndonesia, expireRedis } = require("../constants/staticValue");
 const { redisPMO } = require("../config/redis");
@@ -17,7 +21,9 @@ module.exports = class Controller {
     const t = await sequelize.transaction();
 
     try {
-      const { id: createdBy } = req.access;
+      const { id: createdBy, UserLevelId: CreatorLevelId } = req.access;
+      if (CreatorLevelId != "6d06f116-f3e5-4dcf-84dd-8e8ae053e922")
+        throw { name: NO_AUTHORIZE };
       console.log("================================");
       console.log({ createdBy });
       console.log("================================");
