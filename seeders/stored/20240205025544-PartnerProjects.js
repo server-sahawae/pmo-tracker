@@ -5,7 +5,7 @@ module.exports = {
   async up(queryInterface, Sequelize) {
     await queryInterface.bulkInsert(
       "PartnerProjects",
-      require("../data/PartnerProjects.json")
+      require("../../data/PartnerProjects.json")
         .map((el) => {
           return {
             ...el,
@@ -19,7 +19,7 @@ module.exports = {
 
     await queryInterface.bulkInsert(
       "PartnerProjects",
-      require("../data/projects/PartnerProject.json")
+      require("../../data/projects/PartnerProject.json")
         .map((el) => {
           return {
             ...el,

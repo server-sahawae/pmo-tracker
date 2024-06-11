@@ -9,7 +9,7 @@ module.exports = {
     // console.log(data.length);
     await queryInterface.bulkInsert(
       "Projects",
-      require("../data/Projects.json")
+      require("../../data/Projects.json")
         .map((el) => {
           delete el.status;
 
@@ -26,7 +26,7 @@ module.exports = {
     );
     await queryInterface.bulkInsert(
       "Projects",
-      require("../data/projects/Projects.json")
+      require("../../data/projects/Projects.json")
         .map((el) => {
           delete el.status;
           console.log({

@@ -30,7 +30,11 @@ module.exports = class Controller {
       await redisSearch.flushAll();
       const [project, created] = await Project.findOrCreate({
         where: { id: data.project.id || v4() },
-        defaults: data.project,
+        defaults: {
+          ...data.project,
+          createdBy: userAccessId,
+          updatedBy: userAccessId,
+        },
         transaction: t,
       });
       delete data.project.image;
