@@ -9,7 +9,9 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      UserLevel.hasMany(models.UserUserLevel);
+      UserLevel.belongsToMany(models.User, {
+        through: models.UserUserLevel,
+      });
     }
   }
   UserLevel.init(

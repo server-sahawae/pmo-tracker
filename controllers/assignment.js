@@ -21,27 +21,37 @@ module.exports = class Controller {
     const t = await sequelize.transaction();
 
     try {
-      const { id: createdBy, UserLevelId: CreatorLevelId } = req.access;
-      if (CreatorLevelId != "6d06f116-f3e5-4dcf-84dd-8e8ae053e922")
-        throw { name: NO_AUTHORIZE };
+      const { id: createdBy } = req.access;
+
       console.log("================================");
       console.log({ createdBy });
       console.log("================================");
-      const { UserId, PartnerId, UserLevelId } = req.body;
+      const {
+        email,
+        PartnerId,
+        UserLevelId = "72372ccb-a973-4413-8d8f-2ffda25b7858",
+      } = req.body;
+
+      const [findUser, createUser] = await User.findOrCreate({
+        where: { email },
+        transaction: t,
+      });
+
       await Assignment.create(
-        { UserId, PartnerId, createdBy },
+        { UserId: findUser.id, PartnerId, createdBy },
         { transaction: t }
       );
 
       const [find, create] = await UserUserLevel.findOrCreate({
-        where: { UserLevelId, UserId },
+        where: { UserLevelId, UserId: findUser.id },
         defaults: { createdBy },
+        transaction: t,
       });
       console.log(find);
       console.log(create);
 
       const user = await User.findOne({
-        where: { id: UserId },
+        where: { id: findUser.id },
         attributes: ["name"],
       });
       const partner = await Partner.findOne({
@@ -55,11 +65,13 @@ module.exports = class Controller {
         .json(
           `Assignment created successfully for ${
             user && user.dataValues.name
+              ? user.dataValues.name
+              : user.dataValues.email
           } to ${partner && partner.dataValues.name}`
         );
     } catch (error) {
       await t.rollback();
-
+      console.log(error);
       next(error);
     }
   }

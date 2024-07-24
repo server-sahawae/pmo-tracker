@@ -178,14 +178,14 @@ module.exports = class Controller {
 
       const result = (
         await sequelize.query(`WITH ProjectScores AS (SELECT a.ProjectId, SUM(a.score) AS TotalScore FROM Activities a
-WHERE a.summary IS NOT NULL
+WHERE a.summary IS NOT NULL AND a.deletedAt IS NULL
 GROUP BY a.ProjectId
 HAVING TotalScore >= 80)
 SELECT i.id ,i.name , COUNT(p.InstitutionId) - COUNT(DISTINCT pp.ProjectId ) AS TotalSinergy , COUNT(DISTINCT pp.ProjectId ) AS TotalProject, COUNT(DISTINCT pp.PartnerId ) AS TotalPartner  FROM PartnerProjects pp 
-INNER JOIN Partners p ON pp.PartnerId = p.id 
-INNER JOIN Projects p2 ON p2.id =pp.ProjectId 
-INNER JOIN Projectscores ps ON ps.ProjectId = p2.id
-INNER JOIN Institutions i ON p.InstitutionId = i.id 
+INNER JOIN Partners p ON pp.PartnerId = p.id AND p.deletedAt IS NULL
+INNER JOIN Projects p2 ON p2.id =pp.ProjectId AND p2.deletedAt IS NULL
+INNER JOIN Projectscores ps ON ps.ProjectId = p2.id 
+INNER JOIN Institutions i ON p.InstitutionId = i.id AND i.deletedAt IS NULL
 WHERE pp.deletedAt IS NULL AND p2.end <= '${quarterTime}'
 GROUP BY p.InstitutionId;`)
       )[0];

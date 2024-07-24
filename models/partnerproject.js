@@ -27,9 +27,9 @@ module.exports = (sequelize, DataTypes) => {
         type: DataTypes.BOOLEAN,
         defaultValue: false,
       },
+      createdBy: { type: DataTypes.UUIDV4, references: "Users" },
     },
     {
-      paranoid: true,
       sequelize,
       modelName: "PartnerProject",
     }

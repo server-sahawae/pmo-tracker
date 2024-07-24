@@ -1,5 +1,9 @@
-const { Op } = require("sequelize");
-const { BAD_REQUEST, NO_AUTHORIZE } = require("../constants/ErrorKeys");
+const { Op, literal } = require("sequelize");
+const {
+  BAD_REQUEST,
+  NO_AUTHORIZE,
+  DATA_NOT_FOUND,
+} = require("../constants/ErrorKeys");
 
 const {
   User,
@@ -33,33 +37,90 @@ module.exports = class Controller {
     }
   }
 
-  static async searchAllUsers(req, res, next) {
+  static async getAllUsers(req, res, next) {
     try {
-      const { search } = req.params;
-      const redisCheck = await redisSearch.get(`SearchAllUsers:${search}`);
-      if (!redisCheck) {
-        const result = await User.findAll({
-          where: {
-            [Op.or]: {
+      const { search } = req.query;
+      const { page = 1, size = 10 } = req.query;
+
+      const limit = parseInt(size);
+      const offset = (page - 1) * limit;
+
+      let options = {};
+      if (search) {
+        options = {
+          [Op.or]: [
+            {
               name: { [Op.like]: `%${search}%` },
             },
-          },
-          limit: 10,
-          include: {
-            attributes: ["id", "name"],
-            model: Partner,
-            order: [["name", "ASC"]],
-          },
+            {
+              email: { [Op.like]: `%${search}%` },
+            },
+            {
+              phone: { [Op.like]: `%${search}%` },
+            },
+          ],
+        };
+      }
 
-          order: [["name", "ASC"]],
-        });
-        await redisSearch.set(
-          `SearchAllUsers:${search}`,
-          JSON.stringify(result, null, 2),
-          { EX: expireRedis }
-        );
-        res.status(200).json(result);
-      } else res.status(200).json(JSON.parse(redisCheck));
+      const result = await User.findAndCountAll({
+        where: options,
+        attributes: ["id", "name", "email"],
+        limit: limit,
+        offset: offset,
+        order: [
+          ["name", "ASC"], // Then sort by name ascending
+          ["email", "ASC"], // Finally, sort by email for null names
+        ],
+      });
+
+      const totalPages = Math.ceil(result.count / limit);
+
+      // Adding record number to each user
+      const usersWithRecordNumber = result.rows.map((user, index) => ({
+        ...user.toJSON(),
+        recordNumber: offset + index + 1,
+      }));
+
+      res.status(200).json({
+        firstRecordInPage: (Number(page) - 1) * size + 1,
+        lastRecordInPage:
+          Number(page) * size - 1 > result.count
+            ? result.count
+            : Number(page) * size - 1,
+        totalItems: result.count,
+        totalPages: totalPages,
+        currentPage: Number(page),
+        users: usersWithRecordNumber,
+      });
+    } catch (error) {
+      console.log(error);
+      next(error);
+    }
+  }
+
+  static async getUserLevelById(req, res, next) {
+    try {
+      const { UserId } = req.params;
+      const result = await UserUserLevel.findAll({
+        where: { UserId },
+        attributes: ["id"],
+        include: { model: UserLevel, attributes: ["name"] },
+      });
+      res.status(200).json(result);
+    } catch (error) {
+      next(error);
+    }
+  }
+
+  static async deleteUserLevelByUserLevelId(req, res, next) {
+    try {
+      const { UserLevelId } = req.params;
+      const result = await UserUserLevel.destroy({
+        where: { id: UserLevelId },
+      });
+      console.log(result);
+      if (!result) throw { name: DATA_NOT_FOUND };
+      res.status(200).json("Authorization has been deleted!");
     } catch (error) {
       console.log(error);
       next(error);

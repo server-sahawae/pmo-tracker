@@ -14,6 +14,9 @@ module.exports = (sequelize, DataTypes) => {
       User.hasMany(models.UserUserLevel);
       User.hasMany(models.UserPartnerProgramProjectActivity);
       User.hasMany(models.UserPartnerProgramProjectActivity, { as: "Creator" });
+      User.belongsToMany(models.UserLevel, {
+        through: models.UserUserLevel,
+      });
     }
   }
   User.init(

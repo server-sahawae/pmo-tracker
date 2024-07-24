@@ -34,4 +34,15 @@ const getUserFromAccessToken = async (req, res, next) => {
     next(error);
   }
 };
-module.exports = { getUserFromAccessToken };
+
+const adminPass = async (req, res, next) => {
+  try {
+    const { id: createdBy, UserLevelId: CreatorLevelId } = req.access;
+    if (CreatorLevelId != "6d06f116-f3e5-4dcf-84dd-8e8ae053e922")
+      throw { name: NO_AUTHORIZE };
+    next();
+  } catch (error) {
+    next(error);
+  }
+};
+module.exports = { getUserFromAccessToken, adminPass };

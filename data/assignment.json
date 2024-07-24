@@ -1,0 +1,57 @@
+[
+  {
+    "id": "6604485c-8ecc-4d38-9f46-c50ea4b601ba",
+    "UserId": "b57054ee-7f1a-4a35-a5aa-6bfcd87fc20a",
+    "PartnerId": "0ab27471-54aa-4491-ab34-b134bf270ee2",
+    "ProgramId": null,
+    "ProjectId": null,
+    "ActivityId": null,
+    "createdBy": "6dace56b-2cc7-441b-9eb0-f12a5f51d61a",
+    "createdAt": "2024-06-11T07:34:58.000Z",
+    "updatedAt": "2024-06-11T07:34:58.000Z"
+  },
+  {
+    "id": "768f8d44-0a39-4f63-8e73-ece05680cf6c",
+    "UserId": "b4ce51ab-87a6-41b4-9c97-135a69fcbef8",
+    "PartnerId": "bff27ff9-0ba5-4190-a0fd-6396239fb67d",
+    "ProgramId": null,
+    "ProjectId": null,
+    "ActivityId": null,
+    "createdBy": "6dace56b-2cc7-441b-9eb0-f12a5f51d61a",
+    "createdAt": "2024-06-11T07:33:59.000Z",
+    "updatedAt": "2024-06-11T07:33:59.000Z"
+  },
+  {
+    "id": "be9ad05e-64f9-4ca4-94e8-f5d59717d6b9",
+    "UserId": "b57054ee-7f1a-4a35-a5aa-6bfcd87fc20a",
+    "PartnerId": "cce71a56-ce05-42fc-8cb2-13e2941c2da8",
+    "ProgramId": null,
+    "ProjectId": null,
+    "ActivityId": null,
+    "createdBy": "6dace56b-2cc7-441b-9eb0-f12a5f51d61a",
+    "createdAt": "2024-06-11T07:35:40.000Z",
+    "updatedAt": "2024-06-11T07:35:40.000Z"
+  },
+  {
+    "id": "bf20facc-4287-4528-bc52-17224f6566f6",
+    "UserId": "b4ce51ab-87a6-41b4-9c97-135a69fcbef8",
+    "PartnerId": "b9c26288-737b-4aa3-8c0d-b544cdb9c442",
+    "ProgramId": null,
+    "ProjectId": null,
+    "ActivityId": null,
+    "createdBy": "6dace56b-2cc7-441b-9eb0-f12a5f51d61a",
+    "createdAt": "2024-06-11T07:23:16.000Z",
+    "updatedAt": "2024-06-11T07:23:16.000Z"
+  },
+  {
+    "id": "f86c7e4f-1bc5-4d79-b07e-c3274dfd2a91",
+    "UserId": "b57054ee-7f1a-4a35-a5aa-6bfcd87fc20a",
+    "PartnerId": "8aa38d83-8133-4680-914c-08efcb4fe115",
+    "ProgramId": null,
+    "ProjectId": null,
+    "ActivityId": null,
+    "createdBy": "6dace56b-2cc7-441b-9eb0-f12a5f51d61a",
+    "createdAt": "2024-06-11T07:35:55.000Z",
+    "updatedAt": "2024-06-11T07:35:55.000Z"
+  }
+]

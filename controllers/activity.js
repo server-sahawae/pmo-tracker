@@ -76,7 +76,7 @@ module.exports = class Controller {
 
       // await t.rollback();
       await t.commit();
-      res.status(200).json(result);
+      res.status(200).json("result");
     } catch (error) {
       await t.rollback();
       console.log(error);
@@ -127,45 +127,38 @@ module.exports = class Controller {
 
       if (time == "past")
         options.where = {
+          ...options.where,
           end: { [Op.lte]: moment().format("YYYY-MM-DD HH:mm:ss") },
         };
       else if (time == "future")
         options.where = {
+          ...options.where,
           end: { [Op.gt]: moment().format("YYYY-MM-DD HH:mm:ss") },
         };
+
+      if (search) {
+        options.where = {
+          ...options.where,
+          [Op.and]: [
+            {
+              [Op.or]: [
+                { title: { [Op.like]: `%${search}%` } },
+                { location: { [Op.like]: `%${search}%` } },
+                { summary: { [Op.like]: `%${search}%` } },
+                { "$Project.title$": { [Op.like]: `%${search}%` } },
+              ],
+            },
+            { summary: { [Op.not]: null } },
+          ],
+        };
+      }
+
       if (isComplete == "complete") {
         options.where.summary = { [Op.not]: null };
-        if (search)
-          options.where = {
-            ...options.where,
-            [Op.and]: [
-              {
-                [Op.or]: [
-                  { title: { [Op.like]: `%${search}%` } },
-                  { location: { [Op.like]: `%${search}%` } },
-                  { summary: { [Op.like]: `%${search}%` } },
-                ],
-              },
-              { summary: { [Op.not]: null } },
-            ],
-          };
       }
 
       if (isComplete == "incomplete") {
         options.where.summary = { [Op.is]: null };
-        if (search)
-          options.where = {
-            ...options.where,
-            [Op.and]: [
-              {
-                [Op.or]: [
-                  { title: { [Op.like]: `%${search}%` } },
-                  { location: { [Op.like]: `%${search}%` } },
-                ],
-              },
-              { summary: { [Op.is]: null } },
-            ],
-          };
       }
 
       const data = JSON.parse(
@@ -178,7 +171,7 @@ module.exports = class Controller {
             include: {
               model: Project,
               attributes: ["id", "title"],
-
+              // where: options.Project,
               include: {
                 model: Partner,
                 attributes: [],
