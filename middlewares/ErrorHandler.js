@@ -8,7 +8,7 @@ const {
 const { loggerError } = require("../helpers/loggerDebug");
 
 module.exports = function ErrorHandler(err, req, res, next) {
-  // console.log(err.message);
+  console.log(err.message);
   loggerError(err.name);
   switch (err.name) {
     case FILE_TOO_BIG:
@@ -58,6 +58,6 @@ module.exports = function ErrorHandler(err, req, res, next) {
       break;
   }
   // console.log(err.name);
-  loggerError({ code: data.code, name: err.name, message: data.message });
+  loggerError({ code: data.code, name: data.name, message: data.message });
   res.status(data.code).json({ message: data.message });
 };

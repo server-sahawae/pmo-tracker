@@ -31,6 +31,7 @@ module.exports = (sequelize, DataTypes) => {
       score: DataTypes.INTEGER,
       end: DataTypes.DATE,
       summary: DataTypes.TEXT,
+      folderUrl: DataTypes.STRING,
       isMain: DataTypes.BOOLEAN,
       flyer: DataTypes.BOOLEAN,
       photo: DataTypes.BOOLEAN,

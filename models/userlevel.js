@@ -9,6 +9,7 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
+      UserLevel.hasMany(models.UserUserLevel, { foreignKey: "UserLevelId" });
       UserLevel.belongsToMany(models.User, {
         through: models.UserUserLevel,
       });

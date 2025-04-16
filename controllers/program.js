@@ -18,13 +18,10 @@ const { KADIN_ONLY } = require("../constants/ErrorKeys");
 
 const { kadinIndonesia, expireRedis } = require("../constants/staticValue");
 const { redisPMO, redisSearch } = require("../config/redis");
-const { deleteRedisKeys } = require("../helpers/redis");
 module.exports = class Controller {
   static async createProgram(req, res, next) {
     const t = await sequelize.transaction();
     try {
-      await redisPMO.flushAll();
-      await redisSearch.flushAll();
       const {
         program,
         vision,
@@ -53,7 +50,9 @@ module.exports = class Controller {
               PartnerId: program.PartnerId,
               rapimnas: program.rapimnas,
             },
-            { transaction: t }
+            {
+              transaction: t,
+            }
           );
           mainData.createInfo = result;
         } else {
@@ -127,7 +126,6 @@ module.exports = class Controller {
           { transaction: t }
         );
         await t.commit();
-        await deleteRedisKeys(program.PartnerId);
         res.status(200).json(`Program ${program.name} has been created!`);
       } else {
         await ProgramVision.bulkCreate(
@@ -254,7 +252,6 @@ module.exports = class Controller {
           }
         );
         await t.commit();
-        await deleteRedisKeys(program.id);
 
         res.status(200).json("update");
       }
@@ -348,8 +345,6 @@ module.exports = class Controller {
   static async deleteProgram(req, res, next) {
     const t = await sequelize.transaction();
     try {
-      await redisPMO.flushAll();
-      await redisSearch.flushAll();
       const { ProgramId } = req.params;
       const result = await Program.destroy(
         {
@@ -401,7 +396,6 @@ module.exports = class Controller {
         { transaction: t }
       );
       await t.commit();
-      await deleteRedisKeys(ProgramId);
       res.status(200).json(result);
     } catch (error) {
       console.log(error);

@@ -14,7 +14,6 @@ const {
 const moment = require("moment");
 const { kadinIndonesia, expireRedis } = require("../constants/staticValue");
 const { redisPMO } = require("../config/redis");
-const { deleteRedisKeys } = require("../helpers/redis");
 const { v4 } = require("uuid");
 module.exports = class Controller {
   static async createAssignmentPartner(req, res, next) {
@@ -27,32 +26,19 @@ module.exports = class Controller {
       console.log({ createdBy });
       console.log("================================");
       const {
-        email,
+        UserId,
         PartnerId,
         UserLevelId = "72372ccb-a973-4413-8d8f-2ffda25b7858",
       } = req.body;
 
-      const [findUser, createUser] = await User.findOrCreate({
-        where: { email },
-        transaction: t,
-      });
-
       await Assignment.create(
-        { UserId: findUser.id, PartnerId, createdBy },
+        { UserId, PartnerId, createdBy },
         { transaction: t }
       );
 
-      const [find, create] = await UserUserLevel.findOrCreate({
-        where: { UserLevelId, UserId: findUser.id },
-        defaults: { createdBy },
-        transaction: t,
-      });
-      console.log(find);
-      console.log(create);
-
       const user = await User.findOne({
-        where: { id: findUser.id },
-        attributes: ["name"],
+        where: { id: UserId },
+        attributes: ["name", "email"],
       });
       const partner = await Partner.findOne({
         where: { id: PartnerId },
@@ -76,6 +62,33 @@ module.exports = class Controller {
     }
   }
 
+  static async findPartnersByUserId(req, res, next) {
+    try {
+      const { UserId } = req.params;
+      const redisCheck = await redisPMO.get(`findPartnersByUserId:${UserId}`);
+
+      if (!redisCheck) {
+        const result = await Assignment.findAll({
+          attributes: ["id"],
+          where: { UserId },
+          include: {
+            model: Partner,
+            attributes: ["id", "name"],
+            order: ["no"],
+          },
+        });
+        await redisPMO.set(
+          `findPartnersByUserId:${UserId}`,
+          JSON.stringify(result, null, 2),
+          { EX: expireRedis }
+        );
+        res.status(200).json(result);
+      } else res.status(200).json(JSON.parse(redisCheck));
+    } catch (error) {
+      next(error);
+    }
+  }
+
   static async findPartners(req, res, next) {
     try {
       const { id: UserId } = req.access;
@@ -90,6 +103,42 @@ module.exports = class Controller {
 
       res.status(200).json(result);
     } catch (error) {
+      next(error);
+    }
+  }
+
+  static async deleteUserAssignmentByAssignmentId(req, res, next) {
+    try {
+      const { AssignmentId } = req.params;
+      const result = await Assignment.findOne({
+        attributes: ["id"],
+        where: { id: AssignmentId },
+        include: [
+          {
+            attributes: ["name"],
+            model: Partner,
+          },
+          {
+            attributes: ["name", "email"],
+            model: User,
+          },
+        ],
+      });
+      if (!result) throw { name: DATA_NOT_FOUND };
+
+      const deletedAssignment = await Assignment.destroy({
+        where: { id: AssignmentId },
+      });
+      if (!deletedAssignment) throw { name: DATA_NOT_FOUND };
+      res
+        .status(200)
+        .json(
+          `Assignment for ${
+            result.User.name ? result.User.name : result.User.email
+          } to ${result.Partner.name} has been removed!`
+        );
+    } catch (error) {
+      console.log(error);
       next(error);
     }
   }

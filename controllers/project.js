@@ -13,7 +13,6 @@ const {
   ProgramIndicator,
   Activity,
 } = require("../models");
-const { deleteRedisKeys } = require("../helpers/redis");
 const { DATA_NOT_FOUND } = require("../constants/ErrorKeys");
 const { redisPMO, redisSearch } = require("../config/redis");
 const { expireRedis } = require("../constants/staticValue");
@@ -26,8 +25,7 @@ module.exports = class Controller {
       // console.log(data.PartnerxId);
       const { id: userAccessId } = req.access;
       // console.log(data);
-      await redisPMO.flushAll();
-      await redisSearch.flushAll();
+
       const [project, created] = await Project.findOrCreate({
         where: { id: data.project.id || v4() },
         defaults: {
@@ -44,14 +42,14 @@ module.exports = class Controller {
           { where: { id: data.project.id } }
         );
 
-        await PartnerProject.create(
+        await PartnerProject.update(
           {
             PartnerId: data.PartnerId,
             ProjectId: project.id,
             createdBy: userAccessId,
             updatedBy: userAccessId,
           },
-          { transaction: t }
+          { where: { id: data.project.id }, transaction: t }
         );
       } else
         await PartnerProject.create(
@@ -65,8 +63,6 @@ module.exports = class Controller {
           { transaction: t }
         );
       if (data.ProjectRundown.length) {
-        await deleteRedisKeys(data.ProjectRundown.map((el) => el.id));
-
         await ProjectRundown.bulkCreate(
           data.ProjectRundown.map((el) => {
             return {
@@ -89,17 +85,6 @@ module.exports = class Controller {
       }
 
       if (data.ProjectIndicators.length) {
-        console.log("=========================INDICATOR");
-        console.log(data.ProjectIndicators);
-        console.log(
-          data.ProjectIndicators.map((el) => {
-            return {
-              ...el,
-              ProjectId: project.id,
-              updatedAt: new Date(),
-            };
-          })
-        );
         await ProjectProgramIndicator.bulkCreate(
           data.ProjectIndicators.map((el) => {
             return {
@@ -122,8 +107,9 @@ module.exports = class Controller {
       }
 
       if (data.Sinergy?.length) {
-        console.log("=========================SINERGY");
-        await deleteRedisKeys(data.Sinergy.map((el) => el.PartnerId));
+        console.log(
+          "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+        );
 
         await PartnerProject.bulkCreate(
           data.Sinergy.map((el) => {
@@ -132,6 +118,7 @@ module.exports = class Controller {
               PartnerId: el.id,
               ProjectId: project.id,
               updatedAt: new Date(),
+              createdBy: userAccessId,
               deletedAt: el.deletedAt,
             };
           }),
@@ -146,6 +133,27 @@ module.exports = class Controller {
             ],
           }
         );
+
+        if (
+          data.Sinergy.map((el) => {
+            if (el.deletedAt)
+              return {
+                id: el.PartnerProject?.id,
+              };
+          }).filter((el) => el).length
+        ) {
+          console.log("MASUK");
+
+          await PartnerProject.destroy({
+            where: data.Sinergy.map((el) => {
+              if (el.deletedAt)
+                return {
+                  id: el.PartnerProject?.id,
+                };
+            }),
+            transaction: t,
+          });
+        }
       }
 
       await t.commit();
@@ -320,8 +328,7 @@ INNER JOIN Projects p ON p.id = a.ProjectId WHERE a.start < NOW() AND a.ProjectI
   static async uploadImage(req, res, next) {
     try {
       const { id } = req.params;
-      await redisPMO.flushAll();
-      await redisSearch.flushAll();
+
       await Project.update({ image: req.files.logo.data }, { where: { id } });
       res.status(200).send("Logo has been uploaded successfully!");
     } catch (error) {
@@ -348,8 +355,7 @@ INNER JOIN Projects p ON p.id = a.ProjectId WHERE a.start < NOW() AND a.ProjectI
 
     try {
       const { ProjectId } = req.params;
-      await redisPMO.flushAll();
-      await redisSearch.flushAll();
+
       await Project.destroy({ where: { id: ProjectId } }, { transaction: t });
       await PartnerProject.destroy(
         { where: { ProjectId: ProjectId } },

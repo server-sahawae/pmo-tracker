@@ -51,9 +51,7 @@ module.exports = class Controller {
   static async institutionProgramReport(req, res, next) {
     try {
       const { quarter = "all", year = new Date().getFullYear() } = req.query;
-      console.log(quarter);
       const { InstitutionId } = req.params;
-      console.log(quarter);
       let quarterTime;
       if (quarter == "all")
         quarterTime = moment().format("YYYY-MM-DD HH:mm:ss");
@@ -154,8 +152,6 @@ module.exports = class Controller {
   static async institutionSinergy(req, res, next) {
     try {
       const { quarter = "all", year = new Date().getFullYear() } = req.query;
-      console.log(quarter);
-      console.log(quarter);
       let quarterTime;
       if (quarter == "all")
         quarterTime = moment().format("YYYY-MM-DD HH:mm:ss");

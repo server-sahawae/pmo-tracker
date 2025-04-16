@@ -14,7 +14,6 @@ const { KADIN_ONLY, DATA_NOT_FOUND } = require("../constants/ErrorKeys");
 const moment = require("moment");
 const { kadinIndonesia, expireRedis } = require("../constants/staticValue");
 const { redisPMO, redisSearch } = require("../config/redis");
-const { deleteRedisKeys } = require("../helpers/redis");
 const { v4 } = require("uuid");
 module.exports = class Controller {
   static async createActivity(req, res, next) {
@@ -23,9 +22,6 @@ module.exports = class Controller {
     try {
       const activity = req.body;
       const { id: userAccessId } = req.access;
-      console.log(activity);
-      await redisPMO.flushAll();
-      await redisSearch.flushAll();
 
       let result = [];
       if (!activity.info.id) {
@@ -89,8 +85,6 @@ module.exports = class Controller {
 
     try {
       const { ActivityId } = req.params;
-      await redisPMO.flushAll();
-      await redisSearch.flushAll();
       const result = await Activity.destroy(
         { where: { id: ActivityId } },
         { transaction: t }
@@ -214,9 +208,7 @@ module.exports = class Controller {
     try {
       const { ProjectId } = req.params;
       const { time } = req.query;
-      console.log("================================================");
-      console.log(time);
-      console.log("================================================");
+
       const redisCheck = await redisPMO.get(
         `findAll${time}ActivitiesByProjectId:${ProjectId}`
       );
@@ -291,6 +283,56 @@ module.exports = class Controller {
         );
         res.status(200).json(result);
       } else res.status(200).json(JSON.parse(redisCheck));
+    } catch (error) {
+      console.log(error);
+      next(error);
+    }
+  }
+
+  static async recapActivites(req, res, next) {
+    try {
+      const { quarter = "all", year = new Date().getFullYear() } = req.query;
+      let quarterTime = "";
+      if (quarter == "all") {
+        if (new Date().getFullYear() == year)
+          quarterTime = moment().format("YYYY-MM-DD HH:mm:ss");
+        else
+          quarterTime = moment(new Date(`${year}-1-1`))
+            .endOf("year")
+            .format("YYYY-MM-DD HH:mm:ss");
+      } else if (quarter == 1)
+        quarterTime = moment(new Date(`${year}-3-1`))
+          .endOf("month")
+          .format("YYYY-MM-DD HH:mm:ss");
+      else if (quarter == 2)
+        quarterTime = moment(new Date(`${year}-6-1`))
+          .endOf("month")
+          .format("YYYY-MM-DD HH:mm:ss");
+      else if (quarter == 3)
+        quarterTime = moment(new Date(`${year}-9-1`))
+          .endOf("month")
+          .format("YYYY-MM-DD HH:mm:ss");
+      else if (quarter == 4)
+        quarterTime = moment(new Date(`${year}-12-1`))
+          .endOf("month")
+          .format("YYYY-MM-DD HH:mm:ss");
+
+      const result = (
+        await sequelize.query(`SELECT c.name, COUNT(a.CategoryId) as Total FROM Activities a
+      INNER JOIN Categories c ON c.id = a.CategoryId
+      WHERE a.end >= '${year}-01-01 00:00:00' AND a.end <= '${quarterTime}' 
+      GROUP BY a.CategoryId `)
+      )[0];
+      console.log(
+        "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+      );
+
+      console.log(quarterTime);
+      console.log(
+        "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+      );
+
+      res.status(200).json(result);
     } catch (error) {
       console.log(error);
       next(error);

@@ -11,7 +11,7 @@ module.exports = (sequelize, DataTypes) => {
       // define association here
       User.belongsTo(models.PartnerPosition);
       User.hasMany(models.ProjectInvitation);
-      User.hasMany(models.UserUserLevel);
+      User.hasMany(models.UserUserLevel, { foreignKey: "UserId" });
       User.hasMany(models.UserPartnerProgramProjectActivity);
       User.hasMany(models.UserPartnerProgramProjectActivity, { as: "Creator" });
       User.belongsToMany(models.UserLevel, {

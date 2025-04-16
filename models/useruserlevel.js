@@ -9,8 +9,8 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      UserUserLevel.belongsTo(models.User);
-      UserUserLevel.belongsTo(models.UserLevel);
+      UserUserLevel.belongsTo(models.User, { foreignKey: "UserId" });
+      UserUserLevel.belongsTo(models.UserLevel, { foreignKey: "UserLevelId" });
     }
   }
   UserUserLevel.init(

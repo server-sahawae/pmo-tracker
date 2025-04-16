@@ -65,6 +65,9 @@ module.exports = {
         type: Sequelize.BOOLEAN,
         defaultValue: false,
       },
+      folderUrl: {
+        type: Sequelize.STRING,
+      },
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE,

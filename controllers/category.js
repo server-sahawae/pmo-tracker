@@ -5,7 +5,6 @@ const { KADIN_ONLY } = require("../constants/ErrorKeys");
 
 const { kadinIndonesia, expireRedis } = require("../constants/staticValue");
 const { redisPMO } = require("../config/redis");
-const { deleteRedisKeys } = require("../helpers/redis");
 module.exports = class Controller {
   static async createCategory(req, res, next) {
     try {
@@ -19,6 +18,29 @@ module.exports = class Controller {
         const result = await Category.findAll({ attributes: ["id", "name"] });
         await redisPMO.set(
           `findAllCategories`,
+          JSON.stringify(result, null, 2),
+          { EX: expireRedis }
+        );
+        res.status(200).json(result);
+      } else res.status(200).json(JSON.parse(redisCheck));
+    } catch (error) {
+      next(error);
+    }
+  }
+
+  static async findAllCategoriesBut(req, res, next) {
+    try {
+      const { CategoryId } = req.params;
+      const redisCheck = await redisPMO.get(
+        `findAllCategoriesBut:${CategoryId}`
+      );
+      if (!redisCheck) {
+        const result = await Category.findAll({
+          where: { id: { [Op.not]: CategoryId } },
+          attributes: ["id", "name"],
+        });
+        await redisPMO.set(
+          `findAllCategoriesBut:${CategoryId}`,
           JSON.stringify(result, null, 2),
           { EX: expireRedis }
         );

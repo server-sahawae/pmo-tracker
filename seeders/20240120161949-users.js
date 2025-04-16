@@ -25,6 +25,7 @@ module.exports = {
         updatedAt: new Date(),
       };
     });
+
     // console.log(data.length);
     await queryInterface.bulkInsert("Users", data, {});
   },

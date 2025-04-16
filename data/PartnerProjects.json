@@ -3,588 +3,588 @@
     "id": "a0e66bfb-3966-408b-b94d-dbf6da0a8497",
     "PartnerId": "8ca69da3-4f05-4768-8748-89a04a536aed",
     "ProjectId": "a14527da-6c2a-41c0-ab79-6a79f5dc9286",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "9d83c21d-fa3b-4ccf-8c6d-3ab3668bca8f",
     "PartnerId": "0ab27471-54aa-4491-ab34-b134bf270ee2",
     "ProjectId": "a14527da-6c2a-41c0-ab79-6a79f5dc9286",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "bd1ef013-3263-4d5a-8a29-c055943a628d",
     "PartnerId": "594632ec-c21b-4a5c-8ccf-427e588e2bba",
     "ProjectId": "be4bad4a-f0f8-49d4-8ce0-2b8e77342a0c",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "17f13950-f55f-428e-802b-a69b6b3b91a3",
     "PartnerId": "8899d617-d04f-4fb3-a457-75c1da99d8ed",
     "ProjectId": "be4bad4a-f0f8-49d4-8ce0-2b8e77342a0c",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "25b2ddb4-6d72-43a9-9866-d8c2fd588ecf",
     "PartnerId": "c55ff1ee-40fa-4735-b445-66bd393f9bb7",
     "ProjectId": "be4bad4a-f0f8-49d4-8ce0-2b8e77342a0c",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "4f6724f2-6433-4e94-881e-1d315691401c",
     "PartnerId": "5dd0f38b-e0eb-4d2c-86fd-bc0001a5c18e",
     "ProjectId": "be4bad4a-f0f8-49d4-8ce0-2b8e77342a0c",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "7e32df40-cea7-4a52-af81-2c63a16a904f",
     "PartnerId": "540473b1-ca86-4784-a38b-506f2667f31e",
     "ProjectId": "be4bad4a-f0f8-49d4-8ce0-2b8e77342a0c",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "6258aee9-bf66-4a68-8ce0-a7e4a38c9df3",
     "PartnerId": "b6aad9bc-366f-4b19-b248-7e706d7c11ad",
     "ProjectId": "be4bad4a-f0f8-49d4-8ce0-2b8e77342a0c",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "15cac4bb-8de6-45c8-bc78-837e41a941d3",
     "PartnerId": "157c9a0b-c06e-4b04-a326-6556982c3050",
     "ProjectId": "be4bad4a-f0f8-49d4-8ce0-2b8e77342a0c",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "67a094fd-149f-43d7-bc14-714e5cc2374b",
     "PartnerId": "7b3759e3-3346-470c-8266-3639b72cb0ef",
     "ProjectId": "be4bad4a-f0f8-49d4-8ce0-2b8e77342a0c",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "c7b47b02-d6e3-4740-9031-2a91d29c4aa1",
     "PartnerId": "298b47a5-8063-494d-962e-39e2b3376b0a",
     "ProjectId": "1a67f10d-e518-4875-840c-c1ec4eb5e322",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "737662b7-660a-459a-906e-986bbbf9f06f",
     "PartnerId": "e6de06c0-b17a-45d5-b6b6-f857548aeb27",
     "ProjectId": "1a67f10d-e518-4875-840c-c1ec4eb5e322",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "b2440d7f-1dc2-4103-920c-7158673863fb",
     "PartnerId": "c6f95b25-b3ce-45cc-926e-7597134a9e12",
     "ProjectId": "1a67f10d-e518-4875-840c-c1ec4eb5e322",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "4b5c1fa6-e16e-4d9f-9dff-1fdb674b8e10",
     "PartnerId": "3e8a2536-9fd2-4888-987f-60a378189bb5",
     "ProjectId": "1a67f10d-e518-4875-840c-c1ec4eb5e322",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "d1c0750e-5b4b-4fd0-b3a0-ac720c620243",
     "PartnerId": "65a7959f-87bd-4222-b927-52c9f443a704",
     "ProjectId": "1a67f10d-e518-4875-840c-c1ec4eb5e322",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "b54fc67a-a0a6-4af3-8e7e-3b600d61c0a8",
     "PartnerId": "fa68abed-deaa-413a-a168-7671195e5110",
     "ProjectId": "1a67f10d-e518-4875-840c-c1ec4eb5e322",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "d1aa63f9-49dd-4679-8972-47e639bde463",
     "PartnerId": "6645aff0-2079-49ee-93d7-3410a2687a44",
     "ProjectId": "83797ad4-2a78-4bf4-af1f-0d0c24b18387",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "4bc69f4a-29eb-4812-97b7-582b99610fc8",
     "PartnerId": "c55ff1ee-40fa-4735-b445-66bd393f9bb7",
     "ProjectId": "83797ad4-2a78-4bf4-af1f-0d0c24b18387",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "f2150451-aeff-4785-ac0f-9b1b7cbbb64d",
     "PartnerId": "d0799ac8-6662-44a1-8398-7456041f7f95",
     "ProjectId": "83797ad4-2a78-4bf4-af1f-0d0c24b18387",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "40edfa87-81c8-4274-b7eb-7438e20f865a",
     "PartnerId": "e7f4bd25-60c3-4c52-a9b7-d48daea9964e",
     "ProjectId": "83797ad4-2a78-4bf4-af1f-0d0c24b18387",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "6b2ef83a-7e62-473e-b334-284b6ee1f4a6",
     "PartnerId": "1714818c-9136-47f8-aa4c-d755e1baebda",
     "ProjectId": "83797ad4-2a78-4bf4-af1f-0d0c24b18387",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "3c40b564-f4bd-4bea-83bf-b364cd56b5d4",
     "PartnerId": "d2eca242-3278-4437-a0b3-7a207a23ea85",
     "ProjectId": "83797ad4-2a78-4bf4-af1f-0d0c24b18387",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "f5dbcec7-740c-4d0a-b4be-7ced1c7b7606",
     "PartnerId": "0ab27471-54aa-4491-ab34-b134bf270ee2",
     "ProjectId": "457de820-e372-49cb-8a7e-6c686d536402",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "3199a765-d001-4504-9534-12a1399a4a3c",
     "PartnerId": "8e0fe588-e35b-48d1-8186-d299b94b1ac3",
     "ProjectId": "457de820-e372-49cb-8a7e-6c686d536402",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "2f040eba-6033-49f7-b958-574d91a3f178",
     "PartnerId": "31d7e347-5592-41d3-8ebd-cda962214f2f",
     "ProjectId": "457de820-e372-49cb-8a7e-6c686d536402",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "1259fc14-6e31-48fc-8b7e-27211ac2ad52",
     "PartnerId": "eb931667-c06f-4ecb-a9e0-d54ad360fbfe",
     "ProjectId": "9aa3cdc2-2fcf-4d8d-94ef-050514757b95",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "d8b41906-7487-428a-a758-eb31c6703c03",
     "PartnerId": "cd54ade1-89b7-40ab-b275-ff0a65855c2e",
     "ProjectId": "9aa3cdc2-2fcf-4d8d-94ef-050514757b95",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "438a8354-9b27-4baf-b0f5-90ee9bc5328f",
     "PartnerId": "8bc67a77-d499-4c49-b25b-a1a8abcd121f",
     "ProjectId": "9aa3cdc2-2fcf-4d8d-94ef-050514757b95",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "6405402a-b57d-480b-89db-82c3596b1ff7",
     "PartnerId": "cce71a56-ce05-42fc-8cb2-13e2941c2da8",
     "ProjectId": "9aa3cdc2-2fcf-4d8d-94ef-050514757b95",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "7e5692ed-3112-4d6d-8c23-3f51a0893bd9",
     "PartnerId": "5348c12b-66c5-494b-8046-bb3d641e6ba9",
     "ProjectId": "9aa3cdc2-2fcf-4d8d-94ef-050514757b95",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "c70cbdc5-9d1d-421e-801d-955f6ab4d27b",
     "PartnerId": "cc627427-ede2-41ba-bb9f-aec8395f6578",
     "ProjectId": "9aa3cdc2-2fcf-4d8d-94ef-050514757b95",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "ab7f83f9-f8ae-4c0f-9de8-3176d93a150a",
     "PartnerId": "b77ec959-f8e7-4bc8-b707-893237844745",
     "ProjectId": "9aa3cdc2-2fcf-4d8d-94ef-050514757b95",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "ce9f27db-a443-4f35-9daf-65ebaa227967",
     "PartnerId": "46284b1a-a0c6-4db1-98c0-fcf00c52dc78",
     "ProjectId": "9aa3cdc2-2fcf-4d8d-94ef-050514757b95",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "4c5c310b-fc96-4348-b2e6-2f78b5168fb4",
     "PartnerId": "2f51004a-53dc-475d-9301-418493110fac",
     "ProjectId": "9aa3cdc2-2fcf-4d8d-94ef-050514757b95",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "66a9c379-0ea9-4bca-b9aa-4bee460bbaca",
     "PartnerId": "b96241fd-faeb-48ad-bf6f-59e98ac43fb3",
     "ProjectId": "e5ebb733-db9d-454d-abff-080d009fa011",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "21c616b7-9fc6-46b8-a4c1-1369806491fc",
     "PartnerId": "cd54ade1-89b7-40ab-b275-ff0a65855c2e",
     "ProjectId": "e5ebb733-db9d-454d-abff-080d009fa011",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "89875dd1-72c4-42a4-9a94-bb48a2f8717b",
     "PartnerId": "2b40ea3b-fb33-4ae0-9029-dde2d5d24d12",
     "ProjectId": "e5ebb733-db9d-454d-abff-080d009fa011",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "55e85a98-01fe-43a2-91a3-584302a88fa3",
     "PartnerId": "e7f4bd25-60c3-4c52-a9b7-d48daea9964e",
     "ProjectId": "cc6cc30b-75eb-4201-a728-0bacefbf5abf",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "16269763-e065-449e-950b-d1f05f85c6c7",
     "PartnerId": "bce1988c-88a0-4d5f-84a4-4bef651e3ab7",
     "ProjectId": "cc6cc30b-75eb-4201-a728-0bacefbf5abf",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "965e7045-f98e-4ab4-a672-a22a7c908266",
     "PartnerId": "3e8a2536-9fd2-4888-987f-60a378189bb5",
     "ProjectId": "cc6cc30b-75eb-4201-a728-0bacefbf5abf",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "6f23054c-8d5e-4f6b-919d-018825b78447",
     "PartnerId": "946936bd-726a-4d3c-a762-403dc66fe561",
     "ProjectId": "cc6cc30b-75eb-4201-a728-0bacefbf5abf",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "ae3dc68b-bf6e-4346-8904-dc2d3b42df79",
     "PartnerId": "9cb465b5-0233-43b0-b116-70a1ad0bc047",
     "ProjectId": "e42550ae-58ea-4669-8a55-a2fda8b907d1",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "8bd46977-f241-4635-b9e0-54580e8120dc",
     "PartnerId": "50120b51-9388-444a-9025-43e75d571617",
     "ProjectId": "e42550ae-58ea-4669-8a55-a2fda8b907d1",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "4a3694cb-ba07-4ed9-bdfd-c0a6fc83e612",
     "PartnerId": "db3121d0-9e8c-4110-9343-b2f8ac6e95f3",
     "ProjectId": "e42550ae-58ea-4669-8a55-a2fda8b907d1",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "d26607b6-16bf-4c67-b882-7546bf4d8593",
     "PartnerId": "6645aff0-2079-49ee-93d7-3410a2687a44",
     "ProjectId": "bb192fc6-63f1-4ae1-827c-a61daadcb328",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "f47c280a-240c-49f8-816e-f163ab5d9396",
     "PartnerId": "2577947a-d7c7-4955-8eec-242637db8308",
     "ProjectId": "bb192fc6-63f1-4ae1-827c-a61daadcb328",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "b590b9f7-ec3a-46c2-9de8-adaacc7c9f53",
     "PartnerId": "b96241fd-faeb-48ad-bf6f-59e98ac43fb3",
     "ProjectId": "bb192fc6-63f1-4ae1-827c-a61daadcb328",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "da807c79-1023-4028-b163-5f1cc3b67a54",
     "PartnerId": "50120b51-9388-444a-9025-43e75d571617",
     "ProjectId": "bb192fc6-63f1-4ae1-827c-a61daadcb328",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "f82cfd9a-47ef-4305-895e-801b712ae315",
     "PartnerId": "1ee28b74-df61-4938-a2df-cccb5ac964fe",
     "ProjectId": "bb192fc6-63f1-4ae1-827c-a61daadcb328",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "9217fa59-2275-41d4-9f97-9116b0126dc4",
     "PartnerId": "946936bd-726a-4d3c-a762-403dc66fe561",
     "ProjectId": "bb192fc6-63f1-4ae1-827c-a61daadcb328",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "72e55248-af18-445a-8a69-72b0e6a1974b",
     "PartnerId": "5dd0f38b-e0eb-4d2c-86fd-bc0001a5c18e",
     "ProjectId": "5de48766-1c0b-494c-8446-f4c2a08111ad",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "d376acd3-96c5-4b5b-b37b-a9e825b5ba72",
     "PartnerId": "5abaf6d9-565b-4fa9-8f8d-2fd8b36169d1",
     "ProjectId": "5de48766-1c0b-494c-8446-f4c2a08111ad",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "ccf9437a-9d44-4232-a261-f6cae45487de",
     "PartnerId": "8adb3bb7-3284-4cf1-9ce6-17a397bc3bd6",
     "ProjectId": "5de48766-1c0b-494c-8446-f4c2a08111ad",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "5e496952-33ff-4f2e-8b66-a45e3425ab32",
     "PartnerId": "83823da0-9958-45c6-8fea-698501cec833",
     "ProjectId": "5de48766-1c0b-494c-8446-f4c2a08111ad",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "01b901fd-9622-465a-ba6d-bd57a2006482",
     "PartnerId": "7c72b82a-96db-4fb3-8948-eff621df477b",
     "ProjectId": "5de48766-1c0b-494c-8446-f4c2a08111ad",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "ac86ae88-3086-4a7f-99a7-48d76f9a2d45",
     "PartnerId": "00999633-4c9a-4629-a02b-a93bb0d42dd6",
     "ProjectId": "5de48766-1c0b-494c-8446-f4c2a08111ad",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "fcaec85a-6d11-4d5a-b83e-28db7bb12afd",
     "PartnerId": "99785764-4a06-4b0e-8c16-1c89cf140a65",
     "ProjectId": "5de48766-1c0b-494c-8446-f4c2a08111ad",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "429f0556-721c-4738-893f-8586522a4718",
     "PartnerId": "583e1d98-f783-4d94-80a8-e383eaf85067",
     "ProjectId": "c8cc338a-5a80-444d-9142-5d749cec7776",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "c0a4a996-5c3c-4b06-bc8e-468f8790dd98",
     "PartnerId": "8adb3bb7-3284-4cf1-9ce6-17a397bc3bd6",
     "ProjectId": "c8cc338a-5a80-444d-9142-5d749cec7776",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "42b6b33b-3f7b-4cb6-a9fd-9026d8c0ec25",
     "PartnerId": "570476e2-729e-4ca5-a867-50576600ad00",
     "ProjectId": "c8cc338a-5a80-444d-9142-5d749cec7776",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "f75de0dc-93ea-4e9b-95b9-e5845a37234e",
     "PartnerId": "87d62631-52a6-475c-b10d-174876104a17",
     "ProjectId": "c8cc338a-5a80-444d-9142-5d749cec7776",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "eb9390a0-8e59-4fa6-98f9-eae443ba7513",
     "PartnerId": "2577947a-d7c7-4955-8eec-242637db8308",
     "ProjectId": "c8cc338a-5a80-444d-9142-5d749cec7776",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "b91e083f-93ce-4d6f-96cd-3bb2c050f1d6",
     "PartnerId": "4d001168-da94-43d4-bc69-876351e09340",
     "ProjectId": "c8cc338a-5a80-444d-9142-5d749cec7776",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "d1147af5-2aef-43d9-8413-dd3e4d95e8ec",
     "PartnerId": "cce71a56-ce05-42fc-8cb2-13e2941c2da8",
     "ProjectId": "c8cc338a-5a80-444d-9142-5d749cec7776",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "f10b856f-10e8-4831-b885-b0024c68ded1",
     "PartnerId": "f60c8e47-bee8-46e8-b389-798e41120954",
     "ProjectId": "c8cc338a-5a80-444d-9142-5d749cec7776",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "2ba88b1b-5217-40a1-bfc6-5bd8212b833f",
     "PartnerId": "7c375ec1-aa1d-43dc-8754-3cc5a071f98e",
     "ProjectId": "c8cc338a-5a80-444d-9142-5d749cec7776",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "890e8e7a-7e16-42ed-83c5-45dbf34f4b1a",
     "PartnerId": "8adb3bb7-3284-4cf1-9ce6-17a397bc3bd6",
     "ProjectId": "eef05869-1ba7-400b-8b67-a43bf99d2bea",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "7c4b75ba-c0e7-4677-8b15-8b4ba05c764c",
     "PartnerId": "d197fc92-b58a-40a0-837c-07d58eea78ed",
     "ProjectId": "eef05869-1ba7-400b-8b67-a43bf99d2bea",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "b2daea85-b800-4652-825f-9b0eb4d5ddb4",
     "PartnerId": "1357d22e-3eb8-4330-8be1-8f47d83eb217",
     "ProjectId": "eef05869-1ba7-400b-8b67-a43bf99d2bea",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "9896f271-abb6-42d2-9224-be50e43ec842",
     "PartnerId": "81be7151-faea-4d3b-b093-b39062d2afe1",
     "ProjectId": "eef05869-1ba7-400b-8b67-a43bf99d2bea",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "1c455384-3695-4658-9a26-eff50364b772",
     "PartnerId": "9570b4e7-8d66-4f08-82e4-7f1bbc8136ef",
     "ProjectId": "eef05869-1ba7-400b-8b67-a43bf99d2bea",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "caf56256-5697-4981-9135-908dca07a872",
     "PartnerId": "bff27ff9-0ba5-4190-a0fd-6396239fb67d",
     "ProjectId": "eef05869-1ba7-400b-8b67-a43bf99d2bea",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "7372a4df-c4e5-44d9-a56d-6f87040c0eeb",
     "PartnerId": "6bdbd235-8fa0-4493-98ce-fc212e5d6bf3",
     "ProjectId": "b98bd2c9-c87b-4ad0-b1b9-73fa8afea5e2",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "7c83496e-286f-4864-9617-26dc258de504",
     "PartnerId": "e0167097-3c0a-43d8-8d7d-8b200cac1029",
     "ProjectId": "f5f727d3-8626-4c1b-a3c6-1aab86ad2335",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "0c296130-5660-4011-9650-f32ac6b340d1",
     "PartnerId": "8899d617-d04f-4fb3-a457-75c1da99d8ed",
     "ProjectId": "f5f727d3-8626-4c1b-a3c6-1aab86ad2335",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "a718be33-944b-48bb-8c31-18fb837b92da",
     "PartnerId": "1bd81640-30be-4a15-8bd2-439980a346df",
     "ProjectId": "f5f727d3-8626-4c1b-a3c6-1aab86ad2335",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "b50d494a-57a9-4603-813a-20aa21ca8514",
     "PartnerId": "bce1988c-88a0-4d5f-84a4-4bef651e3ab7",
     "ProjectId": "f5f727d3-8626-4c1b-a3c6-1aab86ad2335",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "61e2f3c1-3470-4acb-a31e-76b6545b214f",
     "PartnerId": "f8318c6a-e1e9-473b-a54e-6a2dd8e0bf26",
     "ProjectId": "f5f727d3-8626-4c1b-a3c6-1aab86ad2335",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "c7870428-f704-4745-88b7-f6c70ed72715",
     "PartnerId": "c714de3a-e65f-4bc3-a3cc-fd822c74e80b",
     "ProjectId": "f5f727d3-8626-4c1b-a3c6-1aab86ad2335",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "b14338db-6787-4306-9b1d-4227a3cbab7f",
     "PartnerId": "4f135deb-9eff-4cf2-88aa-5d12103554b3",
     "ProjectId": "f5f727d3-8626-4c1b-a3c6-1aab86ad2335",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "081e4b44-e46c-49c1-a089-5939f5e7ba6c",
     "PartnerId": "60aa8e91-905f-4c17-b2bb-cb0f880d8c9a",
     "ProjectId": "f5f727d3-8626-4c1b-a3c6-1aab86ad2335",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "ae166fb0-7bca-4778-9ec0-9c59725677ef",
     "PartnerId": "c813db81-98fe-4107-b217-047f8b1ad14d",
     "ProjectId": "f5f727d3-8626-4c1b-a3c6-1aab86ad2335",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "651ee5d4-eefb-4737-a380-d73fc2f61f52",
     "PartnerId": "613da842-15ac-43ef-a93a-ee88d3ab2c7c",
     "ProjectId": "f5f727d3-8626-4c1b-a3c6-1aab86ad2335",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "15f31867-683f-4fd4-9d86-1e353331789d",
     "PartnerId": "31d063af-cf0d-43fb-a496-3f4fc4da331a",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "dd8fc29f-aca8-4227-adcc-0c45facdcab4",
     "PartnerId": "570476e2-729e-4ca5-a867-50576600ad00",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "047b97cf-c18a-444b-ac2e-f9dfad22e67d",
     "PartnerId": "d795f06c-828d-49c5-ae33-3e9e9ba7cfd5",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "9fd16d52-886f-4187-9ebe-16a8854cc641",
     "PartnerId": "de1aae42-8add-443f-9f40-9bcbd02a594e",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "7004f1b1-5899-4ac0-b249-ca78284fd4a7",
     "PartnerId": "b96241fd-faeb-48ad-bf6f-59e98ac43fb3",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "eadc4daa-7807-4c6d-b4d8-519e424fc1c4",
     "PartnerId": "be9a9800-5ba9-451e-af0e-03bf1c13d80c",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "962bc60f-7449-4def-b71b-cd7f71077e21",
     "PartnerId": "b83a354f-e38a-4efd-a99e-3f628ce0f5e6",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "10a7e55e-fe0b-44d6-bf74-41d9153168f9",
     "PartnerId": "6f8de4b5-f29b-45ea-8a39-84305eb96c96",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "b92d4bad-f07f-4321-a447-44b8f98562e7",
     "PartnerId": "4435be11-2866-4941-a8fc-e75c8e534824",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "88f8eabc-fc0c-45bb-8fe6-526c45142d1d",
     "PartnerId": "594134b4-fcb8-40bb-9774-324be39f88e6",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "14b541a3-a5a3-4c99-b189-2f1a6c7ee914",
     "PartnerId": "5cc45f2d-a034-43f4-b602-9323062ead9f",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "557c3ffa-8aee-48a1-826b-5b9647ee61a9",
     "PartnerId": "b039427e-827b-4635-a07a-7c2c83fe0342",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "db3f019e-e9ab-4635-8572-859ae8faef5b",
     "PartnerId": "89644be6-e22e-4d71-844b-6123d954aa9d",
     "ProjectId": "7c700161-d81b-46fe-bfad-3c833fa45d4e",
-    "isOwner": 0
+    "isOwner": false
   },
   {
     "id": "9188301b-288c-4292-bae1-cd2de505e375",
     "PartnerId": "556f545f-a022-4b2a-80f3-06e4651b7e4c",
     "ProjectId": "25ddd4a5-8fb9-430b-9e52-ec9b63b7eb8a",
-    "isOwner": 1
+    "isOwner": true
   },
   {
     "id": "f95000ab-090b-42d9-a6c7-4ce334d82ecf",
     "PartnerId": "99785764-4a06-4b0e-8c16-1c89cf140a65",
     "ProjectId": "b527c949-b8ca-4e8c-b901-31a665ab8565",
-    "isOwner": 1
+    "isOwner": true
   }
 ]
