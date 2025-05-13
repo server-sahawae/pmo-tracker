@@ -56,19 +56,19 @@ module.exports = class Controller {
       if (quarter == "all")
         quarterTime = moment().format("YYYY-MM-DD HH:mm:ss");
       else if (quarter == 1)
-        quarterTime = moment(new Date(`${year}-3-1`))
+        quarterTime = moment(`${year}-03-01`)
           .endOf("month")
           .format("YYYY-MM-DD HH:mm:ss");
       else if (quarter == 2)
-        quarterTime = moment(new Date(`${year}-6-1`))
+        quarterTime = moment(`${year}-06-01`)
           .endOf("month")
           .format("YYYY-MM-DD HH:mm:ss");
       else if (quarter == 3)
-        quarterTime = moment(new Date(`${year}-9-1`))
+        quarterTime = moment(`${year}-09-01`)
           .endOf("month")
           .format("YYYY-MM-DD HH:mm:ss");
       else if (quarter == 4)
-        quarterTime = moment(new Date(`${year}-12-1`))
+        quarterTime = moment(`${year}-12-01`)
           .endOf("month")
           .format("YYYY-MM-DD HH:mm:ss");
 
@@ -156,35 +156,50 @@ module.exports = class Controller {
       if (quarter == "all")
         quarterTime = moment().format("YYYY-MM-DD HH:mm:ss");
       else if (quarter == 1)
-        quarterTime = moment(new Date(`${year}-3-1`))
+        quarterTime = moment(`${year}-03-01`)
           .endOf("month")
           .format("YYYY-MM-DD HH:mm:ss");
       else if (quarter == 2)
-        quarterTime = moment(new Date(`${year}-6-1`))
+        quarterTime = moment(`${year}-06-01`)
           .endOf("month")
           .format("YYYY-MM-DD HH:mm:ss");
       else if (quarter == 3)
-        quarterTime = moment(new Date(`${year}-9-1`))
+        quarterTime = moment(`${year}-09-01`)
           .endOf("month")
           .format("YYYY-MM-DD HH:mm:ss");
       else if (quarter == 4)
-        quarterTime = moment(new Date(`${year}-12-1`))
+        quarterTime = moment(`${year}-12-01`)
           .endOf("month")
           .format("YYYY-MM-DD HH:mm:ss");
 
-      const result = (
-        await sequelize.query(`WITH ProjectScores AS (SELECT a.ProjectId, SUM(a.score) AS TotalScore FROM Activities a
-WHERE a.summary IS NOT NULL AND a.deletedAt IS NULL
-GROUP BY a.ProjectId
-HAVING TotalScore >= 80)
-SELECT i.id ,i.name , COUNT(p.InstitutionId) - COUNT(DISTINCT pp.ProjectId ) AS TotalSinergy , COUNT(DISTINCT pp.ProjectId ) AS TotalProject, COUNT(DISTINCT pp.PartnerId ) AS TotalPartner  FROM PartnerProjects pp 
-INNER JOIN Partners p ON pp.PartnerId = p.id AND p.deletedAt IS NULL
-INNER JOIN Projects p2 ON p2.id =pp.ProjectId AND p2.deletedAt IS NULL
-INNER JOIN Projectscores ps ON ps.ProjectId = p2.id 
-INNER JOIN Institutions i ON p.InstitutionId = i.id AND i.deletedAt IS NULL
-WHERE pp.deletedAt IS NULL AND p2.end <= '${quarterTime}'
-GROUP BY p.InstitutionId;`)
-      )[0];
+      const [result] = await sequelize.query(
+        `
+        WITH "ProjectScores" AS (
+          SELECT "ProjectId", SUM(score) AS "TotalScore"
+          FROM "Activities"
+          WHERE summary IS NOT NULL AND "deletedAt" IS NULL
+          GROUP BY "ProjectId"
+          HAVING SUM(score) >= 80
+        )
+        SELECT 
+          i.id,
+          i.name,
+          COUNT(p."InstitutionId") - COUNT(DISTINCT pp."ProjectId") AS "TotalSinergy",
+          COUNT(DISTINCT pp."ProjectId") AS "TotalProject",
+          COUNT(DISTINCT pp."PartnerId") AS "TotalPartner"
+        FROM "PartnerProjects" pp
+        INNER JOIN "Partners" p ON pp."PartnerId" = p.id AND p."deletedAt" IS NULL
+        INNER JOIN "Projects" p2 ON p2.id = pp."ProjectId" AND p2."deletedAt" IS NULL
+        INNER JOIN "ProjectScores" ps ON ps."ProjectId" = p2.id
+        INNER JOIN "Institutions" i ON p."InstitutionId" = i.id AND i."deletedAt" IS NULL
+        WHERE pp."deletedAt" IS NULL AND p2."end" <= :quarterTime
+        GROUP BY p."InstitutionId", i.id, i.name
+        `,
+        {
+          replacements: { quarterTime },
+          type: sequelize.QueryTypes.SELECT,
+        }
+      );
       res.status(200).json(result);
     } catch (error) {
       next(error);
