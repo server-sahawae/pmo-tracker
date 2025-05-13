@@ -300,12 +300,25 @@ module.exports = class Controller {
           order: [[ProjectRundown, "start", "ASC"]],
         });
         if (!result) throw { name: DATA_NOT_FOUND };
-        result.dataValues.ProjectScores = (
-          await sequelize.query(
-            `SELECT SUM(a.score) AS ProjectScores FROM Activities a 
-INNER JOIN Projects p ON p.id = a.ProjectId WHERE a.start < NOW() AND a.ProjectId = '${ProjectId}' AND a.summary IS NOT NULL AND a.deletedAt IS NULL GROUP BY a.ProjectId`
-          )
-        )[0][0]?.ProjectScores;
+        const [projectScoreResult] = await sequelize.query(
+          `
+    SELECT SUM(a.score) AS "ProjectScores"
+    FROM "Activities" a
+    INNER JOIN "Projects" p ON p.id = a."ProjectId"
+    WHERE a.start < NOW()
+      AND a."ProjectId" = :projectId
+      AND a.summary IS NOT NULL
+      AND a."deletedAt" IS NULL
+    GROUP BY a."ProjectId"
+  `,
+          {
+            replacements: { projectId: ProjectId },
+            type: sequelize.QueryTypes.SELECT,
+          }
+        );
+
+        result.dataValues.ProjectScores =
+          projectScoreResult?.ProjectScores || 0;
         console.log("================================");
         console.log(result.dataValues.ProjectScores);
         console.log("================================");
@@ -400,12 +413,24 @@ INNER JOIN Projects p ON p.id = a.ProjectId WHERE a.start < NOW() AND a.ProjectI
   static async projectScore(req, res, next) {
     try {
       const { ProjectId } = req.params;
-      const result = (
-        await sequelize.query(
-          `SELECT SUM(a.score) AS ProjectScores FROM Activities a 
-INNER JOIN Projects p ON p.id = a.ProjectId WHERE a.start < NOW() AND a.ProjectId = '${ProjectId}' AND a.summary IS NOT NULL GROUP BY a.ProjectId`
-        )
-      )[0][0]?.ProjectScores;
+      const [projectScoreResult] = await sequelize.query(
+        `
+      SELECT SUM(a.score) AS "ProjectScores"
+      FROM "Activities" a
+      INNER JOIN "Projects" p ON p.id = a."ProjectId"
+      WHERE a.start < NOW()
+        AND a."ProjectId" = :projectId
+        AND a.summary IS NOT NULL
+        AND a."deletedAt" IS NULL
+      GROUP BY a."ProjectId"
+      `,
+        {
+          replacements: { projectId: ProjectId },
+          type: sequelize.QueryTypes.SELECT,
+        }
+      );
+
+      const result = projectScoreResult?.ProjectScores || 0;
 
       res.status(200).json(result);
     } catch (error) {
